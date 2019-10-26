@@ -21,11 +21,11 @@ Inloggning och inställningar: Lokal lagring av data används bland annat för a
  
 Anpassning och personalisering: Vi använder lokal lagring av data för att kunna anpassa upplevelsen av våra sajter eller appar bland annat baserat på vad du har läst eller tittat på tidigare. Detta för att vi ska kunna presentera innehåll som är relevant för dig.
  
-Annonser: Lokal lagring används också för att styra annonser. Du kan läsa mer om hur Bonnier News använder data i annonsaffären under.
+Annonser: Lokal lagring används också för att styra annonser. Du kan läsa mer om hur Bonnier News använder data i annonsaffären under https://gdpr.bonniernews.se/annonsering.
  
 Tredje part: På Bonnier News sajter förekommer också kakor från andra aktörer. Det kan vara företag som annonserar på våra sajter eller annonsbyråer som förmedlar annonser. Dessa används exempelvis för att mäta hur många användare som har sett en annons eller för att anpassa vilka annonser du exponeras för. Bonnier News för en kontinuerlig dialog med annonsörer, annonsbyråer och andra samarbetspartners för att användningen av kakor och spårningsanrop ska begränsas till det som krävs för detta syfte.
  
-Analys: Bonnier News använder olika mätverktyg för att samla statistik. Informationen som vi samlar in behövs för att vi ska veta hur våra sajter och appar används. Statistiken hjälper oss att utveckla och förbättra upplevelsen för dig som användare. Olika mätverktyg fyller olika syften. Exempelvis använder vi realtidsverktyg för att redaktionerna ska kunna avgöra vilka nyheter som ska publiceras vid vilken tidpunkt. Andra verktyg, som Google Analytics, används för att följa och analysera läsandet över tid. Är du inte inloggad kan den data som vi samlar in inte kopplas till dig som person. För inloggade användare samlas data som kan kopplas direkt till en fysisk person. Läs mer om hur vi hanterar personuppgifter här.
+Analys: Bonnier News använder olika mätverktyg för att samla statistik. Informationen som vi samlar in behövs för att vi ska veta hur våra sajter och appar används. Statistiken hjälper oss att utveckla och förbättra upplevelsen för dig som användare. Olika mätverktyg fyller olika syften. Exempelvis använder vi realtidsverktyg för att redaktionerna ska kunna avgöra vilka nyheter som ska publiceras vid vilken tidpunkt. Andra verktyg, som Google Analytics, används för att följa och analysera läsandet över tid. Är du inte inloggad kan den data som vi samlar in inte kopplas till dig som person. För inloggade användare samlas data som kan kopplas direkt till en fysisk person. Läs mer om hur vi hanterar personuppgifter här https://gdpr.bonniernews.se/personuppgiftspolicy/.
  
 Utveckling: För att kunna utveckla våra sajter behöver vi förstå hur de används. Vi använder därför lokal lagring av data för att samla in statistik i aggregerad form om användandet. Vi använder också lokal lagring av data för att kunna genomföra så kallade A/B-tester när vi exempelvis testar nya funktioner på en mindre grupp användare innan vi släpper dem till alla användare.
  
@@ -34,12 +34,12 @@ Du kan själv radera kakor från din webbläsare och din enhet och göra instäl
 Om du väljer att inaktivera kakor kan det innebära att viss funktionalitet på våra sajter slutar att fungera, samt att inställningar och inloggningar inte sparas.
  
 Här hittar du information om hur du hanterar kakor i din webbläsare:
-Chrome (länk:)
-Safari (länk:)
-Safari på iPhone och iPad (länk:)
-Internet Explorer (länk:)
-Firefox (länk:)
-Opera (länk:)
-Om du vill begränsa möjligheten för annonsörer att rikta annonser till dig baserat på dina intressen kan du bland annat använda tjänsten Your online choices (länk: ) Du hittar mer information om kakor, vilka kakor som lagrats på din enhet och hur du kan hantera dessa på bland annat och.
+Chrome (länk: https://support.google.com/...)
+Safari (länk: https://support.apple.com/...)
+Safari på iPhone och iPad (länk: https://support.apple.com/sv-se/HT201265)
+Internet Explorer (länk: https://support.microsoft.com/...)
+Firefox (länk: https://support.mozilla.org/...)
+Opera (länk: https://www.opera.com/help/tutorials/security/privacy/)
+Om du vill begränsa möjligheten för annonsörer att rikta annonser till dig baserat på dina intressen kan du bland annat använda tjänsten Your online choices (länk: http://www.youronlinechoices.com/se/ ) Du hittar mer information om kakor, vilka kakor som lagrats på din enhet och hur du kan hantera dessa på bland annat www.aboutcookies.org och www.allaboutcookies.org.
  
 

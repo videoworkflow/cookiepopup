@@ -16,7 +16,7 @@ Aggregated Data
 We collected aggregated data on website usage using the tool Google Analytics. The information collected includes things like the numbers of people who visit our website, the pages they visit, the browsers they use etc. This information is collected by cookies (see the section on cookies below). As this is aggregated data, it is not used to personally identify you.
  
 The information does, however, help us improve the website and the service we offer to visitors.
-You can opt out of this if you choose by visiting Google’s opt-out tool for Analytics:.
+You can opt out of this if you choose by visiting Google’s opt-out tool for Analytics: https://tools.google.com/dlpage/gaoptout.
  
 Personal information
 We only collect personal information in certain circumstances. This includes when you sign up to receive the Daily Bulletin or a digital edition of a newspaper. It also includes when you complete a contact form, send us an email, or enter a competition on this website.
@@ -52,7 +52,7 @@ Each email we send includes an unsubscribe link, which you can use at any time. 
 Cookie Policy
 This site uses cookies to better facilitate your experience. The majority of web browsers automatically accept cookies. You can avoid this by changing the settings of your browser. Please be aware that if you stop your browser accepting cookies, some features of our website may stop working properly on your computer.
  
-As part of Google Analytics, we use first-party cookies to monitor traffic to this site. To opt out of being tracked by Google Analytics across all websites. This site also allows representation from other third-party sites on our pages. Some advertisers use these types of cookies to track your visits to the various websites on which they advertise. If you are concerned about this, you can disable third-party cookies by changing the settings of your browser.
+As part of Google Analytics, we use first-party cookies to monitor traffic to this site. To opt out of being tracked by Google Analytics across all websites click here. This site also allows representation from other third-party sites on our pages. Some advertisers use these types of cookies to track your visits to the various websites on which they advertise. If you are concerned about this, you can disable third-party cookies by changing the settings of your browser.
  
 What is a Cookie?
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added, and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow our web applications to respond to you as an individual. Our website can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.

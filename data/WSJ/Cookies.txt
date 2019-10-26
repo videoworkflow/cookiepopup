@@ -37,7 +37,7 @@ Analytics cookies
  Google Analytics
  Nielsen
  comScore
- 
+ Parse.ly
 ---------------------Advertising cookies
 --------TABLE--------
  Blue Kai

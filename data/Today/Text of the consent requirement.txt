@@ -1,12 +1,12 @@
 Cookie Notice
  
 Last Updated: 4 June 2019
-This Cookie Notice (“Notice”) explains how NBCUniversal and (“NBCUniversal” or “we”), along with our partners, including advertisers and vendors, use cookies and similar tracking technologies when you use our websites, applications, such as games, interactive TV, voice-activated assistants, and other services that link to this policy, as well as connected devices, including those used in our theme parks (“Services”). This Notice provides more information about these technologies, your choices, and is part of the NBCUniversal Privacy Policy available .  You should read the Privacy Policy and this Notice for a full picture of NBCUniversal’s use of your information.
+This Cookie Notice (“Notice”) explains how NBCUniversal and its affiliates (“NBCUniversal” or “we”), along with our partners, including advertisers and vendors, use cookies and similar tracking technologies when you use our websites, applications, such as games, interactive TV, voice-activated assistants, and other services that link to this policy, as well as connected devices, including those used in our theme parks (“Services”). This Notice provides more information about these technologies, your choices, and is part of the NBCUniversal Privacy Policy available here.  You should read the Privacy Policy and this Notice for a full picture of NBCUniversal’s use of your information.
  
-
-
-
-
+WHAT ARE COOKIES AND HOW ARE THEY USED?
+COOKIE MANAGEMENT
+CONTACT US
+CHANGES TO THIS NOTICE
  
 1. WHAT ARE COOKIES AND HOW ARE THEY USED?
 Like many companies, we use cookies (small text files placed on your computer or device) and other tracking technologies on the Services (referred to together from this point forward as “Cookies”, unless otherwise stated), including HTTP cookies, HTML5 and Flash local storage/flash cookies, web beacons/GIFs, embedded scripts, ETags/cache browsers, and software development kits.
@@ -35,39 +35,39 @@ We and third parties may associate Analytics and Performance Cookies, Functional
 You can use the methods described below to manage Cookies. You must take such steps on each browser or device that you use. If you replace, change or upgrade your browser or device, or delete your cookies, you may need to use these opt-out tools again.
  
 Browser Controls: You may be able to disable and manage some Cookies through your browser settings. If you use multiple browsers on the same device, you will need to manage your settings for each browser. Please click on any of the below browser links for instructions:
-
-
-
-
+Google Chrome
+Apple Safari
+Mozilla Firefox
+Microsoft Internet Explorer
  
 If the browser you use is not listed above, please refer to your browser’s help menu for information on how to manage Cookies. Please be aware that disabling cookies will not disable other analytics tools we may use to collect information about you or your use of our Services.
  
 Analytics Provider Opt-Outs: To disable analytics Cookies you can use the browser controls discussed above or, for some of our providers, you can use their individual opt-out mechanisms:
- and
- and
- and
+Google’s Privacy Policy and Google Analytics Opt-Out
+Omniture’s Privacy Policy and Omniture’s Opt-Out
+Mixpanel’s Privacy Policy and Mixpanel’s Opt-Out
  
 The above are examples of our analytics providers, but the list is not exhaustive. In addition, we are not responsible for the effectiveness of any other providers’ opt-out mechanisms.
  
 Flash Local Storage: These cookies are also known as local shared objects and may be used to store your preferences or display content by us, advertisers and other third-parties. Flash cookies need to be deleted in the storage section of your Flash Player Settings Manager.
  
 Targeted Advertising: Most third-party advertisers offer a way to opt out of their targeted advertising.For more information or to opt out of receiving targeted advertising from participating third-party advertisers, depending on your country of residence, please visit:
-
-
-
-
+Digital Advertising Alliance in the US
+Digital Advertising Alliance of Canada
+European Interactive Digital Advertising Alliance
+Australian Digital Advertising Alliance
  
 You can also opt out of some of our advertising networks by visiting their opt-out pages:
- and
- and
- and
+Google’s Privacy Policy and Google’s Opt-Out page
+Facebook Privacy Policy and Facebook’s Opt-Out Page
+Twitter Privacy Policy and Twitter’s Opt-Out Page
  
 These are examples of our advertising providers, but the list is not exhaustive. In addition, we are not responsible for the effectiveness of any of these providers’ opt-out mechanisms.
 After you opt out, you will still see advertisements, but they may not be as relevant to you.
  
 Mobile Settings: You may manage the collection of information for personalized advertising purposes in mobile apps via the device’s settings, including managing the collection of location data. To opt out of mobile ad tracking from Nielsen or other third parties, you can do so by selecting “Limit Ad Tracking” (for iOS devices) or “Opt out of Ads Personalization” (for Android devices) option in your device’s settings.
  
-Cross-Device Tracking: If you would like to opt out of our browser-based cross-device tracking for advertising purposes, you may do so by opting out using the various methods described above. You must opt out separately on each device and each browser that you use. For more information about cross-device matching, please visit the or the. If you opt out of cross-device tracking for advertising purposes, we may still conduct cross-device tracking for other purposes, such as analytics.
+Cross-Device Tracking: If you would like to opt out of our browser-based cross-device tracking for advertising purposes, you may do so by opting out using the various methods described above. You must opt out separately on each device and each browser that you use. For more information about cross-device matching, please visit the Network Advertising Initiative or the Digital Advertising Alliance. If you opt out of cross-device tracking for advertising purposes, we may still conduct cross-device tracking for other purposes, such as analytics.
  
 Consequences of Deactivation of Cookies: If you disable or remove Cookies, some parts of the Services may not function properly. Information may still be collected and used for other purposes, such as research, online services analytics or internal operations, and to remember your opt-out preferences.
  

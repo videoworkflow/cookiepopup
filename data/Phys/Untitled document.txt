@@ -1,5 +1,5 @@
 Terms of Use
-These Terms of Use and govern your use of Science X and its network ('Science X'), including its websites (phys.org, medicalxpress.com, techxplore.com), any subdomains of those websites, mobile sites, apps, and APIs.           	        	
+These Terms of Use and Privacy Policy govern your use of Science X and its network ('Science X'), including its websites (phys.org, medicalxpress.com, techxplore.com), any subdomains of those websites, mobile sites, apps, and APIs.           	        	
  
 PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THIS SITE.
 Access to and use of this site is provided by the Science X subject to the following terms:        	
@@ -10,7 +10,7 @@ The Science X may change these terms at any time by posting changes online. Plea
 Use of Science X
 You may not copy, reproduce, republish, download, post, broadcast, transmit, make available to the public, or otherwise use Science X content in any way except for your own personal, non-commercial use. You also agree not to adapt, alter or create a derivative work from any Science X content except for your own personal, non-commercial use.
         	
-Students, teachers and professors are free to use, reproduce articles and copy Science X content for academic purposes without obtaining prior written approval. The only request is users shall provide a credit and source URL link of the original Science X article.  Any other use of Science X content requires the prior written       	permission of the Science X. If you would like to request permission to use any of the content on our sites,  please review our.       	
+Students, teachers and professors are free to use, reproduce articles and copy Science X content for academic purposes without obtaining prior written approval. The only request is users shall provide a credit and source URL link of the original Science X article.  Any other use of Science X content requires the prior written       	permission of the Science X. If you would like to request permission to use any of the content on our sites,  please review our copyright notice.       	
         	                   	        	
 Our site contains content that we create as well as content provided by third parties. This content includes, among other things, product reviews and services offered by parties other than Science X.  We do not guarantee the accuracy, the integrity, or the quality of the content on our sites, and you may not rely on any of this content.  	 Without limitation, we are not responsible for postings by users in the user opinion, message board, or feedback sections of our sites.
         	
@@ -47,7 +47,7 @@ Establish general practices and limits concerning use of our sites.
         	        	
 Medical disclaimer
         	
-Information provided on Science X is for educational and informational purposes only and may not be construed as medical advice.  Please refer to the full text of the.
+Information provided on Science X is for educational and informational purposes only and may not be construed as medical advice.  Please refer to the full text of the Medical Disclaimer.
         	        	        	
 Intellectual property
         	
@@ -55,7 +55,7 @@ The names, images and logos identifying the Science X or third parties and      
         	
 Contributions to Science X
         	
-Where you are invited to submit any contribution to Science X (including any text, photographs, graphics, video or audio) you agree, by submitting your contribution, to grant the Science X a perpetual, royalty-free, non-exclusive, sub-licenseable right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, play, make available to the public,     	and exercise all copyright and publicity rights with respect to your contribution worldwide and/or to incorporate your contribution in other works in any media now known or later developed for the full term of any rights that may exist in your contribution, and in accordance with privacy restrictions set out in the Science X's. If you do not want to grant to the Science X the rights set out above, please do not submit your contribution to Science X.
+Where you are invited to submit any contribution to Science X (including any text, photographs, graphics, video or audio) you agree, by submitting your contribution, to grant the Science X a perpetual, royalty-free, non-exclusive, sub-licenseable right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, play, make available to the public,     	and exercise all copyright and publicity rights with respect to your contribution worldwide and/or to incorporate your contribution in other works in any media now known or later developed for the full term of any rights that may exist in your contribution, and in accordance with privacy restrictions set out in the Science X's privacy policy. If you do not want to grant to the Science X the rights set out above, please do not submit your contribution to Science X.
         	
 Further, by submitting your contribution to Science X, you:   
 warrant that your contribution:
@@ -67,17 +67,17 @@ General
 These terms shall be governed by and interpreted in accordance with the laws of the European Union.
         	        	
 Privacy policy
-All of the information that we collect from you is subject to our privacy policy.  Please to see our full privacy policy.     	
+All of the information that we collect from you is subject to our privacy policy.  Please click here to see our full privacy policy.     	
         	        	
 General Data Protection Regulation
-Starting on May 25, the GDPR legal obligations take effect. You can read details about our GDPR compliance and the kinds of data we collect on our.    	
+Starting on May 25, the GDPR legal obligations take effect. You can read details about our GDPR compliance and the kinds of data we collect on our GDPR page.    	
         	        	
 Corrections and retractions
-Science X policy on corrections and retractions can be found.   
+Science X policy on corrections and retractions can be found here.   
         	        	
 Questions?
         	
-If you have any questions, please feel free to.
+If you have any questions, please feel free to contact us.
         	        	
 Updated: May 5, 2018
  
@@ -106,16 +106,16 @@ Children
 Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
  
 Third-party advertisements
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site or mobile application. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site or mobile application. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
  
 Audience measurement
-We use third party tools for audience measurement on our websites. We currently use Google Analytics and Quantcast for this purpose. Google Analytics and Quantcast uses cookies to anonymously and in aggregate report on visits to our websites. We do not combine the information collected through the use of these tools with personally identifiable information. Further information concerning the terms and conditions of use and data privacy can be found at. The Quantcast privacy policy is available at
+We use third party tools for audience measurement on our websites. We currently use Google Analytics and Quantcast for this purpose. Google Analytics and Quantcast uses cookies to anonymously and in aggregate report on visits to our websites. We do not combine the information collected through the use of these tools with personally identifiable information. Further information concerning the terms and conditions of use and data privacy can be found at www.google.com/analytics/terms. The Quantcast privacy policy is available at www.quantcast.com/privacy
  
 Linked web sites
 We provide links to third-party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third-party sites.
  
 Questions?
-If you have any questions, please feel free to.
+If you have any questions, please feel free to contact us.
 Updated: May 14, 2018
  
 

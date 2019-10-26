@@ -1,19 +1,19 @@
 Personvern­erklæring
 Introduksjon
 I dette dokumentet forklarer vi hvilke opplysninger vi samler inn om deg. Dataene vi henter inn, er godt beskyttet. Vi selger ikke og kommer ikke til å selge disse videre.
-Ved å samle inn data om deg kan vi levere tjenesten du har bestilt.Les mer om Kundeservice
-Denne personvernerklæringen forklarer hva slags personopplysninger vi samler inn, enten vi får opplysningene fra deg eller andre. Den forklarer også hvordan vi bruker dem. Personopplysninger er all informasjon som kan brukes til å identifisere deg eller som vi kan koble til deg. Erklæringen viser også hva du kan gjøre med dataene vi samler inn. Du kan be om å få se hvilke opplysninger vi lagrer og du kan be om at vi sletter dine opplysninger. Dette kan du gjøre via min side eller kontakte kundeservice. Informasjon om din konto på min side får du ved eget brukernavn og et passord.Les mer om rettighetene dine her
+Ved å samle inn data om deg kan vi levere tjenesten du har bestilt. Les mer om Kundeservice
+Denne personvernerklæringen forklarer hva slags personopplysninger vi samler inn, enten vi får opplysningene fra deg eller andre. Den forklarer også hvordan vi bruker dem. Personopplysninger er all informasjon som kan brukes til å identifisere deg eller som vi kan koble til deg. Erklæringen viser også hva du kan gjøre med dataene vi samler inn. Du kan be om å få se hvilke opplysninger vi lagrer og du kan be om at vi sletter dine opplysninger. Dette kan du gjøre via min side eller kontakte kundeservice. Informasjon om din konto på min side får du ved eget brukernavn og et passord. Les mer om rettighetene dine her
 Ansvarlig:
-Det er Dagsavisen ved daglig leder/administrerende direktør som er ansvarlig for behandlingen av dine personvernopplysninger.Les mer om behandlingsansvarlig
+Det er Dagsavisen ved daglig leder/administrerende direktør som er ansvarlig for behandlingen av dine personvernopplysninger. Les mer om behandlingsansvarlig
 Hvorfor samler vi inn data:
-Når du er abonnent, har vi en avtale med deg som kunde. Derfor trenger vi opplysninger om deg. Hvis du skal få tjenesten du har bestilt, må vi vite hvor den skal leveres og hvordan vi kan kontakte deg.Les mer om hvordan vi bruker opplysningene
-Vi kan bruke personopplysningene dine til for eksempel analyse. Formål kan være å forbedre produktene våre.Les mer om berettiget interesse her
+Når du er abonnent, har vi en avtale med deg som kunde. Derfor trenger vi opplysninger om deg. Hvis du skal få tjenesten du har bestilt, må vi vite hvor den skal leveres og hvordan vi kan kontakte deg. Les mer om hvordan vi bruker opplysningene
+Vi kan bruke personopplysningene dine til for eksempel analyse. Formål kan være å forbedre produktene våre. Les mer om berettiget interesse her
 Disse opplysningene samler vi inn:
-Vi vil stort sett hente inn informasjon fra deg når du registreres som kunde. Det kan være navn, adresse, telefonnummer og e-post. Vi samler også informasjon om deg automatisk. Det gjør vi for å forstå hvordan du bruker tjenestene våre. Dagsavisen tar vare på opplysningene dine på en sikker måte slik loven krever
+Vi vil stort sett hente inn informasjon fra deg når du registreres som kunde. Det kan være navn, adresse, telefonnummer og e-post. Vi samler også informasjon om deg automatisk. Det gjør vi for å forstå hvordan du bruker tjenestene våre. Les mer under Informasjonskapsler Dagsavisen tar vare på opplysningene dine på en sikker måte slik loven krever
 Les mer om hva vi samler inn
-Vi samler ikke bevisst inn informasjon fra barn under 16 år.Les mer om opplysninger om barn
-Informasjonen kan bli utlevert til offentlige myndigheter.Les mer om opplysninger om utlevering av personopplysninger
-For å kunne gi deg et bra produkt, vil vi bruke informasjonen til å kontakte deg.Les mer om kommunikasjon
+Vi samler ikke bevisst inn informasjon fra barn under 16 år. Les mer om opplysninger om barn
+Informasjonen kan bli utlevert til offentlige myndigheter. Les mer om opplysninger om utlevering av personopplysninger
+For å kunne gi deg et bra produkt, vil vi bruke informasjonen til å kontakte deg. Les mer om kommunikasjon
 Opplysninger om deg og din bruk av tjenestene deles med andre selskaper i Mentor Medier for å kunne levere tjenesten du har bestilt.
 Har du spørsmål om personopplysningene dine? Kontakt kundeservice på telefon 22 99 80 50
 Behandlings­ansvarlig
@@ -58,7 +58,7 @@ MERK: Enhver begrensning eller stopp av cookies vil redusere funksjonalitet på 
  Criteo, http://www.criteo.com/privacy/
 ---------------------Hvordan kan jeg se hvilke informasjonskapsler som lagres i nettleseren?
 I innstillingene til nettleseren finner du som regel en oversikt over alle informasjonskapsler som er lagret, slik at du eventuelt kan slette de du ikke ønsker. Nettleseren lagrer vanligvis alle informasjonskapsler i en bestemt mappe på harddisken, slik at du også kan undersøke innholdet i mer detalj.
-Det finnes også tjenester som er utviklet nettopp for at brukere skal kunne følge med på informasjonskapsler og andre sporingsmekanismer, for eksempel eller.
+Det finnes også tjenester som er utviklet nettopp for at brukere skal kunne følge med på informasjonskapsler og andre sporingsmekanismer, for eksempel www.ghostery.com eller www.disconnect.me.
 Hvordan kan jeg administrere informasjonskapsler i nettleseren?
 De fleste nettlesere er innstilt på å akseptere informasjonskapsler automatisk, men du kan selv endre innstillingene slik at informasjonskapsler ikke blir akseptert. Husk at dette kan føre til at våre nettsider ikke fungerer optimalt. For eksempel kan du bli nødt til å logge deg på nytt hver gang.
 De samme innstillingene lar deg vanligvis velge hvilke nettsteder du tillater informasjonskapsler fra, inkludert tredjeparter som er tilknyttet nettsidene. Du kan også be om å bli varslet hver gang en ny informasjonskapsel blir lagret.
@@ -67,7 +67,7 @@ Den nøyaktige fremgangsmåten avhenger av enheten din og hvilken nettleser du b
 Cookieinnstillinger i Internet Explorer
 Cookieinnstillinger in Firefox
 Cookieinnstillinger i Google Chrome
- og.
+Cookieinnstillinger i Safari web og iOS.
 Hvis du ønsker å begrense informasjonskapsler som brukes til annonsering, kan du laste ned en blank informasjonskapsel (”opt-out cookie”) fra våre ulike annonsepartnere, eller bruke egne løsninger som for eksempel youronlinechoices.com.
 Slik går du frem for å bruke våre nettsider uten å legge igjen spor
 Du kan enten åpne nettleseren din i «Inkognitomodus». Dette gjør du som regel ved å høyreklikke på nettleserikonet og velge «Nytt Inkognitovindu» i Chrome, «Starte In-private visning» i Explorer eller «Nytt privat vindu» i Firefox. På mobiltelefon / nettbrett (Android) kan du holde ikonet inne for å få opp tilsvarende valgmuligheter, eller velge «privat» i nettleser på Apple-produkter.

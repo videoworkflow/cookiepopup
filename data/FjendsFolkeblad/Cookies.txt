@@ -3,14 +3,14 @@ Nødvendige (8) - Funktionelle (9) - Statistiske (30) - Marketing (162) - Uklass
 Nødvendige 
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
- ASP.NET_SessionId, , Understøtter integrationen af ​​en tredjeparts platform på websitet., Session
+ ASP.NET_SessionId, mediehusetherningfolkeblad.dk, Understøtter integrationen af ​​en tredjeparts platform på websitet., Session
  NAUTTEMP, .din-kalender.dk, Understøtter integrationen af ​​en tredjeparts platform på websitet., Session
- NAUTTEMP, ," Bliver brugt i forbindelse med login på kultunaut. Såfremt brugeren ikke logger ind, anvendes cookien pt ikke.", Session
+ NAUTTEMP, www.kultunaut.dk," Bliver brugt i forbindelse med login på kultunaut. Såfremt brugeren ikke logger ind, anvendes cookien pt ikke.", Session
  NAUTSES, .kultunaut.dk," Bliver brugt i forbindelse med login på kultunaut. Såfremt brugeren ikke logger ind, anvendes cookien pt ikke.", et år
  NAUTTEMP, .kultunaut.dk," Bliver brugt i forbindelse med login på kultunaut. Såfremt brugeren ikke logger ind, anvendes cookien pt ikke.", Session
- NAUTSES, , Understøtter integrationen af ​​en tredjeparts platform på websitet., et år
- NAUTSES, ," Bliver brugt i forbindelse med login på kultunaut. Såfremt brugeren ikke logger ind, anvendes cookien pt ikke.", et år
- XSRF-TOKEN, , Afventer, 2 timer
+ NAUTSES, www.din-kalender.dk, Understøtter integrationen af ​​en tredjeparts platform på websitet., et år
+ NAUTSES, www.kultunaut.dk," Bliver brugt i forbindelse med login på kultunaut. Såfremt brugeren ikke logger ind, anvendes cookien pt ikke.", et år
+ XSRF-TOKEN, mm.deterditvalg.dk, Afventer, 2 timer
 ---------------------
 Funktionelle 
 --------TABLE--------
@@ -18,12 +18,12 @@ Funktionelle
  __cfduid, .mediehusetherningfolkeblad.dk, Påkrævet for at websitet kan fungere., et år
  visid_incap_xxx, .aoib.dk, Sikrer websitets og applikationssikkerheden., et år
  incap_ses_xxx, .aoib.dk, Sikrer websitets og applikationssikkerheden., Session
- AWSELB, , Understøtter det visuelle indhold og webstedets elementer på websitet., Session
+ AWSELB, host1.easypolls.net, Understøtter det visuelle indhold og webstedets elementer på websitet., Session
  __cfduid, .pingdom.net, Indsamler oplysninger om websitet og indholdet til rapportering og sikkerhedsformål., et år
  __cfduid, .dwcdn.net, Understøtter det visuelle indhold og webstedets elementer på websitet., et år
- b30msc, ," Understøtter funktionerne i et ""Content Management System"" til at sikre, at websitet fungerer korrekt.", 30 minutter
- btc, ," Understøtter funktionerne i et ""Content Management System"" til at sikre, at websitet fungerer korrekt.", 10 år
- bsc, ," Understøtter funktionerne i et ""Content Management System"" til at sikre, at websitet fungerer korrekt.", Session
+ b30msc, beacon.walmart.com," Understøtter funktionerne i et ""Content Management System"" til at sikre, at websitet fungerer korrekt.", 30 minutter
+ btc, beacon.walmart.com," Understøtter funktionerne i et ""Content Management System"" til at sikre, at websitet fungerer korrekt.", 10 år
+ bsc, beacon.walmart.com," Understøtter funktionerne i et ""Content Management System"" til at sikre, at websitet fungerer korrekt.", Session
 ---------------------
 Statistiske
 --------TABLE--------
@@ -32,17 +32,17 @@ Statistiske
  _gat, .mediehusetherningfolkeblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
  _ga, .mediehusetherningfolkeblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 2 år
  i00, .tns-gallup.dk," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", 10 år
- _cb_ls, , Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere., et år
- srp, ," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
+ _cb_ls, www.aoib.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere., et år
+ srp, ssl-aoib.tns-gallup.dk," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
  m_uniq, .pagefair.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., en måned
- _cb_svref, , Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere., 30 minutter
- _omappvs, , Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og for at imødekomme de enkelte brugers behov., 10 minutter
- _chartbeat2, , Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ _cb_svref, www.aoib.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere., 30 minutter
+ _omappvs, www.aoib.dk, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og for at imødekomme de enkelte brugers behov., 10 minutter
+ _chartbeat2, www.aoib.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
  d_uniq, .pagefair.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., en dag
  vuid, .vimeo.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem en indlejret video player til analyse og rapporteringsformål., 2 år
- _cb, , Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere., et år
- _omappvp, , Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og for at imødekomme de enkelte brugers behov., 11 år
- _chartbeat4, , Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
+ _cb, www.aoib.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere., et år
+ _omappvp, www.aoib.dk, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og for at imødekomme de enkelte brugers behov., 11 år
+ _chartbeat4, www.aoib.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
  __utmz, .din-kalender.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 6 måneder
  __utmb, .din-kalender.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 30 minutter
  __utma, .din-kalender.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 2 år
@@ -53,19 +53,19 @@ Statistiske
  UID, .scorecardresearch.com," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", 2 år
  UIDR, .scorecardresearch.com," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", 2 år
  mc, .quantserve.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
- ONPLFTRH, , Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., Session
+ ONPLFTRH, ps.eyeota.net, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., Session
  d, .quantserve.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 3 måneder
  _gat_UA-xxx-xxx, .jobmidt.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
- eas_uid, , Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
- eas_geo, , Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 14 timer
+ eas_uid, eas4.emediate.eu, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ eas_geo, eas4.emediate.eu, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 14 timer
 ---------------------
 Marketing 
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
- , , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ , www.facebook.com, Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
  TestIfCookieP, .smartadserver.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  __gads, .aoib.dk, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
- cilSessionId_69c2add102, , Samler information om brugerne og deres aktivitet på websitet gennem visuelt indhold og elementer med det formål at levere målrettet annoncering., en dag
+ cilSessionId_69c2add102, www.aoib.dk, Samler information om brugerne og deres aktivitet på websitet gennem visuelt indhold og elementer med det formål at levere målrettet annoncering., en dag
  __cfduid, .adnami.io, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  TestIfCookie, .smartadserver.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  test_cookie, .doubleclick.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 15 minutter
@@ -75,18 +75,18 @@ Marketing
  fr, .facebook.com," Facebooks primære annonceringscookie, som bruges til at levere, måle og forbedre relevansen af annoncer.", 3 måneder
  pid, .smartadserver.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  YSC, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., Session
- lang, , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ lang, cdn.syndication.twimg.com, Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
  pbw, .smartadserver.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  pdomid, .smartadserver.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  VISITOR_INFO1_LIVE, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 6 måneder
  PREF, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 8 måneder
  _fbp, .aoib.dk, Identificerer browsere med det formål at levere reklamer og website statistik., 3 måneder
  agtrck, .dialog.aoib.dk, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 måneder
- __atuvc, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugerne på tværs af internettet., et år
+ __atuvc, www.din-kalender.dk, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugerne på tværs af internettet., et år
  loc, .addthis.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugerne på tværs af internettet., et år
  uvc, .addthis.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugerne på tværs af internettet., et år
- __atuvs, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugerne på tværs af internettet., 30 minutter
- C, , Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
+ __atuvs, www.din-kalender.dk, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugerne på tværs af internettet., 30 minutter
+ C, adx.adform.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
  uid, .adform.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
  guid, .de17a.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
  uuidc, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
@@ -101,7 +101,7 @@ Marketing
  PUBMDCID, .pubmatic.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
  TapAd_DID, .tapad.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 måneder
  ljt_reader, .lijit.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
- cid, , Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
+ cid, server.seadform.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
  uuid, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  data-g, .media.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 14 dage
  uid, .turn.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 6 måneder
@@ -130,8 +130,8 @@ Marketing
  DigiTrust.v1.identity, .adform.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 7 dage
  tidal_ttid, .tidaltv.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  gi_u, .adhigh.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
- op_u_id, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
- op_s_id, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., Session
+ op_u_id, opt.objectiveportal.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
+ op_s_id, opt.objectiveportal.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., Session
  uuid2, .adnxs.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
  u, .agkn.com, Understøtter integrationen af ​​en tredjeparts platform på websitet., et år
  xxx_avi, .jivox.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 3 måneder
@@ -155,7 +155,7 @@ Marketing
  cf, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 5 minutter
  3pi, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
  ljtrtb, .lijit.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
- cid, , Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
+ cid, track.adform.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
  ljtrtbexp, .lijit.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  ab, .agkn.com, Understøtter integrationen af ​​en tredjeparts platform på websitet., et år
  uid, .addthis.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugerne på tværs af internettet., et år
@@ -171,7 +171,7 @@ Marketing
  ruds, .rfihub.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., Session
  tuuid, .myvisualiq.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
  uu, .adscale.de, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
- uid-bp-617, ," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 2 måneder
+ uid-bp-617, ads.stickyadstv.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 2 måneder
  c, .360yield.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
  CMRUM3, .casalemedia.com, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., et år
  _cc_aud, .crwdcntrl.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 9 måneder
@@ -203,7 +203,7 @@ Marketing
  id, .m6r.eu, Understøtter integrationen af ​​en tredjeparts platform på websitet., 3 måneder
  TDID, .adsrvr.org, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., et år
  CM14, .adform.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 14 dage
- sessionId, ," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", Session
+ sessionId, ads.stickyadstv.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", Session
  tuuid, .bidswitch.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  tu, .ih.adscale.de, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., en måned
  SEUNCY, .semasio.net, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., et år
@@ -216,10 +216,10 @@ Marketing
  TapAd_TS, .tapad.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 måneder
  sync-his, .tidaltv.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  TradeDoublerGUID, .tradedoubler.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
- f5_cspm, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., Session
- uuid, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ f5_cspm, www.avis.nl, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., Session
+ uuid, ads.avocet.io, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  pd, .openx.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 15 dage
- UID, ," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", en måned
+ UID, ads.stickyadstv.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", en måned
  uid, .1dmp.io, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 10 år
  cid, .ctnsnet.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  _id, .adx.io, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
@@ -230,47 +230,47 @@ Marketing
 Uklassificerede 
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
- _le_id.56dd748be4b00288c6bb9220.2221, , Afventer, 2 år
- _le_v_aid.56dd748be4b00288c6bb9220.2221, , Afventer, et år
- _le_ses.56dd748be4b00288c6bb9220.2221, , Afventer, 30 minutter
+ _le_id.56dd748be4b00288c6bb9220.2221, mediehusetherningfolkeblad.dk, Afventer, 2 år
+ _le_v_aid.56dd748be4b00288c6bb9220.2221, mediehusetherningfolkeblad.dk, Afventer, et år
+ _le_ses.56dd748be4b00288c6bb9220.2221, mediehusetherningfolkeblad.dk, Afventer, 30 minutter
  nlbi_1885504, .aoib.dk, , Session
- bm_monthly_unique, , Afventer, en måned
- bm_sample_frequency, , Afventer, en dag
- bm_last_load_status, , Afventer, 12 år
+ bm_monthly_unique, www.aoib.dk, Afventer, en måned
+ bm_sample_frequency, www.aoib.dk, Afventer, en dag
+ bm_last_load_status, www.aoib.dk, Afventer, 12 år
  TS01e01689, .kmdvalg.dk, , Session
- LoggedIn, , Afventer, Session
- bm_daily_unique, , Afventer, en dag
+ LoggedIn, www.aoib.dk, Afventer, Session
+ bm_daily_unique, www.aoib.dk, Afventer, en dag
  ArrNr, .din-kalender.dk, Afventer, et år
  AREA, .din-kalender.dk, Afventer, et år
  _osm_totp_token, .openstreetmap.org, , en time
- viewCounter, , Afventer, 3 måneder
- ugeavisen_karup_session, , Afventer, 2 timer
- det_er_dit_valg_session, , , 2 timer
+ viewCounter, herningnyt.dk, Afventer, 3 måneder
+ ugeavisen_karup_session, ugeavisenkarup.dk, Afventer, 2 timer
+ det_er_dit_valg_session, mm.deterditvalg.dk, , 2 timer
  AREA, .herningnyt.dk, , et år
  gi_u, .gotechnology.io, , et år
- mailmunch_second_pageview, , Afventer, et år
- AWSELB, , , få sekunder
+ mailmunch_second_pageview, detsker.herningnyt.dk, Afventer, et år
+ AWSELB, redir.tradedoubler.com, , få sekunder
  arcki2, .audrte.com, , 15 dage
  callback, .id5-sync.com, , 5 minutter
  EH_0, .tradedoubler.com, , et år
  mmwl_u, .motusmedia.co, , et år
  ArrNr, .herningnyt.dk, , et år
- _mailmunch_visitor_id, , , et år
+ _mailmunch_visitor_id, detsker.herningnyt.dk, , et år
  bkpa, .bluekai.com, , 6 måneder
  gdpr, .id5-sync.com, , 5 minutter
  gotechnology_wl_sync, .adhigh.net, , et år
  tuuid_lu, .myvisualiq.net, , 2 år
  visitor-id, .media.net, , et år
  motusmedia_wl_sync, .adhigh.net, , et år
- f5avrbbbbbbbbbbbbbbbb, , Afventer, Session
+ f5avrbbbbbbbbbbbbbbbb, www.avis.nl, Afventer, Session
  AREA, .silkeborgnyt.dk, , et år
  ArrNr, .silkeborgnyt.dk, , et år
- _mailmunch_visitor_id, , , et år
+ _mailmunch_visitor_id, detsker.silkeborgnyt.dk, , et år
  _rxuuid, .1rx.io, , et år
- JobSearchResultCurrentVisit, , Afventer, et år
- AnRCookieTest, , , en dag
- JobSearchResultPreviousVisitDate, , Afventer, et år
- HELIOS_JOBSEARCH_HIST, , Afventer, Session
+ JobSearchResultCurrentVisit, www.jobmidt.dk, Afventer, et år
+ AnRCookieTest, www.jobmidt.dk, , en dag
+ JobSearchResultPreviousVisitDate, www.jobmidt.dk, Afventer, et år
+ HELIOS_JOBSEARCH_HIST, www.jobmidt.dk, Afventer, Session
  nlbi_1885619, .din-erhvervsguide.dk, , Session
- fjends_folkeblad_session, , Afventer, 2 timer
+ fjends_folkeblad_session, fjendsfolkeblad.dk, Afventer, 2 timer
 ---------------------

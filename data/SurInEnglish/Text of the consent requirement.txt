@@ -44,11 +44,11 @@ Easy to viralize the content of your preference.
 Store the purchase made in a ‘shopping bag’ in e-commerce services.
  
 Third party services:
-
-
-
-
-
+Brightcove Inc.
+Outbrain
+ExpressionEngine, EllisLab Inc.
+Magento, ebay Inc.
+Addthis
  
 GEOLOCATION
 These cookies are used to store geolocation data of the device in order to offer you properly content and services.
@@ -64,7 +64,7 @@ You can stay logged in even if you close the browser, so when you return you con
 To access certain areas of our websites, e.g. to participate in a quiz.
  
 Third party services:
-
+Gigya Inc.
  
 ANALYTICS
 This Cookies collect information about your browsing experience through our websites in an anonymous way. – We can count the number of visitors to the site or the most viewed content.
@@ -74,16 +74,16 @@ We can know if the user who is accessing is new or repeat visit.
 This information can help us to improve the browsing and offer a better service.
  
 Third party services:
-
-
-
-
-
-
-
-
-
-
+ComScore Inc.
+Charbeat
+Evolok
+Google Analytics
+Digital Analytics
+Crazy Egg
+Scorecard Research Beacon
+Finect
+Qualifio
+Adobe Analytics-Omniture
  
 ADVERTISING
 These cookies collect information about ads viewed to each anonymous user in the websites - To adapt advertising to the type of device from which the user is connecting.
@@ -94,13 +94,13 @@ To know information about results of campaigns such as the number of clicks, dur
 To offer you advertising of interest based on your browsing habits.
  
 Third party services:
-
-
-
-
-
-
-
+Doubleclick (Google, Inc.)
+Sizmek
+Weborama
+Adform
+Teads
+SalesForce DMP
+Sonobi
  
 Some Vocento services can use links with several social media: Facebook, Twitter, Google+, LInkedin, etc. When you use social registry, you authorized social media to store a persistent cookie. This cookie remembers your identification in the service making access much faster in next visits. This cookie can be deleted, and in addiction, you can cancel the access permissions to Vocento services from the privacy settings of the specific social media.
  
@@ -113,14 +113,14 @@ The majority of browsers allow to warn of the presence of Cookies or refuse them
  
 Next we indicate you the links of the main browsers and devices so that you have all the information to consult how to manage the cookies in your browser.
  
-For further information about Opera™ click
-For further information about Android™ click
-For further information about Windows Phone™ click
-For further information about Blackberry™ click
-For further information about Google Chrome™ click
-For further information about Internet Explorer click
-For further information about Mozilla Firefox™ click
-For further information about Safari™ click
+For further information about Opera™ click here
+For further information about Android™ click here
+For further information about Windows Phone™ click here
+For further information about Blackberry™ click here
+For further information about Google Chrome™ click here
+For further information about Internet Explorer click here
+For further information about Mozilla Firefox™ click here
+For further information about Safari™ click here
  
 If you would like additional information about how to set up detailed Cookies by supplier or to manage your preferences, visit the website: Your Online Choices.
  

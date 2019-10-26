@@ -15,7 +15,7 @@ Statistics Cookies
 Marketing website cookies & Facebook Pixel
 Http Headers – Anything present in HTTP headers. HTTP Headers is a standard web protocol sent by default between any browser request and any server on the internet. HTTP Headers include IP addresses, information about the web browser, page location, document, referrer, and user agent.
 Pixel-specific Data – This includes Pixel ID and the Facebook Cookie.
-Optional Values – Developers and marketers can optionally choose to send additional information about the visit through Custom Data events. Example custom data events are conversion value, page type, and more. Read more about custom data events 
+Optional Values – Developers and marketers can optionally choose to send additional information about the visit through Custom Data events. Example custom data events are conversion value, page type, and more. Read more about custom data events here
 _js_datr: Used by Facebook for targeted advertising. By Facebook.com. Expires 2 years.
 _js_reg_ext_ref: Used by Facebook for targeted advertising. By Facebook.com. Expires session.
 _js_reg_fb_gate: Used by Facebook for targeted advertising. By Facebook.com. Expires session.

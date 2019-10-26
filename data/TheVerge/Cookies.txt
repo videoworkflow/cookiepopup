@@ -3,60 +3,60 @@ Analytics and Performance Cookies (?) - Essential Cookies (?) - Functionality Co
 Cookies (56)
 --------TABLE--------
  Party, Service, For More Information, Use of Tracking Technologies, Privacy Choices
- , Customer interaction, , Yes, 
- AddThis, Customer interaction, , Yes, 
- Admeta, Advertising, , Yes, 
- , Advertising, , Yes, 
- Aggregate Knowledge, Customer interaction, , Yes, 
- Amazon Associates, Advertising, , Yes, 
- AppNexus, Advertising, , Yes, 
- Atlas, Advertising, , Yes, 
- BidSwitch, Advertising platform, , Yes, 
- BlueKai, Advertising exchange, , Yes, 
- Brightcove, Video hosting platform, , Yes, 
- Chartbeat, Customer interaction, , Yes but anonymised, n/a
- Datalogix, Advertising, www.datalogix.xom, Yes, 
- DoubleClick, Advertising exchange, , Yes, 
- Facebook Connect, Social networking, , Yes, 
- Facebook Custom Audience, Social networking, , Yes, 
- FreeWheel, Video platform, , Yes, 
- GA Audiences, Advertising, , Yes, 
- Google Adsense, Advertising, , Yes, 
- Google Adwords Conversion, Advertising, , Yes, 
- Google AJAX Search API, Applications, , Yes, 
- Google Analytics," Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on", http://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409 http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4... https://tools.google.com/dlpage/gaoptout/, Yes, 
- Google Dynamix Remarketing, Advertising, , Yes, 
- Google Publisher Tags, Advertising, , Yes, 
- Google Safeframe, Advertising, , Yes, 
- Google Tag Manager, Tag definition and management, http://www.google.com/tagmanager/ http://www.google.com/intl/en/about.html, Yes, 
- Index Exchange, Advertising exchange, , Yes, 
- InsightExpress, Site analytics, , Yes, 
- Integral Ad Science, Site analytics and optimization, , Yes, null
- Intent IQ, Analytics, , Yes, 
- MOAT, Analytics, , Yes, 
- MyFonts Counter, Font seller, , Yes, null
- NetRatings SiteCensus, Site analytics, , Yes, 
- New Relic, Site analytics, , Yes, 
- Omniture (Adobe Analytics), Customer interaction, , Yes, 
- OpenX, Advertising exchange, , Yes, 
- Outbrain, Advertising, , Yes, 
- PubMatic, Adstack platform, , Yes, 
- RhythmOne Beacon, Advertising, , Yes, 
- Rocket Fuel, Advertising, , Yes, 
- Rubicon, Advertising exchange, , Yes, 
- Salesforce DMP (f/k/aKrux Digital), Customer interaction, , Yes, http://www.salesforce.com/marketing-cloud/sfmc/salesforce-dmp-consumer-choice /
- Scorecard Research Beacon, Site analytics, , Yes, 
- SMART AdServer, Advertising platform, , Yes, https:// smartadserver.com/company/privacy-policy/
- Souvrn (f/k/a Lijit Networks), Customer interaction, , Yes, 
- SpotXchange, Advertising platform, , Yes, 
- StickyAds, Mobile advertising, , Yes, null
- Taboola, Customer interaction, , Yes, 
- TradeDesk, Advertising platform, , Yes, 
- Tremor Media, Customer interaction, , Yes, null
- TripleLift, Advertising, , Yes, 
- TRUSTe Notice, Privacy platform, , Yes, 
- Turn Inc., Marketing platform, , Yes, 
- Twitter Advertising, Advertising, , Yes, 
- Twitter Analytics, Site nnalytics, , Yes, 
- Twitter Conversion Tracking, Tag manager, https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking for -websites.html, Yes, 
+ Adap.tv, Customer interaction, https://www.onebyaol.com, Yes, https://adinfo.aol.com/about-our-ads/
+ AddThis, Customer interaction, https://www.addthis.com, Yes, www.addthis.com/privacy/opt-out
+ Admeta, Advertising, www.admeta.com, Yes, www.youronlinechoices.com
+ Advertising.com, Advertising, https://www.onebyaol.com, Yes, https://adinfo.aol.com/about-our-ads/
+ Aggregate Knowledge, Customer interaction, www.aggregateknowledge.com, Yes, www.aggregateknowledge.com/privacy/ak-optout
+ Amazon Associates, Advertising, https://affiliate-program.amazon.com/welcome, Yes, https://www.amazon.com/adprefs
+ AppNexus, Advertising, https://www.appnexus.com/en, Yes, https://www.appnexus.com/en/company/cookie-policy
+ Atlas, Advertising, https://www.facebook.com/businessmeasurement, Yes, https://www.facebook.com/privacy/explanation
+ BidSwitch, Advertising platform, www.bidswitch.com, Yes, https://www.iponweb.com/pribacy-policy/
+ BlueKai, Advertising exchange, https://www.bluekai.com, Yes, https://www.oracle.com/legal/privacy/privacy-choices.html
+ Brightcove, Video hosting platform, go.brightcove.com, Yes, https://www.brightcove.com/en/legal/privacy
+ Chartbeat, Customer interaction, https://chartbeat.com/privacy, Yes but anonymised, n/a
+ Datalogix, Advertising, www.datalogix.xom, Yes, https://www.oracle.com/legal/privacy/privacy-choices.html
+ DoubleClick, Advertising exchange, http://www.google.com/intl/en/about.html, Yes, http://www.google.com/intl/en/policies/privacy/
+ Facebook Connect, Social networking, https://www.facebook.com/privacy/explanation, Yes, https://www.facebook.com/privacy/explanation
+ Facebook Custom Audience, Social networking, https://www.facebook.com/privacy/explanation, Yes, https://www.facebook.com/privacy/explanation
+ FreeWheel, Video platform, Freewheel2018.tv, Yes, Freewheel.tv/optout-html
+ GA Audiences, Advertising, https://support.google.com/analytics/answer/2611268?hl=en, Yes, http://www.google.com/intl/en/policies/privacy/
+ Google Adsense, Advertising, https://www.google.com/adsense/start/#/?modal_active=none, Yes, http://www.google.com/intl/en/policies/privacy/
+ Google Adwords Conversion, Advertising, https://support.google.com/adwords/answer/1722022?hl=en, Yes, http://www.google.com/intl/en/policies/privacy/
+ Google AJAX Search API, Applications, https://support.google.com/code/answer/56496?hl=en, Yes, http://www.google.com/intl/en/policies/privacy/
+ Google Analytics," Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on", http://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409 http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4... https://tools.google.com/dlpage/gaoptout/, Yes, http://www.google.com/intl/en/policies/privacy/
+ Google Dynamix Remarketing, Advertising, https://support.google.com/adwords/answer/3124536?hl=en, Yes, http://www.google.com/intl/en/policies/privacy/
+ Google Publisher Tags, Advertising, http://www.google.com/intl/en/about.html, Yes, http://www.google.com/policies/privacy/
+ Google Safeframe, Advertising, https://support.google.com/richmedia/answer/117857?hl=en, Yes, http://www.google.com/intl/en/policies/privacy/
+ Google Tag Manager, Tag definition and management, http://www.google.com/tagmanager/ http://www.google.com/intl/en/about.html, Yes, http://www.google.com/policies/privacy/
+ Index Exchange, Advertising exchange, www.indexexchange.com, Yes, www.indexexchange.com/privacy
+ InsightExpress, Site analytics, https://www.millwardbrowndigital.com, Yes, www.insightexpress.com/x/privacystatement
+ Integral Ad Science, Site analytics and optimization, https://integralads.com, Yes, null
+ Intent IQ, Analytics, https://www.intentiq.com, Yes, https://www.intentiq.com/opt-out
+ MOAT, Analytics, https://www.moat.com, Yes, https://www.moat.com/privacy
+ MyFonts Counter, Font seller, www.myfonts.com, Yes, null
+ NetRatings SiteCensus, Site analytics, www.nielsen-online.com, Yes, www.nielsen-online.com/corp.jsp
+ New Relic, Site analytics, https://newrelic.com/about, Yes, https://newrelic.com/privacy
+ Omniture (Adobe Analytics), Customer interaction, https://www.adobe.com/marketing-cloud.html, Yes, www.omniture.com/sv/privacy/2o7
+ OpenX, Advertising exchange, https://www.openx.com, Yes, https://www.openx.com/legal/privacy-policy/
+ Outbrain, Advertising, www.outbrain.com/Amplify, Yes, www.outbrain.com/legal/#advertising_behavioral-targeting
+ PubMatic, Adstack platform, https://pubmatic.com, Yes, https://pubmatic.com/legal/opt-out/
+ RhythmOne Beacon, Advertising, https://www.rhythmone.com/, Yes, https://www.rhythmone.com/opt-out#vQe861GwXrglR1gA.97
+ Rocket Fuel, Advertising, https://rocketfuel.com, Yes, https://rocketfuel.com/privacy
+ Rubicon, Advertising exchange, https://rubiconproject.com, Yes, https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/
+ Salesforce DMP (f/k/aKrux Digital), Customer interaction, http://www.salesforce.com/krux/DMP, Yes, http://www.salesforce.com/marketing-cloud/sfmc/salesforce-dmp-consumer-choice /
+ Scorecard Research Beacon, Site analytics, https://scorecardresearch.com, Yes, https://scorecardresearch.com/preferences.aspx
+ SMART AdServer, Advertising platform, smartadserver.com, Yes, https:// smartadserver.com/company/privacy-policy/
+ Souvrn (f/k/a Lijit Networks), Customer interaction, https://sovrn.com, Yes, https://sovrn.com/privacy-policy/
+ SpotXchange, Advertising platform, https://www.spotx.tv, Yes, https://www.spotx.tv/privacy-policy
+ StickyAds, Mobile advertising, https://wpadvancedads.com/sticky-ads/demo/, Yes, null
+ Taboola, Customer interaction, https://www.taboola.com, Yes, https://www.taboola.com/privacy-policy#optout
+ TradeDesk, Advertising platform, https://www.thetradedesk.com, Yes, www.adsrvr.org
+ Tremor Media, Customer interaction, www.tremor.com, Yes, null
+ TripleLift, Advertising, https://www.triplelift.com, Yes, https://www.triplelift.com/consumer-opt-out
+ TRUSTe Notice, Privacy platform, https://www.trustarc.com, Yes, https://www.trustarc.com/privacy-policy
+ Turn Inc., Marketing platform, https://www.amobee.com, Yes, https://www.triplelift.com/trust/consumer-opt-out
+ Twitter Advertising, Advertising, ads.twitter.com, Yes, https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads
+ Twitter Analytics, Site nnalytics, analytics.twitter.com, Yes, https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads
+ Twitter Conversion Tracking, Tag manager, https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking for -websites.html, Yes, https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads
 ---------------------

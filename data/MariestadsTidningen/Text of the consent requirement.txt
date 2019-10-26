@@ -29,7 +29,7 @@ Mediekompaniet:
 PubMatic Cookies
  
 Facebook
-Våra sajter använder Facebook-pixeln som tillhandahålls av Facebook. Detta gäller endast om du är Facebookanvändare. Facebook placerar cookies på din dator för bland annat autentisering mot ditt Facebook-konto, annonsering och statistik. Läs mer om hur Facebook använder cookieshär.
+Våra sajter använder Facebook-pixeln som tillhandahålls av Facebook. Detta gäller endast om du är Facebookanvändare. Facebook placerar cookies på din dator för bland annat autentisering mot ditt Facebook-konto, annonsering och statistik. Läs mer om hur Facebook använder cookies här.
 Du kan när som helst dra tillbaka denna tillåtelse, vilket du gör i Facebook under Inställningar på ditt personliga konto.
 NWT Media använder Facebook-pixeln för att kunna presentera bättre annonser för dig på Facebook, till exempel annonser med ett erbjudande eller en annons som marknadsför en nyhetsartikel som vi har skrivit, som vi tror att du skulle gilla. Vi använder även Facebook-pixeln för att mäta konverteringar för att kunna optimera våra annonser.
 Om du önskar stänga av annonser som baseras på data om ditt beteende på Facebook och på andra webbsidor via Facebook-pixeln, gör så här:
@@ -38,8 +38,8 @@ Välj att stänga av under “Annonser baserade på data från partner” samt �
  
 Retargeting
 Beteendestyrd retargeting är en form av intressebaserad reklam som låter oss visa reklam för dig om våra produkter och erbjudanden på andra webbplatser än våra egna. Vi använder remarketing via Google Analytics och Faceboopixeln.
-Du kan anpassa din annonsering i webbläsaren.
-Mer information om annonsering finns att läsa på.
+Du kan anpassa din annonsering i webbläsaren här.
+Mer information om annonsering finns att läsa på http://www.youronlinechoices.com.
 Du kan välja bort att använda cookies genom att stänga av cookiefunktionen i din webbläsare. Då kan du dock få en del problem när du använder Tjänsten. Beroende på dina inställningar kan resultatet bli till exempel att du inte kan logga in eller att annonsstyrningen inte fungerar, vilket kan innebära att du ser en annons oftare än det var tänkt och att annonserna generellt blir mindre relevanta för dig.
 iPhone-, iPad- och Android-enheter: Du kan radera ditt data i våra appar genom att radera appen och installera den på nytt.
 Våra appar behandlar namn, e-post och lösenord för inloggningen, vilket lagras lokalt på enheten. Då intressen eller val görs i appen behandlas det som en anonymiserad ström. Geoposition behandlas (om man godkänt det) för att avgöra om ett val av intresse stämmer och lagras bara så länge den är aktuell. All behandling sker inom EU.

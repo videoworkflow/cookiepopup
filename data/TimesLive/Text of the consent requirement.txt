@@ -75,7 +75,7 @@ We automatically receive and record internet usage information on our server log
 Please note that other websites you visited before entering our website might place personal data within your URL during a visit to it, and we have no control over such websites. Accordingly, a subsequent website that collects URL information may log some personal data.
  
 Cookies
-Our website uses cookies. To find out more about what cookies are, when and why we use them, and how you can manage them during your visit to or use of our website, please read our cookie policy,.
+Our website uses cookies. To find out more about what cookies are, when and why we use them, and how you can manage them during your visit to or use of our website, please read our cookie policy, which you can find here.
  
 Web beacons
 Our website may contain electronic image requests (called a single-pixel GIF or web beacon request) that allow us to count page views and to access cookies. Any electronic image viewed as part of a web page (including an ad banner) can act as a web beacon. Our web beacons do not collect, gather, monitor or share any of your personal data. We merely use them to compile anonymous information about our website.
@@ -207,7 +207,7 @@ If you want to update or remove your personal data, restrict how we process it, 
 Telephone: 0860 52 52 00
 Email: helpdesk@timeslive.co.za
  
-Registered users can also edit their name and surname on the website itself or change their email newsletter preferences. Once you've, hover the mouse over your name displayed at the top of the website and click the “Profile” label that appears (on your mobile phone, click on the menu bar at the top right to find the “Profile” option) to find your personal information and newsletter preferences.
+Registered users can also edit their name and surname on the website itself or change their email newsletter preferences. Once you've signed in, hover the mouse over your name displayed at the top of the website and click the “Profile” label that appears (on your mobile phone, click on the menu bar at the top right to find the “Profile” option) to find your personal information and newsletter preferences.
  
 If you have any questions or concerns arising from this privacy policy or the way in which we handle personal data, please contact our data protection officer via one of the following methods:
 Telephone: +27 11 280 3000
@@ -219,15 +219,15 @@ If you have any complaints about the way we handle your personal data, please co
  
 the data protection authority in your jurisdiction, where you are covered by the EU GDPR; or
 the South African Information Regulator.
-You can find out who your data protection authority, commissioner or regulator is by.
+You can find out who your data protection authority, commissioner or regulator is by visiting this website.
  
 Cookie policy
 How we make our website work for you
 Introduction
-Welcome to our cookie policy. This policy works alongside our. The purpose of this policy is to describe what cookies are, what we use them for, and how you can manage them during your visit to or use of our website.
+Welcome to our cookie policy. This policy works alongside our privacy policy. The purpose of this policy is to describe what cookies are, what we use them for, and how you can manage them during your visit to or use of our website.
  
 What are cookies?
-We may place small text files called "cookies" on your device when you visit our website. These files do not contain personal data, but they do contain a personal identifier allowing us to associate your personal data with a certain device. Many websites use cookies and you can. 
+We may place small text files called "cookies" on your device when you visit our website. These files do not contain personal data, but they do contain a personal identifier allowing us to associate your personal data with a certain device. Many websites use cookies and you can find out more about them here. 
  
 Why do we use cookies?
 These files serve a number of useful purposes for you, including:
@@ -265,7 +265,7 @@ Cookie type: Social media
 Cookie function: Facebook, Twitter and other social media platforms use a cookie to track your behaviour on our website for advertising purposes and to enable some functionality such as sharing to social media platforms
  
 Deleting cookies
-Your internet browser generally accepts cookies automatically, but you can often change this setting to stop accepting them. You can also delete cookies manually. You can.
+Your internet browser generally accepts cookies automatically, but you can often change this setting to stop accepting them. You can also delete cookies manually. You can read how to do this here.
 Deleting or no longer accepting cookies may prevent you from accessing certain aspects of our website where cookies are necessary, or cause the website to forget your preferences. Deleting cookies may not prevent you from seeing advertisements on our website, but such advertising may be less relevant to you.
  
 Third-party cookies

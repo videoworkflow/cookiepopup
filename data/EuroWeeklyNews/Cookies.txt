@@ -1,21 +1,21 @@
 Own cookies (?) - Third party cookies (7) - Social networking cookies (7) 
 
 Third party cookies:
-Google Analytics: 
-YouTube, LLC: 
-Google AdSense: 
-Issuu Inc .: 
-AddThis: 
-Taboola, Inc .: 
-Sublime Skinz: 
+Google Analytics: https://developers.google.com/analytics/
+YouTube, LLC: https://policies.google.com/privacy?hl=en&gl=GB
+Google AdSense: https://policies.google.com/privacy?hl=en&gl=GB
+Issuu Inc .: https://www.issuu.com/legal/cookies
+AddThis: https://www.addthis.com/privacy
+Taboola, Inc .: https://www.taboola.com/cookie-policy
+Sublime Skinz: https://sublimeskinz.com/privacy-en
 
 Social networking cookies
-Facebook: 
-Twitter: 
-Instagram: 
-YouTube: 
-Google+: 
-Pinterest: 
-LinkedIn: 
+Facebook: https://www.facebook.com/policies/cookies/
+Twitter: https://twitter.com/en/privacy
+Instagram: https://help.instagram.com/1896641480634370?ref=ig
+YouTube: https://policies.google.com/privacy?hl=en&gl=mx
+Google+: https://policies.google.com/technologies/cookies?hl=en
+Pinterest: https://policy.pinterest.com/en/privacy-policy
+LinkedIn: https://www.linkedin.com/legal/cookie-policy?trk=hp-cookies
 
 

@@ -18,7 +18,7 @@ DN bruker informasjonskapsler om deg til tre overordnede formål:
 For å kunne levere og tilpasse Tjenestene til deg,
 For å opprettholde og videreutvikle Tjenestene og
 For å kunne levere, tilpasse og måle effekten av annonser og annen markedsføring som vises til deg som bruker av Tjenestene.
-Nærmere informasjon om formålene med bruk av informasjonskapsler er beskrevet i vår .
+Nærmere informasjon om formålene med bruk av informasjonskapsler er beskrevet i vår Personvernerklæring .
 For å nå disse formålene bruker vi ulike former for informasjonskapsler:
  
 Sesjonsavhengige informasjonskapsler
@@ -28,16 +28,16 @@ Faste informasjonskapsler
 Faste informasjonskapsler brukes til å hente informasjon om autentisering, språkinnstillinger og andre preferanser og valg. Faste informasjonskapsler slettes ikke når du lukker nettleseren, men på en senere angitt utløpsdato eller når du selv fjerner dem manuelt. Ved å bruke faste informasjonskapsler kan vi sørge for at bruk av våre digitale løsninger går raskere og er bedre tilpasset dine preferanser neste gang du logger deg på. Vi bruker for eksempel faste informasjonskapsler til å huske din innlogging, for å spore din bruk av DN.no og for å huske hvor lenge det er siden du har fått spørsmål om å melde deg på nyhetsbrev.
  
 Informasjonskapsler plassert av våre samarbeidspartnere
-For å levere, tilpasse og måle effekten av annonser i Tjenestene har vi gitt våre annonsører adgang til å plassere og lese informasjonskapsler på din enhet når du bruker Tjenestene. Slike tredjepartsinformasjonskapsler kan både være faste og sesjonsavhengige, og gjør dem i stand til å samle inn opplysninger om deg. Vi har retningslinjer som våre annonsører må forholde seg til, som begrenser formålene de kan bruke opplysningene til. Retningslinjene kan lesesher.
+For å levere, tilpasse og måle effekten av annonser i Tjenestene har vi gitt våre annonsører adgang til å plassere og lese informasjonskapsler på din enhet når du bruker Tjenestene. Slike tredjepartsinformasjonskapsler kan både være faste og sesjonsavhengige, og gjør dem i stand til å samle inn opplysninger om deg. Vi har retningslinjer som våre annonsører må forholde seg til, som begrenser formålene de kan bruke opplysningene til. Retningslinjene kan leses her.
  
 Hvis du klikker på lenker levert av tredjeparter, vil vilkårene for slike tredjepartssider gjelde, inkludert vilkårene for informasjonskapsler som tredjeparter gjør tilgjengelig for deg avhengig av dine handlinger.
  
-For nærmere informasjon om informasjonskapsler plassert av våre samarbeidspartnere, se vår . Der finner du også informasjon om hvordan du kan reservere deg mot innsamling og analyse av data og annonsemålretting fra våre samarbeidspartnere.
+For nærmere informasjon om informasjonskapsler plassert av våre samarbeidspartnere, se vår Personvernerklæring . Der finner du også informasjon om hvordan du kan reservere deg mot innsamling og analyse av data og annonsemålretting fra våre samarbeidspartnere.
  
 5. Kontroll av bruk av informasjonskapsler
 Du kan når som helst stenge av for informasjonskapsler ved å velge dette i nettleseren din. Disse innstillingene er vanligvis funnet i "alternativer" eller "innstillinger"-menyen i nettleseren.
  
-Vi gjør oppmerksom på at det finnes verktøy som kan kartlegge og/eller gi deg oversikt over hvilke informasjonskapsler som benyttes på sidene du besøker. For å lese mer om informasjonskapsler og om hvordan du sletter dem, se eller . Du kan også velge bort innsamling og bruk av informasjon for annonsemålretting fra andre aktører og .
+Vi gjør oppmerksom på at det finnes verktøy som kan kartlegge og/eller gi deg oversikt over hvilke informasjonskapsler som benyttes på sidene du besøker. For å lese mer om informasjonskapsler og om hvordan du sletter dem, se www.mediebedriftene.no/informasjonskapsler eller www.nettvett.no/slik-administrer-du-informasjonskapsler/ . Du kan også velge bort innsamling og bruk av informasjon for annonsemålretting fra andre aktører her og her .
  
 Vær oppmerksom på at noen av våre funksjoner eller tjenester ikke vil fungere dersom du velger å slå av informasjonskapsler. Din nettleser vil for eksempel ikke huske din pålogging automatisk dersom informasjonskapsler er slått av.
  

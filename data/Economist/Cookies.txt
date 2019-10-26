@@ -30,7 +30,7 @@ Demand Side Platform
  Intimate Merger
  RadiumOne
  RUN
- 
+ Simpli.fi
  Tapad
  The Trade Desk
  Videology (formerly TidalTV)
@@ -57,7 +57,7 @@ Retargeter
  Amazon Associates
  AOL Advertising
  Dotomi
- 
+ media.net
  MediaMath
  Perfect Audience
  ShareThis
@@ -79,7 +79,7 @@ Ad Server
  AdSpirit
  Amobee
  AppNexus
- 
+ Clearstream.TV
  Delta Projects
  Flashtalking
  LiveIntent

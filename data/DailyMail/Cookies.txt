@@ -123,12 +123,12 @@ Third party advertising companies (1238)
  AdMetrics Media
  ADMIXER
  ADMIZED
- 
+ Admo.TV
  AdMob (Google)
  Admotion
  Admotion SRL
  Adnet
- 
+ adNET.de
  Adobe
  Adobe Advertising Cloud
  Adobe Advertising Cloud
@@ -163,7 +163,7 @@ Third party advertising companies (1238)
  Adssets AB
  AdStract
  AdsWizz
- 
+ Adtarget.me
  Adtelligence
  Adtelligent Inc.
  AdTheorent
@@ -175,7 +175,7 @@ Third party advertising companies (1238)
  advanced store GmbH
  ADventori SAS
  Adverline
- 
+ Advertising.com
  AdvertPro
  adwebster
  AdYapper
@@ -308,7 +308,7 @@ Third party advertising companies (1238)
  Chitika
  Choozle
  CJ Affiliate by Conversant (formerly Commission Junction)
- 
+ Clearstream.TV
  Clickagy
  Clickpoint
  Clicksco Digital Limited
@@ -486,7 +486,7 @@ Third party advertising companies (1238)
  fnac
  FNAC Spectacles
  Fonecta
- 
+ Fonecta.fi
  Forensiq LLC
  FORTVISION
  Fraud Logix
@@ -609,7 +609,7 @@ Third party advertising companies (1238)
  Iprom
  iPromote
  iSocket
- 
+ iSpot.TV
  IXI Services
  Jaduda GmbH
  Jetpack Digital
@@ -664,7 +664,7 @@ Third party advertising companies (1238)
  LKQD
 " LKQD, a division of Nexstar Digital"
  Location Sciences AI Ltd
- 
+ Lodeo.io
  Logicad
  logly
  Longboard Media
@@ -672,7 +672,7 @@ Third party advertising companies (1238)
  Lotame
  Lotame (Previously AdMobius)
 " Lotame Solutions, Inc."
- 
+ Luc.id
  LucidMedia
  Lucky Orange
  m-pathy
@@ -701,7 +701,7 @@ Third party advertising companies (1238)
  MASTER TMS
  Mastercard
  Masterpass by Mastercard
- 
+ Match.com
  Matomo (Formerly PiWiK Analytics)
  Matomy Media Ltd.
  Maverick
@@ -717,7 +717,7 @@ Third party advertising companies (1238)
  Media IQ
  Media IQ Trace
  Media Network ADLABS
- 
+ media.net
  Media.net Advertising FZ-LLC
  MediaCrossing
  Mediaglu (formerly MLN Advertising)
@@ -772,7 +772,7 @@ Third party advertising companies (1238)
  Nanigans
  Nano Interactive
  Nano Interactive GmbH
- 
+ Narrative.io
 " Nativo, Inc."
  Navegg
  NDN
@@ -803,7 +803,7 @@ Third party advertising companies (1238)
  Nielsen Marketing Cloud
  NinthDecimal (formerly JiWire)
  NTT DoCoMo
- 
+ Nugg.ad
  Numberly
  Oath (EMEA) Limited
  Ogury Ltd.
@@ -838,7 +838,7 @@ Third party advertising companies (1238)
  OxaMedia
  Pardot
  Parrable
- 
+ Parse.ly
  Parsec Media Inc.
  Parsley
  Peer39
@@ -851,7 +851,7 @@ Third party advertising companies (1238)
 " Permutive, Inc."
  Photobucket
  Phunware (formerly TapIt!)
- 
+ pilotx.tv
  Pinterest
 " Pixalate, Inc."
  Piximedia
@@ -948,7 +948,7 @@ Third party advertising companies (1238)
 " RockYou, Inc."
  Rollad
  Rontar
- 
+ Roq.ad
  Roq.ad GmbH
  Roy Morgan Research
  RSA
@@ -1005,7 +1005,7 @@ Third party advertising companies (1238)
  Signal (formerly BrightTag)
  Signal Digital Inc.
  Signals
- 
+ Simpli.fi
  Simplifi Holdings Inc.
  SINGLESPOT SAS
  Sirdata
@@ -1220,7 +1220,7 @@ Third party advertising companies (1238)
  Welect GmbH
  Whenever Media Ltd
 " White Ops, Inc."
- 
+ whos.amung.us
  Wider Planet
  Widespace AB
  WiredMinds

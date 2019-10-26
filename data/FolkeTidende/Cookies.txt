@@ -3,7 +3,7 @@ Nødvendige
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
  JSESSIONID, .nr-data.net, Indsamler oplysninger om websitet og indholdet til rapportering og sikkerhedsformål., Session
- PHPSESSID, , Påkrævet for at websitet kan fungere., Session
+ PHPSESSID, folketidende.dk, Påkrævet for at websitet kan fungere., Session
 ---------------------
 Funktionelle
 ----------------------------
@@ -13,13 +13,13 @@ Statistiske
  _gid, .boligsiden.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., en dag
  _ga, .boligsiden.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 2 år
  _gat, .boligsiden.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
- _cb_ls, , Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere., et år
+ _cb_ls, folketidende.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere., et år
  _gat_gtag_UA_xxx_xxx, .ritzau.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
 ---------------------
 Marketing
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
- lang, , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ lang, cdn.syndication.twimg.com, Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
  GPS, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 30 minutter
  IDE, .doubleclick.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  pid, .smartadserver.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
@@ -35,6 +35,6 @@ Marketing
 Uklassificerede
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
- uuid, , , et år
- bs_user_8B8708A4-E1D7-47B3-BFDD-64EDCE9E5147, , Afventer, 6 måneder
+ uuid, folketidende.dk, , et år
+ bs_user_8B8708A4-E1D7-47B3-BFDD-64EDCE9E5147, a.boligsiden.dk, Afventer, 6 måneder
 ---------------------

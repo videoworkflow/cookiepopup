@@ -1,7 +1,7 @@
 About your interests
 Interests are based on audience segments we create to help us personalize the content that you see within the CBC. Audience segments are built up over time and help us understand your interests based on the nature and frequency of your interactions with us.
 For example, we might create an audience segment for people who regularly read business news stories so we can show them more business news, and a different segment for people who love comedy so we can show them more comedy content. We also have segments for the actions you make on our sites, such as posting comments or sharing links.
-All of this information is anonymous and is only linked to cookies (), so if you use a different browser or a different device, you will probably see different interests listed. None of this information allows us to personally identify you but if you don't want us to store it, you can delete your cookies.
+All of this information is anonymous and is only linked to cookies (learn more about cookies here), so if you use a different browser or a different device, you will probably see different interests listed. None of this information allows us to personally identify you but if you don't want us to store it, you can delete your cookies.
  
  
 Cookies
@@ -17,7 +17,7 @@ Every time you interact with CBC/Radio-Canada online, you create data and we sen
 How to manage your cookies
 The ABCs of cookies, blocking and browser blocking
 Your data is valuable and we believe you should have a say in how much you share with us.
-Your data helps us in important ways and shows us what content is resonating with our audience. It also allows us to target ads and information to specific audiences.Read more about how sharing your data helps us improve our content and our products.
+Your data helps us in important ways and shows us what content is resonating with our audience. It also allows us to target ads and information to specific audiences. Read more about how sharing your data helps us improve our content and our products.
  
 Types of cookies
 There are a few different types of cookies we rely on to help deliver content to you.

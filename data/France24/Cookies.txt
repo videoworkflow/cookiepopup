@@ -40,7 +40,7 @@ Cookies related to social networks
  Dailymotion, v1st dmvk ts damd client_token clsu
  Vimeo, vuid
  Vkontakte, remixlang remixlhk remixsid
- , p
+ Mail.ru, p
  Instagram, crsftoken rur urlgen
  LinkedIn, IN_HASH lidc
  Reddit, edgebucket initref session_tracker

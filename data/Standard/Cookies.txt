@@ -193,7 +193,7 @@ Google
  Taboola
  Facebook
  Aunica
- 
+ Booking.com
  direct interactive
  C3 Metrics
  CapitalData
@@ -232,7 +232,7 @@ Google
  GroovinAds
  Adacado
  HQ GmbH
- 
+ hurra.com
  Infectious Media
  Innity
  intelliAd
@@ -277,11 +277,11 @@ Google
  RN SSI Group
  Resonate
  SUITE 66
- 
+ adnanny.com
  Scigineer
  AdRoll
  Mediahead
- 
+ Simpli.fi
  Centro
  Smart
  smartclip Holding AG
@@ -319,7 +319,7 @@ Google
  Innovid
  Meetrics
  Miaozhen Systems
- 
+ nugg.ad
  Commanders Act
  LifeStreet
  Tradelab
@@ -351,7 +351,7 @@ Google
  TraceAd
  Novem
  NET-Metrix AG
- 
+ adTarget.me
  advanced STORE GmbH
  TripleLift
  Adzerk
@@ -360,7 +360,7 @@ Google
  Semasio GmbH
  Silver Egg Technology
  Vodafone GmbH
- 
+ Tinkoff.ru
  Celtra
  AudienceProject
  KPI Solutions
@@ -381,11 +381,11 @@ Google
  Turbobytes
  ORTEC | adscience
  Blismedia
- 
+ Mail.ru
  SMARTSTREAM
  activecore
  Walmart
- 
+ Manage.com
  Cloudflare
  Brainworkz
  FUSIO BY S4M
@@ -405,7 +405,7 @@ Google
  Orange Advertising
  Advanse
  Audiencevalue
- 
+ Media.net
  Havas Media France - DBi
  Extreme Reach
  Netflix
@@ -424,12 +424,12 @@ Google
  MindTake Research
  CoAdvertise
  Adcash
- 
+ hybrid.ai
  ebuilders
  AdGibbon BV
  Wider Planet
  Adtoox
- 
+ GO.PL
  AppLovin Corp.
  SourceKnowledge
  M
@@ -539,7 +539,7 @@ Google
  Mozoo
  Momentum
  usemax (Emego GmbH)
- 
+ Housing.com
  Avocet
  Interrogare GmbH
  ChannelAdvisor
@@ -632,8 +632,8 @@ Google
  Wavenet
  twyn
  Happyfication inc
- 
- 
+ Roq.ad
+ WAP.CO.UK
  AdKernel
  Adello
  Parsec Media Inc
@@ -686,7 +686,7 @@ Google
  Zuuvi
  Viant
  TabMo
- 
+ Snitcher.com
  Analights
  ROMIR
  Pi-rate / pubintl
@@ -703,7 +703,7 @@ Google
  SCIBIDS TECHNOLOGY
  Cortex
  appTV
- 
+ ProgSol.cz
  Rezonence
  LKQD
  Madington
@@ -733,7 +733,7 @@ Google
  Whichit UK Ltd
  Atedra
  Vuble
- 
+ adlocal.net
  DServe
  Freckle IoT
  REES46
@@ -743,9 +743,9 @@ Google
  KAYAK
  Advmaker
  VRTCAL
- 
+ NativeAds.com
  BDSK Handels GmbH & Co. KG
- 
+ RIESENIA.com
  Objective Partners
  Airtory
  SPACE ADSERVER
@@ -818,7 +818,7 @@ Google
  Etu Corporation
  LANDS' END
  Digitec Galaxus AG
- 
+ Persona.ly
  De Persgroep Nederland B.V.
  Lifesight
  Vertriebswerk
@@ -881,7 +881,7 @@ Google
  LivePartners
  Coastal Digital Group
  Qriously Inc
- 
+ FXCM.com
  Instant Ads
  Rambla
  Digital Ad Systems
@@ -917,7 +917,7 @@ Google
  Loopa
  世纪富轩科技发展（北京）有限公司
  Amp.ai by Scaled Inference
- 
+ Octaive.com
  Calzedonia
  modellbau universe GbR
  Medialabs

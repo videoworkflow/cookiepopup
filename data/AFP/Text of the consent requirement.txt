@@ -88,10 +88,10 @@ Third-party cookies intended to improve the interactivity of the Platform: the P
  
 These are tweets (Twitter) and videos (Youtube) posted on the Platform. To learn more about these cookies, we invite you to read the conditions relating to the management of personal data of these websites.
  
-Twitter:  and official website
-Youtube:  and official website
+Twitter: learn more and official website
+Youtube: learn more and official website
 It is also about the possibility of sharing content offered on the Platform with people of your choice by email or via social networks. This sharing feature is implemented through the Addthis service. To learn more about these cookies:
-Addthis:  and official website
+Addthis: learn more and official website
 Third-party websites and social networks referenced by the Addthis service do not store cookies when you simply browse the Platform. However, when you share content via one of the websites or social networks, they are likely to use cookies. We invite you to read the conditions relating to the management of personal data of the websites and social networks that you use.
  
 4.3 Refusing and Deleting Cookies

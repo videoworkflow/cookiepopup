@@ -4,7 +4,7 @@ Nødvendige (1) - Funktionelle (1) - Statistiske (12) - Marketing (24) - Uklassi
 Nødvendige 
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
- CookieInformationConsent, , Understøtter websitets tekniske funktioner., et år
+ CookieInformationConsent, aalborgnu.dk, Understøtter websitets tekniske funktioner., et år
 ---------------------
 
 Funktionelle 
@@ -26,7 +26,7 @@ Statistiske
  cX_S, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., Session
  cX_G, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
  cX_T, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., en dag
- srp, ," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
+ srp, ssl-aalborgnu.tns-gallup.dk," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
  _ga_aalborgnu, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 2 år
 ---------------------
 
@@ -42,7 +42,7 @@ Marketing
  guid, .de17a.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
  uid, .simpli.fi, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  uid, .turn.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 6 måneder
- , , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ , www.facebook.com, Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
  IDE, .doubleclick.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  __gads, .aalborgnu.dk, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
  id, .m6r.eu, Understøtter integrationen af ​​en tredjeparts platform på websitet., 3 måneder
@@ -62,7 +62,7 @@ Marketing
 Uklassificerede 
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
- jubii_dfp_cx, , Afventer, Session
- SRVID, , Afventer, Session
+ jubii_dfp_cx, aalborgnu.dk, Afventer, Session
+ SRVID, aalborgnu.dk, Afventer, Session
  cstp, .aalborgnu.dk, Afventer, Session
 ---------------------

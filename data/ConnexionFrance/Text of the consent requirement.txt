@@ -39,16 +39,16 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
  
 To find out more about managing cookies and depending on your choice of browser, please see:
-- Microsoft Internet Explorer :
-- Google Chrome :
-- Safari :
-- Firefox :
-- Opéra :
+- Microsoft Internet Explorer : https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+- Google Chrome : https://support.google.com/chrome/answer/95647?hl=en&hlrm=en
+- Safari : https://support.apple.com/kb/ph21411?locale=fr_FR
+- Firefox : https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+- Opéra : http://www.opera.com/help/tutorials/security/privacy/
  
 Evaluation of traffic
 Our website uses Piwik, an open source software for statistically evaluating website traffic.
  
-CNIL, an independent administrative body that operates in accordance with the French data protection legislation, has indentified Piwik as the only tool that respects all privacy requirements set by the European Telecom law. For more details see
+CNIL, an independent administrative body that operates in accordance with the French data protection legislation, has indentified Piwik as the only tool that respects all privacy requirements set by the European Telecom law. For more details see http://piwik.org/blog/2014/10/cnil-recommends-piwik-analytics-tool-no-cookie-consent/
  
 Controlling your personal information
 You may choose to restrict the collection or use of your personal information by clicking the unsubscribe link at the bottom of every email or by emailing us at community@connexionfrance.com 

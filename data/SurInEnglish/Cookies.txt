@@ -1,35 +1,35 @@
 PERFORMANCE (5) - GEOLOCATION (?) - REGISTRATION (1) - ANALYTICS (10) - ADVERTISING (7)
 
 PERFORMANCE
-
-
-
-
-
+Brightcove Inc.
+Outbrain
+ExpressionEngine, EllisLab Inc.
+Magento, ebay Inc.
+Addthis
 
 REGISTRATION
-
+Gigya Inc.
 
 
 ANALYTICS
-
-
-
-
-
-
-
-
-
-
+ComScore Inc.
+Charbeat
+Evolok
+Google Analytics
+Digital Analytics
+Crazy Egg
+Scorecard Research Beacon
+Finect
+Qualifio
+Adobe Analytics-Omniture
 
 ADVERTISING
-
-
-
-
-
-
-
+Doubleclick (Google, Inc.)
+Sizmek
+Weborama
+Adform
+Teads
+SalesForce DMP
+Sonobi
 
 

@@ -64,11 +64,11 @@ You should be aware that any preferences will be lost if you delete all cookies.
 If you block cookies completely, many websites will not work properly and some functionality on these websites will not work at all. We do not recommend turning cookies off when using our Services for these reasons.
 The links below take you to the ‘Help' sections for each of the major browsers so that you can find out more about how to manage your cookies.
 Google Chrome: http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647 (opens in a new window)
-Firefox:  
-Safari:https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac
-Safari iOS:  
+Firefox: http://support.mozilla.org/en-US/kb/Cookies (opens in a new window) 
+Safari: https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+Safari iOS: https://support.apple.com/en-us/HT201265 (opens in a new window) 
 Android: http://support.google.com/chrome/answer/2392971?hl=en-GB (opens in a new window)
-Internet Explorer:https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookie
+Internet Explorer: https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookie
 We have set out links below to some of our specific functional cookies with information about what they can do and how you can opt out of them being set:
  
 Freewheel 
@@ -87,14 +87,14 @@ Don't forget that by not allowing analytics cookies, this stops us from being ab
 Adobe: http://webstat.channel4.com/optout.html
 Google Analytics: http://tools.google.com/dlpage/gaoptout (opens in a new window)
 Optimizely: https://www.optimizely.com/legal/opt-out/ (opens in a new window)
-Kantar Media:  Follow this link to opt out of having your anonymised activity collected for the purposes of measuring viewing data (see Analytics Cookies section above for more details). The link currently works only for desktop. 
+Kantar Media: http://optout.2cnt.net. Follow this link to opt out of having your anonymised activity collected for the purposes of measuring viewing data (see Analytics Cookies section above for more details). The link currently works only for desktop. 
  
 Managing cookies and similar technologies on devices
 Please note that the local storage used on devices is essential to the operation of our Services on those devices and you cannot opt out of local storage being used on those devices.
  
 Managing third party cookies
 As detailed under the section headed "Third party cookies" above, we do not allow our advertising partners to set cookies through All 4 which enable them to track your activity themselves or to advertise to you directly. However, as noted above in the Third Party Cookies section, our advertisers do use impression tracking cookies to count the number of views each of their advertisements have had. We have set out links below to some of the impression tracking cookies that are used with instructions on how to opt out of their cookies. 
-Videology:  
+Videology: https://videologygroup.com/en/privacy-policy/ (opens in a new window) 
 Doubleclick: https://policies.google.com/technologies/ads (opens in a new window)
 Flashtalking: http://www.flashtalking.com/privacypolicy/ (opens in a new window)
 Sizmek: https://www.sizmek.com/privacy-policy/optedout/#options (opens in a new window)

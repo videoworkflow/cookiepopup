@@ -17,8 +17,8 @@ Cookies er nødvendige for at få hjemmesiden til at fungere. Cookies hjælper o
 
 Sådan afviser eller sletter du dine cookies
 Afvisning af cookies: Du kan altid afvise cookies på din computer ved at ændre indstillingerne i din Internet-browser. Hvor du finder indstillingerne afhænger af, hvilken browser du anvender. Du skal dog være opmærksom på, at hvis du gør det, er der mange funktioner og services, du ikke kan bruge, fordi disse funktioner og services forudsætter, at hjemmesiden kan huske de valg, du foretager.
-Du kan fravælge cookies fra Google Analytics.
-Det er muligt at fravælge nogle annoncenetværk, der deler oplysninger på tværs af forskellige netværk.
+Du kan fravælge cookies fra Google Analytics her.
+Det er muligt at fravælge nogle annoncenetværk, der deler oplysninger på tværs af forskellige netværk her.
 
 
 Sletning af cookies: Cookies som du tidligere har accepteret, kan efterfølgende slettes nemt. Benytter du en PC /computer med en nyere Internet-browser, kan du slette dine cookies ved at bruge genvejstasterne: 
@@ -37,6 +37,6 @@ Husk: Bruger du flere Internet-browsere, skal du slette cookies i dem alle.
 
 
 Har du spørgsmål?
-Har du kommentarer eller spørgsmål i forbindelse med vores information og/eller behandling af personlige oplysninger, er du velkommen til at kontakte os. Selve cookiedeklarationen er leveret af  og hvis du har nogen spørgsmål til den, så skriv til info@cookieinformation.com.
+Har du kommentarer eller spørgsmål i forbindelse med vores information og/eller behandling af personlige oplysninger, er du velkommen til at kontakte os. Selve cookiedeklarationen er leveret af Cookie Information og hvis du har nogen spørgsmål til den, så skriv til info@cookieinformation.com.
  
 

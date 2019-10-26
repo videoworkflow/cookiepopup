@@ -3,7 +3,7 @@ Analyse, innsikt og tilpasning (5) - Annonserelaterte tjenester (2+) - Andre tje
 
 
 Analyse, innsikt og tilpasning
-
+Cxense
 Facebook
 Google analytics
 Hotjar
@@ -12,7 +12,7 @@ Kantar TNS / ComScore
 
 
 Annonserelaterte tjenester
-
+Schibsted Pulse
 Appnexus
 Øvrige annonsesystemer
 
@@ -20,6 +20,6 @@ Appnexus
 Andre tjenester
 Unbounce
 JW Player
-
+Schibsted konto
 Segment
-
+C3 Metrics

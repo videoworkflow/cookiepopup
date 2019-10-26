@@ -28,10 +28,10 @@ The cookies placed on the Website include:
 --------TABLE--------
  Cookie Name, What's it for
  First Party Cookies (Internal Cookies), To provide you TIL Services
- Scorecard Research by comScore," Comscore provide us with analytical information about our users. This data is then used for sales pitches, editorial, strategy, business development and product development. For more information about what how comScore use this data, please visit the."
- Google Analytics, Google provides us with analytical information about the our users. Google Analytics sets a cookie in order to evaluate use of those services and compile a report for us.
+ Scorecard Research by comScore," Comscore provide us with analytical information about our users. This data is then used for sales pitches, editorial, strategy, business development and product development. For more information about what how comScore use this data, please visit the Scorecard Research Privacy Policy. Opt-out of ScoreCard Research cookies"
+ Google Analytics, Google provides us with analytical information about the our users. Google Analytics sets a cookie in order to evaluate use of those services and compile a report for us. Opt-out of Google Analytics cookies
  Chartbeat," Chartbeat tracks and stores behavioural data that has been anonymized, and the product works without the need for personally identifiable information."
- Google DoubleClick, We uses Google DoubleClick to measure the effectiveness of our online marketing campaigns.
+ Google DoubleClick, We uses Google DoubleClick to measure the effectiveness of our online marketing campaigns. Opt-out of DoubleClick cookies
  Others Slike, Live streaming and videos on demand.
 --------------------- 
 Accepting or Refusing Cookies
@@ -55,22 +55,22 @@ How To Manage Cookies
 How to implement your choice according to the browser you use?
  
 When it comes to managing cookies and your choices, the configuration of each browser is different. More information can be found in the help menu of your browser, which will inform you of the proper procedure to follow:
-
-
-
-
-
+Microsoft Internet Explorer
+Google Chrome
+Safari
+Firefox
+Opéra
  
 At any time you may view the cookie management settings used by your browser, and delete any cookies it has stored, which must be done one by one. To make your search easier, please find below a list of direct links for each of the main browsers in use:
-
-
-
-
-
+Microsoft Internet Explorer
+Google Chrome
+Safari
+Firefox
+Opéra
  
 This configuration is different on your cell phone or tablet:
-
-
-
+iOS
+Android
+Blackberry
  
 

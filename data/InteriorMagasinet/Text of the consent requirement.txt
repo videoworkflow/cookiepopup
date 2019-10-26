@@ -40,11 +40,11 @@ For å kontinuerlig forbedre våre sider og gi våre besøkende en best mulig ku
 
 
 Facebook pixel
-Vi bruker Facebooks pixel på våre nettsider for å kunne drive målrettet annonsering via Facebook. Dette gjør vi for å kunne gi relevant markedsføring til de personene som er interesserte i oss. Denne dataen er anonymisert og vi kan ikke se hvilke personer som hentes inn og lagres i pixelen. For mer informasjon om Facebooks retningslinjer kan du besøker deres sider
+Vi bruker Facebooks pixel på våre nettsider for å kunne drive målrettet annonsering via Facebook. Dette gjør vi for å kunne gi relevant markedsføring til de personene som er interesserte i oss. Denne dataen er anonymisert og vi kan ikke se hvilke personer som hentes inn og lagres i pixelen. For mer informasjon om Facebooks retningslinjer kan du besøker deres sider her
 
 
 Google Adwords
-Vi bruker Google Adwords pixel på våre nettsider for å kunne drive målrettet annonsering på Googles søkemotor og i deres displaynettverk (annonsenettverk der annonser bestilt gjennom Google vises på andre nettsider). Dette gjør vi for å kunne gi relevant markedsføring til de personene som er interesserte i oss. Denne dataen er anonymisert og vi kan ikke se hvilke personer som hentes inn og lagres i pixelen. Hvis du ikke ønsker at bruk av Googles informasjonskapsler kan du velge bort dette i.
+Vi bruker Google Adwords pixel på våre nettsider for å kunne drive målrettet annonsering på Googles søkemotor og i deres displaynettverk (annonsenettverk der annonser bestilt gjennom Google vises på andre nettsider). Dette gjør vi for å kunne gi relevant markedsføring til de personene som er interesserte i oss. Denne dataen er anonymisert og vi kan ikke se hvilke personer som hentes inn og lagres i pixelen. Hvis du ikke ønsker at bruk av Googles informasjonskapsler kan du velge bort dette i Googles innstillinger.
 
 
 

@@ -2,25 +2,25 @@ Nödvändiga (26) - Inställningar (13) - Statistik (21) - Marknadsföring (296)
 
 Nödvändiga
 --------TABLE--------
- CookieConsent, 
+ CookieConsent, stockholmdirekt.se
  __cfduid [x9], adnami.io brandmetrics.com codigo.se infolinks.com klart.se solocpm.com spoutable.com suntcontent.se truoptik.com
  AWSELB [x2], ads.playground.xyz tremorhub.com
  connect.sid, ads.playground.xyz
- cf_ob_info, 
- cf_use_ob, 
+ cf_ob_info, cdn.brandmetrics.com
+ cf_use_ob, cdn.brandmetrics.com
  SESS# [x2], eniro.se stickyadstv.com
  AWSALB [x2], stockholmdirekt.se unrulymedia.com
  test [x2], stockholmdirekt.se m6r.eu
- local_storage_support_test, 
+ local_storage_support_test, twitter.com
  TS# [x4], map01.eniro.no map02.eniro.no map03.eniro.no map04.eniro.no
 ---------------------
 
 Inställningar
 --------TABLE--------
  uid [x10], adten.eu delivery.youplay.se addthis.com lwadm.com simpli.fi turn.com unrulymedia.com videohub.tv adform.net adotmob.com
- lang, 
- CookieConsentBulkSetting-#, 
- CookieConsentBulkTicket, 
+ lang, cdn.syndication.twimg.com
+ CookieConsentBulkSetting-#, consentcdn.cookiebot.com
+ CookieConsentBulkTicket, cookiebot.com
 --------------------- 
 
 Statistik
@@ -28,320 +28,320 @@ Statistik
  _ga [x4], candidate.hr-manager.net kartor.eniro.se stockholmdirekt.se sverigesradio.se
  _gid [x4], candidate.hr-manager.net kartor.eniro.se stockholmdirekt.se sverigesradio.se
  _gat [x4], candidate.hr-manager.net kartor.eniro.se stockholmdirekt.se sverigesradio.se
- DigiTrust.v1.identity, 
- s_cc, 
- s_sq, 
- collect, 
+ DigiTrust.v1.identity, digitru.st
+ s_cc, eniro.se
+ s_sq, eniro.se
+ collect, google-analytics.com
  UID [x2], scorecardresearch.com stickyadstv.com
- UIDR, 
- personalization_id, 
- wui, 
+ UIDR, scorecardresearch.com
+ personalization_id, twitter.com
+ wui, weborama.com
 ---------------------
 
 Marknadsföring
 --------TABLE--------
- GoogleAdServingTest, 
- _rxuuid, 
+ GoogleAdServingTest, stockholmdirekt.se
+ _rxuuid, 1rx.io
  tuuid [x9], 254a.com 360yield.com 4finance.com programattik.com admedo.com bidswitch.net creative-serving.com mfadsrvr.com r.scoota.co
  tuuid_lu [x9], 254a.com 360yield.com 4finance.com mfadsrvr.com programattik.com r.scoota.co admedo.com bidswitch.net creative-serving.com
- umeh, 
- tluid, 
+ umeh, 360yield.com
+ tluid, 3lift.com
  bsw_uid [x2], 4finance.com mfadsrvr.com
- auid, 
- na_id, 
- na_tc, 
- ouid, 
- adtrc, 
- C, 
+ auid, acuityplatform.com
+ na_id, addthis.com
+ na_tc, addthis.com
+ ouid, addthis.com
+ adtrc, adform.net
+ C, adform.net
  cid [x2], adform.net ctnsnet.com
- IDE, 
- r/collect, 
- test_cookie, 
- dyn_u, 
- guid, 
- EQUser, 
- u, 
- everest_g_v2, 
- everest_session_v2, 
- EE, 
- hsk_#, 
- ud, 
- extendtv_user_id, 
- mako_uid, 
- ONPLFTRH, 
- __ev_uid, 
- vst, 
- ibbid, 
- 3pi, 
- callback, 
- car, 
- cf, 
- cip, 
- cnac, 
- id5, 
- idb, 
- cu, 
- _kuid_, 
- _li_ss, 
- lidid, 
- ljt_reader, 
+ IDE, doubleclick.net
+ r/collect, doubleclick.net
+ test_cookie, doubleclick.net
+ dyn_u, dyntrk.com
+ guid, ebdr3.com
+ EQUser, eqads.com
+ u, erne.co
+ everest_g_v2, everesttech.net
+ everest_session_v2, everesttech.net
+ EE, exelator.com
+ hsk_#, exelator.com
+ ud, exelator.com
+ extendtv_user_id, extend.tv
+ mako_uid, eyeota.net
+ ONPLFTRH, eyeota.net
+ __ev_uid, eyeviewads.com
+ vst, gumgum.com
+ ibbid, ibillboard.com
+ 3pi, id5-sync.com
+ callback, id5-sync.com
+ car, id5-sync.com
+ cf, id5-sync.com
+ cip, id5-sync.com
+ cnac, id5-sync.com
+ id5, id5-sync.com
+ idb, impdesk.com
+ cu, ipredictive.com
+ _kuid_, krxd.net
+ _li_ss, liadm.com
+ lidid, liadm.com
+ ljt_reader, lijit.com
  id [x2], m6r.eu mookie1.com
- mt_mop, 
+ mt_mop, mathtag.com
  uuid [x4], mathtag.com smartclip.net adotmob.com avocet.io
- uuidc, 
- FUID, 
- RUID, 
- mdata, 
- dsp_id, 
- _nauid, 
- ayl_visitor, 
- s_vi, 
- i, 
- obuid, 
- si, 
- opt_out, 
- pl_user_id, 
- DPSync2, 
- KADUSERCOOKIE, 
- KCCH, 
- KRTBCOOKIE_#, 
- KTPCACOOKIE, 
+ uuidc, mathtag.com
+ FUID, mmtro.com
+ RUID, mmtro.com
+ mdata, mookie1.com
+ dsp_id, netmng.com
+ _nauid, nrich.ai
+ ayl_visitor, omnitagjs.com
+ s_vi, omtrdc.net
+ i, openx.net
+ obuid, outbrain.com
+ si, owneriq.net
+ opt_out, postrelease.com
+ pl_user_id, powerlinks.com
+ DPSync2, pubmatic.com
+ KADUSERCOOKIE, pubmatic.com
+ KCCH, pubmatic.com
+ KRTBCOOKIE_#, pubmatic.com
+ KTPCACOOKIE, pubmatic.com
  pi [x2], pubmatic.com ml314.com
- PMFREQ_ON, 
- PUBMDCID, 
- pubsyncexp, 
- PugT, 
- repi, 
- SPugT, 
- SyncRTB2, 
- d, 
- mc, 
- eud, 
- euds, 
- rud, 
- ruds, 
- smd, 
- pxrc, 
- rlas3, 
- browser_id, 
- cd, 
- RUN_ID, 
- SEUNCY, 
- A6, 
- u2, 
- stx_user_id, 
- skimCSP, 
- skimGUID, 
- csync, 
- pid, 
- TestIfCookieP, 
- psyn, 
- SOC, 
- audience, 
- sa-user-id, 
- sa-user-id-v2, 
- __couid, 
- GED_PLAYLIST_ACTIVITY, 
- t_gid, 
- TapAd_DID, 
- TapAd_TS, 
- tt_viewer, 
- sync-his, 
- tidal_ttid, 
- ANON_ID, 
- tc, 
- sh, 
- vampid, 
- UIXX_UPDT, 
+ PMFREQ_ON, pubmatic.com
+ PUBMDCID, pubmatic.com
+ pubsyncexp, pubmatic.com
+ PugT, pubmatic.com
+ repi, pubmatic.com
+ SPugT, pubmatic.com
+ SyncRTB2, pubmatic.com
+ d, quantserve.com
+ mc, quantserve.com
+ eud, rfihub.com
+ euds, rfihub.com
+ rud, rfihub.com
+ ruds, rfihub.com
+ smd, rfihub.com
+ pxrc, rlcdn.com
+ rlas3, rlcdn.com
+ browser_id, rqtrk.eu
+ cd, rubiconproject.com
+ RUN_ID, rundsp.com
+ SEUNCY, semasio.net
+ A6, serving-sys.com
+ u2, serving-sys.com
+ stx_user_id, sharethrough.com
+ skimCSP, skimresources.com
+ skimGUID, skimresources.com
+ csync, smartadserver.com
+ pid, smartadserver.com
+ TestIfCookieP, smartadserver.com
+ psyn, smartclip.net
+ SOC, socdm.com
+ audience, spotxchange.com
+ sa-user-id, stackadapt.com
+ sa-user-id-v2, stackadapt.com
+ __couid, stockholmdirekt.se
+ GED_PLAYLIST_ACTIVITY, stockholmdirekt.se
+ t_gid, taboola.com
+ TapAd_DID, tapad.com
+ TapAd_TS, tapad.com
+ tt_viewer, teads.tv
+ sync-his, tidaltv.com
+ tidal_ttid, tidaltv.com
+ ANON_ID, tribalfusion.com
+ tc, unrulymedia.com
+ sh, videoamp.com
+ vampid, videoamp.com
+ UIXX_UPDT, videohub.tv
  ouuid, volvelle.tech
  ouuid_lu, volvelle.tech
- matchbidswitch, 
- matchcasale, 
- bsw_sync, 
- gi_u, 
- pubmatic_sync, 
- UserID1, 
- am-uid, 
- anj, 
- uuid2, 
- TDCPM, 
- TDID, 
+ matchbidswitch, w55c.net
+ matchcasale, w55c.net
+ bsw_sync, adhigh.net
+ gi_u, adhigh.net
+ pubmatic_sync, adhigh.net
+ UserID1, adition.com
+ am-uid, admixer.net
+ anj, adnxs.com
+ uuid2, adnxs.com
+ TDCPM, adsrvr.org
+ TDID, adsrvr.org
  CfP [x2], adtech.com advertising.com
  APID [x2], advertising.com yahoo.com
- ab, 
- ad-id, 
- ad-privacy, 
- bito, 
- checkForPermission, 
+ ab, agkn.com
+ ad-id, amazon-adsystem.com
+ ad-privacy, amazon-adsystem.com
+ bito, bidr.io
+ checkForPermission, bidr.io
  c [x9], bidswitch.net 360yield.com admedo.com clrstm.com creative-serving.com mfadsrvr.com programattik.com sportradarserving.com volvelle.tech
- google_push, 
- MUID, 
- MUIDB, 
- bkdc, 
- bkpa, 
- bku, 
- _auid, 
- CMID, 
- CMPRO, 
- CMPS, 
- CMRUM3, 
- CMST, 
- CMSUM, 
- tuuid_new, 
- tuuid_new_lu, 
- colid, 
- _dbefe, 
- _cc_aud, 
- _cc_cc, 
- _cc_dc, 
- _cc_id, 
- cid_#, 
- opt, 
- CDIUSER, 
- demdex, 
- dpm, 
- DSID, 
- matchfreewheel, 
- matchgoogle, 
- matchliveramp, 
- matchpubmatic, 
- wfivefivec, 
- wam-sync, 
- AFFICHE_W, 
- gwsi, 
- B, 
- yandexuid, 
- __ytmedia, 
- GPS, 
- PREF, 
- VISITOR_INFO1_LIVE, 
- YSC, 
- yt-remote-cast-installed, 
- yt-remote-connected-devices, 
- yt-remote-device-id, 
- yt-remote-fast-check-period, 
- yt-remote-session-app, 
- yt-remote-session-name, 
- zuid, 
- cicouid, 
+ google_push, bidswitch.net
+ MUID, bing.com
+ MUIDB, bing.com
+ bkdc, bluekai.com
+ bkpa, bluekai.com
+ bku, bluekai.com
+ _auid, c.appier.net
+ CMID, casalemedia.com
+ CMPRO, casalemedia.com
+ CMPS, casalemedia.com
+ CMRUM3, casalemedia.com
+ CMST, casalemedia.com
+ CMSUM, casalemedia.com
+ tuuid_new, clrstm.com
+ tuuid_new_lu, clrstm.com
+ colid, colpirio.com
+ _dbefe, contextweb.com
+ _cc_aud, crwdcntrl.net
+ _cc_cc, crwdcntrl.net
+ _cc_dc, crwdcntrl.net
+ _cc_id, crwdcntrl.net
+ cid_#, ctnsnet.com
+ opt, ctnsnet.com
+ CDIUSER, deepintent.com
+ demdex, demdex.net
+ dpm, demdex.net
+ DSID, doubleclick.net
+ matchfreewheel, w55c.net
+ matchgoogle, w55c.net
+ matchliveramp, w55c.net
+ matchpubmatic, w55c.net
+ wfivefivec, w55c.net
+ wam-sync, weborama.com
+ AFFICHE_W, weborama.fr
+ gwsi, widespace.com
+ B, yahoo.com
+ yandexuid, yandex.ru
+ __ytmedia, y-medialink.com
+ GPS, youtube.com
+ PREF, youtube.com
+ VISITOR_INFO1_LIVE, youtube.com
+ YSC, youtube.com
+ yt-remote-cast-installed, youtube.com
+ yt-remote-connected-devices, youtube.com
+ yt-remote-device-id, youtube.com
+ yt-remote-fast-check-period, youtube.com
+ yt-remote-session-app, youtube.com
+ yt-remote-session-name, youtube.com
+ zuid, zemanta.com
+ cicouid, zorosrv.com
  um [x3], 360yield.com lwadm.com plista.com
- na_sc_x, 
- 0, 
- jslog, 
- mobile/csimpr, 
- serving/unload, 
- appnexus_sync, 
+ na_sc_x, addthis.com
+ 0, adform.net
+ jslog, adform.net
+ mobile/csimpr, adform.net
+ serving/unload, adform.net
+ appnexus_sync, adhigh.net
  appnexus [x2], adingo.jp s.spoutable.com
- icu, 
- partners, 
- uuid3, 
+ icu, adnxs.com
+ partners, adotmob.com
+ uuid3, adsniper.ru
  APIDTS [x2], adtech.com yahoo.com
- eAPID, 
- report/#, 
- report/backfill/1819, 
- sync_16248314, 
- tk_ui, 
- tk_ui_third, 
- IDSYNC, 
+ eAPID, adtech.com
+ report/#, adten.eu
+ report/backfill/1819, adten.eu
+ sync_16248314, adventori.com
+ tk_ui, adventori.com
+ tk_ui_third, adventori.com
+ IDSYNC, analytics.yahoo.com
  __ab12# [x4], bidtheatre.com sharethis.com stockholmdirekt.se truoptik.com
- ANONCHK, 
- digitalAudience, 
- duid_340, 
- ev_sync_ax, 
- _uid, 
+ ANONCHK, bing.com
+ digitalAudience, digitalaudience.io
+ duid_340, ebdr3.com
+ ev_sync_ax, everesttech.net
+ _uid, fwmrm.net
  UUID#[abcdef0123456789]{32} [x5], gru.eniro.se julio-cdn.eniro.com mapsearch.eniro.com pixel-profile-cloud.eniro.com tileversion.eniro.com
- gdpr, 
- jvxsync, 
- LIG_#, 
- viewer_token, 
- syncdata_#, 
- cookie, 
- pd, 
- apnxs, 
- p2, 
- type/pixel/p#, 
- arv, 
- clr, 
- frc, 
- imr, 
- matching/pixel, 
- Pookie, 
- rec, 
- red, 
- dsps:#, 
- ssps:#, 
- sync_#GUID#, 
- emilyRan, 
- RUN_SYNC_2, 
- S_#, 
- serving/adServer.bs, 
- dspuuid, 
- uid-bp-#, 
- svResp, 
- bt3, 
- , 
- to_master, 
- to_version, 
- __widgetsettings, 
- i/jot/syndication, 
- td, 
- unruly_m#, 
- unruly_u, 
- hit.gif, 
- matchan, 
- matchgroupm, 
- CSNBrief, 
- CSNUtId, 
+ gdpr, id5-sync.com
+ jvxsync, jivox.com
+ LIG_#, ligadx.com
+ viewer_token, loopme.me
+ syncdata_#, mookie1.com
+ cookie, onaudience.com
+ pd, openx.net
+ apnxs, outbrain.com
+ p2, owneriq.net
+ type/pixel/p#, pixel-profile-cloud.eniro.com
+ arv, plista.com
+ clr, plista.com
+ frc, plista.com
+ imr, plista.com
+ matching/pixel, plista.com
+ Pookie, plista.com
+ rec, plista.com
+ red, plista.com
+ dsps:#, powerlinks.com
+ ssps:#, powerlinks.com
+ sync_#GUID#, powerlinks.com
+ emilyRan, rubiconproject.com
+ RUN_SYNC_2, rundsp.com
+ S_#, serving-sys.com
+ serving/adServer.bs, serving-sys.com
+ dspuuid, smartclip.net
+ uid-bp-#, stickyadstv.com
+ svResp, survata.com
+ bt3, thebrighttag.com
+ btv3.an, thebrighttag.com
+ to_master, truoptik.com
+ to_version, truoptik.com
+ __widgetsettings, twitter.com
+ i/jot/syndication, twitter.com
+ td, unrulymedia.com
+ unruly_m#, unrulymedia.com
+ unruly_u, unrulymedia.com
+ hit.gif, userreport.com
+ matchan, w55c.net
+ matchgroupm, w55c.net
+ CSNBrief, wayfair.com
+ CSNUtId, wayfair.com
 ---------------------
 
 Oklassificerade
 --------TABLE--------
- DID, 
- idt, 
- permanent, 
- b30msc, 
- bsc, 
- btc, 
- suuid3, 
- _hrmts_locationString, 
- HRMTS.Session.Candidate, 
- _content_session, 
- euid, 
- _en, 
- _enid, 
- _ensess, 
- channelvisits, 
- euconsent, 
- gdpr-consent, 
- onces, 
- s_uuid, 
- topdomaintest, 
- ANUSERCOOKIE, 
- tileversion, 
- adm_DLDdwoAvzlrj4hE36dBo-g, 
- uidum, 
- SOSYNC, 
- zuuid, 
- zuuid_lu, 
+ DID, ads.smartstream.tv
+ idt, ads.smartstream.tv
+ permanent, ads.smartstream.tv
+ b30msc, beacon.walmart.com
+ bsc, beacon.walmart.com
+ btc, beacon.walmart.com
+ suuid3, bumlam.com
+ _hrmts_locationString, candidate.hr-manager.net
+ HRMTS.Session.Candidate, candidate.hr-manager.net
+ _content_session, delivery.youplay.se
+ euid, emerse.com
+ _en, eniro.se
+ _enid, eniro.se
+ _ensess, eniro.se
+ channelvisits, eniro.se
+ euconsent, eniro.se
+ gdpr-consent, eniro.se
+ onces, eniro.se
+ s_uuid, eniro.se
+ topdomaintest, eniro.se
+ ANUSERCOOKIE, infolinks.com
+ tileversion, kartor.eniro.se
+ adm_DLDdwoAvzlrj4hE36dBo-g, lfstmedia.com
+ uidum, lwadm.com
+ SOSYNC, socdm.com
+ zuuid, sportradarserving.com
+ zuuid_lu, sportradarserving.com
  a271858, spotim.market
  vmuid, spotim.market
- __codnp, 
- lwuid, 
- minnesrumet-clientauthToken, 
- minnesrumet-clientcurrentUser, 
- minnesrumet-clientisAuthorized, 
- NWSKnownUser, 
- subsite, 
- sskya, 
- sskyCreationTime, 
- sskyu, 
- 5975ae13617f1_abc, 
- 5975ae13617f1_dmp_braindmp, 
- 5975ae13617f1_dmp_nativendo, 
- 5975ae13617f1_uuid, 
- accumulatedListenedTime, 
- isPlaying, 
- gtm_usr, 
- vm_usp1078, 
- vm_usv, 
+ __codnp, stockholmdirekt.se
+ lwuid, stockholmdirekt.se
+ minnesrumet-clientauthToken, stockholmdirekt.se
+ minnesrumet-clientcurrentUser, stockholmdirekt.se
+ minnesrumet-clientisAuthorized, stockholmdirekt.se
+ NWSKnownUser, stockholmdirekt.se
+ subsite, stockholmdirekt.se
+ sskya, sundaysky.com
+ sskyCreationTime, sundaysky.com
+ sskyu, sundaysky.com
+ 5975ae13617f1_abc, suntcontent.se
+ 5975ae13617f1_dmp_braindmp, suntcontent.se
+ 5975ae13617f1_dmp_nativendo, suntcontent.se
+ 5975ae13617f1_uuid, suntcontent.se
+ accumulatedListenedTime, sverigesradio.se
+ isPlaying, sverigesradio.se
+ gtm_usr, sync.colossusssp.com
+ vm_usp1078, videmob.com
+ vm_usv, videmob.com
 ---------------------

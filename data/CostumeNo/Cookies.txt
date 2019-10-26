@@ -3,7 +3,7 @@ Nødvendige (2) - Funksjonelle (4) - Statistiske (30) - Markedsføring (87) - Uk
 Nødvendige 
 --------TABLE--------
  Navn, Leverandør, Formål, Utløpsdato
- CookieInformationConsent, , Støtter nettstedets tekniske funksjoner., ett år
+ CookieInformationConsent, emilietommerberg.com, Støtter nettstedets tekniske funksjoner., ett år
  JSESSIONID, .nr-data.net, Samler informasjon om nettstedet og innholdet for rapportering og sikkerhet., Session
 ---------------------
 Funksjonelle 
@@ -25,28 +25,28 @@ Statistiske
  gckp, .cxense.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år, 
  _gat, .emilietommerberg.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett minutt, 
  _gid, .emilietommerberg.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., en dag, 
- cx_profile_timeout, , Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 821 år, 
+ cx_profile_timeout, emilietommerberg.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 821 år, 
  _dc_gtm_UA-xxx-xxx, .emilietommerberg.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde elementer med det formål å analysere og rapportere., ett minutt, 
  _ga, .emilietommerberg.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 2 år, 
  UIDR, .scorecardresearch.com, Samler informasjon om brukerne og bruker disse til markedsanalyser og rapporteringsformål., 2 år, 
  cX_G, .emilietommerberg.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år, 
- cx_profile_data, , Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 821 år, 
+ cx_profile_data, emilietommerberg.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 821 år, 
  cX_P, .emilietommerberg.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år, 
  i00, .costume.no, Samler informasjon om brukerne og bruker disse til markedsanalyser og rapporteringsformål., 10 år, 
- _hjIncludedInSample, , Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., Session, 
+ _hjIncludedInSample, costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., Session, 
  mc, .quantserve.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år, 
  _gat_sociusTracker, .costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett minutt, 
  _gat_customerTracker, .costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett minutt, 
- _chartbeat4, , Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett minutt, 
- _cb, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde elementer med det formål å analysere og rapportere., ett år, 
- _cb_svref, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde elementer med det formål å analysere og rapportere., 30 minutter, 
- eas_geo, , Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 14 timer, 
- _os_session, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom visuelt innhold og nettsider for analyse og rapporteringsformål., 14 dager, 
+ _chartbeat4, costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett minutt, 
+ _cb, costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde elementer med det formål å analysere og rapportere., ett år, 
+ _cb_svref, costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde elementer med det formål å analysere og rapportere., 30 minutter, 
+ eas_geo, eas4.emediate.eu, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 14 timer, 
+ _os_session, www.opinionstage.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom visuelt innhold og nettsider for analyse og rapporteringsformål., 14 dager, 
  d, .quantserve.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 3 måneder, 
- _cb_ls, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde elementer med det formål å analysere og rapportere., ett år, 
- eas_uid, , Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år, 
+ _cb_ls, costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde elementer med det formål å analysere og rapportere., ett år, 
+ eas_uid, eas4.emediate.eu, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år, 
  player, .vimeo.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere for analyse og rapporteringsformål., ett år, 
- _chartbeat2, , Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år, 
+ _chartbeat2, costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år, 
 ---------------------
 
 Markedsføring 
@@ -54,16 +54,16 @@ Markedsføring
  Navn, Leverandør, Formål, Utløpsdato, 
  AA003, .atdmt.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., 3 måneder, 
  GPS, .youtube.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., 30 minutter, 
- cid, ," Støtter integrasjon eller ""embedding"" av en tredjepartsplattform på nettstedet for å levere målrettet annonsering.", 2 måneder, 
+ cid, track.adform.net," Støtter integrasjon eller ""embedding"" av en tredjepartsplattform på nettstedet for å levere målrettet annonsering.", 2 måneder, 
  _gcl_au, .emilietommerberg.com," Støtter integrasjon eller ""embedding"" av en tredjepartsplattform på nettstedet for å levere målrettet annonsering.", 3 måneder, 
  IDE, .doubleclick.net, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  fr, .facebook.com," Facebooks primære annonsecookie som brukes til å levere annonser, samt måle og forbedre annonsenes relevans.", 3 måneder, 
  __gads, .emilietommerberg.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., 2 år, 
  YSC, .youtube.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., Session, 
- C, ," Støtter integrasjon eller ""embedding"" av en tredjepartsplattform på nettstedet for å levere målrettet annonsering.", en måned, 
- , , Støtter online markedsføring ved å samle inn informasjon om brukerne for å markedsføre produkter gjennom partnere og andre plattformer., Session, 
+ C, track.adform.net," Støtter integrasjon eller ""embedding"" av en tredjepartsplattform på nettstedet for å levere målrettet annonsering.", en måned, 
+ , www.facebook.com, Støtter online markedsføring ved å samle inn informasjon om brukerne for å markedsføre produkter gjennom partnere og andre plattformer., Session, 
  MUID, .bing.com," Identificerer unikke webbrowsere og bruges til reklame, website analyse og operationelle formål.", ett år, 
- MUIDB, ," Identificerer unikke webbrowsere og bruges til reklame, website analyse og operationelle formål.", ett år, 
+ MUIDB, bat.bing.com," Identificerer unikke webbrowsere og bruges til reklame, website analyse og operationelle formål.", ett år, 
  ATN, .atdmt.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., 2 år, 
  VISITOR_INFO1_LIVE, .youtube.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., 6 måneder, 
  PREF, .youtube.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., 8 måneder, 
@@ -73,9 +73,9 @@ Markedsføring
  mt_mop, .mathtag.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., en måned, 
  uuidc, .mathtag.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  __kuid, .adsby.bidtheatre.com," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", 7 dager, 
- _visual_swf_referer, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., Session, 
- xxx_p, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., ett år, 
- CraftSessionId, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., Session, 
+ _visual_swf_referer, bonnier-publications-norway.23video.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., Session, 
+ xxx_p, bonnier-publications-norway.23video.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., ett år, 
+ CraftSessionId, www.twentythree.net, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., Session, 
  B, .yahoo.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  idb, .impdesk.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  everest_g_v2, .everesttech.net," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", 2 år, 
@@ -88,11 +88,11 @@ Markedsføring
  audience, .spotxchange.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., 14 dager, 
  _pinterest_cm, .pinterest.com, Støtter online markedsføring ved å samle inn informasjon om brukerne for å markedsføre produkter gjennom partnere og andre plattformer., ett år, 
  wfivefivec, .w55c.net," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", ett år, 
- CRAFT_CSRF_TOKEN, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., Session, 
+ CRAFT_CSRF_TOKEN, www.twentythree.net, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., Session, 
  KTPCACOOKIE, .pubmatic.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., en dag, 
  CMST, .casalemedia.com," Støtter integrasjon eller ""embedding"" av en tredjepartsplattform på nettstedet for å levere målrettet annonsering.", en dag, 
  userId, .rutarget.ru, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., 6 måneder, 
- ad_session_id, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., en time, 
+ ad_session_id, copenhagenfashionweek.23video.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., en time, 
  DSID, .doubleclick.net, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., en time, 
  i, .openx.net, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  tuuid, .bidswitch.net, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
@@ -100,14 +100,14 @@ Markedsføring
  cc, .de17a.com," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", ett år, 
  TestIfCookieP, .smartadserver.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  pbw, .smartadserver.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
- uuid, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., 4 måneder, 
+ uuid, bonnier-publications-norway.23video.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., 4 måneder, 
  KADUSERCOOKIE, .pubmatic.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., 3 måneder, 
  CMPS, .casalemedia.com," Støtter integrasjon eller ""embedding"" av en tredjepartsplattform på nettstedet for å levere målrettet annonsering.", 3 måneder, 
  smd, .rfihub.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  opt, .ctnsnet.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  cid_xxx, .ctnsnet.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  ljt_reader, .lijit.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
- playerVolume, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., Session, 
+ playerVolume, bonnier-publications-norway.23video.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., Session, 
  id, .m6r.eu," Støtter integrering eller ""embedding"" av en tredjepartsplattform på nettsiden.", 3 måneder, 
  c, .bidswitch.net, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  test, .m6r.eu," Støtter integrering eller ""embedding"" av en tredjepartsplattform på nettsiden.", en time, 
@@ -119,13 +119,13 @@ Markedsføring
  rud, .rfihub.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  gglck, .everesttech.net," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", en måned, 
  _ljtrtb_xxx, .lijit.com, Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices., ett år, 
- YBSID, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., en dag, 
- to, , Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., 30 minutter, 
+ YBSID, costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., en dag, 
+ to, costume.no, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., 30 minutter, 
  tuuid_lu, .bidswitch.net, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  _fbp, .blivenyc.com, Identifiserer nettlesere med det formål å levere annonser og analysetjenester., 3 måneder, 
  TestIfCookie, .smartadserver.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., Session, 
  matchgoogle, .w55c.net," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", en måned, 
- lang, , Støtter online markedsføring ved å samle inn informasjon om brukerne for å markedsføre produkter gjennom partnere og andre plattformer., Session, 
+ lang, cdn.syndication.twimg.com, Støtter online markedsføring ved å samle inn informasjon om brukerne for å markedsføre produkter gjennom partnere og andre plattformer., Session, 
  dsp_id, .netmng.com, Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd og å levere målrettet annonsering., 6 måneder, 
  dyn_u, .dyntrk.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år, 
  b, .blismedia.com," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", ett år, 
@@ -143,18 +143,18 @@ Markedsføring
 Uklassifiserte 
 --------TABLE--------
  Navn, Leverandør, Formål, Utløpsdato
- bonnierSegments, , , 17 timer
- uslogst, , , Session
- bonnierUserAnonId, , Venter, ett år
+ bonnierSegments, emilietommerberg.com, , 17 timer
+ uslogst, emilietommerberg.com, , Session
+ bonnierUserAnonId, europe-west1-bonnier-big-data.cloudfunctions.net, Venter, ett år
  sessionId, .emilietommerberg.com, , Session
- bonnierSegments, , , en dag
+ bonnierSegments, costume.no, , en dag
  ab_t, .vimeo.com, , en time
- cstp, , Venter, Session
- 10295438_u, , , ett år
+ cstp, costume.no, Venter, Session
+ 10295438_u, bonnier-publications-norway.23video.com, , ett år
  visitor-id, .media.net, , ett år
  google_push, .bidswitch.net, , 5 minutter
  sessionId, .costume.no, , Session
  viewer_id, .webvideocore.net, Venter, ett år
- uslogst, , , Session
+ uslogst, costume.no, , Session
 ---------------------
 

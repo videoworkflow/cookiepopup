@@ -12,7 +12,7 @@ Ansvarig för personuppgiftsbehandlingen är Västerbottens-Kurirens Media AB, 5
  
 För dig som är prenumerant eller har ett digitalt konto
 Vem som behandlar uppgifterna
-När du blir prenumerant av en tidning eller registrerar dig för ett digitalt användarkonto ingår du ett avtal med oss och godkänner därmed att VK Media behandlar de uppgifter som du anger. Uppgifterna samlas in av VK Media och i förekommande fall av det bolag i VK Medias företagsgrupp som du har avtal med, se.
+När du blir prenumerant av en tidning eller registrerar dig för ett digitalt användarkonto ingår du ett avtal med oss och godkänner därmed att VK Media behandlar de uppgifter som du anger. Uppgifterna samlas in av VK Media och i förekommande fall av det bolag i VK Medias företagsgrupp som du har avtal med, se Förteckning av bolag.
 VK Media behandlar uppgifterna för de ändamål som anges här, se vid avsnittet om Vad uppgifterna används till. Därutöver varken insamlas eller används personuppgifter för något ändamål. I inget fall insamlas känsliga personuppgifter som exempelvis information om etnicitet eller politisk åskådning.
  
 Personuppgiftsbiträden
@@ -59,7 +59,7 @@ Upphovsrätten till alla VK Medias/Folkbladets webbplatser, papperstidningar och
  
 Intressebaserade annonser från andra annonsnätverk
 För att göra upplevelsen av webbplatsen så bra som möjligt för dig försöker vi alltid erbjuda så relevanta annonser som möjligt. Uppgifterna vi samlar är IP-adress, surfbeteende, GPS-position samt demografisk data och vi lagrar dessa baserat på berättigat intresse som laglig grund. VK Media kan även använda sig av så kallade tredjepartscookies, d.v.s. cookie-filer som tillhandahålls av våra samarbetspartners. Detta innebär bl.a. att du kan komma att se annonser baserat på dina besök på andra webbplatser. Våra samarbetspartners består av PlayAd (köp förmedlas genom Adform, Rubicon och SpotX), Mediekompaniet och Leeads.
-Om du inte längre önskar intressebaserad annonsering från våra partners ändrar du dina inställningar under fliken "Integritet" på "Mitt konto". Du kan även stänga av annonser från specifika annonsnätverk här:
+Om du inte längre önskar intressebaserad annonsering från våra partners ändrar du dina inställningar under fliken "Integritet" på "Mitt konto". Du kan även stänga av annonser från specifika annonsnätverk här: http://www.youronlinechoices.com
  
 Cookies
 På samtliga VK Medias webbplatser finns cookies. En cookie är en textfil som webbläsaren, eller motsvarande program, laddar ned på uppmaning av den besökta webbplatsen. Varje cookie som laddas ned sparas i besökarens webbläsare och är tillgänglig för webbplatsen via webbläsaren när besökaren återkommer. Du kan enkelt ta del av, blockera och avlägsna lagrade cookies om så önskas via inställningar i den webbläsare du använder. Om du väljer att blockera cookies i din webbläsare kan vi dock inte garantera att våra webbplatser fungerar som de ska.

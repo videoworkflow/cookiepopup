@@ -102,7 +102,7 @@ Cookies sletter sig selv efter et vist antal måneder (kan variere), men de forn
 Se vejledning her: http://minecookies.org/cookiehandtering 
  
 2.3 Sådan undgår jeg cookies?
-Hvis du ikke ønsker at modtage cookies kan du blokere dem. Se vejledning her: .
+Hvis du ikke ønsker at modtage cookies kan du blokere dem. Se vejledning her: http://minecookies.org/cookiehandtering.
  
 2.4 Hvad cookies bruges til på vores website
 Cookies anvendes til at føre statistik over hvor antallet af brugere.

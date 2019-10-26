@@ -1,5 +1,5 @@
 Cookie Policy
-This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or looking at  which offers guidance for all modern browsers
+This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or looking at the About Cookies website which offers guidance for all modern browsers
  
 What are cookies?
 Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by online service providers to (for example) make their websites or services work, or to work more efficiently, as well as to provide reporting information.
@@ -34,9 +34,9 @@ Marketing cookies are used to track visitors across websites. The intention is t
 Facebook’s pixel collects three types of data whenever it is loaded:
 Http Headers – Anything present in HTTP headers. HTTP Headers is a standard web protocol sent by default between any browser request and any server on the internet. HTTP Headers include IP addresses, information about the web browser, page location, document, referrer, and user agent.
 Pixel-specific Data – This includes Pixel ID and the Facebook Cookie.
-Optional Values – Developers and marketers can optionally choose to send additional information about the visit through Custom Data events. Example custom data events are conversion value, page type, and more. Read more about custom data events 
+Optional Values – Developers and marketers can optionally choose to send additional information about the visit through Custom Data events. Example custom data events are conversion value, page type, and more. Read more about custom data events here
  
-For full details on Facebook Pixels and Ads please visit Facebook’s own guide – .
+For full details on Facebook Pixels and Ads please visit Facebook’s own guide – Facebook Pixels Terms.
  
 The marketing Cookies are:
 _js_datr: Used by Facebook for targeted advertising. By Facebook.com. Expires 2 years.
@@ -86,14 +86,14 @@ Delete all cookies when you close your browser
  
 Every web browser (such as Internet Explorer, Safari, Google Chrome and Firefox) lets you change your cookie preferences. The links below take you to the ‘Help’ sections for each of the major web browsers so that you can find out more about how to manage your cookies.
 Google Chrome
-
+Click here
 Safari
-
+Click here
 Internet Explorer
-
+Click here
 Firefox
-
+Click here
  
-We suggest consulting the Help section of your browser or taking a look at  which offers guidance for all modern browsers
+We suggest consulting the Help section of your browser or taking a look at the About Cookies website which offers guidance for all modern browsers
  
 

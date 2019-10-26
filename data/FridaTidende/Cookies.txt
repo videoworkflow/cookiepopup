@@ -4,8 +4,8 @@ Nødvendige (2) - Funksjonelle (0) - Statistiske (5) - Markedsføring (0) - Ukla
 Nødvendige 
 --------TABLE--------
  Navn, Leverandør, Formål, Utløpsdato
- PHPSESSID, , Kreves for at nettsiden skal fungere riktig., Session
- CookieInformationConsent, , Støtter nettstedets tekniske funksjoner., ett år
+ PHPSESSID, firdatidend.no, Kreves for at nettsiden skal fungere riktig., Session
+ CookieInformationConsent, www.firdatidend.no, Støtter nettstedets tekniske funksjoner., ett år
 ---------------------
 
 Statistiske 
@@ -21,5 +21,5 @@ Statistiske
 Uklassifiserte 
 --------TABLE--------
  Navn, Leverandør, Formål, Utløpsdato
- pjcTotal, , Venter, 2 år
+ pjcTotal, www.firdatidend.no, Venter, 2 år
 ---------------------

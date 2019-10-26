@@ -37,7 +37,7 @@ Partners (199)
  Betgenius
  Blismedia
  Bombora
- 
+ Booking.com
  C3 Metrics
  Cablato
  Celtra
@@ -84,7 +84,7 @@ Partners (199)
  gskinner
  Haensel AMS
  Havas Media France - DBi
- 
+ hurra.com
  IBM
  Ignition One
  Impact
@@ -106,7 +106,7 @@ Partners (199)
  Lotame
  Macromill group
  MainADV
- 
+ Manage.com
 " Marketing Science Consulting Group, Inc."
  MBR Targeting Gmbh
  MediaMath
@@ -152,7 +152,7 @@ Partners (199)
  RevJet
  RhythmOne LLC
  RN SSI Group
- 
+ Roq.ad
  RTB House
  Rubicon Project
  Salesforce DMP
@@ -162,7 +162,7 @@ Partners (199)
  Semasio GmbH
  SFR
  Sift Media
- 
+ Simpli.fi
  Sizmek
  Smaato
  Smadex

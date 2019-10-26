@@ -8,12 +8,12 @@ Når du for eksempel søker etter en restaurant på Google Maps eller ser en vid
 Vi behandler også disse typene informasjon når du bruker apper eller nettsteder som bruker Google-tjenester som annonser, Analytics og YouTube-spilleren.
  
 Hvorfor vi behandler dataene
-Vi behandler disse dataene for formålene som er beskrevet i, blant annet følgende:
+Vi behandler disse dataene for formålene som er beskrevet i retningslinjene våre, blant annet følgende:
 For at tjenestene våre skal kunne levere nyttig og mer tilpasset innhold, for eksempel mer relevante søkeresultater.
 For å forbedre kvaliteten på tjenestene våre og utvikle nye tjenester.
 For å levere annonser basert på interessene dine – for eksempel ting du har søkt etter, eller videoer du har sett på YouTube.
 For å forbedre sikkerheten ved å beskytte mot svindel og misbruk.
-For å utføre analyser og målinger for å forstå hvordan tjenestene våre brukes. Vi har også partnere som måler hvordan tjenestene våre brukes. om disse partnerne for spesifikk annonsering og måling.
+For å utføre analyser og målinger for å forstå hvordan tjenestene våre brukes. Vi har også partnere som måler hvordan tjenestene våre brukes. Finn ut mer om disse partnerne for spesifikk annonsering og måling.
  
 Samkjøring av data
 Vi bruker også disse dataene på tvers av tjenestene våre og enhetene dine for disse formålene. Vi bruker for eksempel data fra milliarder av søk for å opprette modeller for stavekontroll som vi bruker på alle tjenestene våre, og vi bruker data for å varsle deg og andre brukere om potensielle sikkerhetsrisikoer.
@@ -21,21 +21,21 @@ Vi bruker også disse dataene på tvers av tjenestene våre og enhetene dine for
 Personverninnstillinger
 Det er mange personverninnstillinger du kan bruke, selv når du er logget av, for å få den Google-opplevelsen du vil ha.
 Kontrollér om søkeresultater skal påvirkes av søkeaktivitet i denne nettleseren
-
+Endre søkeinnstillingene
  
 Juster hvilke typer Google-leverte annonser du ser
-
+Endre annonseinnstillingene
  
 Velg om YouTube-opplevelsen din skal påvirkes av søke- og seeraktiviteten din på YouTube i denne nettleseren eller ikke
-
+Endre YouTube-innstillingene
 
  
-Tips: Hvis du Google-kontoen din før du velger å godta noe, husker vi valget på alle de påloggede enhetene og nettleserne dine.
+Tips: Hvis du logger på Google-kontoen din før du velger å godta noe, husker vi valget på alle de påloggede enhetene og nettleserne dine.
  
  
 Andre alternativer
 Juster personverninnstillingene
-Du kan for eksempel kontrollere hvordan søkeaktiviteten brukes når du ikke er pålogget. Eller du kan administrere YouTube-søke- og seeraktiviteten din i denne nettleseren.
+Du kan for eksempel kontrollere hvordan søkeaktiviteten brukes når du ikke er pålogget. Eller du kan administrere YouTube-søke- og seeraktiviteten din i denne nettleseren. Juster innstillingene dine nå
  
 Innstillinger for cookies
 Cookies er en viktig del av teknologien i nettleseren din, og de gir nettsteder muligheten til å gjøre Internett-opplevelsen din bedre. For eksempel gjør cookies at valg av standardspråk på et nettsted huskes fra gang til gang.
@@ -44,11 +44,11 @@ Se i hjelperessursene for nettleseren din for å finne ut hvordan du kan justere
  
 Google Analytics
 Nettstedseiere bruker data som er samlet inn av Google Analytics for at nettstedene deres skal fungere bedre. Du kan imidlertid velge bort dette alternativet ved å laste ned og installere et nettlesertillegg.
-
+Last ned nettlesertillegg
 
  
 Unngå å se denne påminnelsen igjen
-Hvis du slår av informasjonskapsler i nettleseren din eller regelmessig fjerner informasjonskapslene dine, ser du denne personvernpåminnelsen igjen fordi vi ikke vet at du allerede har sett den. Et annet alternativ er å Google-kontoen din. Hvis du gjør det, vet vi at du har sett denne påminnelsen.
+Hvis du slår av informasjonskapsler i nettleseren din eller regelmessig fjerner informasjonskapslene dine, ser du denne personvernpåminnelsen igjen fordi vi ikke vet at du allerede har sett den. Et annet alternativ er å logge på Google-kontoen din. Hvis du gjør det, vet vi at du har sett denne påminnelsen.
  
  
 

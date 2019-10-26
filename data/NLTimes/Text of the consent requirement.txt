@@ -12,7 +12,7 @@ Advertisement cookies
 NLTimes shows advertisements (banner ads) as a means of income. The networks that deliver the ads place cookies in order to customize the advertisements to your personal preferences. These cookies are placed by Improve Digital, AppNexus and AdSense.
  
 Google cookies
-NLTimes uses Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google’s privacy policy is available at:.
+NLTimes uses Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.
  
 Sharing Cookies
 NLTimes allows you to share pages on this website through social networks. The widgets that enable this use cookies for this functionality.

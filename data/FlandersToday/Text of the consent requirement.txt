@@ -22,7 +22,7 @@ Your PC, laptop, Smartphone and tablet and all the applications available thereo
 Personal data and their use
 Some of the used files and technology described herein contain data which may identify you directly or indirectly (personal data). The Mediahuis Group uses such personal data for the following purposes: functioning and use of the website; customer management; market research (e.g. for the CIM Internet Study) and direct marketing; list broking (trade in commercial information) and resume and job services (providing information according to your profile).
  
-Your personal data may be passed on to companies which process data (processors) for and on behalf of Mediahuis, to commercial partners and to affiliated companies. For more information and details about your rights in relation to the processing of personal data, please refer to our.
+Your personal data may be passed on to companies which process data (processors) for and on behalf of Mediahuis, to commercial partners and to affiliated companies. For more information and details about your rights in relation to the processing of personal data, please refer to our privacy policy.
  
 To what end does Mediahuis use files and technology? 
 Mediahuis uses files and technology for the following purposes:
@@ -59,11 +59,11 @@ Disabling certain files and technology
 You may disable cookies, web beacons, log files and other files and technology used by Mediahuis and/or third parties to the extent and in the manner described below.  Removing and/or refusing cookies, web beacons, log files, ad-block detection and other files and technology may result in suboptimal functioning of the website.
  
 Disabling cookies:
-Google Chrome: about removing existing cookies and refusing new cookies. Click
-Internet Explorer: about removing existing cookies and refusing new cookies. Click
-Firefox/Mozilla: about refusing new cookies. Click
-Firefox/Mozilla: about removing existing cookies. Click
-Safari: about removing existing cookies and refusing new cookies. Click
-Opera: about removing existing cookies and refusing new cookies. Click
+Google Chrome: about removing existing cookies and refusing new cookies. Click here
+Internet Explorer: about removing existing cookies and refusing new cookies. Click here
+Firefox/Mozilla: about refusing new cookies. Click here
+Firefox/Mozilla: about removing existing cookies. Click here
+Safari: about removing existing cookies and refusing new cookies. Click here
+Opera: about removing existing cookies and refusing new cookies. Click here
  
 

@@ -1,149 +1,149 @@
 Internet-Based Advertising Cookies (146)
 --------TABLE--------
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ Acuity Ads
+ Acxiom
+ ADARA Analytics
+ AddThis
+ Adform
+ AdLedge
+ Adloox
+ Adobe
+ Adrime Weborama
+ AdRoll Group
+ Advertising.com
+ Adyoulike
+ Alhambra Automoviles
+ Amazon
+ Amazon Ad System
+ Amazon Associates
+ Amobee
+ AOL Advertising
+ Apester
+ AppNexus
+ Avocet
+ AWIN
+ Awin (Affiliate)
+ Bidswitch
+ BidTellect
+ BlockThrough
+ Captify
+ Celtra
+ Centro
+ Cloud.IQ
+ CloudFlare
+ comScore
+ Conversant
+ Cool-Tabs
+ Crazy Egg
+ Criteo
+ Cubed Attribution
+ DataXu
+ Digiteka
+ DigiTrust
+ District M
+ DoubleVerify
+ Dynata
+ Eventbrite
+ Exponential Interactive
+ Eyeota
+ Facebook
+ Flashtalking
+ FleetData
+ Giphy
+ Global Web Index
+ Google Analytics
+ Google Inc.
+ GroupM
+ House of Kaizen
+ Impression Desk
+ Improve Digital
+ Index Exchange (Formerly Casale Media)
+ Innovid
+ Inspired Mobile
+ Integral Ad Science (formerly AdSafe)
+ Invibes
+ IPONWEB
+ Jivox
+ Just Premium
+ Kantar Media
+ Kantar World
+ Kissmetrics
+ Ligatus
+ LiveIntent
+ Loop Me
+ Lotame
+ MediaMath
+ Meetrics
+ Merkle
  Microsoft Bing Ads (formerly Microsoft adCenter)
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ Millward Brown
+ Moat
+ Mobile Professionals
+ Narrativ (Formerly Bam.ai)
+ Nativo
+ Neustar
+ Nielsen
+ Oath
+ OneTag
+ OpenX
+ Oracle Corporation
+ Outbrain
+ PaperPlanes
+ Parse.ly
+ Piano (Previously Tinypass)
+ Pinterest
+ Platform161
+ Playbuzz
+ Playground XYZ
+ Polar
+ Polar Mobile Group
+ PubMatic
+ Rakuten Group
+ Rastreator
+ Research Now
+ ResearchBods
+ Rezonence
+ Rocket Fuel
+ RTB House
+ Rubicon Project
+ RUN
+ Run Inc.
+ Salesforce
+ Scene Stealer
+ ScribbleLive
+ Seedtag
+ Selligent (formerly StrongMail)
+ Sizmek
+ SkimLinks
+ Smaato
+ Smart AdServer
+ smartclip
+ Sociomantic Labs GmbH
+ Sonobi
+ sovrn (formerly Lijit Networks)
+ Spotify
+ SpotXchange
+ StackAdapt
+ Strossle (formerly Sprinkle)
+ SurveyMonkey
+ Taboola
+ Tapad
+ Teads
+ The Trade Desk
+ TradeDoubler
+ Tribal Fusion
+ TripleLift
+ Twitter
+ Undertone
+ Unruly
+ Valassis (formerly Brand.net)
+ Vidoomy
+ VisualIQ
+ Weborama
+ Whiteops
+ Widespace
+ Xaxis International
+ Yahoo!
+ Zeddit
+ ZeoTap
 ---------------------

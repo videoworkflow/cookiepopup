@@ -7,8 +7,8 @@ Vi använder statistik i samlad (aggregerad) form om användare, trafik och traf
 Om du inte accepterar att det sparas cookies i din dator kan du ändra inställningarna i din webbläsare (Internet Explorer, Netscape, Opera m fl) så att den inte sparar cookies.”
 Du kan tacka nej till cookies men risken är då att webbplatsen kommer att fungera sämre och att du inte får tillgång till alla funktioner. Hur du exakt gör beror på vilken webbläsare du använder. Se efter i webbläsarens hjälptexter. Oftast letar du under menyn inställningar/preferences och väljer ett alternativ ungefär ”Acceptera inte cookies” eller liknande. Nedan finns en instruktion för de vanligaste webbläsarna.
 Enligt den nya lagen om elektronisk kommunikation som trädde i kraft den 25 juli 2003 skall alla besökare på webbplatser som använder cookies informeras om detta. Besökaren skall även ges möjlighet att förhindra att cookies lagras på datorn.
-Har du frågor? Mejla oss. (länk till)
-Läs mer om cookies: ()
+Har du frågor? Mejla oss. (länk till webbred@skd.se)
+Läs mer om cookies: (länk till Post- och telestyrelsen)
 Här finns information om hur du väljer bort cookies i de vanligaste webbläsarna.
  
 

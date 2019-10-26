@@ -27,7 +27,7 @@ Vis mer
 NB: Etter at data er slettet vil de likevel kunne spares i inntil 180 dager i backuper. Backuper lagres med høy sikkerhet og begrenset tilgang, og er nødvendig for å kunne drive feilsøking og ivareta brukerenes og datasystemenet sikkerhet.
  
 Dine rettigheter:
-Som bruker av dette nettstedet kan du for å få dine data utlevert og/eller slettet.
+Som bruker av dette nettstedet kan du kontakte avisen for å få dine data utlevert og/eller slettet.
 Har du en brukerkonto/abonnement, kan du logge inn i din brukerprofil og laste ned dine lagrede data, samt slette din brukerkonto og tilhørende data når som helst.
 Vis mer
  

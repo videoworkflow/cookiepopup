@@ -6,8 +6,8 @@ Third party cookies
  Cookie Name, What's it for
  First Party Cookies (Internal Cookies), To provide you TIL Services
  Scorecard Research by comScore," Comscore provide us with analytical information about our users. This data is then used for sales pitches, editorial, strategy, business development and product development. For more information about what how comScore use this data, please visit the Scorecard Research Privacy Policy. Opt-out of ScoreCard Research cookies"
- Google Analytics, 
+ Google Analytics, Google provides us with analytical information about the our users. Google Analytics sets a cookie in order to evaluate use of those services and compile a report for us. Opt-out of Google Analytics cookies
  Chartbeat," Chartbeat tracks and stores behavioural data that has been anonymized, and the product works without the need for personally identifiable information."
- Google DoubleClick, 
+ Google DoubleClick, We uses Google DoubleClick to measure the effectiveness of our online marketing campaigns. Opt-out of DoubleClick cookies
  Others Slike, Live streaming and videos on demand.
 ---------------------

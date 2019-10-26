@@ -10,7 +10,7 @@ We place and access Cookies on your Computer; these Cookies are known as “firs
 You can choose whether to accept Cookies by changing the settings on your browser. However, if you disable this function (or keep this function disabled, as set by default by certain browsers), your experience on the Site may be diminished and some features may not work as intended.
 2. What Cookies Do We Use?
 Below we list the different types of Cookies that are used on the Site that you are visiting.
-To the extent any personal information is collected through first-party Cookies, our applies and complements this Cookie Policy. Personal information collected through a third-party Cookie is subject to the privacy policy of that third party, and not our Privacy Policy.
+To the extent any personal information is collected through first-party Cookies, our Privacy Policy applies and complements this Cookie Policy. Personal information collected through a third-party Cookie is subject to the privacy policy of that third party, and not our Privacy Policy.
 Essential Cookies
 Essential Cookies enable you to navigate the Site and to use its services and features. Without these necessary Cookies, the Site will not perform as smoothly for you as we would like it to and we may not be able to provide the Site or certain services or features.
 --------TABLE--------
@@ -64,9 +64,9 @@ Safari
 Safari Mobile (iPhone and iPads)
 Firefox
 Microsoft Edge
-For more information about other commonly used browsers, please refer to.
+For more information about other commonly used browsers, please refer to http://www.allaboutcookies.org/manage-cookies/.
 Please be aware that if Cookies are disabled, not all features of the Site may operate as intended.
-To opt-out of participating in Google Analytics data follow the instructions:.
-If the Site has ads, some of the network advertisers, ad agencies and other vendors we work with to serve ads on our Site, third-party websites and across the internet, or analytics providers that provide us with information regarding the use of the Site and effectiveness of ads are members of the Network Advertising Initiatives, the Digital Advertising Alliance Self-Regulatory Program for Online Behavioural Advertising and/or the European Interactive Digital Advertising Alliance. To opt out from receiving interest-based advertising from some or all of the participating companies, please visit and. Please note opting out through these mechanisms does not mean you will no longer be served advertising. You will still receive other types of online advertising from participating companies and any type of advertising from non-participating companies, and the web sites you visit may still collect information for other purposes.
+To opt-out of participating in Google Analytics data follow the instructions: https://tools.google.com/dlpage/gaoptout.
+If the Site has ads, some of the network advertisers, ad agencies and other vendors we work with to serve ads on our Site, third-party websites and across the internet, or analytics providers that provide us with information regarding the use of the Site and effectiveness of ads are members of the Network Advertising Initiatives, the Digital Advertising Alliance Self-Regulatory Program for Online Behavioural Advertising and/or the European Interactive Digital Advertising Alliance. To opt out from receiving interest-based advertising from some or all of the participating companies, please visit http://www.aboutads.info/choices/ and http://www.youronlinechoices.eu/. Please note opting out through these mechanisms does not mean you will no longer be served advertising. You will still receive other types of online advertising from participating companies and any type of advertising from non-participating companies, and the web sites you visit may still collect information for other purposes.
  
 

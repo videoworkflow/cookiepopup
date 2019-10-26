@@ -1,4 +1,4 @@
-
+Cookie Policy
 
 
 1. Cookies are text files which are downloaded to the user’s device and which servers use to recognize the device when it connects with server again. Cookies are downloaded each time the user enters and exits a website. They are not used to establish the user’s identity, but to recognize the device.

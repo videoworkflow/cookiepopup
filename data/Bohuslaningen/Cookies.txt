@@ -102,7 +102,7 @@ Adform
  EBFCD<BannerID>, , 7 dagar, Identifies daily frequency capping for expanding banner
  EBFC<BannerID>, , 7 dagar, Identifies total frequency capping for expanding banner
  CFFC<TagID>, , 7 dagar, Compound banner frequency capping
- , , , 
+ Digitru.st, , , 
 ---------------------
 Klarna cookies 
 --------TABLE--------
@@ -141,9 +141,9 @@ Cookies för cachening av innehåll för snabbare leverans
 
 Övriga cookies
 --------TABLE--------
- 
- 
- 
- 
- 
+ - Cookies från MatchAds
+ - Cookies från Rubicon
+ - Cookies från SpotX
+ - Cookies från Leeads
+ - Cookies från Brain
 ---------------------

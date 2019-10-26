@@ -53,7 +53,7 @@ Technically necessary cookies (1) - Performance cookies (11) - Advertising cooki
  YSC, advertising cookies, YouTube LLC, These cookies are used by Youtube as part of their embedded services on the Websites (sharing etc.). More information about Youtube’s cookies can be found in their cookie policy., End of Session
  PREF, advertising cookies, YouTube LLC, This cookie is used by Google to set each of its users’ preferred language preferences., 8 months
  put_1902, advertising cookies, .rubiconproject.com," Bidder identifiers placed at the request of a bidder, to sync a bidder’s independent information about an end user with Rubicon Proje allow the bidder (not Rubicon Project) to bid on ads through the Rubicon Project advertising exchange based on behavioral targeting information known only to the bidder (i.e., the user identifier will be transmitted in a bid request to the bidder that caused this cookie to be placed).", 1 month
- pux, advertising cookies, , Dates for when information in the put_* and sput cookies expires and should be refreshed., 1 year
+ pux, advertising cookies, eus.rubiconproject.com, Dates for when information in the put_* and sput cookies expires and should be refreshed., 1 year
  yabs-sid, performance cookies, YANDEX LLC, Yandex.Metrics service analytics cookie., End of Session
 ---------------------
 

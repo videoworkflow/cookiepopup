@@ -27,7 +27,7 @@ Cookie                        : Small text files which visited websites store in
  
 Privacy and Cookie Policy: This Anadolu Agency Turkish Anonymous Company Privacy and Cookie Policy,
  
-Website                       : and (...) websites owned and managed by Anadolu Agency,
+Website                       : www.aa.com.tr and (...) websites owned and managed by Anadolu Agency,
  
 Personal Data         	: Any information relating to an identified or identifiable natural person,
  
@@ -43,7 +43,7 @@ Data Processor       	: Any natural or legal person who processes Personal Data 
  
 Data Controller      	: Any natural or legal person who determines the purposes and means of the processing of Personal Data, and who is responsible for the establishment and management of the data saving system,
  
-Visitor                        : Persons who use Anadolu Agency’s websites, (…) online for any kind of aim.
+Visitor                        : Persons who use Anadolu Agency’s websites www.aa.com.tr, (…) online for any kind of aim.
  
  
 PROCESSED PERSONAL DATA and PURPOSES of PROCESSING

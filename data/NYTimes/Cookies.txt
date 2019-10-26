@@ -26,7 +26,7 @@ Preference Cookie
  NYT_W2, Remember weather preferences, 1 year, go to site
  NYT-Edition, Remember the selected language edition, 1 year, go to site
  nyt-pref, Remember preferences for the homepage widget, 1 year, go to site
- NYT-T, Remember opt-out preferences, 10 years, 
+ NYT-T, Remember opt-out preferences, 10 years, go to site
 --------------------- 
 
 

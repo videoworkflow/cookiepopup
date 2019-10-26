@@ -50,7 +50,7 @@ Strictly necessary cookies
  ckps_id_ptrt, Provides a redirection URL at the end of sign in & registration events.
  ckps_tap_​implicit," Stores content consumption information for non-signed in users, and information on promotional banners seen for BBC services on TVs."
  ckps_tap_users, Stores credentials information for signed in users on BBC services on TVs.
- , Stores information about Online Quality Survey.
+ ecos.dt, Stores information about Online Quality Survey.
  guid," In BBC Sounds, a cookie in the Radioplayer web console that sets an identifier for each unique browser to allow aggregated analysis."
  identitytoken, Indicates that a user is signed in.
  identitytoken (Transversal)," Remembers the visitor between sessions. Mainly for logging statistics. If not present, could not track repeat visits."

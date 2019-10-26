@@ -13,20 +13,20 @@ Uppgifterna kan komma att behandlas av våra leverantörer. Vi gör alltid vår 
 
 Enkätverktyget Hotjar
 
-Enkätsvar som skickas via verktyget lagras i anonymiserad form enligt Dataskyddsförordningen. Det är frivilligt att svara på våra enkäter, vill du inte få frågan om att svara på enkäter går det att avböja medverkan.
+Enkätsvar som skickas via verktyget Hotjar lagras i anonymiserad form enligt Dataskyddsförordningen. Det är frivilligt att svara på våra enkäter, vill du inte få frågan om att svara på enkäter går det att avböja medverkan här.
 
 
 Behandling av personuppgifter
 Utöver vad som framgår ovan behandlas dina personuppgifter på våra hemsidor och i våra appar i enlighet med vad som framgår nedan.
-
-
-
-
-
-
-
-
-
+SVT Barn-appar
+Bolibompa
+Melodifestivalen app
+SVT Språkplay
+Duo
+Musikhjälpen
+Spel på SVT Barn
+SVT Nyheter-appen
+SVT Sport-appen
  
 Cookies
 För att ge dig som besökare en så bra upplevelse av våra webbplatser som möjligt använder SVT cookies. Cookies används för att vi ska kunna se de val du tidigare gjort på våra webbplatser och för att ge oss möjlighet att förbättra våra webbplatser. Cookies används även för att mäta trafiken på våra webbplatser och för statistik.
@@ -53,14 +53,14 @@ Som användare har du möjlighet att ställa in om du vill att cookies ska få s
 
 SVT:s cookies håller bl.a. reda på vissa inställningar du gjort på våra webbplatser, t.ex. vilken region du valde senast du tittade på SVT:s regionala nyhetssidor eller på SVT Väder. Denna information används sedan när du surfar på SVT:s webbplatser för att underlätta för dig som besökare. Avaktiverar du cookies går du alltså miste om en rad fördelar på SVT:s webbplatser.
 
-Ytterligare information om cookies finns på Post- och telestyrelsens webbplats,.
+Ytterligare information om cookies finns på Post- och telestyrelsens webbplats, www.pts.se.
 
 
 Hitta och ta bort cookies
 
 Alla webbläsare är olika. Leta i hjälpfunktionen i din webbläsare för information om hur du ändrar cookie-inställningarna. Du kan själv radera alla cookies från din hårddisk. Detta gör du i din webbläsares inställningar.
 
-Du kan läsa mer om hur du tar bort cookies i din webbläsare
+Du kan läsa mer om hur du tar bort cookies i din webbläsare här.
 
 
 Cookies och local storage på SVT

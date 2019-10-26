@@ -1,7 +1,7 @@
 Privacy settings:
 Please select a privacy setting
 Deactivate all Activate all
- Third Parties
+Purposes Third Parties
 Purposes
 Information storage and access
 The storage of information, or access to information that is already stored, on your device such as advertising identifiers, device identifiers, cookies, and similar technologies.

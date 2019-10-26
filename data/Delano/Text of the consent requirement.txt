@@ -174,9 +174,9 @@ Nous pourrions fournir des produits et/ou des services payants dans le cadre du 
 Nous ne stockons ni ne collectons les détails de votre carte de paiement. Vous fournissez directement ces informations aux sous-traitants tiers chargés des paiements : l’utilisation qu’ils font de vos données à caractère personnel est régie par leur propre politique de confidentialité, que nous vous invitons à consulter lors du traitement d’un achat. Ces sous-traitants en charge des paiements respectent les exigences établies par la norme PCI-DSS. Cette norme de sécurité de l’industrie des cartes de paiement est gérée par le Conseil des normes de sécurité PCI, créé conjointement par des marques telles que Visa, Mastercard, American Express et Discover. Les exigences liées à la norme PCI-DSS garantissent le traitement sécurisé des informations de paiement.
 ​
 Les sous-traitants en charge des paiements avec qui nous travaillons sont :
-Google Play In-App Payments : leur politique de confidentialité peut être consultée à l’URL 
-Stripe : leur politique de confidentialité peut être consultée à l’URL 
-PayPal ou Braintree : leur politique de confidentialité peut être consultée à l’URL 
+Google Play In-App Payments : leur politique de confidentialité peut être consultée à l’URL https://www.google.com/policies/privacy/
+Stripe : leur politique de confidentialité peut être consultée à l’URL https://stripe.com/us/privacy
+PayPal ou Braintree : leur politique de confidentialité peut être consultée à l’URL https://www.paypal.com/webapps/mpp/ua/privacy-full
 ​
 Liens vers d’autres sites
  

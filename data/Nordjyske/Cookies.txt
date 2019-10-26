@@ -3,12 +3,12 @@ Nødvendige (6) - Funktionelle (2) - Statistiske (30) - Marketing (54) - Uklassi
 Nødvendige 
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
- __RequestVerificationToken, , Understøtter integrationen af ​​en tredjeparts platform på websitet., Session
- LB, , Understøtter websitets tekniske funktioner., Session
- AWSELB, , Understøtter websitets tekniske funktioner., Session
- ai_session, , Påkrævet for at websitet kan fungere., 30 minutter
- ai_user, , Påkrævet for at websitet kan fungere., et år
- CookieInformationConsent, , Understøtter websitets tekniske funktioner., et år
+ __RequestVerificationToken, nordjyske.dk, Understøtter integrationen af ​​en tredjeparts platform på websitet., Session
+ LB, ssl.ditonlinebetalingssystem.dk, Understøtter websitets tekniske funktioner., Session
+ AWSELB, ssl.ditonlinebetalingssystem.dk, Understøtter websitets tekniske funktioner., Session
+ ai_session, nordjyske.dk, Påkrævet for at websitet kan fungere., 30 minutter
+ ai_user, nordjyske.dk, Påkrævet for at websitet kan fungere., et år
+ CookieInformationConsent, nordjyske.dk, Understøtter websitets tekniske funktioner., et år
 ---------------------
 
 Funktionelle 
@@ -40,7 +40,7 @@ Statistiske
  _ga, .ritzau.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 2 år
  _gat_nj, .nordjyske.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
  gig_hasGmid, .nordjyske.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
- srp, ," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
+ srp, ssl-nordjyske.tns-gallup.dk," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
  hasGmid, .gigya.com, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og for at imødekomme de enkelte brugers behov., 6 måneder
  cX_G, .nordjyske.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
  __bpn_uid, .userreport.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem formularer og visuelt indhold til analyse og rapporteringsformål., et år
@@ -59,13 +59,13 @@ Statistiske
  uuid, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  test, .m6r.eu, Understøtter integrationen af ​​en tredjeparts platform på websitet., en time
  mt_mop, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., en måned
- lang, , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ lang, cdn.syndication.twimg.com, Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
  c, .bidswitch.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  tuuid, .creative-serving.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  tuuid_lu, .creative-serving.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  cid_xxx, .ctnsnet.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  CMPRO, .casalemedia.com, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 3 måneder
- , , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ , www.facebook.com, Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
  cc, .de17a.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
  tuuid, .bidswitch.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  CMID, .casalemedia.com, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., et år
@@ -78,7 +78,7 @@ Statistiske
  NID, .google.com," Husker dine seneste søgninger, dine tidligere interaktioner med en annoncørs annoncer eller søgeresultater og dine besøg på en annoncørs websted for, at vise dig tilpassede annoncer på Google.", 6 måneder
  uuidc, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  matchgoogle, .w55c.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", en måned
- tuuid, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
+ tuuid, ads.programattik.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
  CMPS, .casalemedia.com, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 3 måneder
  euds, .rfihub.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., Session
  ruds, .rfihub.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., Session
@@ -94,7 +94,7 @@ Statistiske
  uid, .simpli.fi, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  tuuid_lu, .bidswitch.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  c, .creative-serving.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
- tuuid_lu, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
+ tuuid_lu, ads.programattik.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
  KTPCACOOKIE, .pubmatic.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., en dag
  KADUSERCOOKIE, .pubmatic.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
  everest_g_v2, .everesttech.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 2 år
@@ -113,11 +113,11 @@ Statistiske
 Uklassificerede 
 --------TABLE--------
  Navn, Udbyder, Formål, Udløb
- jubii_dfp_cx, , Afventer, Session
- SRVID, , Afventer, Session
+ jubii_dfp_cx, nordjyske.dk, Afventer, Session
+ SRVID, nordjyske.dk, Afventer, Session
  _rxuuid, .1rx.io, , et år
- nj_session_timestamp, , Afventer, Session
+ nj_session_timestamp, nordjyske.dk, Afventer, Session
  google_push, .bidswitch.net, , 5 minutter
- splitgroup, , , 14 dage
+ splitgroup, nordjyske.dk, , 14 dage
  cstp, .nordjyske.dk, Afventer, Session
 ---------------------

@@ -16,9 +16,9 @@ When this policy mentions “we” or “us,” it refers to the controller of y
 This privacy statement sets out how we will collect, handle, store and protect information about you when:
 providing services to you, by for example, giving you the opportunity, as a registered user of our Website, to post comments on our Disqus portal;
 you use “our Website” or;
-performing any other activities that form part of the operation of our business, such as for example, granting you, as a registered user of our Website, access to our as well as other services we provide for our registered users under the tab.
+performing any other activities that form part of the operation of our business, such as for example, granting you, as a registered user of our Website, access to our Digital Archive as well as other services we provide for our registered users under the Services tab.
  
-When we refer to “our Website” or “this Website” in this policy we mean.
+When we refer to “our Website” or “this Website” in this policy we mean www.timesofmalta.com.
  
 This privacy statement also contains information about when we share your personal data with other third parties (for example, our service providers).
  
@@ -79,7 +79,7 @@ When you participate in our polls.
 If you take part in our promotions and competitions which we may offer from time to time.
  
 Sharing our content:
-We allow our Website users to share our content through the ‘AddThis’ tool. Any information which you may give, such as your e-mail or even another person’s e-mail, is subject to ‘AddThis’ Policy and.
+We allow our Website users to share our content through the ‘AddThis’ tool. Any information which you may give, such as your e-mail or even another person’s e-mail, is subject to ‘AddThis’ Privacy Policy Policy and Terms of Service.
  
 Data we collect when you use our products and services. This includes the amount, frequency, type, location, origin and recipients:
 Payment and transaction data, such as for example, when you use our Premium services.
@@ -97,7 +97,7 @@ to manage and improve our Website;
 to manage and respond to any request you submit through our Website.
  
 Google Analytics
-Through Google Analytics we determine how often users visit our site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics and the . You can prevent Google Analytics from recognising you on return visits to this site by disabling cookies on your browser.
+Through Google Analytics we determine how often users visit our site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Service and the Google Privacy Policy . You can prevent Google Analytics from recognising you on return visits to this site by disabling cookies on your browser.
  
 E-mail
 Using the e-mail addresses provided at registration, we periodically send promotional e-mail to our subscribers about services we offer and our advertisers. You can indicate on the registration form that you do not wish to receive e-mail information from us or our advertisers. We may contact you regarding changes to the subscriber agreement as well as to confirm registration.
@@ -140,7 +140,7 @@ If the change to our Group happens, then other parties may use your data in the 
  
 Sending data outside of the EEA
 Please note that some of the recipients of your personal data referenced above may be based in countries outside of the European Economic Area (EEA) whose laws may not provide the same level of data protection. In the event that we do so, we will ensure that there are adequate safeguards in place by means of a data transfer agreement approved by the Information and Data Protection Commissioner in Malta or based on standard contractual clauses approved by the European Commission for transfers of personal data to third countries.
-Read more on the.
+Read more on the EU data protection site.
  
 What if you choose not to give personal information?
 We may need to collect personal information by law, or under the terms of a contract, we have with you.
@@ -191,7 +191,7 @@ Malta
 You may also use these contact details if you wish to make a complaint to us relating to your privacy.
  
 Right to complain
-If you are unhappy with the way we have handled your personal data or any privacy query or request that you have raised with us, you have a right to complain to the Office of the Information and Data Protection Commissioner in Malta or the relative data protection authority in your country. Find out on the IDPC website how to.
+If you are unhappy with the way we have handled your personal data or any privacy query or request that you have raised with us, you have a right to complain to the Office of the Information and Data Protection Commissioner in Malta or the relative data protection authority in your country. Find out on the IDPC website how to send a compliant.
  
 Changes to this privacy statement
 We may modify or amend this privacy statement from time to time.

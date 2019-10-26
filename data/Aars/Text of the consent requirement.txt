@@ -1,7 +1,7 @@
 Cookiepolitik
  
 Introduktion
-Når du besøger vores website, indsamles der oplysninger om dig, som bruges til at tilpasse og forbedre vores indhold og til at øge værdien af de annoncer, der vises på siden. Hvis du ikke ønsker, at der indsamles oplysninger, bør du slette dine cookies () og undlade videre brug af websitet. Nedenfor har vi uddybet, hvilke informationer der indsamles, deres formål og hvilke tredjeparter, der har adgang til dem.
+Når du besøger vores website, indsamles der oplysninger om dig, som bruges til at tilpasse og forbedre vores indhold og til at øge værdien af de annoncer, der vises på siden. Hvis du ikke ønsker, at der indsamles oplysninger, bør du slette dine cookies (se vejledning) og undlade videre brug af websitet. Nedenfor har vi uddybet, hvilke informationer der indsamles, deres formål og hvilke tredjeparter, der har adgang til dem.
  
 Cookies
 Websitet anvender ”cookies”, der er en tekstfil, som gemmes på din computer, mobil eller tilsvarende med det formål at genkende den, huske indstillinger, udføre statistik og målrette annoncer. Cookies kan ikke indeholde skadelig kode som f.eks. virus.
@@ -10,7 +10,7 @@ Se vejledning: http://minecookies.org/cookiehandtering
 Hvis du sletter eller blokerer cookies, vil annoncer kunne blive mindre relevante for dig og optræde hyppigere. Du kan desuden risikere, at websitet ikke fungerer optimalt samt at der er indhold, du ikke kan få adgang til.
 Websitet indeholder cookies fra tredjeparter, der i varierende omfang kan omfatte:
 Google Analytics
-Se også listen over  
+Se også listen over hyppige tredjeparter ved digital annoncering 
 
 Generelt
 Personoplysninger er alle slags informationer, der i et eller andet omfang kan henføres til dig. Når du benytter vores website, indsamler og behandler vi en række sådanne informationer. Det sker f.eks. ved alm. tilgang af indhold, hvis du tilmelder dig vores nyhedsbrev, deltager i konkurrencer eller undersøgelser/voxpops, registrerer dig som bruger eller abonnent, tipper en nyhed, øvrig brug af services eller foretager køb via websitet og lignende.
@@ -35,7 +35,7 @@ Vi benytter herudover en række tredjeparter til opbevaring og behandling af dat
 Videregivelse af personoplysninger som navn og e-mail m.v. vil kun ske, hvis du giver samtykke til det. Vi anvender kun databehandlere i EU eller i lande, der kan give dine oplysninger en tilstrækkelig beskyttelse. 
 Indsigt og klager
 
-Du har ret til at få oplyst hvilke personoplysninger, som vi behandler om dig. Du kan desuden til enhver tid gøre indsigelse mod, at oplysninger anvendes. Du kan også tilbagekalde dit samtykke til, at der bliver behandlet oplysninger om dig. Hvis de oplysninger, der behandles om dig, er forkerte, har du ret til, at de bliver rettet eller slettet. Henvendelse herom kan ske til: [  webmaster@aars.dk  ]. Hvis du vil klage over vores behandling af dine personoplysninger, har du også mulighed for at tage kontakt til .
+Du har ret til at få oplyst hvilke personoplysninger, som vi behandler om dig. Du kan desuden til enhver tid gøre indsigelse mod, at oplysninger anvendes. Du kan også tilbagekalde dit samtykke til, at der bliver behandlet oplysninger om dig. Hvis de oplysninger, der behandles om dig, er forkerte, har du ret til, at de bliver rettet eller slettet. Henvendelse herom kan ske til: [  webmaster@aars.dk  ]. Hvis du vil klage over vores behandling af dine personoplysninger, har du også mulighed for at tage kontakt til Datatilsynet.
  
 Udgiver
 Websitet ejes og publiceres af:

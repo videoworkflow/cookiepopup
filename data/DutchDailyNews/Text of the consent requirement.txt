@@ -8,17 +8,17 @@ We will never (and will not allow any third party) use the statistical analytics
  
 Disabling and enabling cookies
 You have the ability to accept or decline cookies by modifying the settings on your browser. In order to manage your cookies, please select your browser from the list below and follow the instructions:
-
-
-
-
-
+Internet Explorer
+Chrome
+Safari
+Firefox
+Opera
  
 Mobile devices:
-
-
-
-
+Android
+Safari
+Windows Phone
+Blackberry
  
 External Links
 This site contains links to some other sites. DutchDailyNews.com and its authors are not responsible for the privacy practices or the content of such websites.

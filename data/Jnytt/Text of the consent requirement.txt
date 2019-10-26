@@ -8,13 +8,13 @@ En personuppgift är information som går att knyta till dig, t.ex. namn, adress
 Varifrån får vi dina personuppgifter
 Det är i de flesta fall du själv som är den främsta källan till de personuppgifter som vi har tillgång till, exempelvis när du fyller i namn, e-postadress, mobiltelefonnummer och leveransadress när du anmäler intresse för en tjänst eller uppdaterar personuppgifter i samband med ett nyhetsbrev, prenumeration och liknande.
 Flera av de tjänster som vi har är beroende av dina personuppgifter. Varje gång vissa av dina personuppgifter är nödvändiga för en viss produkt eller tjänst kommer vi tydligt ange att dessa är obligatoriska i ett avtal. Krävs ditt samtycke för en viss tjänst framgår detta också tydligt.
-Vi använder cookies på våra webbplatser., samt om våra produkter. Hall Media använder dem för att lära känna dig och anpassa upplevelsen till dina behov när du använder Hall Medias tjänster. Vi sparar ingen personligt identifierbar information i cookies och är noga med att följa riktlinjer från våra leverantörer.
+Vi använder cookies på våra webbplatser. Här finns mer information om hur dessa hanteras, samt om våra produkter. Hall Media använder dem för att lära känna dig och anpassa upplevelsen till dina behov när du använder Hall Medias tjänster. Vi sparar ingen personligt identifierbar information i cookies och är noga med att följa riktlinjer från våra leverantörer.
 Hall Media har ansvaret
 Det är Hall Media som enligt lagen är personuppgiftsansvarig. Det innebär att om du prenumererar på en produkt från oss, anmäler att du vill ha nyhetsbrev från Hall Media eller nyttjar våra nyhetsappar och webbplatser så är det Hall Media som ansvarar för dina personuppgifter.
 Vi tar ansvar för dina personuppgifter
-Vi säljer, handlar, eller på annat sätt överför inte personligt identifierbar information till utomstående parter. Däremot har vi samarbeten med betrodd tredjepart som hjälper oss att driva våra produkter. Med dessa partners har vi upprättat biträdesavtal där det tydligt anges att informationen är konfidentiell. Dessa partners kan hantera informationen i tredje land genom adekvat skyddsnivå då de har anslutit sig till.
+Vi säljer, handlar, eller på annat sätt överför inte personligt identifierbar information till utomstående parter. Däremot har vi samarbeten med betrodd tredjepart som hjälper oss att driva våra produkter. Med dessa partners har vi upprättat biträdesavtal där det tydligt anges att informationen är konfidentiell. Dessa partners kan hantera informationen i tredje land genom adekvat skyddsnivå då de har anslutit sig till Privacy Shield.
 Du har rättigheter
-Enligt EU:s dataskyddslagstiftning har du som individ vissa lagstadgade rättigheter i relation till de personuppgifter vi hanterar om dig. Du har rätt att få tillgång till dina personuppgifter, rätt till rättning och radering. Du har också rätt att klaga till den nationella dataskyddsmyndigheten. I Sveriges fall vänder du dig till.
+Enligt EU:s dataskyddslagstiftning har du som individ vissa lagstadgade rättigheter i relation till de personuppgifter vi hanterar om dig. Du har rätt att få tillgång till dina personuppgifter, rätt till rättning och radering. Du har också rätt att klaga till den nationella dataskyddsmyndigheten. I Sveriges fall vänder du dig till Datainspektionen.
 
 Ändamål och laglig grund för behandingen av dina personuppgifter
 Dina personuppgifter, som användare, behandlas för följande ändamål med stöd av den lagliga grund som anges nedan.
@@ -56,7 +56,7 @@ Vill du inte ha ett personaliserat innehåll tackar du nej i cookieinformationen
 Hur länge vi behåller dina personuppgifter
 Vi sparar dina personuppgifter så länge de behövs för ovan angivna ändamål och så länge du är kund eller så länge det måste sparas på grund av lagkrav. Efter avslutad prenumeration behålls uppgifterna i 12 månader för att kunna upprätthålla kvalitet på vår statistik. Därefter tas uppgifterna bort eller avidentifieras. Våra prenumerations- och annonssystem har stöd för att avidentifiera information.
 Vem du kontaktar
-Om du vill utöva någon av dina lagstadgade rättigheter ber vi dig att skicka en skriftlig och egenhändigt undertecknad begäran till angiven adress nedan. Du kan också alltid kontakta kundservice via vår om du har frågor angående behandlingen av dina personuppgifter.
+Om du vill utöva någon av dina lagstadgade rättigheter ber vi dig att skicka en skriftlig och egenhändigt undertecknad begäran till angiven adress nedan. Du kan också alltid kontakta kundservice via vår hemsida om du har frågor angående behandlingen av dina personuppgifter.
 Hall Media AB
 Kundcenter
 551 80 Jönköping

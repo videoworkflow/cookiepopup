@@ -3,25 +3,25 @@ Nødvendige (6) - Funksjonelle (9) - Statistiske (19) - Markedsføring (61) - Uk
 Nødvendige
 --------TABLE--------
  Navn, Leverandør, Formål, Utløpsdato
- CookieInformationConsent, , Støtter nettstedets tekniske funksjoner., ett år
+ CookieInformationConsent, illvit.no, Støtter nettstedets tekniske funksjoner., ett år
  JSESSIONID, .nr-data.net, Samler informasjon om nettstedet og innholdet for rapportering og sikkerhet., Session
  PHPSESSID, .admin.typeform.com, Kreves for at nettsiden skal fungere riktig., 7 dager
- laravel_session, , Kreves for at nettsiden skal fungere riktig., 2 timer
- XSRF-TOKEN, , Venter, 2 timer
- XSRF-TOKEN, , Venter, 2 timer
+ laravel_session, iqtest.illvit.no, Kreves for at nettsiden skal fungere riktig., 2 timer
+ XSRF-TOKEN, iqtest.illvit.no, Venter, 2 timer
+ XSRF-TOKEN, karriereguiden.illvit.no, Venter, 2 timer
 ---------------------
 Funksjonelle 
 --------TABLE--------
  Navn, Leverandør, Formål, Utløpsdato
- id, , Støtter det visuelle innholdet og nettstedets elementer på nettsiden., en måned
- AWSELB, , Støtter det visuelle innholdet og nettstedets elementer på nettsiden., Session
- site, , Støtter det visuelle innholdet og nettstedets elementer på nettsiden., Session
+ id, www.thinglink.com, Støtter det visuelle innholdet og nettstedets elementer på nettsiden., en måned
+ AWSELB, www.thinglink.com, Støtter det visuelle innholdet og nettstedets elementer på nettsiden., Session
+ site, www.thinglink.com, Støtter det visuelle innholdet og nettstedets elementer på nettsiden., Session
  __cfduid, .interactives.dk, Brukes til å legge inn innhold fra tredjeparts nyhetsmedier til nettsiden., ett år
  __cfduid, .tinypass.com, Kreves for at nettsiden skal fungere riktig., ett år
- JSESSIONID, , Støtter det visuelle innholdet og nettstedets elementer på nettsiden., Session
+ JSESSIONID, www.thinglink.com, Støtter det visuelle innholdet og nettstedets elementer på nettsiden., Session
  __cfduid, .knightlab.com, Støtter det visuelle innholdet og nettstedets elementer på nettsiden., ett år
- cf_ob_info, , Kreves for at nettsiden skal fungere riktig., noen sekunder
- aff, , Støtter det visuelle innholdet og nettstedets elementer på nettsiden., en måned
+ cf_ob_info, illvit.no, Kreves for at nettsiden skal fungere riktig., noen sekunder
+ aff, www.thinglink.com, Støtter det visuelle innholdet og nettstedets elementer på nettsiden., en måned
 ---------------------
 Statistiske 
 --------TABLE--------
@@ -33,14 +33,14 @@ Statistiske
  _gid, .giphy.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., en dag
  cX_P, .illvit.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år
  UIDR, .scorecardresearch.com, Samler informasjon om brukerne og bruker disse til markedsanalyser og rapporteringsformål., 2 år
- _hjIncludedInSample, , Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., Session
+ _hjIncludedInSample, illvit.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., Session
  d, .quantserve.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 3 måneder
  cX_T, .illvit.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., en dag
  _gat_UA-xxx-xxx, .illvit.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett minutt
  _ga, .illvit.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 2 år
  vuid, .vimeo.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere for analyse og rapporteringsformål., 2 år
  mc, .quantserve.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år
- device_view, , Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., en måned
+ device_view, admin.typeform.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., en måned
  _gat_gtag_UA_xxx_xxx, .knightlab.com, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett minutt
  _vwo_uuid_v2, .illvit.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett år
  _dc_gtm_UA-xxx-xxx, .illvit.no, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde elementer med det formål å analysere og rapportere., ett minutt
@@ -63,13 +63,13 @@ Markedsføring
  matchgoogle, .w55c.net," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", en måned
  gi_u, .adhigh.net, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år
  uid, .turn.com," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", 6 måneder
- lang, , Støtter online markedsføring ved å samle inn informasjon om brukerne for å markedsføre produkter gjennom partnere og andre plattformer., Session
+ lang, cdn.syndication.twimg.com, Støtter online markedsføring ved å samle inn informasjon om brukerne for å markedsføre produkter gjennom partnere og andre plattformer., Session
  euds, .rfihub.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., Session
  rud, .rfihub.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år
  ruds, .rfihub.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., Session
  UserID1, .adfarm1.adition.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., 6 måneder
  b, .blismedia.com," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", ett år
- , , Støtter online markedsføring ved å samle inn informasjon om brukerne for å markedsføre produkter gjennom partnere og andre plattformer., Session
+ , www.facebook.com, Støtter online markedsføring ved å samle inn informasjon om brukerne for å markedsføre produkter gjennom partnere og andre plattformer., Session
  MUID, .bing.com," Identificerer unikke webbrowsere og bruges til reklame, website analyse og operationelle formål.", ett år
  AA003, .atdmt.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., 3 måneder
  cc, .de17a.com," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", ett år
@@ -94,7 +94,7 @@ Markedsføring
  B, .yahoo.com, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år
  __kuid, .adsby.bidtheatre.com," Samler informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å spore og analysere brukeradferd, for å møte de enkelte brukerbehov og å levere målrettet annonsering.", 7 dager
  _fbp, .illvit.no, Identifiserer nettlesere med det formål å levere annonser og analysetjenester., 3 måneder
- MUIDB, ," Identificerer unikke webbrowsere og bruges til reklame, website analyse og operationelle formål.", ett år
+ MUIDB, bat.bing.com," Identificerer unikke webbrowsere og bruges til reklame, website analyse og operationelle formål.", ett år
  __gads, .illvit.no, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., 2 år
  IDE, .doubleclick.net, Brukes til nettbasert markedsføring ved å samle inn informasjon om brukerne og deres aktivitet på nettstedet. Informasjonen brukes til å målrette annonsering til brukeren på forskjellige kanaler og enheter., ett år
  VISITOR_INFO1_LIVE, .youtube.com, Samler informasjon om brukerne og deres aktivitet på nettstedet gjennom innebygde videospillere med det formål å levere målrettet annonsering., 6 måneder
@@ -117,21 +117,21 @@ Uklassifiserte
  Navn, Leverandør, Formål, Utløpsdato
  __bid, .tinypass.com, , ett år
  visitor-id, .media.net, , ett år
- bonnierSegments, , , en dag
- bonnierUserAnonId, , Venter, ett år
+ bonnierSegments, illvit.no, , en dag
+ bonnierUserAnonId, europe-west1-bonnier-big-data.cloudfunctions.net, Venter, ett år
  __pvi, .illvit.no, , en dag
  ajs_group_id, .typeform.com, , ett år
- cf_use_ob, , , noen sekunder
+ cf_use_ob, illvit.no, , noen sekunder
  attribution_user_id, .typeform.com, , ett år
  ajs_anonymous_id, .typeform.com, , ett år
  ajs_user_id, .typeform.com, , ett år
- __pat, , , en måned
+ __pat, illvit.no, , en måned
  xbc, .illvit.no, , 2 år
  sessionId, .illvit.no, , Session
- uslogst, , , Session
+ uslogst, illvit.no, , Session
  __tbc, .illvit.no, , 2 år
- bonnierSegments, , , 17 timer
- bonnierSegments, , , 3 timer
- bonnierSegments, , , 15 timer
- bonnierSegments, , , en dag
+ bonnierSegments, iqtest.illvit.no, , 17 timer
+ bonnierSegments, karriereguiden.illvit.no, , 3 timer
+ bonnierSegments, bonnierexpeditions.no, , 15 timer
+ bonnierSegments, trivia.illvit.no, , en dag
 ---------------------

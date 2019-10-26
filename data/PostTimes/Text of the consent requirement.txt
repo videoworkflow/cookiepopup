@@ -1,5 +1,5 @@
 Cookie Policy
-In this Media Investments & Holding OÜ (registry code 14609223, address Rävala pst 4, 10143 Tallinn) conditions for the use of cookies (hereinafter the Terms), we will explain which cookies and similar technologies are used by the Media Investments & Holding Webpages (postimees.ee and all its subdomains and the mobile applications managed by Media Investments & Holding). Terms used in the Terms should be understood as defined by Media Investments & Holding.
+In this Media Investments & Holding OÜ (registry code 14609223, address Rävala pst 4, 10143 Tallinn) conditions for the use of cookies (hereinafter the Terms), we will explain which cookies and similar technologies are used by the Media Investments & Holding Webpages (postimees.ee and all its subdomains and the mobile applications managed by Media Investments & Holding). Terms used in the Terms should be understood as defined by Media Investments & Holding general terms of use.
  
 1. Cookies
 1.1. Cookies are small text files that are installed on the user's computer from the webpages that the user visits, unless the user has disabled the installation of all or some cookies in his/her browser settings. Cookies allow to recognize the user's device when visiting the webpages.
@@ -25,10 +25,10 @@ In this Media Investments & Holding OÜ (registry code 14609223, address Rävala
 3.1. Users can freely change their web browser settings so that their browser does not allow all or some of the cookies to be saved. Please note that if you do not allow the use of essential cookies, you will not be able to use the Webpage. In addition, all the most popular web browsers allow cookies to be deleted.
  
 4. For more information on managing cookies in your web browser:
-·       Internet Explorer:
-·       Chrome:
-·       Firefox:
-·       Opera:
-·       Safari:
+·       Internet Explorer: http://support.microsoft.com/kb/278835
+·       Chrome: https://support.google.com/chrome/answer/95647?hl=en
+·       Firefox: http://support.mozilla.org/en-US/kb/Clear%20Recent%20History
+·       Opera: https://www.opera.com/help/tutorials/security/privacy/
+·       Safari: http://support.apple.com/kb/PH5042
  
 

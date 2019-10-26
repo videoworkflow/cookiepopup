@@ -37,7 +37,7 @@ Data Aggregator/Supplier
  AOL Advertising
  Criteo
  Dotomi
- 
+ media.net
  MediaMath
  Quantcast
  ShareThis
@@ -51,7 +51,7 @@ Ad Server
  Adition Technologies AG
  Amobee
  AppNexus
- 
+ Clearstream.TV
  Delta Projects
  Flashtalking
  FreeWheel

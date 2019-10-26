@@ -31,7 +31,7 @@ First party cookies
  AkamaiAnalyticsDO_visitStartTime
  AMCV_951720B3535680CB0A490D45%40AdobeOrg
  AMCVS_951720B3535680CB0A490D45%40AdobeOrg
- 
+ amplitude_id_statswww.cbc.ca
  avcaff_captions
  avcaff_volume
  CBC_ID

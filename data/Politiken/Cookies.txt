@@ -13,7 +13,7 @@ Personalisering
  AdElement Media Solutions Pvt Ltd
  Adelphic LLC
  Adhese
- 
+ adhood.com
  Adikteev
  Adkernel LLC
 " ADMAN - Phaistos Networks, S.A."
@@ -60,7 +60,7 @@ Personalisering
  Codewise Sp. z o.o. Sp. k
  Collective Europe Ltd.
 " Collective, Inc. dba Visto"
- 
+ Colpirio.com
  Commanders Act
  Connatix Native Exchange Inc.
  Crimtan Holdings Limited
@@ -168,7 +168,7 @@ Personalisering
  Perform Media Services Ltd
  Permodo GmbH
  Pexi B.V.
- 
+ pilotx.tv
  PIXIMEDIA SAS
  Platform161
  Playbuzz Ltd.
@@ -280,7 +280,7 @@ Annoncevalg, levering og rapportering
  AddApptr GmbH
  Adelphic LLC
  Adhese
- 
+ adhood.com
  Adikteev
  Adkernel LLC
 " ADMAN - Phaistos Networks, S.A."
@@ -323,7 +323,7 @@ Annoncevalg, levering og rapportering
  Codewise Sp. z o.o. Sp. k
  Collective Europe Ltd.
 " Collective, Inc. dba Visto"
- 
+ Colpirio.com
  Commanders Act
  Connatix Native Exchange Inc.
  Crimtan Holdings Limited
@@ -431,7 +431,7 @@ Annoncevalg, levering og rapportering
  Parsec Media Inc.
  Permodo GmbH
  Pexi B.V.
- 
+ pilotx.tv
  Platform161
  PLAYGROUND XYZ EMEA LTD
  plista GmbH
@@ -540,7 +540,7 @@ Indholdsvalg, levering og rapportering
  ADARA MEDIA UNLIMITED
  AdElement Media Solutions Pvt Ltd
  Adhese
- 
+ adhood.com
  Adikteev
  Adkernel LLC
 " ADMAN - Phaistos Networks, S.A."
@@ -573,7 +573,7 @@ Indholdsvalg, levering og rapportering
  Codewise Sp. z o.o. Sp. k
  Collective Europe Ltd.
 " Collective, Inc. dba Visto"
- 
+ Colpirio.com
  Commanders Act
  Connatix Native Exchange Inc.
  Crimtan Holdings Limited
@@ -721,7 +721,7 @@ Måling
  ADARA MEDIA UNLIMITED
  AddApptr GmbH
  Adhese
- 
+ adhood.com
  Adikteev
  Adkernel LLC
 " ADMAN - Phaistos Networks, S.A."
@@ -757,7 +757,7 @@ Måling
  Cloud Technologies S.A.
  Collective Europe Ltd.
 " Collective, Inc. dba Visto"
- 
+ Colpirio.com
  Commanders Act
 " comScore, Inc."
  Connatix Native Exchange Inc.

@@ -3,14 +3,14 @@ När du besöker Dagens Vimmerby används cookies för att få vissa funktioner 
  
 Cookies är en datafil som lagras på din dator och som läses av din webbläsare. Filen påverkar inte din datorutrustning, utan är ett sätt för oss att förbättra din upplevelse på vår webbplats. Om du inte vill att vi sätter cookies i din webbläsare kan du ändra inställningarna i din webbläsare för att förhindra att detta sker.
  
-Vill du läsa mer om cookie-lagen kan du besöka.
+Vill du läsa mer om cookie-lagen kan du besöka http://cookielagen.se/om-lagen/.
  
-Vill du läsa om hur och varför Facebook sparar cookies kan du besöka.
+Vill du läsa om hur och varför Facebook sparar cookies kan du besöka https://www.facebook.com/help/206635839404055.
  
-Vill du läsa om hur och varför Add This sparar och använder cookies kan du besöka.
+Vill du läsa om hur och varför Add This sparar och använder cookies kan du besöka http://www.addthis.com/privacy.
  
-Vill du läsa om hur och varför Google använder cookies kan du besöka.
+Vill du läsa om hur och varför Google använder cookies kan du besöka https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage.
  
-Vill du läsa om hur och varför Twitter använder cookies kan du besöka.
+Vill du läsa om hur och varför Twitter använder cookies kan du besöka https://twitter.com/privacy.
  
 

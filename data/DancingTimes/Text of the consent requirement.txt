@@ -30,19 +30,19 @@ Third Party Cookies
 We use a selection of third party tools for performance monitoring, e-commerce, added functionality (for example viewing YouTube videos within a news post) and social media sharing. Dancing Times Ltd can’t be held responsible for how third party sites use Cookies or data.
 Below is more information about how these tools use cookies and links to the relevant sites. If you require further information about how these sites use Cookies we suggest you visit the links given or contact the companies directly.
  
-Google Analytics (Performance/Analytic cookies) –https://analytics.google.com/
+Google Analytics (Performance/Analytic cookies) – https://analytics.google.com/
 Google Analytics uses cookies to track how many individual unique users we have and how often they visit the website, which pages they view and how long they stay.
  
-WooCommerce (Shopping basket/session cookies) –https://woocommerce.com/
+WooCommerce (Shopping basket/session cookies) – https://woocommerce.com/
 Woocommerce uses cookies that contain information about a customer’s virtual shopping basket and helps Woocommerce know when the basket data changes. They also contain a unique code for each customer so that it knows where to find the shopping basket data in the database for each customer. No personal information is stored within these cookies.
  
-Youtube (Session/Persistent Cookies) –
+Youtube (Session/Persistent Cookies) – https://policies.google.com/technologies/cookies
 Youtube uses cookies to know whether you are logged in to a Youtube (or Google) account, whether you have watched a video before, to see at which point you stopped watching a video you previously viewed, to set language, volume and definition preferences, to suggest other similar videos you might like, to track video views and to target advertising.
 
-Vimeo (Session/Persistent Cookies) –
+Vimeo (Session/Persistent Cookies) – https://vimeo.com/cookie_policy
 Like Youtube, Vimeo uses cookies to know whether you have watched a video before, to see at which point you stopped watching a video you previously viewed, to set language, volume and definition preferences, to suggest other similar videos you might like, to track video views and to target advertising.
 
-Twitter –
+Twitter – https://help.twitter.com/en/rules-and-policies/twitter-cookies
 Twitter uses cookies to know whether you are logged in to Twitter, tracks which content you are interested in and tailors content or twitter feeds accordingly, to track views, and to target advertising. 
  
 What to do if you want to control the use of Cookies
@@ -50,13 +50,13 @@ You have the ability to accept or decline cookies using your web browser, but pl
 
 Most of the Cookies we use, including ‘Persistent’ Cookies expire after a set time. However Cookies that don’t, or Cookies that collect data about you can also be removed or declined by changing your web browser settings. The following links may be helpful:
 
-
-
-
+Cookie setting in Firefox
+Cookie setting in Safari
+Cookie setting in Internet Explorer
 Cookie setting in Chrome
+Cookie setting in Opera
 
-
-For more information about cookies and their use, please visit .
+For more information about cookies and their use, please visit All About Cookies.
 
 Please be aware that the above links are Third party websites and as such Dancing Times Ltd accept no liability for the instructions given on these sites.
 

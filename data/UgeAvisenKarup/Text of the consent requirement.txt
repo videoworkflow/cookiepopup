@@ -7,7 +7,7 @@ CVR-nr. 87111717
 Tlf.: 97 15 18 00
 E-mail: aoib@ikastavis.dk
 
-.
+Læs vores privatlivspolitik her.
 Cookies
 Silkeborg Avis A/S anvender cookies på ugeavisenkarup.dk. En cookie er en lille tekstfil, der lagres i din browser og for at kunne genkende din computer ved tilbagevendende besøg. Cookies anvendes til følgende formål:
 Forbedre oplevelse af ugeavisenkarup.dk
@@ -20,18 +20,18 @@ Du har til enhver tid mulighed for at slette cookies og dermed afbryde forbindel
 
 Du har ligeledes til enhver tid mulighed for at tilbagekalde det samtykke, du har afgivet til Silkeborg Avis A/S for ugeavisenkarup.dk. Det gør du ved at slette den cookie, der hedder mm-consent.
 
-Du kan læse mere om, hvordan du sletter cookies her:.
+Du kan læse mere om, hvordan du sletter cookies her: http://minecookies.org/cookiehandtering.
 Væsentlige partnere
 Google Analytics
-Anvendes til at måle trafikken på vores websites. Du kan fravælge cookies fra Google Analytics her:http://tools.google.com/dlpage/gaoptout
+Anvendes til at måle trafikken på vores websites. Du kan fravælge cookies fra Google Analytics her: http://tools.google.com/dlpage/gaoptout
 Google DoubleClick for Publishers
-Silkeborg Avis A/S anvender Google Doubleclick for Publishers til at afvikle bannerannoncer og målrette annoncer til specifikke indholdstyper. DoubleClick for Publishers optimerer visningen af bannerannoncer ud fra brugerens historik. DoubleClick for Publishers er en del af Googles produktportefølje. Du kan læse mere her:. Du kan også fravælge personaliserede bannerannoncer fra Google Doubleclick for Publishers her:https://www.google.com/settings/u/0/ads/authenticated
+Silkeborg Avis A/S anvender Google Doubleclick for Publishers til at afvikle bannerannoncer og målrette annoncer til specifikke indholdstyper. DoubleClick for Publishers optimerer visningen af bannerannoncer ud fra brugerens historik. DoubleClick for Publishers er en del af Googles produktportefølje. Du kan læse mere her: https://www.google.com/policies/technologies/ads/. Du kan også fravælge personaliserede bannerannoncer fra Google Doubleclick for Publishers her: https://www.google.com/settings/u/0/ads/authenticated
 Facebook Connect
-Anvendes til at kunne dele indhold på websitet. Læs mere om Facebooks privatlivspolitik her:https://www.facebook.com/about/privacy/#
+Anvendes til at kunne dele indhold på websitet. Læs mere om Facebooks privatlivspolitik her: https://www.facebook.com/about/privacy/#
 Concept CPH
-Silkeborg Avis A/S har et samarbejde med annoncenetværket Concept CPH. Læs mere om Concept CPHs privatlivspolitik her:https://docs.google.com/document/d/1cJGpMuM_lq8NZ1Fern2Q76rlyy9oNFpayATcssy_PUg/edit?usp=sharing
+Silkeborg Avis A/S har et samarbejde med annoncenetværket Concept CPH. Læs mere om Concept CPHs privatlivspolitik her: https://docs.google.com/document/d/1cJGpMuM_lq8NZ1Fern2Q76rlyy9oNFpayATcssy_PUg/edit?usp=sharing
 
-Brancheorganisationerne Danske Medier og Kreativitet & Kommunikation vedligeholder en ikke udtømmende bruttoliste over kendte annonceudbydere – nogle af disse anvendes af Concept CPH og dermed på websites tilhørende Silkeborg Avis A/S. Listen kan ses her:.
+Brancheorganisationerne Danske Medier og Kreativitet & Kommunikation vedligeholder en ikke udtømmende bruttoliste over kendte annonceudbydere – nogle af disse anvendes af Concept CPH og dermed på websites tilhørende Silkeborg Avis A/S. Listen kan ses her: http://danskemedier.dk/digital/frq3rdparties/.
 Se hvilke cookies, vi sætter
 Herunder kan du se, hvilke cookies, der i øjeblikket sættes på din enhed
  

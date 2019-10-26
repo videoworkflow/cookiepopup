@@ -19,7 +19,7 @@ Sådan sletter du cookies
 Se vejledning her: http://minecookies.org/cookiehandtering
 Sådan undgår jeg cookies?
 
-Hvis du ikke ønsker at modtage cookies kan du blokere dem. Se vejledning her: .
+Hvis du ikke ønsker at modtage cookies kan du blokere dem. Se vejledning her: http://minecookies.org/cookiehandtering.
  
 Hvad cookies bruges til på vores website
 Cookies anvendes til at føre statistik over hvor antallet af brugere samt oplysninger om køn, alder, geografi og interesser på vores brugere for at tilpasse indhold og annoncering herefter.
@@ -47,6 +47,6 @@ I det omfang, der behandles personoplysninger om dig, har du ifølge persondatal
  
 Kredit
 Denne tekst kommer oprindeligt fra minecookies.org
-Du må frit kopiere og ændre i nedenstående tekst mod kreditering og link til Minecookies.org. Skabelonen til cookie- og privatlivspolitik af  kan anvendes som .
+Du må frit kopiere og ændre i nedenstående tekst mod kreditering og link til Minecookies.org. Skabelonen til cookie- og privatlivspolitik af Minecookies.org kan anvendes som Creative Commons Navngivelse 3.0 Unported License.
  
 

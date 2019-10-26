@@ -3,15 +3,15 @@ Nødvendige (4) - Funktionelle (8) - Statistiske (30) - Marketing (82) - Uklassi
 --------TABLE--------
  Nødvendige (4), , , 
  Navn, Udbyder, Formål, Udløb
- AWSELB, , Understøtter websitets tekniske funktioner., Session
+ AWSELB, ssl.ditonlinebetalingssystem.dk, Understøtter websitets tekniske funktioner., Session
  PHPSESSID, .kristeligt-dagblad.dk, Påkrævet for at websitet kan fungere., Session
- has_js, ," Understøtter funktionerne i et ""Content Management System"" til at sikre, at websitet fungerer korrekt.", Session
- LB, , Understøtter websitets tekniske funktioner., Session
+ has_js, www.kristeligt-dagblad.dk," Understøtter funktionerne i et ""Content Management System"" til at sikre, at websitet fungerer korrekt.", Session
+ LB, ssl.ditonlinebetalingssystem.dk, Understøtter websitets tekniske funktioner., Session
  , , , 
  Funktionelle (8), , , 
  Navn, Udbyder, Formål, Udløb
- AWSALB, ," Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.", 7 dage
- _initial_referrer, , Understøtter det visuelle indhold og webstedets elementer på websitet., Session
+ AWSALB, widget-mediator.zopim.com," Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.", 7 dage
+ _initial_referrer, e.infogr.am, Understøtter det visuelle indhold og webstedets elementer på websitet., Session
  sc_anonymous_id, .soundcloud.com, Understøtter brugen af ​​indlejrede musikafspillere på websitet., 10 år
  _ga, .infogram.com, Understøtter det visuelle indhold og webstedets elementer på websitet., 2 år
  __cfduid, .zopim.com," Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.", et år
@@ -31,7 +31,7 @@ Nødvendige (4) - Funktionelle (8) - Statistiske (30) - Marketing (82) - Uklassi
  _ga, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 2 år
  _gid, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., en dag
  i00, .tns-gallup.dk," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", 10 år
- srp, ," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
+ srp, ssl-kristeligtdagblad.tns-gallup.dk," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
  _gat_gtag_UA_5784146_31, .spotify.com, Bruges til at analysere brugen af ​​indlejrede musikafspillere på websitet., et minut
  cX_G, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
  wam-sync, .weborama.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 7 dage
@@ -40,7 +40,7 @@ Nødvendige (4) - Funktionelle (8) - Statistiske (30) - Marketing (82) - Uklassi
  cX_S, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., Session
  mako_uid, .eyeota.net, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
  UIDR, .scorecardresearch.com," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", 2 år
- ONPLFTRH, , Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., Session
+ ONPLFTRH, ps.eyeota.net, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., Session
  _parsely_visitor, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
  _gat_UA-xxx-xxx, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
  _gid, .spotify.com, Bruges til at analysere brugen af ​​indlejrede musikafspillere på websitet., en dag
@@ -68,7 +68,7 @@ Nødvendige (4) - Funktionelle (8) - Statistiske (30) - Marketing (82) - Uklassi
  uf, .tradetracker.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  test_cookie, .doubleclick.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 15 minutter
  PREF, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 8 måneder
- lang, , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ lang, cdn.syndication.twimg.com, Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
  __gads, .kristeligt-dagblad.dk, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
  TDID, .adsrvr.org, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., et år
  _cc_id, .crwdcntrl.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 9 måneder
@@ -83,8 +83,8 @@ Nødvendige (4) - Funktionelle (8) - Statistiske (30) - Marketing (82) - Uklassi
  uid, .adform.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
  pi, .tradetracker.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
  __telemetric.v, .kristeligt-dagblad.dk, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., 2 år
- , , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
- MUIDB, ," Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.", et år
+ , www.facebook.com, Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ MUIDB, bat.bing.com," Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.", et år
  GPS, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 30 minutter
  VISITOR_INFO1_LIVE, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 6 måneder
  pxcelPage_c010, .t.sharethis.com, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., 7 dage
@@ -124,7 +124,7 @@ Nødvendige (4) - Funktionelle (8) - Statistiske (30) - Marketing (82) - Uklassi
  bku, .bluekai.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 6 måneder
  pxcelBcnLcy, .t.sharethis.com, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., Session
  rud, .rfihub.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
- uuid, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ uuid, ads.avocet.io, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
  psyn, .sxp.smartclip.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., en måned
  cf, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 5 minutter
  cip, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 5 minutter
@@ -139,16 +139,16 @@ Nødvendige (4) - Funktionelle (8) - Statistiske (30) - Marketing (82) - Uklassi
  , , , 
  Uklassificerede (23), , , 
  Navn, Udbyder, Formål, Udløb
- kd_order, , Afventer, Session
- , , Afventer, Session
+ kd_order, www.kristeligt-dagblad.dk, Afventer, Session
+ KD.Paywall.xxx, www.kristeligt-dagblad.dk, Afventer, Session
  hsk_1992, .exelator.com, , 4 måneder
  oo, .go.affec.tv, , et år
  digitalAudience, .target.digitalaudience.io, , 10 år
- KD.Tracking.newsletterId, , Afventer, et år
+ KD.Tracking.newsletterId, www.kristeligt-dagblad.dk, Afventer, et år
  fifid, .fiftyt.com, , et år
- KD.Tracking.sessionId, , Afventer, et år
- KD.Split.decisions, , , Session
- KD.Viewed.articles, , , Session
+ KD.Tracking.sessionId, www.kristeligt-dagblad.dk, Afventer, et år
+ KD.Split.decisions, www.kristeligt-dagblad.dk, , Session
+ KD.Viewed.articles, www.kristeligt-dagblad.dk, , Session
  abid, .entitytag.co.uk, Afventer, 2 år
  done_redirects154, .onaudience.com, , en dag
  callback, .id5-sync.com, , 5 minutter
@@ -157,9 +157,9 @@ Nødvendige (4) - Funktionelle (8) - Statistiske (30) - Marketing (82) - Uklassi
  bkpa, .bluekai.com, , 6 måneder
  pt, .go.affec.tv, , et år
  gdpr, .id5-sync.com, , 5 minutter
- KD.User.data, , Afventer, Session
+ KD.User.data, www.kristeligt-dagblad.dk, Afventer, Session
  ab_t, .vimeo.com, , en time
- , , Afventer, et år
+ KD.ID, www.kristeligt-dagblad.dk, Afventer, et år
  ck, .go.affec.tv, , et år
  fm, .fiftyt.com, , 7 dage
 ---------------------

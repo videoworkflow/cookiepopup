@@ -2,17 +2,17 @@ Analyse, innsikt og tilpasning (5) - Annonserelaterte tjenester (4) - Andre tjen
 
 Analyse, innsikt og tilpasning
 --------TABLE--------
- 
- 
- 
- 
+ Cxense
+ Facebook
+ Google analytics
+ Hotjar
  Kantar TNS / ComScore
 ---------------------
 
 Annonserelaterte tjenester
 --------TABLE--------
- 
- 
+ Schibsted Pulse
+ Appnexus
  Google
  Adform
 ---------------------
@@ -21,8 +21,8 @@ Andre tjenester
 --------TABLE--------
  Unbounce
  JW Player
- 
- 
- 
+ Schibsted konto
+ Segment
+ C3 Metrics
 ---------------------
 

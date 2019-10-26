@@ -19,7 +19,7 @@ Technology and Mass Media
 Data Protection Officer: address data.protection@rttv.ru
  
 2. Website Visit
-When you visit our website, we collect personal data to enable your use (Usage Data) to the extent described in section ‎2.1. In addition, personal data may be processed for newsletters, web tracking and other purposes as described under ‎2.2. et seq. Please find below information on legal basis, purposes and, if applicable, legitimate interests and the necessity of processing your personal data.
+When you visit our website www.rt.com, we collect personal data to enable your use (Usage Data) to the extent described in section ‎2.1. In addition, personal data may be processed for newsletters, web tracking and other purposes as described under ‎2.2. et seq. Please find below information on legal basis, purposes and, if applicable, legitimate interests and the necessity of processing your personal data.
  
 2.1. Data Processing to Enable the Use of the Website
 Usage Data includes your IP address and information on start, end, use of the website and identification data (e.g. your login data when you log into a secure area). It also includes technical data transmitted by your browser such as browser type / browser version, previously visited website (referrer URL), monitor resolution, operating system, if applicable device information (e.g. device type) etc. We process these data for the provision and demand-oriented design of this website in our legitimate interest (Art. 6(1)(f) GDPR). If you are interested in detailed information on the balancing of your and our interests, please refer to the addresses in section ‎1.
@@ -28,16 +28,16 @@ Usage Data includes your IP address and information on start, end, use of the we
 In case your register for our newsletter, we collect your e-mail address and send a confirmation e-mail with a confirmation link. You need to activate the confirmation link to subscribe to our newsletter. You can unsubscribe from the newsletter at any time and object to e-mail advertising at any time. You will find an explanation on how to express objection in each of our newsletter.
  
 2.3. Spot.IM commenting System
-When using our website, you may use the Spot.IM commenting system to leave comments on our content and share your experience with other users. In this case, Spot.Im collects two types of data: un-identified and non-identifiable information, and individually identifiable information, including user’s name, public profile picture URL address, Social Network Account User ID, e-mail address, date of birth, gender, occupation or work information, educational background, IP addresses and other information made public. We may access and process username and comments. Purpose of the processing of these data are demand-oriented design of this website in our legitimate interest (Art. 6(1)(f) GDPR). If you are interested in detailed information on the balancing of your and our interests, please refer to the addresses in section ‎1. For further information, please refer also to.
+When using our website, you may use the Spot.IM commenting system to leave comments on our content and share your experience with other users. In this case, Spot.Im collects two types of data: un-identified and non-identifiable information, and individually identifiable information, including user’s name, public profile picture URL address, Social Network Account User ID, e-mail address, date of birth, gender, occupation or work information, educational background, IP addresses and other information made public. We may access and process username and comments. Purpose of the processing of these data are demand-oriented design of this website in our legitimate interest (Art. 6(1)(f) GDPR). If you are interested in detailed information on the balancing of your and our interests, please refer to the addresses in section ‎1. For further information, please refer also to https://www.spot.im/privacy/.
  
 2.4. Browser Push Notifications
 When you visit our website we offer the choice to register for browser push notifications. For this purpose, we display a banner containing the buttons “Allow Notifications”, “Not Now” or “Never Allow”. By clicking “Allow Notifications”, you consent to receiving browser notifications. In that case, we process your personal data and a web push subscriber id is generated for your device. Legal basis for sending push notifications via your browser is your explicit consent, Art. 6(1)(a) GDPR. If you do not click “Allow Notifications” or click on “Not Now” or “Never Allow”, we will not send you any push notifications. You are not obliged to give your consent for sending push notification. If you do not consent, you will not receive push notifications, there will be no further consequences. You may revoke your consent for future processing at any time, please refer to the information-website of your browser for information on how to revoke your consent via adjustments of browser settings:
-Apple Safari:https://support.apple.com/en-gb/guide/safari/sfri40734/mac
-Google Chrome:https://support.google.com/chrome/answer/3220216?co=GENIE.Platform%3DDesktop&hl=en
-Microsoft Edge:https://answers.microsoft.com/en-us/edge/forum/edge_other-edge_win10/disable-web-notifications-in-microsoft-edge/cb0c21e6-c40b-4657-ba8e-8b51e3c71080
-Mozilla Firefox:https://support.mozilla.org/en-US/kb/push-notifications-firefox
-Device on IOS:https://support.apple.com/en-euro/HT205223
-Device on Android:https://support.google.com/android/answer/9079661?hl=en
+Apple Safari: https://support.apple.com/en-gb/guide/safari/sfri40734/mac
+Google Chrome: https://support.google.com/chrome/answer/3220216?co=GENIE.Platform%3DDesktop&hl=en
+Microsoft Edge: https://answers.microsoft.com/en-us/edge/forum/edge_other-edge_win10/disable-web-notifications-in-microsoft-edge/cb0c21e6-c40b-4657-ba8e-8b51e3c71080
+Mozilla Firefox: https://support.mozilla.org/en-US/kb/push-notifications-firefox
+Device on IOS: https://support.apple.com/en-euro/HT205223
+Device on Android: https://support.google.com/android/answer/9079661?hl=en
  
 2.5. Cookies and Web Tracking
 When you visit our website, information in the form of cookies may be stored on your device. A cookie is a small text file that is sent from a web server to your browser and stored on your device. When you revisit our website, cookie information is transferred to our web server again. We may then, for example, recognise you again and take your individual settings into account when displaying the website. Cookies can be categorised as first party cookies (deployed by TV- Novosti) and third party cookies (deployed by third parties). We further categorise cookies as follows:
@@ -53,9 +53,9 @@ Category 2 to 4 cookies may be deployed in the context of web tracking. In such 
 Legal basis for deploying category 1 cookies is our legitimate interest in providing our website under Art. 6(1)(f) GDPR. Legal basis for deploying category 2 to 4 cookies and web tracking is your consent under Art. 6(1)(a) GDPR. When you first visit our website or if necessary again, we will (i) inform you about the use of category 2 to 4 cookies and web tracking and (ii) ask for your consent. In order to request your consent, we display a respective banner.
 If you click on “accept” or “OK” or simply continue surfing, you express your consent. You can restrict your consent to cookies deployment in whole or in part by configuring your browser settings and deactivating cookies in whole or in part. In addition, you can install a browser plugin. Plugins offer the possibility to prevent web analyses - e.g. AdBlock, Ghostery. NoScript or uBlock Origin (please refer to the data protection information of the respective plugin provider).
 In addition, some web analytics providers are members of industry associations whose websites allow to centrally prevent the use of web tracking. Please find below reference to the websites of these associations for expressing your choices in regard to web tracking and processing data in pseudonymous profiles.
-“European Interactive Digital Advertising Alliance“ (EDAA):http://www.youronlinechoices.com/de/praferenzmanagement/
-“Digital Advertising Alliance“ (DAA):www.aboutads.info/choices/
-“Network Advertising Initiative“ (NAI):http://www.networkadvertising.org/choices/
+“European Interactive Digital Advertising Alliance“ (EDAA): http://www.youronlinechoices.com/de/praferenzmanagement/
+“Digital Advertising Alliance“ (DAA): www.aboutads.info/choices/
+“Network Advertising Initiative“ (NAI): http://www.networkadvertising.org/choices/
 In case you do not consent to cookies deployment or delete cookies from your device, this may affect your ability to use the website or individual functionalities. Please refer to the below table for detailed information in regard to the particular cookies deployed on our website.
  
  
@@ -65,14 +65,14 @@ Please refer to the below table for detailed information in regard to web tracki
  
 --------TABLE--------
  Tool/Provider, Purpose, Link to the privacy policy of the provider / Prevent processing
-" Addform: Wildersgade 10B, 1, 1408 Copenhagen, Denmark"," Web analysis, interest-oriented advertising", https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/  Prevent processing:https://site.adform.com/privacy-center/platform-privacy/opt-out/
-" AppNexus: AppNexus Inc. 28 West 23rd Street Floor 4 New York, NY 10010 USA"," Web analysis, interest-oriented advertising", https://www.appnexus.com/corporate-privacy-policy  Prevent processing:https://www.appnexus.com/platform-privacy-policy#choices
-" BidSwitch: BIDSWITCH GmbH, Münzstrasse 19 1. Hinterhaus, 4. OG Berlin, 10178 Germany"," Web analysis, interest-oriented advertising", https://www.bidswitch.com/cookie-statement/  Prevent processing: see How can I control cookies sectionhttps://www.bidswitch.com/cookie-statement/
+" Addform: Wildersgade 10B, 1, 1408 Copenhagen, Denmark"," Web analysis, interest-oriented advertising", https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/  Prevent processing: https://site.adform.com/privacy-center/platform-privacy/opt-out/
+" AppNexus: AppNexus Inc. 28 West 23rd Street Floor 4 New York, NY 10010 USA"," Web analysis, interest-oriented advertising", https://www.appnexus.com/corporate-privacy-policy  Prevent processing: https://www.appnexus.com/platform-privacy-policy#choices
+" BidSwitch: BIDSWITCH GmbH, Münzstrasse 19 1. Hinterhaus, 4. OG Berlin, 10178 Germany"," Web analysis, interest-oriented advertising", https://www.bidswitch.com/cookie-statement/  Prevent processing: see How can I control cookies section https://www.bidswitch.com/cookie-statement/
 " Cloudflare, Inc: 101 Townsend St San Francisco, CA 94107"," Web analysis, interest-oriented advertising", https://www.cloudflare.com/cookie-policy/
-" Google Analytics: Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"," Web analysis, interest-oriented advertising", https://www.google.de/intl/de/policies/  Prevent processing: Via Browser-Plugin (see) and for additional information see section 2.6.
+" Google Analytics: Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"," Web analysis, interest-oriented advertising", https://www.google.de/intl/de/policies/  Prevent processing: Via Browser-Plugin (see Add-On) and for additional information see section 2.6.
 " Google Publisher Tag: Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"," Web analysis, interest-oriented advertising", https://www.google.de/intl/de/policies/
 " Linkpulse: Onsite Solutions AS, Rosenholmveien 25, Trollåsen, 1414", Web analysis, http://www.linkpulse.com/privacy
-" MediaMath Inc. : 4 World Trade Center 150 Greenwich Street, 45th Floor New York, NY 10007"," Web analysis, interest-oriented advertising", http://www.mediamath.com/cookie-notice/  Prevent processing:http://www.mediamath.com/ad-choices-opt-out/
+" MediaMath Inc. : 4 World Trade Center 150 Greenwich Street, 45th Floor New York, NY 10007"," Web analysis, interest-oriented advertising", http://www.mediamath.com/cookie-notice/  Prevent processing: http://www.mediamath.com/ad-choices-opt-out/
 " Score Card Research Beacon: Full Circle Studies, Inc. Attn: Privacy Office 11950 Democracy Drive, , Reston, VA, 20190"," Web analysis, interest-oriented advertising", http://www.fullcirclestudies.com/privacy.aspx
 " OpenX: OpenX Technologies Inc. (Privacy Matters: OpenX Technologies, Inc., Attention: Legal Department, 888 East Walnut Street, 2nd Fl, 91101 Pasadena/CA, USA)"," Web analysis, interest-oriented advertising", http://openx.com/legal/privacypolicy/
 " Pingdom: Pingdom AB Kopparbergsvagen 8, , Vasteras, 722 13", Web analysis, https://www.pingdom.com/legal/privacy-policy/
@@ -81,56 +81,56 @@ Please refer to the below table for detailed information in regard to web tracki
 " The Rubicon Project: The Rubicon Project, Inc."," Web analysis, interest-oriented advertising", https://rubiconproject.com/privacy-policy/website-cookie-statement/
 " ScorecardResearch: Full Circle Studies, Inc., 11950 Democracy Drive Suite 600 Reston, VA 20190, USA", Web analysis, https://www.scorecardresearch.com/preferences.aspx?newlanguage=1
 " Simpli.fi: Simpli.fi Holdings, Inc. 1407 Texas St # 202 Fort Worth, TX 76102 USA"," Web analysis, interest-oriented advertising", https://www.simpli.fi/simpli-fi-cookie-policy/
-" Yandex: Yandex, Ulitsa Lva Tolstogo 16, Moscow 119021"," Web analysis, interest-oriented advertising", https://yandex.com/legal/privacy/  Prevent processing: Via Browser-Plugin (see)
+" Yandex: Yandex, Ulitsa Lva Tolstogo 16, Moscow 119021"," Web analysis, interest-oriented advertising", https://yandex.com/legal/privacy/  Prevent processing: Via Browser-Plugin (see https://yandex.com/support/metrica/general/opt-out.html)
 " Rubicon Project: 12181 Bluff Creek Drive  Playa Vista, CA 90094"," Web analysis, interest-oriented advertising", https://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/platform-cookie-statement/
 --------------------- 
 2.6. Google Analytics
 This website uses Google Analytics, a web analysis service of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). Google Analytics uses cookies (see section ‎2.5) to enable an analysis of your use of the website. The information generated by the cookie about your use of this website is usually transferred to a Google server in the USA and stored there. However, Google will reduce your IP address within member states of the European Union or in other signatory states to the Agreement on the European Economic Area beforehand and thus make it anonymous. Only in exceptional cases the full IP address will be transferred to a Google server in the USA and shortened there.
 On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on website activity and to provide the website operator with other services relating to website and internet use. The IP address transmitted by your browser in the context of Google Analytics is not merged with other Google data.
-You can prevent the storage of cookies by a corresponding setting of your browser software or a privacy plug-in (see section ‎2.5). You can also prevent Google from collecting the data generated by the cookie and relating to your use of the website (including your IP address) and from processing this data by Google by downloading and installing the browser plug-in available under the following link ().
-Further information on data protection at Google Analytics can be found at:.
-Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers ().
+You can prevent the storage of cookies by a corresponding setting of your browser software or a privacy plug-in (see section ‎2.5). You can also prevent Google from collecting the data generated by the cookie and relating to your use of the website (including your IP address) and from processing this data by Google by downloading and installing the browser plug-in available under the following link (http://tools.google.com/dlpage/gaoptout?hl=en).
+Further information on data protection at Google Analytics can be found at: https://www.google.de/intl/de/policies/.
+Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
  
 2.7. Google Double-Click (including Floodlight and Spotlight), Google AdWords Conversion, Google Dynamic Remarketing
-We use Google Analytics to evaluate data from the Google services AdWords and DoubleClick for statistical purposes. In order to improve our offers, we can analyse what happens after a user clicks on our ad, e.g. whether the user has bought our product or accessed the ad from a mobile phone. You will also receive interest-based advertising through these services. Their consent is required for this (see section ‎2.5). If you do not wish this, you can prevent this, in addition to the variant described in section ‎2.5, using Google's Ads Preferences Manager:.
-DoubleClick places a cookie on your computer to record your surfing behaviour on various websites (tracking) and to play out interest-related advertising. If you do not want this to happen permanently, you can download a plug-in from the following link to prevent the DoubleClick cookie: or you can proceed as described in section ‎2.5.
-Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers ().
+We use Google Analytics to evaluate data from the Google services AdWords and DoubleClick for statistical purposes. In order to improve our offers, we can analyse what happens after a user clicks on our ad, e.g. whether the user has bought our product or accessed the ad from a mobile phone. You will also receive interest-based advertising through these services. Their consent is required for this (see section ‎2.5). If you do not wish this, you can prevent this, in addition to the variant described in section ‎2.5, using Google's Ads Preferences Manager: http://www.google.com/settings/ads/onweb/?hl=en.
+DoubleClick places a cookie on your computer to record your surfing behaviour on various websites (tracking) and to play out interest-related advertising. If you do not want this to happen permanently, you can download a plug-in from the following link to prevent the DoubleClick cookie: https://www.google.com/settings/u/0/ads/plugin?hl=en or you can proceed as described in section ‎2.5.
+Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
  
 2.8. Google Tag Manager
 This website uses Google Tag Manager to manage website tags. A tag is a JavaScript snippet used to send information from a website to recipients, in particular in the context of web tracking. The Google Tag Manager tool itself does not collect any personal data. The tool triggers other tags that may collect data (e.g. the Google Analytics tag). Google Tag Manager does not access this data. If deactivation has been made at the domain or cookie level, it will remain in effect for all tracking tags implemented with Google Tag Manager. This makes it easier to effectively implement your need against tracking procedures.
-Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers ().
+Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
  
 2.9. Google Fonts
 Our website uses "Google Fonts" from Google to display fonts uniformly. When you call up a website, your browser loads the required fonts into your browser cache to display texts and fonts correctly. Among other things, your IP address is transferred to the Google servers. If your browser does not support Google Fonts, standard fonts are used.
-For more information about Google Fonts, please visit and read Google's.
-Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers ().
+For more information about Google Fonts, please visit https://developers.google.com/fonts/faq and read Google's privacy policy.
+Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
  
 2.10. reCAPTCHA
 To protect your requests via contact form we use the service reCAPTCHA of the company Google. The query serves to differentiate whether the input is made by a person or abusively by automated, machine processing. The query includes sending the IP address and any other data required by Google for the reCAPTCHA service to Google. For this purpose your input will be transferred to Google and used there. However, Google will previously reduce your IP address within member states of the European Union or in other states party to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transferred to a Google server in the USA and shortened there.
-On behalf of the operator of this website, Google will use this information to evaluate your use of this service. The IP address transferred by your browser within the scope of reCAPTCHA will not be merged with other Google data. The deviating data protection regulations of the company Google apply to this data. For further information on data protection at Google, please refer to Google's.
-Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers ().
+On behalf of the operator of this website, Google will use this information to evaluate your use of this service. The IP address transferred by your browser within the scope of reCAPTCHA will not be merged with other Google data. The deviating data protection regulations of the company Google apply to this data. For further information on data protection at Google, please refer to Google's privacy policy.
+Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
  
 2.11. Google Maps
 On the page of the contact form there is a plugin which shows a map of Google Maps. Google Maps is a web service for displaying interactive (country) maps in order to display geographical information visually. Using this service will show you our location and make it easier for you to find us.
 This is done by connecting your browser to Google's servers as if you were visiting the Google search engine's website. If you are logged into Google, your information will be directly linked to your account. If you do not wish to be linked to your profile on Google, you must log out before activating the button. Google is responsible for data processing by Google. There is no tracking by Google on our website.
 If you do not agree to the future transfer of your data to Google in the context of the use of Google Maps, it is also possible to completely deactivate the Google Maps web service by switching off the JavaScript application in your browser. Google Maps and therefore also the map display on this website can then not be used.
-For more information about using Google Maps, please see the Google Maps. For further information on data protection at Google, please refer to Google's.
-Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers ().
+For more information about using Google Maps, please see the Google Maps Terms of Use. For further information on data protection at Google, please refer to Google's privacy policy.
+Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfers (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
  
 2.12. Social Networks and embedded YouTube Videos
 Our website contains links to social networks (e.g. Facebook or Instagram) and embedded videos of the streaming service Youtube.
 These services are operated exclusively by third parties. If you follow the links or play videos, information may be transferred to these providers. We use the so-called "Shariff Solution” for links to social networks. To ensure no personal data will be passed on when you visit our site. Only if you click a social share button, or view embedded videos, information will be transferred to the provider. The purpose and scope of the data processing by the provider as well as your rights and setting options for the protection of your privacy can be found in the privacy policy of the provider:
-Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USAhttp://www.facebook.com/policy.php/
-Instagram LLC, 1601 Willow Rd, Menlo Park CA 94025, USAhttps://help.instagram.com/155833707900388
-Snap Inc., Headquarters, 2772 Donald Douglas Loop North, Santa Monica, CA 90405, USAhttps://www.snap.com/en-GB/privacy/privacy-policy/
-Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USAhttps://twitter.com/privacy/
-YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USAhttps://policies.google.com/privacy?hl=en-US
-Vkontakte Ltd, Tverskaya str., 8-B, St. Petersburg, 191015, Russiahttps://vk.com/terms
+Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA http://www.facebook.com/policy.php/
+Instagram LLC, 1601 Willow Rd, Menlo Park CA 94025, USA https://help.instagram.com/155833707900388
+Snap Inc., Headquarters, 2772 Donald Douglas Loop North, Santa Monica, CA 90405, USA https://www.snap.com/en-GB/privacy/privacy-policy/
+Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA https://twitter.com/privacy/
+YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA https://policies.google.com/privacy?hl=en-US
+Vkontakte Ltd, Tverskaya str., 8-B, St. Petersburg, 191015, Russia https://vk.com/terms
  
 2.13. App Stores
 Our website contains links to app stores (e.g. Google Play Store for Android or Apple App Store for iOS). These services are operated exclusively by third parties. If you follow the links, information may be transferred to these providers. This is the case only, if you click on one of the specific app store buttons. In regard to the purpose and scope of data processing as well as your rights and setting options, please refer to the privacy policy of the provider:
-Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USAhttps://policies.google.com/privacy?hl=en-US
-Apple Inc., One Apple Park Way, Cupertino, California, USA, 95014https://www.apple.com/legal/privacy/
+Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USA https://policies.google.com/privacy?hl=en-US
+Apple Inc., One Apple Park Way, Cupertino, California, USA, 95014 https://www.apple.com/legal/privacy/
  
 2.14. Contact Form
 We process your personal data when you use our contact form. If you contact us via the contact form provided, your details will be stored in order to respond to your enquiry.
@@ -141,8 +141,8 @@ When downloading and using RT News-App, RT 360-App and/or RT Radio-App (RT apps)
  
 3.1. Downloading the App
 When downloading one of the RT apps, the app store provider collects personal data, in particular user name, e-mail address and customer number of your account, time of download, payment information and individual device code number. For the purpose and scope of the data processing, reference is made to the privacy policy of the provider.
-Google Play Store (Android): Google LLC., 1600 Amphitheater Parkway, Mountainview, California 94043, USAhttps://policies.google.com/privacy?hl=en-US
-App Store (iOS): Apple Inc., One Apple Park Way, Cupertino, California, USA, 95014https://www.apple.com/legal/privacy/
+Google Play Store (Android): Google LLC., 1600 Amphitheater Parkway, Mountainview, California 94043, USA https://policies.google.com/privacy?hl=en-US
+App Store (iOS): Apple Inc., One Apple Park Way, Cupertino, California, USA, 95014 https://www.apple.com/legal/privacy/
  
 3.2 Legal Basis, Purpose and Necessity of Processing your personal Data
 We process your personal data to carry out our obligations under the terms of use (Art. 6(1)(b)GDPR). We may also process personal data based on your consent (Art. 6(1)(a) GDPR) where and to the extent explained below. You are neither obliged to download nor to use one of the RT apps. If you do not provide personal data, you may not be able to use certain or any functions of the RT apps. Otherwise there will be no consequences for you.
@@ -161,32 +161,32 @@ Please refer to the below table for detailed information in regard to web tracki
  
 --------TABLE--------
  Tool/Provider, Purpose, Link to the privacy policy of the provider / Prevent processing
-" Addform: Wildersgade 10B, 1, 1408 Copenhagen, Denmark"," Web analysis, interest-oriented advertising", https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/  Prevent processing:https://site.adform.com/privacy-center/platform-privacy/opt-out/
-" AppNexus: AppNexus Inc. 28 West 23rd Street Floor 4 New York, NY 10010 USA"," Web analysis, interest-oriented advertising", https://www.appnexus.com/corporate-privacy-policy  Prevent processing:https://www.appnexus.com/platform-privacy-policy#choices
-" BidSwitch: BIDSWITCH GmbH, M nzstrasse 19 1. Hinterhaus, 4. OG Berlin, 10178 Germany"," Web analysis, interest-oriented advertising", https://www.bidswitch.com/cookie-statement/  Prevent processing: see How can I control cookies sectionhttps://www.bidswitch.com/cookie-statement/
+" Addform: Wildersgade 10B, 1, 1408 Copenhagen, Denmark"," Web analysis, interest-oriented advertising", https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/  Prevent processing: https://site.adform.com/privacy-center/platform-privacy/opt-out/
+" AppNexus: AppNexus Inc. 28 West 23rd Street Floor 4 New York, NY 10010 USA"," Web analysis, interest-oriented advertising", https://www.appnexus.com/corporate-privacy-policy  Prevent processing: https://www.appnexus.com/platform-privacy-policy#choices
+" BidSwitch: BIDSWITCH GmbH, M nzstrasse 19 1. Hinterhaus, 4. OG Berlin, 10178 Germany"," Web analysis, interest-oriented advertising", https://www.bidswitch.com/cookie-statement/  Prevent processing: see How can I control cookies section https://www.bidswitch.com/cookie-statement/
 " Cloudflare, Inc: 101 Townsend St San Francisco, CA 94107"," Web analysis, interest-oriented advertising", https://www.cloudflare.com/cookie-policy/
-" Google Analytics: Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"," Web analysis, interest-oriented advertising", https://www.google.de/intl/en-US/policies/  Prevent processing: Via Browser-Plugin (see) and for additional information see section 2.6.
-" Google Publisher Tag: Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"," Web analysis, interest-oriented advertising", https://www.google.de/intl/en-US/policies/  Prevent processing: (see and for additional information see section 2.7.
+" Google Analytics: Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"," Web analysis, interest-oriented advertising", https://www.google.de/intl/en-US/policies/  Prevent processing: Via Browser-Plugin (see Add-On) and for additional information see section 2.6.
+" Google Publisher Tag: Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"," Web analysis, interest-oriented advertising", https://www.google.de/intl/en-US/policies/  Prevent processing: (see Advertising Guidelines-Manager by Google and for additional information see section 2.7.
 " Linkpulse: Onsite Solutions AS, Rosenholmveien 25, Troll sen, 1414", Web analysis, http://www.linkpulse.com/privacy
-" MediaMath Inc. : 4 World Trade Center 150 Greenwich Street, 45th Floor New York, NY 10007"," Web analysis, interest-oriented advertising", http://www.mediamath.com/cookie-notice/  Prevent processing:http://www.mediamath.com/ad-choices-opt-out/
+" MediaMath Inc. : 4 World Trade Center 150 Greenwich Street, 45th Floor New York, NY 10007"," Web analysis, interest-oriented advertising", http://www.mediamath.com/cookie-notice/  Prevent processing: http://www.mediamath.com/ad-choices-opt-out/
 " Score Card Research Beacon: Full Circle Studies, Inc. Attn: Privacy Office 11950 Democracy Drive, , Reston, VA, 20190"," Web analysis, interest-oriented advertising", http://www.fullcirclestudies.com/privacy.aspx
 " OpenX: OpenX Technologies Inc. (Privacy Matters: OpenX Technologies, Inc., Attention: Legal Department, 888 East Walnut Street, 2nd Fl, 91101 Pasadena/CA, USA)"," Web analysis, interest-oriented advertising", http://openx.com/legal/privacypolicy/
 " Pingdom: Pingdom AB Kopparbergsvagen 8, , Vasteras, 722 13", Web analysis, https://www.pingdom.com/legal/privacy-policy/
 " Quantcast: Quantcast Corp. 795 Folsom Street San Francisco, CA 94107"," Web analysis, interest-oriented advertising", https://www.quantcast.com/privacy/
 " Rocket Fuel: Rocket Fuel Inc 2000 Seaport Blvd Pacific Shores Center Redwood City, CA 94063 USA"," Web analysis, interest-oriented advertising", https://rocketfuel.com/privacy/
 " The Rubicon Project: The Rubicon Project, Inc. 12181 Bluff Creek Drive Playa Vista, CA 90094"," Web analysis, interest-oriented advertising", https://rubiconproject.com/privacy-policy/website-cookie-statement/
-" ScorecardResearch:, 11950 Democracy Drive Suite 600 Reston, VA 20190, USA", Web analysis, https://www.scorecardresearch.com/preferences.aspx?newlanguage=1
+" ScorecardResearch: Full Circle Studies, Inc., 11950 Democracy Drive Suite 600 Reston, VA 20190, USA", Web analysis, https://www.scorecardresearch.com/preferences.aspx?newlanguage=1
 " Simpli.fi: Simpli.fi Holdings, Inc. 1407 Texas St # 202 Fort Worth, TX 76102 USA"," Web analysis, interest-oriented advertising", https://www.simpli.fi/simpli-fi-cookie-policy/
-" Yandex: Yandex, Ulitsa Lva Tolstogo 16, Moscow 119021"," Web analysis, interest-oriented advertising", https://yandex.com/legal/privacy/  Prevent processing: Via Browser-Plugin (see)
+" Yandex: Yandex, Ulitsa Lva Tolstogo 16, Moscow 119021"," Web analysis, interest-oriented advertising", https://yandex.com/legal/privacy/  Prevent processing: Via Browser-Plugin (see https://yandex.com/support/metrica/general/opt-out.html)
 " Rubicon Project: 12181 Bluff Creek Drive Playa Vista, CA 90094"," Web analysis, interest-oriented advertising", https://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/platform-cookie-statement/
 --------------------- 
 3.5. Google SDK (Firebase Analytics)
-We use the developer platform called "Google Firebase" as well as the associated functions and services of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (Google). Google Firebase is a platform for developing apps for mobile devices and websites. Google Firebase offers a variety of features, which can be found on the following website:.
+We use the developer platform called "Google Firebase" as well as the associated functions and services of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (Google). Google Firebase is a platform for developing apps for mobile devices and websites. Google Firebase offers a variety of features, which can be found on the following website: https://firebase.google.com/products/.
 The analysis of user interactions is carried out using the analysis service of Firebase Analytics. This service helps us to record your interactions. Events such as the first time an app is opened, the uninstalling of an app, updates, crashes or the frequency of use of the app are recorded. Certain user interests are also recorded and evaluated.
-The information processed by Google Firebase about your use of this app is usually transferred to a Google server in the USA and stored there. However, Google will reduce your IP address within member states of the European Union or in other signatory states to the Agreement on the European Economic Area beforehand and thus make it anonymous. Only in exceptional cases the full IP address will be transferred to a Google server in the USA and anonymized there. The data may also be used with other Google services, such as Google Analytics and Google marketing services. In this case, only pseudonymous information, such as the Android Advertising ID or the Advertising Identifier for iOS, will be processed to identify users' mobile devices. Additional information on the use of data for marketing purposes by Google can be found on the following website:.
-The legal basis for this use is Art. 6(1)(f) GDPR. If you wish to object to interest-based advertising through Google marketing services, you can use the settings options provided by Google:.
-Further information on data protection at Google can be found at:.
-Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfer. ().
+The information processed by Google Firebase about your use of this app is usually transferred to a Google server in the USA and stored there. However, Google will reduce your IP address within member states of the European Union or in other signatory states to the Agreement on the European Economic Area beforehand and thus make it anonymous. Only in exceptional cases the full IP address will be transferred to a Google server in the USA and anonymized there. The data may also be used with other Google services, such as Google Analytics and Google marketing services. In this case, only pseudonymous information, such as the Android Advertising ID or the Advertising Identifier for iOS, will be processed to identify users' mobile devices. Additional information on the use of data for marketing purposes by Google can be found on the following website: https://policies.google.com/technologies/ads?hl=en.
+The legal basis for this use is Art. 6(1)(f) GDPR. If you wish to object to interest-based advertising through Google marketing services, you can use the settings options provided by Google: http://www.google.com/ads/preferences.
+Further information on data protection at Google can be found at: https://policies.google.com/?hl=en.
+Google is certified under the EU-U.S. Privacy Shield Framework, which ensures the level of protection of natural persons guaranteed by GDPR is not undermined through data transfer. (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
  
 4. Facebook Fan-Page Visit (Facebook insights data)
 When you visit or interact with our Facebook Fan Page, your personal data (e.g., "Like" information) is processed as explained in this section.
@@ -200,10 +200,10 @@ The legal basis for processing your personal Data is Art. Art. 6(1)(f) GDPR. We 
 4.3. Further information on our joint controllership with Facebook
 To transparently and explicitly determine the responsibilities for compliance with the obligations under the GDPR between TV- Novosti and Facebook, we have concluded an agreement with Facebook that states that Facebook is primarily responsible for data processing when visiting our Fan-Page. In particular, Facebook will be responsible in case you exercise your rights under Art. 12 and 13 GDPR, Art. 15 to 22 GDPR, and to ensure compliance with Art. 32 to 34 GDPR.
 You may at any time also address your enquiry regarding data processing in connection with our Fan-Page to us or exercise your rights vis-à-vis the address listed in Section ‎1 (for further information about your rights see section ‎7). Where necessary to carry out your request or exercise your rights, we will forward your matter to Facebook.
-For further information about page-insight data and the exercise of your rights, please see the information provided by Facebook:https://www.facebook.com/legal/terms/information_about_page_insights_data
-For further information about the determination of the responsibilities within the joint controllership in the meaning of Art. 26 GDPR, please see the agreement with Facebook:https://www.facebook.com/legal/terms/page_controller_addendum
+For further information about page-insight data and the exercise of your rights, please see the information provided by Facebook: https://www.facebook.com/legal/terms/information_about_page_insights_data
+For further information about the determination of the responsibilities within the joint controllership in the meaning of Art. 26 GDPR, please see the agreement with Facebook: https://www.facebook.com/legal/terms/page_controller_addendum
 For further information about the placement of cookies when visiting our Fan-Page, please see Facebooks Cookie Policy: https://www.facebook.com/policies/cookies/
-For more information about protecting your privacy at Facebook, please see Facebook's privacy policy:.
+For more information about protecting your privacy at Facebook, please see Facebook's privacy policy: https://www.facebook.com/privacy/explanation.
  
 5. Transfer of Personal Data
 We will only pass on the personal data described here where necessary for the provision of our service or otherwise allowed by law. Within the scope of the purposes stated here, personal data are transferred to service providers involved in the provision of our services. In addition to their legal obligation to comply with all data protection regulations, these service providers are bound to additional contractual data protection requirements. This includes in particular contractual obligations as a processor in accordance with Art. 28 GDPR.

@@ -57,11 +57,11 @@ Most browsers accept cookies automatically, but you can alter the settings of yo
 Cookie settings in Internet Explorer
 Cookie settings in Firefox
 Cookie settings in Chrome
-Cookie settings in Safari for and 
+Cookie settings in Safari for macs and iOS 
 It is possible to opt out of having your anonymised browsing activity within websites recorded by performance cookies.
 Please note that if you want to opt out from receiving targeted advertising, this does not mean that you will receive less advertising when you use our website. This just means that the advertising you see will not be as customised to you.
 If you would like to change your data preferences on this website please visit our consent management platform.
-You can also change your consents to the use of cookies at any time by clicking on our.  This will give you a list of all cookies that are currently set on your device and how to opt out of each of them.  Please note that this list will contain more networks than just found on independent.co.uk.  
+You can also change your consents to the use of cookies at any time by clicking on our http://www.youronlinechoices.com/uk/your-ad-choices.  This will give you a list of all cookies that are currently set on your device and how to opt out of each of them.  Please note that this list will contain more networks than just found on independent.co.uk.  
 If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be. For instance, the site won’t be able to recognise your commenter ID, meaning that you won’t be able to leave comments.
  
 

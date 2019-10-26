@@ -1,15 +1,15 @@
 Strictly Necessary Cookies (3) - Performance Cookies (11) - Functional Cookies (3) - Targeting Cookies (171)  
 
 Strictly Necessary Cookies
-,,
+OptanonConsent, OptanonAlertBoxClosed, _dc_gtm_UA-34292757-1
 
 
 Performance Cookies
-,,,,,,,_gat_UA-34292757-1
-, nr-data.net, JSESSIONID
+_gid, s_nr, s_cc, s_vi, AMP_TOKEN, s_fid, _ga, _gat_UA-34292757-1
+Nr-data.net, nr-data.net, JSESSIONID
 
 Functional Cookies
-,,
+_parsely_session, _parsely_visitor, cto_lwid
 
 Targeting Cookies
 

@@ -35,12 +35,12 @@ Firda Tidend bruker følgende tredjepartsverktøy på vårt nettsted:
 – WordPress – publiseringssystemet som driver nettstedet
 – Google Analytics – nettstedsmåling, her har vi slått på anonymiseringsfunksjonen
 – Contact Form 7 – håndterer kontaktskjemaer
- – håndterer abonnements bestilling
+– Infopress medlemsløsning – håndterer abonnements bestilling
 I noen tilfeller må vi sende din informasjon til våre tredjepartsverktøy, men kun for å fullføre oppgaver og tilby tjenester til deg på våre vegne – og vi sender kun den informasjonen som er nødvendig.
  
 BRUK AV «COOKIES»
 På samme måte som mange andre nettsteder, bruker også Firda Tidend sitt nettsted cookies. En cookie er en liten tekstfil som lagres på enheten din av nettsteder du besøker.
-De samler data om dine surfevaner, men identifiserer deg ikke som et individ. Dette hjelper oss med å forbedre nettstedet vårt og vise relevant markedsføring. Dersom du ikke vil akseptere vår bruk av cookies, kan du fjerne cookiene som blir lagret på din PC, via nettleseren din. Dette kan medføre at tjenestene på våre nettsider ikke fungerer optimalt. Denne siden inneholder også en oppdatert liste over de cookies som brukes på www.firdatidend.no, samt hvordan du kan slette cookies.
+De samler data om dine surfevaner, men identifiserer deg ikke som et individ. Dette hjelper oss med å forbedre nettstedet vårt og vise relevant markedsføring. Dersom du ikke vil akseptere vår bruk av cookies, kan du fjerne cookiene som blir lagret på din PC, via nettleseren din. Dette kan medføre at tjenestene på våre nettsider ikke fungerer optimalt. Vi har laget en egen side med ytterligere informasjon om cookies. Denne siden inneholder også en oppdatert liste over de cookies som brukes på www.firdatidend.no, samt hvordan du kan slette cookies.
 16 ÅR ELLER YNGRE
 
 Vi er ekstra opptatt av å beskytte personvernet til barn i alderen 16 eller yngre. Hvis du er 16 år eller yngre, vennligst ta kontakt med foreldre / foresatte på forhånd før du gir oss personlig informasjon.
@@ -76,7 +76,7 @@ Telefoner med Windows 7
 Husk: Benytter du flere Internett-browsere, må du slette cookies i hver enkelt.
  
 Har du spørsmål?
-Cookiedeklarasjonen oppdateres hver måned av. Hvis du har noen spørsmål, så skriv til info@cookieinformation.com.
+Cookiedeklarasjonen oppdateres hver måned av Cookie Information. Hvis du har noen spørsmål, så skriv til info@cookieinformation.com.
 Cookie-erklæringen var sist oppdatert 16.07.2019
  
 

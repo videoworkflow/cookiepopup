@@ -10,118 +10,118 @@ Required cookies
 Functional cookies
 --------TABLE--------
  Company, Domain
- AMP, 
- Adobe Marketing Cloud - Advertising Services, 
+ AMP, cdn.ampproject.org
+ Adobe Marketing Cloud - Advertising Services, everesttech.net
  Akamai Technologies," hlstimeinc-a.akamaihd.net, timeincsecure-a.akamaihd.net, timeincsecurehls-a.akamaihd.net, timeincsecureuds-a.akamaihd.net, timesecure-lh.akamaihd.net Show All"
- Amazon (Cloudfront), 
+ Amazon (Cloudfront), d1z2jf7jlzjs58.cloudfront.net
  Brightcove," metrics.brightcove.com, players.brightcove.net"
-" CloudFlare, Inc.", 
- Facebook Inc., 
- Fortune, 
+" CloudFlare, Inc.", cdnjs.cloudflare.com
+ Facebook Inc., connect.facebook.net
+ Fortune, content-preprod.fortune.com
  Google Inc.," csi.gstatic.com, fonts.gstatic.com, imasdk.googleapis.com, www.googletagmanager.com, www.googletagservices.com Show All"
- ID5 Technology SAS, 
+ ID5 Technology SAS, id5-sync.com
  Microsoft Advertising," bing.com, c.bing.com"
-" Neustar, Inc.", 
- ," config.parsely.com, srv-2019-05-14-23.config.parsely.com, srv-2019-05-15-00.config.parsely.com Show All"
+" Neustar, Inc.", agkn.com
+ Parse.ly," config.parsely.com, srv-2019-05-14-23.config.parsely.com, srv-2019-05-15-00.config.parsely.com Show All"
  Piano Inc.," cdn.tinypass.com, sandbox.tinypass.com"
- Scorecard Research, 
- Signal Digital Inc., 
- TrustArc (formerly TRUSTe), 
+ Scorecard Research, sb.scorecardresearch.com
+ Signal Digital Inc., s.thebrighttag.com
+ TrustArc (formerly TRUSTe), consent.truste.com
  Twitter," abs.twimg.com, cdn.syndication.twimg.com, platform.twitter.com, syndication.twitter.com, ton.twimg.com Show All"
- VIP, 
- Walmart, 
- Wayfair, 
- Zencoder, 
- numberly, 
+ VIP, fortune-com-preprod.go-vip.net
+ Walmart, beacon.walmart.com
+ Wayfair, wayfair.com
+ Zencoder, vjs.zencdn.net
+ numberly, mmtro.com
 ---------------------
 
 Advertising cookies
 --------TABLE--------
  Company, Domain
- A.Mob, 
- ADITION technologies AG, 
- ADYOULIKE SA, 
- ADventori SAS, 
+ A.Mob, adotmob.com
+ ADITION technologies AG, adfarm1.adition.com
+ ADYOULIKE SA, omnitagjs.com
+ ADventori SAS, adventori.com
  AdSniper," adsniper.ru, bumlam.com"
- Adelphic LLC, 
- Adform A/S, 
+ Adelphic LLC, ipredictive.com
+ Adform A/S, adform.net
  Adobe Marketing Cloud - Advertising Services," demdex.net, dpm.demdex.net"
- AdsWizz Inc., 
- Adtelligent Inc., 
- Amazon, 
-" Amobee, Inc.", 
- AppNexus Inc., 
- Appier, 
- BIDSWITCH GmbH, 
- Beachfront Media LLC, 
- BeeswaxIO Corporation, 
-" Bounce Exchange, Inc", 
+ AdsWizz Inc., adswizz.com
+ Adtelligent Inc., adtelligent.com
+ Amazon, amazon-adsystem.com
+" Amobee, Inc.", turn.com
+ AppNexus Inc., adnxs.com
+ Appier, c.appier.net
+ BIDSWITCH GmbH, mfadsrvr.com
+ Beachfront Media LLC, bfmio.com
+ BeeswaxIO Corporation, bidr.io
+" Bounce Exchange, Inc", bounceexchange.com
  Cloud Technologies S.A.," erne.co, onaudience.com"
-" Colossus Media, LLC.", 
-" DataXu, Inc.", 
+" Colossus Media, LLC.", sync.colossusssp.com
+" DataXu, Inc.", w55c.net
  Dianomi (Financial Content Marketing)," dianomi.com, www.dianomi.com"
-" Exponential Interactive, Inc", 
+" Exponential Interactive, Inc", tribalfusion.com
  Facebook Inc.," facebook.com, www.facebook.com"
- Fluct, 
+ Fluct, adingo.jp
  FreeWheel," ads.stickyadstv.com, fwmrm.net"
-" Getintent USA, inc.", 
+" Getintent USA, inc.", adhigh.net
  Google Inc.," adservice.google.com, adservice.google.ie, doubleclick.net, pagead2.googlesyndication.com, s0.2mdn.net, securepubads.g.doubleclick.net, youtube.com Show All"
- GroupM, 
- IPONWEB GmbH, 
- Improve Digital International BV, 
-" Index Exchange, Inc.", 
- InfoLinks, 
- Jivox Corporation, 
- LifeStreet Corporation, 
- Ligatus GmbH, 
-" LiveRamp, Inc.", 
+ GroupM, mookie1.com
+ IPONWEB GmbH, bidswitch.net
+ Improve Digital International BV, 360yield.com
+" Index Exchange, Inc.", casalemedia.com
+ InfoLinks, infolinks.com
+ Jivox Corporation, jivox.com
+ LifeStreet Corporation, lfstmedia.com
+ Ligatus GmbH, ligadx.com
+" LiveRamp, Inc.", rlcdn.com
  Liveintent Inc.," i.liadm.com, liadm.com"
-" Lotame Solutions, Inc.", 
- Media.net Advertising FZ-LLC, 
-" MediaMath, Inc.", 
-" Nativo, Inc.", 
- Oath (EMEA) Limited, 
+" Lotame Solutions, Inc.", crwdcntrl.net
+ Media.net Advertising FZ-LLC, media.net
+" MediaMath, Inc.", mathtag.com
+" Nativo, Inc.", postrelease.com
+ Oath (EMEA) Limited, advertising.com
  Oracle AddThis," addthis.com, dlx.addthis.com"
- Oracle Data Cloud, 
- Outbrain, 
- OwnerIQ, 
- Platform161, 
+ Oracle Data Cloud, bluekai.com
+ Outbrain, outbrain.com
+ OwnerIQ, owneriq.net
+ Platform161, creative-serving.com
  PowerLinks Media Limited," powerlinks.com, px.powerlinks.com"
- Programattik, 
-" PulsePoint, Inc.", 
+ Programattik, ads.programattik.com
+" PulsePoint, Inc.", bh.contextweb.com
  Quantcast International Limited," quantserve.com, rules.quantcount.com"
-" RhythmOne, LLC", 
-" Salesforce DMP (formerly Krux Digital, Inc.)", 
- Scorecard Research, 
- Semasio GmbH, 
-" Sharethrough, Inc", 
- Simplifi Holdings Inc., 
-" Sizmek Technologies, Inc.", 
- Smart AdServer, 
- Sovrn Holdings Inc, 
- SpotX, 
+" RhythmOne, LLC", 1rx.io
+" Salesforce DMP (formerly Krux Digital, Inc.)", krxd.net
+ Scorecard Research, scorecardresearch.com
+ Semasio GmbH, semasio.net
+" Sharethrough, Inc", sharethrough.com
+ Simplifi Holdings Inc., simpli.fi
+" Sizmek Technologies, Inc.", rfihub.com
+ Smart AdServer, smartadserver.com
+ Sovrn Holdings Inc, lijit.com
+ SpotX, spotxchange.com
  Spoutable," spoutable.com, s.spoutable.com"
- SundaySky, 
- Supership (formerly ScaleOut), 
- Taboola Europe Limited, 
-" Tapad, Inc.", 
- Teads, 
-" Telaria, Inc", 
- The Trade Desk, 
-" TripleLift, Inc.", 
+ SundaySky, sundaysky.com
+ Supership (formerly ScaleOut), socdm.com
+ Taboola Europe Limited, taboola.com
+" Tapad, Inc.", tapad.com
+ Teads, teads.tv
+" Telaria, Inc", appnexus-partners.tremorhub.com
+ The Trade Desk, adsrvr.org
+" TripleLift, Inc.", 3lift.com
  Tru Optik," dmp.truoptik.com, truoptik.com"
  Unknown," events.bouncex.net, tag.clrstm.com"
- Unruly Group Ltd, 
- Videology Ltd., 
- Widespace AB, 
- Yahoo, 
-" Yandex, LLC.", 
- Ysance, 
-" Zemanta, Inc.", 
- ZypMedia (formerly ExtendTV), 
- digitalAudience, 
- plista GmbH, 
- smartclip Holding AG, 
+ Unruly Group Ltd, targeting.unrulymedia.com
+ Videology Ltd., tidaltv.com
+ Widespace AB, widespace.com
+ Yahoo, yahoo.com
+" Yandex, LLC.", yandex.ru
+ Ysance, y-medialink.com
+" Zemanta, Inc.", zemanta.com
+ ZypMedia (formerly ExtendTV), extend.tv
+ digitalAudience, target.digitalaudience.io
+ plista GmbH, plista.com
+ smartclip Holding AG, sxp.smartclip.net
 ---------------------
 Information storage and access 
 --------TABLE--------

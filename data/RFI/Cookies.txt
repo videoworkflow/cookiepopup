@@ -32,7 +32,7 @@ Cookies related to social networks
  Dailymotion, Viewing media published on the platform, v1st dmvk ts damd client_token clsu, 1 year Session 1 year 1 year 6 hours 1 month
  Vimeo, Viewing media published on the platform, vuid, 13 months
  Vkontakte," Social sharing features, viewing messages and media published on the platform", remixlang remixlhk remixsid, 1 year 1 year 13 months
- , Social sharing features, p, 13 months
+ Mail.ru, Social sharing features, p, 13 months
  Instagram, Viewing messages and media published on the platform, crsftoken rur urlgen, 1 year Session Session
  LinkedIn, Social sharing features, IN_HASH lidc, Session 1 day
  Reddit," Social sharing features, viewing messages and media published on the platform", edgebucket initref session_tracker, 13 months Session Session

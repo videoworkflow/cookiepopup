@@ -5,23 +5,23 @@ Ad network
 --------TABLE--------
  33Across
  ADMIXER
- 
- 
- 
+ Google Inc.
+ Sharethrough
+ Yahoo!
 ---------------------
 Analytics Provider 
 --------TABLE--------
- 
+ 33Across (fka Tynt Multimedia)
  Google Analytics
  Neustar AdAdvisor
  Qualtrics
  Tealium
- 
+ TripleLift
 ---------------------
 
 Demand Side Platform
 --------TABLE--------
- 
+ Adform
  GetIntent
  Tapad
  The Trade Desk
@@ -35,7 +35,7 @@ Data Aggregator/Supplier
 
 --------TABLE--------
  Adobe Experience Cloud (Audience Manager)
- 
+ eXelate
  Neustar Marketing (Formerly PlatformOne)
  Oracle Data Cloud
 ---------------------
@@ -49,7 +49,7 @@ Data Management Platform
 ---------------------
 Ad Server 
 --------TABLE--------
- 
+ Clearstream.TV
  LiveIntent
  SiteScout
 ---------------------
@@ -67,7 +67,7 @@ Ad Exchange
  IPONWEB
  OpenX
  Rubicon Project
- 
+ Sonobi
 ---------------------
 Retargeter
 --------TABLE--------

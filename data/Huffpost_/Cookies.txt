@@ -4,49 +4,49 @@ Functional partners (46) - Partners (163)
 --------TABLE--------
  Functional partners
  AdButler
- 
+ Privacy Policy
  Amazon
- 
+ Privacy Policy
  DoubleClick / Google / Adx*
- 
+ Privacy Policy
  eBay
- 
+ Privacy Policy
  Ensighten
- 
+ Privacy Policy
 " salesforce.com, inc."
- 
+ Privacy Policy
  Metrixlab
- 
+ Privacy Policy
  Nielsen Marketing Cloud
- 
+ Privacy Policy
  PopWallet
- 
+ Privacy Policy
  WEBORAMA
- 
+ Privacy Policy
  Zentrick
- 
+ Privacy Policy
  Atlas / Facebook
- 
+ Privacy Policy
  Unruly Group Ltd
- 
+ Privacy Policy
  Microsoft
- 
+ Privacy Policy
  GlobalWebIndex
- 
+ Privacy Policy
  Mediametrie
- 
+ Privacy Policy
  Paysafe/Income Access
- 
+ Privacy Policy
  dataXtrade GmbH
- 
+ Privacy Policy
  Databowl
- 
+ Privacy Policy
  Aegon
- 
+ Privacy Policy
  Plexop
- 
+ Privacy Policy
  Tchibo
- 
+ Privacy Policy
  Plexop
 ---------------------
 
@@ -108,7 +108,7 @@ Functional partners (46) - Partners (163)
  Meetrics
  AppNexus
  Neodata Group
- 
+ nugg.ad
  Commanders Act
  Taboola
  Cablato
@@ -128,7 +128,7 @@ Functional partners (46) - Partners (163)
  Placecast
  Lucid
  Tealium
- 
+ Roq.ad
  Index Exchange
  Piximedia
  AdKernel
@@ -157,10 +157,10 @@ Functional partners (46) - Partners (163)
  GlobalWebIndex
  Arrivalist
  Digitize
- 
+ Media.net
  DoubleVerify
  ADEX
- 
+ Simpli.fi
  eBay
  Centro
  GroundTruth

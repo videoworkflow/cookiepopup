@@ -11,48 +11,48 @@ Bloomberg required cookies
 Bloomberg functional cookies
 
 --------TABLE--------
- Bankrate, 
- DigiTrust / IAB Tech Lab, 
- Exposebox, 
+ Bankrate, widgets.bankrate.com
+ DigiTrust / IAB Tech Lab, digitru.st
+ Exposebox, exposebox.com
  Microsoft Advertising," bat.bing.com, bing.com"
-" Neustar, Inc.", 
- New Relic Inc., 
- Oracle Eloqua, 
- , 
+" Neustar, Inc.", agkn.com
+ New Relic Inc., nr-data.net
+ Oracle Eloqua, eloqua.com
+ Parse.ly, config.parsely.com
  PerimeterX," client.perimeterx.net, collector-px8fcgygk4.perimeterx.net, perimeterx.net"
  PerimeterX, Show All
- Piano Inc., 
- Publicis Media GmbH, 
- Quora, 
-" Salesforce DMP (formerly Krux Digital, Inc.)", 
- Storygize, 
+ Piano Inc., tinypass.com
+ Publicis Media GmbH, vtracy.de
+ Quora, quora.com
+" Salesforce DMP (formerly Krux Digital, Inc.)", krxd.net
+ Storygize, storygize.net
  TrustArc (formerly TRUSTe)," consent-pref.trustarc.com, prefmgr-cookie.truste-svc.net"
- Vimeo, 
- WEBORAMA, 
+ Vimeo, vimeo.com
+ WEBORAMA, weborama.fr
 ---------------------
 
 Bloomberg Advertising cookies
 
 --------TABLE--------
- ADITION technologies AG, 
+ ADITION technologies AG, adfarm1.adition.com
  Adobe Marketing Cloud - Advertising Services," demdex.net, dpm.demdex.net"
- BIDSWITCH GmbH, 
- Dstillery (formerly Media6Degrees), 
- Facebook Inc., 
- Falk Realtime, 
- FreeWheel, 
- Google Inc., 
- Improve Digital International BV, 
+ BIDSWITCH GmbH, mfadsrvr.com
+ Dstillery (formerly Media6Degrees), action.media6degrees.com
+ Facebook Inc., facebook.com
+ Falk Realtime, angsrvr.com
+ FreeWheel, ads.stickyadstv.com
+ Google Inc., doubleclick.net
+ Improve Digital International BV, ad.360yield.com
  LinkedIn," ads.linkedin.com, linkedin.com, www.linkedin.com"
- Liveintent Inc., 
-" MediaMath, Inc.", 
- Oracle AddThis, 
- Oracle Data Cloud, 
- Scorecard Research, 
- SoundCloud, 
+ Liveintent Inc., liadm.com
+" MediaMath, Inc.", mathtag.com
+ Oracle AddThis, addthis.com
+ Oracle Data Cloud, bluekai.com
+ Scorecard Research, scorecardresearch.com
+ SoundCloud, soundcloud.com
  Ströer SSP GmbH," adscale.de, ih.adscale.de"
- Twitter, 
- Unknown, 
+ Twitter, twitter.com
+ Unknown, a.audrte.com
 ---------------------Information storage and access
 
 --------TABLE--------

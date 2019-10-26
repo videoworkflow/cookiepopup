@@ -1,6 +1,6 @@
 Cookies usage:
 
-PRISA uses its own and third-party cookies to improve its services, prepare statistical information and display advertising, content or personalized services through the analysis of its navigation. To accept their use you can continue browsing. Otherwise, you can configure or reject those purposes by clicking on the Settings section. To obtain more information about the use of cookies and their rights, access our.
+PRISA uses its own and third-party cookies to improve its services, prepare statistical information and display advertising, content or personalized services through the analysis of its navigation. To accept their use you can continue browsing. Otherwise, you can configure or reject those purposes by clicking on the Settings section. To obtain more information about the use of cookies and their rights, access our Privacy Policy.
 Configuration Close
  
 For what purposes my information is used and who uses it?
@@ -9,7 +9,7 @@ This Site uses its own and other entities cookies, in order to access and use yo
 
 We and the companies that collaborate with us, such as advertisers, advertising operators and intermediaries, will use your information obtained through cookies. To know the collaborating companies that incorporate their cookies on our website you can access through the button See our partners. You can set your consent preferences separately for each of the mentioned partners.
 
-Additional information:You can know the complete information about the use of cookies, their configuration, origin, purposes and rights in our.
+Additional information:You can know the complete information about the use of cookies, their configuration, origin, purposes and rights in our Cookies Policy.
 
 You allow the use of cookies for the following purposes:
 -Information storage and access

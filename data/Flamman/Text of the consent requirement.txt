@@ -1,7 +1,7 @@
 Personuppgiftspolicy
 Om du vill läsa hela Flammans personuppgiftspolicy i lättläst variant kan du göra det här.
  
-Flamman lagrar personuppgifter i enlighet med Europeiska unionens dataskyddsförordning (General Data Protection Regulation,). Dataskyddsförordningen ersätter den 25 maj 2018 personuppgiftslagen (PUL), eftersom EU:s förordningar är direkt tillämpliga i EU:s medlemsstater och alltså i Sverige likställs med en lag. I Sverige kommer det dock även att antas en ny dataskyddslag som ska komplettera förordningen.
+Flamman lagrar personuppgifter i enlighet med Europeiska unionens dataskyddsförordning (General Data Protection Regulation, GDPR). Dataskyddsförordningen ersätter den 25 maj 2018 personuppgiftslagen (PUL), eftersom EU:s förordningar är direkt tillämpliga i EU:s medlemsstater och alltså i Sverige likställs med en lag. I Sverige kommer det dock även att antas en ny dataskyddslag som ska komplettera förordningen.
  
 Dataskyddsförordningen innebär i korthet starkare integritetsskydd för privatpersoner, och större ansvar för den som lagrar personuppgifter. Ansvaret går till exempel ut på att man måste ha en rättslig grund och ett tydligt ändamål för de personuppgifter som lagras och behandlas.
 Denna policy gäller de personuppgifter som behandlas och lagras i vårt prenumerationsregister. Personuppgifter

@@ -117,29 +117,29 @@ Users may at any time decide to remove these cookies. The browser can also be co
  
 Users may express their choices, manage, disable or enable cookies directly by changing the settings on their browser or OS in the following way:
  
-Edge / Internet Explorer:
-Firefox:
-Safari:
-Google Chrome:
-Opéra:
-Safari iOS:
-Android:
+Edge / Internet Explorer:https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+Firefox:https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+Safari:https://support.apple.com/kb/ph17191?locale=en_US&viewlocale=en_US
+Google Chrome:https://support.google.com/chrome/answer/95647?hl=en
+Opéra:https://help.opera.com/en/latest/web-preferences/#cookies
+Safari iOS:https://support.apple.com/en-us/HT201265
+Android:https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform=Android
  
 You can also set your browser so that it sends a code indicating the websites that you do not want to be "tracked" (option "Do Not Track") in the following way:
-Edge / Internet Explorer:
-Firefox:
-Safari:
-Google Chrome:
-Opéra:
-Safari iOS:
-Android:
+Edge / Internet Explorer:https://windows.microsoft.com/en-us/internet-explorer/use-tracking-protection
+Firefox:https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature
+Safari:https://support.apple.com/kb/PH11952?locale=en_US&viewlocale=en_US
+Google Chrome:https://support.google.com/chrome/answer/2790761?hl=en&co=GENIE.Platform=Desktop
+Opéra:https://help.opera.com/en/latest/security-and-privacy/#tracking
+Safari iOS:https://support.apple.com/en-us/guide/safari/sfri11471/mac
+Android:https://support.google.com/chrome/answer/2790761?hl=en&co=GENIE.Platform=Android
  
 You can object to the use of navigation data by our partners, including:
-AT Internet:
-Parsely:
-Outbrain:
-Your Online Choices:
-Ad choices:
+AT Internet:https://www.atinternet.com/en/company/data-protection/
+Parsely:https://www.parse.ly/privacy-policy/
+Outbrain:https://www.outbrain.com/legal/
+Your Online Choices:http://www.youronlinechoices.com/uk/your-ad-choices/
+Ad choices:http://optout.aboutads.info/
  
 The list of these partners is likely to change over time. This is why we invite you to periodically revisit this page to learn about these developments.
 If you refuse to have cookies placed on your terminal, you will no longer be able to benefit from some of the Websites' features, such as:
@@ -156,23 +156,23 @@ In this case, France Médias Monde implements the means to ensure the security a
 Please note that we strictly require that our partners only use your personal data to manage or provide the services requested. We also ask these partners to always act in compliance with the applicable laws on personal data protection and pay particular attention to the confidentiality of such data.
  
 6. Useful information
-Please see also the  in the legal notices of France Médias Monde that define the rules followed in the processing of your personal data that could be collected.
+Please see also the privacy protection policy in the legal notices of France Médias Monde that define the rules followed in the processing of your personal data that could be collected.
  
 You can find useful information and links to help you better understand cookies, their uses and your associated rights at the following addresses:
  
 Cookies: the tools to control them:
-
+https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser
 Understanding private browsing:
-
+https://www.cnil.fr/fr/la-navigation-privee-pour-limiter-les-risques-de-piratage-de-vos-comptes-en-ligne
 4 reflexes to better protect your identity online:
-
+https://www.cnil.fr/fr/4-reflexes-pour-mieux-proteger-votre-identite-en-ligne
  
 In addition, CNIL provides a visualisation tool to measure the impact of cookies and other trackers while browsing:
 Cookieviz:
-
+https://linc.cnil.fr/fr/cookieviz-une-dataviz-en-temps-reel-du-tracking-de-votre-navigation
  
 Lastly, YourOnlineChoices allows you to better understand behavioural advertising:
 YourOnlineChoices:
-
+http://www.youronlinechoices.com/uk/about-behavioural-advertising
  
 

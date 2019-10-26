@@ -1,8 +1,8 @@
 Cookie policy
-
+InfoIncoming
 See below for Dazed's cookie policy
 24May 2018
-Text
+TextDazed Digital
 Cookie policy
  
 Please read this carefully
@@ -50,15 +50,15 @@ The two most common ways we use advertising and targeting cookies are:
 Interest-based advertising, sometimes known as online behavioural advertising, is where cookies are placed on your device by our third party service providers. They can remember information such as your web browsing activity and can target you with advertisements based on your interests.  Your previous web browsing activity can also be used to deduce certain information about you, such as your demographics (including age, gender and location) which may also be used to make the advertising on other websites more relevant to you.
 ‘Retargeting’ is a type of interest-based advertising which allows our advertising partners to show users advertisements based on their online activity on our website.  This allows companies to advertise to users who previously visited our website. These cookies are normally placed on your device by third-party advertising networks, we have listed the main third party networks we work with below.
  
-Without this type of cookie, online advertisements you see would be less relevant to you and your interests. For more information about this type of online advertising, including how to opt out, please visit
+Without this type of cookie, online advertisements you see would be less relevant to you and your interests. For more information about this type of online advertising, including how to opt out, please visit www.youronlinechoices.com
  
 How do I control my cookies?
 Users should be aware that any preferences will be lost if you remove cookies and many websites will not work as well, and you could lose some functionality. We do not recommend turning cookies off when using our Website for this reason.
  
 Most browsers commonly accept cookies automatically, however you can change the settings of your specific web browser to remove cookies or prevent automatic acceptance if desired. You are normally able to see which cookies are installed and remove them individually, as well as blocking third party cookies or those from particular websites. You can also accept all cookies, be notified when a specific cookie is issued, or automatically block all cookies. To find out more check the following links for more browser-specific information.
-
-
-
+Cookie settings in Internet Explorer
+Cookie settings in Firefox
+Cookie settings in Chrome
 Cookie settings in Safari
  
 Managing performance cookies
@@ -67,8 +67,8 @@ You are able to opt out of having your anonymous browsing activity within websit
 dazeddigital.com uses the following companies, you can choose to opt out of their cookies by clicking on the relevant links. This will take you to the relevant third party's website and generate a ‘no thanks' cookie, which will stop any further cookies being set by those third parties.
  
 By not allowing performance cookies, this stops us from being able to assess performance of the website, and learn what does and doesn’t work for users on our Website helping us to make a better user experience.
-
-
+Google Analytics
+Chart Beat
  
 Managing advertising cookies
 If you would like to opt out of receiving targeted advertising, this does not necessarily mean that you will receive less advertising when you use our Website. It does however mean that the adverts you see will not be as customised to your interests.
@@ -76,8 +76,8 @@ If you would like to opt out of receiving targeted advertising, this does not ne
 Users who want to switch off third-party advertising cookies, can do this by visiting the Internet Advertising Bureau’s consumer advice site, Youronlinechoices.com  There you will find a list of all cookies that are set on your device and how to individually opt out of them. This list will contain more networks than just found on dazeddigital.com Ensure that all third party advertising networks and advertisers who set cookies on our Website are signed up to this website.
  
 You can find links below to some of the specific partners we work with who set cookies on our websites, and on your computer, you will find instructions on how to opt out of their cookies.
-
-For more information on cookies,
+Google Opt Out
+For more information on cookies, click here
  
 User agreement
 By continuing to use our site, you agree to the placement of cookies on your device. If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be.

@@ -18,7 +18,7 @@ Du kan radera cookies från din hårddisk när som helst. Du kan också ändra i
 Har din webbläsare stöd för ett så kallat "inkognitoläge" kan du även aktivera det för att automatiskt radera alla cookies varje gång du stänger din webbpublik.
  
 Ta bort cookies
-Instruktioner för hur du kan rensa cookies i din webbläsare finns bland annat på. Här finns steg för steg-guider för de vanligaste webbläsarna.
+Instruktioner för hur du kan rensa cookies i din webbläsare finns bland annat på Googles hjälpsidor. Här finns steg för steg-guider för de vanligaste webbläsarna.
  
 Kontakta oss
 Om du har några frågor om Sveriges Radios hantering av cookies är du alltid välkommen att kontakta webmaster@sverigesradio.se

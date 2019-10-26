@@ -1,23 +1,23 @@
 Partners (20) 
 --------TABLE--------
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ AdRoll
+ Pixalate
+ Google
+ Facebook
+ Bidswitch
+ AppNexus
+ Liveramp
+ OpenX
+ MicroAd
+ Rubicon
+ Index
+ Pubmatic
+ Taboola
+ Outbrain
+ TripleLift
+ LinkedIn
+ Oath
+ AOL
+ Yahoo
+ AOL One: Video
 ---------------------
