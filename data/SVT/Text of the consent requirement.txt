@@ -1,0 +1,80 @@
+Om personuppgiftsbehandling och cookies på SVT
+Uppdaterad 2019-07-16
+ 
+Personuppgiftsbehandling sker inom SVT:s publicistiska verksamhet. Det innebär att endast vissa bestämmelser i Dataskyddsförordningen (på engelska General Data Protection Regulation, GDPR) gäller för behandlingen, till exempel reglerna som rör säkerhet för personuppgifter. Har du några frågor är du välkommen att kontakta oss via mejl på dataskyddsforordningen@svt.se.
+
+
+Insamling av personuppgifter
+
+SVT samlar in uppgifter om bland annat ditt IP-nummer, typ av enhet, uppspelade titlar och tekniska data om prestandan på din uppkoppling, enhet och uppspelning. Vi samlar även in uppgifter om du angivit språkpreferens i din browser. Syftet med SVT:s behandling av uppgifterna är att möjliggöra individuell support rörande SVT:s videotjänster och vidareutveckla SVT:s tjänster och förbättra vårt utbud.
+
+Uppgifterna kan komma att behandlas av våra leverantörer. Vi gör alltid vår yttersta att skydda de personuppgifter vi behandlar genom adekvata säkerhetsåtgärder
+
+
+Enkätverktyget Hotjar
+
+Enkätsvar som skickas via verktyget lagras i anonymiserad form enligt Dataskyddsförordningen. Det är frivilligt att svara på våra enkäter, vill du inte få frågan om att svara på enkäter går det att avböja medverkan.
+
+
+Behandling av personuppgifter
+Utöver vad som framgår ovan behandlas dina personuppgifter på våra hemsidor och i våra appar i enlighet med vad som framgår nedan.
+
+
+
+
+
+
+
+
+
+ 
+Cookies
+För att ge dig som besökare en så bra upplevelse av våra webbplatser som möjligt använder SVT cookies. Cookies används för att vi ska kunna se de val du tidigare gjort på våra webbplatser och för att ge oss möjlighet att förbättra våra webbplatser. Cookies används även för att mäta trafiken på våra webbplatser och för statistik.
+
+På vissa av våra webbplatser placerar även SVT:s innehållsleverantörer, som till exempel olika sociala medier, cookies på din dator.
+
+
+Det är möjligt för dig att göra inställningar på din dator som hindrar SVT och våra innehållsleverantörer från att placera cookies på din dator. Sådana inställningar kan innebära att vissa funktioner på våra webbplatser inte kommer att fungera. Exempelvis vilka regionala inställningar du gjorde senast du tittade på SVT:s nyhetssidor och på SVT Väder eller omröstningsfunktionen där information sparas för att resultatet av röstningen ska kunna visas nästa gång sidan besöks. Information om hur du kan förhindra lagring av cookies på din dator finns nedan.
+
+
+Vad är cookies?
+
+En cookie är en liten mängd data som oftast har en unik stämpel på sig. Denna data skickas från en webbplats dator till din webbläsare och sparas där, på din hårddisk, så att webbplatsen kan känna igen din dator.
+
+
+Alla webbplatser kan skicka cookies till din webbläsare om dina inställningar i webbläsaren tillåter det. För att denna information inte ska missbrukas kan webbplatser bara läsa information från cookies sparade av dem själva och inte några cookies sparade av andra webbplatser.
+
+
+Det finns två typer av cookies, permanenta och temporära (s.k. sessionscookies). Permanenta cookies lagras som en fil på din dator under en längre period. Sessionscookies är temporärt placerade på din dator när du besöker en webbplats, men försvinner när du stänger ner sidan vilket innebär att de inte sparas permanent på din dator. De flesta företag använder cookies på sina webbplatser för att förbättra användbarheten och cookies kan inte skada dina filer eller öka risken för virus på din dator.
+
+
+Som användare har du möjlighet att ställa in om du vill att cookies ska få sparas automatiskt i din webbläsare, om du vill tillfrågas varje gång en cookie vill sparas eller om du vill att inga cookies ska sparas. Cookies används på många webbplatser, inte bara SVT:s, för att hålla reda på om webbläsaren har besökt webbplatsen tidigare och vilka val som då gjorts. Det görs en kontroll vid varje besök på webbplatsen om cookies finns lagrade i webbläsaren eller inte. Finns det inga lagrade cookies från webbplatsen sparar webbläsaren de cookies som finns på webbplatsen.
+
+
+SVT:s cookies håller bl.a. reda på vissa inställningar du gjort på våra webbplatser, t.ex. vilken region du valde senast du tittade på SVT:s regionala nyhetssidor eller på SVT Väder. Denna information används sedan när du surfar på SVT:s webbplatser för att underlätta för dig som besökare. Avaktiverar du cookies går du alltså miste om en rad fördelar på SVT:s webbplatser.
+
+Ytterligare information om cookies finns på Post- och telestyrelsens webbplats,.
+
+
+Hitta och ta bort cookies
+
+Alla webbläsare är olika. Leta i hjälpfunktionen i din webbläsare för information om hur du ändrar cookie-inställningarna. Du kan själv radera alla cookies från din hårddisk. Detta gör du i din webbläsares inställningar.
+
+Du kan läsa mer om hur du tar bort cookies i din webbläsare
+
+
+Cookies och local storage på SVT
+Fullständig förteckning finns i länken nedan.
+Adobe TagManager: En cookie som används för att mäta återkommande besökare samt hur besökare navigerar på SVT:s webbplatser.
+New Relic: En cookie som används för att öka förståelsen för hur besökaren upplever våra webbplatsen.
+Omniture (Adobe Analytics): En cookie som används för att studera hur besökare använder SVT:s webbplatser.
+Crazy Egg: Analysverktyg för att se var besökarna klickar på sajten.
+TNS: Analyserar hur besökare navigerar på webbplatsen.
+Paternal-lock: En cookie som används för att aktivera Barnskyddet.
+Typekit by Adobe: Ger SVT möjligheten att använda olika typsnitt på webbplatsen.
+Google Analytics: Mäter antalet besökare på webbplatsen.
+Gravatar: En avatar som dyker upp i anslutning till ditt namn när du t.ex. skriver i forum.
+Linkpulse: Statistikverktyg för att analysera besök på sajten.
+Hotjar: Ett verktyg för att göra enkäter och analysera hur besökare navigerar på webbplatsen.
+ 
+

@@ -1,0 +1,160 @@
+Bloomberg required cookies (2) - Bloomberg functional cookies (18) - Bloomberg advertising cookies (19) - Information storage and access (29) - Personalisation (19) - Ad selection, delivery and reporting (16) - Content selection, delivery and reporting (7) - Measurement (10)
+
+
+Bloomberg required cookies
+
+--------TABLE--------
+ Bloomberg New Energy Finance," about.bnef.com, bnef.com"
+ Bloomberg," bloomberg.com, login.bloomberg.com, service.bloomberg.com, www.bloomberg.com"
+---------------------
+
+Bloomberg functional cookies
+
+--------TABLE--------
+ Bankrate, 
+ DigiTrust / IAB Tech Lab, 
+ Exposebox, 
+ Microsoft Advertising," bat.bing.com, bing.com"
+" Neustar, Inc.", 
+ New Relic Inc., 
+ Oracle Eloqua, 
+ , 
+ PerimeterX," client.perimeterx.net, collector-px8fcgygk4.perimeterx.net, perimeterx.net"
+ PerimeterX, Show All
+ Piano Inc., 
+ Publicis Media GmbH, 
+ Quora, 
+" Salesforce DMP (formerly Krux Digital, Inc.)", 
+ Storygize, 
+ TrustArc (formerly TRUSTe)," consent-pref.trustarc.com, prefmgr-cookie.truste-svc.net"
+ Vimeo, 
+ WEBORAMA, 
+---------------------
+
+Bloomberg Advertising cookies
+
+--------TABLE--------
+ ADITION technologies AG, 
+ Adobe Marketing Cloud - Advertising Services," demdex.net, dpm.demdex.net"
+ BIDSWITCH GmbH, 
+ Dstillery (formerly Media6Degrees), 
+ Facebook Inc., 
+ Falk Realtime, 
+ FreeWheel, 
+ Google Inc., 
+ Improve Digital International BV, 
+ LinkedIn," ads.linkedin.com, linkedin.com, www.linkedin.com"
+ Liveintent Inc., 
+" MediaMath, Inc.", 
+ Oracle AddThis, 
+ Oracle Data Cloud, 
+ Scorecard Research, 
+ SoundCloud, 
+ Ströer SSP GmbH," adscale.de, ih.adscale.de"
+ Twitter, 
+ Unknown, 
+---------------------Information storage and access
+
+--------TABLE--------
+ ADITION technologies AG
+ Adform A/S
+ Adobe Advertising Cloud
+" Amobee, Inc."
+ AppNexus Inc.
+ Bombora Inc.
+" DataXu, Inc."
+ Eyeota Ptd Ltd
+ IPONWEB GmbH
+" Index Exchange, Inc."
+" LiveRamp, Inc."
+ LoopMe Ltd
+" Lotame Solutions, Inc."
+" MediaMath, Inc."
+ Oath (EMEA) Limited
+ OpenX
+" PubMatic, Inc."
+ Quantcast International Limited
+ Semasio GmbH
+ Skimbit Ltd
+ Sovrn Holdings Inc
+ SpotX
+ Taboola Europe Limited
+" Tapad, Inc."
+ Teads
+" The Rubicon Project, Inc."
+ The Trade Desk
+ Yieldlab AG
+---------------------
+
+Personalisation 
+
+--------TABLE--------
+ Adobe Advertising Cloud
+" Amobee, Inc."
+ AppNexus Inc.
+ Bombora Inc.
+" DataXu, Inc."
+ Eyeota Ptd Ltd
+ IPONWEB GmbH
+" LiveRamp, Inc."
+ LoopMe Ltd
+" Lotame Solutions, Inc."
+" MediaMath, Inc."
+ Oath (EMEA) Limited
+ OpenX
+ Quantcast International Limited
+ Semasio GmbH
+ Skimbit Ltd
+ Sovrn Holdings Inc
+ Teads
+ The Trade Desk
+---------------------
+
+Ad selection, delivery and reporting
+
+--------TABLE--------
+ Adobe Advertising Cloud
+" Amobee, Inc."
+ AppNexus Inc.
+ Bombora Inc.
+" DataXu, Inc."
+ IPONWEB GmbH
+" LiveRamp, Inc."
+ LoopMe Ltd
+" Lotame Solutions, Inc."
+" MediaMath, Inc."
+ Oath (EMEA) Limited
+ OpenX
+ Quantcast International Limited
+ Skimbit Ltd
+ Sovrn Holdings Inc
+ Yieldlab AG
+---------------------
+
+
+Content selection, delivery and reporting
+
+--------TABLE--------
+ Adobe Advertising Cloud
+" Amobee, Inc."
+ IPONWEB GmbH
+" LiveRamp, Inc."
+" Lotame Solutions, Inc."
+" MediaMath, Inc."
+ Quantcast International Limited
+---------------------
+
+Measurement
+
+--------TABLE--------
+ Adobe Advertising Cloud
+" Amobee, Inc."
+ IPONWEB GmbH
+" LiveRamp, Inc."
+ LoopMe Ltd
+" Lotame Solutions, Inc."
+" MediaMath, Inc."
+ Oath (EMEA) Limited
+ Quantcast International Limited
+ Semasio GmbH
+---------------------

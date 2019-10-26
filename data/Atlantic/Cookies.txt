@@ -1,0 +1,58 @@
+The Atlantic (only categories mentioned, no specific cookies):
+Information storage and access (?) - Personalisation (?) - Ad selection, delivery and reporting (?) - Content selection, delivery and reporting (?) - Measurement (?)
+
+
+
+Third Party Vendors: 
+Information storage and access (15) - Personalisation (7) - Ad selection, delivery and reporting (4) - Content selection, delivery and reporting (0) - Measurement (4)
+
+Information storage and access
+--------TABLE--------
+ AppNexus Inc.
+" comScore, Inc."
+ Criteo SA
+ district m inc.
+" Flashtalking, Inc."
+" GumGum, Inc."
+" Index Exchange, Inc."
+ Media.net Advertising FZ-LLC
+ Oath (EMEA) Limited
+ OpenX
+" PubMatic, Inc."
+ Quantcast International Limited
+" Sizmek Technologies, Inc."
+ Teads
+" The Rubicon Project, Inc."
+---------------------
+
+Personalisation
+
+--------TABLE--------
+ Criteo SA
+ district m inc.
+" GumGum, Inc."
+ Media.net Advertising FZ-LLC
+ Oath (EMEA) Limited
+ OpenX
+ Teads
+---------------------
+
+Ad selection, delivery and reporting
+--------TABLE--------
+ Criteo SA
+ district m inc.
+" GumGum, Inc."
+ OpenX
+---------------------
+
+Content selection, delivery and reporting
+0
+
+Measurement 
+
+--------TABLE--------
+" comScore, Inc."
+ district m inc.
+ DoubleVerify Inc.​
+" GumGum, Inc."
+---------------------

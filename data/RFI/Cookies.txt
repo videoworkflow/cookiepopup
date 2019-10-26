@@ -1,0 +1,61 @@
+Technical cookies (10) - Digital Identity Management cookies (2) - Cookies related to the collection of audience statistics (20) - Cookies related to social networks (92) - Advertising cookies and user knowledge (60) 
+
+
+Technical cookies 
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ France Médias Monde - Incapsula, Securing the website, incap_ses_* visid_incap_*, Session 12 months
+ France Médias Monde - Ensighten, Technical management of partner scripts, _gid _ga _gat, 1 day 24 months Session
+ France Médias Monde - Pingdom, Page loading speed monitoring, _cfduid, Session
+ France Médias Monde - Akamai mPulse, Page loading speed monitoring, RT, 7 days
+ France Médias Monde, User's consent to the collection of cookies on the website, cookies_consent, 13 months
+ Netino, Securing and monitoring the moderation of comments, lan computer_id, 13 months 13 months
+---------------------
+Digital Identity Management cookies 
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ France Médias Monde," Storing user session data, maintaining the connection of the account on the site", TS* SSESS, Session 3 weeks
+---------------------
+Cookies related to the collection of audience statistics 
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ AT Internet, Statistical monitoring by France Médias Monde of visits on different media, atuserid idrxvr atsession atreman xtan* xtvrn, 13 months 13 months 30 minutes 1 month 13 months 13 months
+ Parsely, Statistical monitoring by France Médias Monde of visits on different media in real time, _parsely_session _parsely_visitor parsely_network_uuid, Session 13 months 13 months
+ Cxense, Statistical monitoring by France Médias Monde of visits on different media, _hstc _zlcmid _ga _plantrack _vwo_uuid_v2 cX_G cX_P gckp hubspotutk locale visitor_type, 13 months 13 months Session 13 months Session 13 months 13 months 13 months 13 months 13 months Session
+---------------------
+Cookies related to social networks 
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ Facebook," Social sharing features, viewing messages and media published on the platform, space for comments", act c_user fr m_pixel_ratio pl wd xs, Session 3 months 3 months Session 1 month 1 week 3 months
+ Twitter," Social sharing features, viewing messages and media published on the platform", _gid _ga _ncuid _twitter_sess _utma _utmc _utmz ct0 daa eu_cn external_referer kdt lang mbox tfw_exp, 1 day 24 months 1 year Session 1 year Session 5 months 1 day 3 weeks 13 months 1 week 13 months Session 1 week 2 weeks
+ Google / Youtube," Social sharing features, viewing messages and media published on the platform", GPS NID PREF VISITOR_INFO1_LIVE YSC SAPISID CONSENT HSID SSID APISID SID LOGIN_INFO, Session 6 months 8 months Session 13 months
+ Dailymotion, Viewing media published on the platform, v1st dmvk ts damd client_token clsu, 1 year Session 1 year 1 year 6 hours 1 month
+ Vimeo, Viewing media published on the platform, vuid, 13 months
+ Vkontakte," Social sharing features, viewing messages and media published on the platform", remixlang remixlhk remixsid, 1 year 1 year 13 months
+ , Social sharing features, p, 13 months
+ Instagram, Viewing messages and media published on the platform, crsftoken rur urlgen, 1 year Session Session
+ LinkedIn, Social sharing features, IN_HASH lidc, Session 1 day
+ Reddit," Social sharing features, viewing messages and media published on the platform", edgebucket initref session_tracker, 13 months Session Session
+ Pinterest, Viewing messages and media published on the platform, _pinterest_cm, Session
+ Deezer, Viewing media published on the platform, IDE NID _utma _utmb _utmc _utmt _utmz deezer_test_cookie dzr_uniq_id sid, 13 months 6 months 1 year Session Session Session 5 months Session 6 months Session
+ Soundcloud, Viewing media published on the platform, UID sc_anonymous_id, 13 months 13 months
+ Disqus, Space for comments, G_ENABLED_IDPS NID _utma _utmb _utmc _utmz disqus_unique __jid, 13 months 6 months 1 year Session Session 5 months 1 year Session
+ Balatarin," Social sharing features, viewing messages and media published on the platform", OX_plg _balat_session_new geo _gid _ga _gat NID ad-id ad-privacy coop_session, Session Session Session 1 day 24 months Session 6 months 6 months 6 months Session
+ AddThis, Social sharing features, _ga _gid Bku Loc Mus Na_id Na_tc ups, 13 months 1 day 13 months 13 months 13 months 13 months 13 months 13 months
+---------------------
+Advertising cookies and user knowledge 
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ France Médias Monde / France TV Publicité - Google DFP / YouTube, Customising the advertising experience, __gads GED_PLAYLIST_ACTIVITY aid IDE id dsid _drt_, 24 months Session ? 13 months ? 14 days ?
+ Teads, Customising the advertising experience, CMDD CMID CMPRO CMPS CMRUM3 CMSC CMST CMSUM GLOBALID adtheorent[cuid] bt-es-* tt_bluekai tt_emetriq tt_exelate tt_in_i_* tt_viewer yocToken, Session 12 months 3 months 3 months 12 months Session Session 12 months 7 months Session Session 1 day 1 day 1 day 12 months 9 months 12 months
+ Kiwe, Customising the advertising experience, ticvn-* ti_rfc ti_lt ti_utk ti_stk, 1 day 1 day 4 months 4 months 4 months
+ Facebook Pixel, Monitoring the effectiveness of the brand's advertising campaigns on Facebook, fr, 3 months
+ Captify, Customising the advertising experience, cpSess, 12 months
+ Digiteka, Customising the advertising experience, e UID prerollindex STICKY PHPSESSID GED_PLAYLIST_ACTIVITY NID AFFICHE_W, 13 months 13 months 12 months Session Session Session 6 months 3 months
+ Outbrain, Customising the advertising experience, obuid ttd cdws apnxs rcktfl _*cap_*, 3 months 3 months 3 months 3 months 3 months 7 days
+ Taboola, Customising the advertising experience, trc_cookie_storage, 12 months
+ CrowdyNews, Statistical monitoring by Crowdy News of the displays of a widget and customising the advertising experience on the website, OX_plg TS* __cfduid azk, Session Session 12 months 12 months
+ Quantcast, Statistical monitoring by France Médias Monde of visits on different media and customising the advertising experience on the website, __qca mc d, 13 months 13 months 3 months
+ Zoontera, Customising the advertising experience, ZTCRSVID _IL rstg x1daid x1guid x1ha x1site, 13 months Session 7 days 13 months 13 months 13 months 13 months
+---------------------
+

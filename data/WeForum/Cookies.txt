@@ -1,0 +1,6 @@
+Analytics providers (4) 
+- Google
+- parse.ly 
+- chartbeat 
+- mix panel 
+

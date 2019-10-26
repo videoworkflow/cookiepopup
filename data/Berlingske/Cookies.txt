@@ -1,0 +1,252 @@
+Nødvendige (43) - Præferencer (13) - Statistik (54) - Marketing (148) - Uklassificert (56) 
+
+
+Nødvendige
+--------TABLE--------
+ CookieConsent [x4], kandidat.berlingske.dk berlingske.dk abonnement.business.dk abonnement.b.dk
+ PHPSESSID, 
+ gmid [x3], accounts.berlingske.dk accounts.weekendavisen.dk gigya.com
+ __cfduid [x14], adnami.io adnami2.io afbudsrejser.dk berlingskemedia.dk berlingskemediahelp.zendesk.com dwcdn.net jifo.co knightlab.com ptcfc.com qzzr.co qzzr.com solocpm.com zdassets.com zopim.com
+ ak_bmsc [x3], b.dk berlingske.dk bmcdn.dk
+ ZD-suid, 
+ __cfruid, 
+ gig3pctest, 
+ AWSALB [x2], counter.scribblelive.com zopim.com
+ SLStatUid [x2], counter.scribblelive.com embed.scribblelive.com
+ incap_ses_#, 
+ visid_incap_#, 
+ test, 
+ JSESSIONID, 
+ SESS# [x2], podcast.24syv.dk stickyadstv.com
+ ARRAffinity, 
+ userId, 
+ gdprConsent, 
+ local_storage_support_test, 
+ SLStatHist, 
+---------------------
+
+Præferencer
+--------TABLE--------
+ CookieConsentBulkSetting-#, 
+ CookieConsentBulkTicket, 
+ hasGmid [x3], accounts.berlingske.dk accounts.weekendavisen.dk gigya.com
+ bm_sv [x2], b.dk berlingske.dk
+ _usrp_#, 
+ jwplayerLocalId, 
+ ZD-store, 
+ lang, 
+ UID [x2], stickyadstv.com scorecardresearch.com
+---------------------
+
+Statistik
+
+--------TABLE--------
+ ab, 
+ _dc_gtm_UA-# [x2], berlingske.dk business.dk
+ _ga [x8], berlingske.dk business.dk infogram.com interaktiv.mx.dk knightlab.com ritzau.dk spotify.com viafree.dk
+ _gat [x7], berlingske.dk infogram.com interaktiv.mx.dk knightlab.com ritzau.dk spotify.com viafree.dk
+ _gid [x7], berlingske.dk business.dk interaktiv.mx.dk knightlab.com ritzau.dk spotify.com viafree.dk
+ _lp4_u [x2], berlingske.dk business.dk
+ gig_hasGmid [x2], berlingske.dk scribblelive.com
+ i00 [x2], berlingske.dk tns-gallup.dk
+ ZD-buid, 
+ ZD-currentTime, 
+ __utma [x2], cdn.knightlab.com embed.scribblelive.com
+ __utmb [x2], cdn.knightlab.com embed.scribblelive.com
+ __utmc [x2], cdn.knightlab.com embed.scribblelive.com
+ __utmt [x2], cdn.knightlab.com embed.scribblelive.com
+ __utmz [x2], cdn.knightlab.com embed.scribblelive.com
+ DigiTrust.v1.identity, 
+ S, 
+ collect, 
+ visitor-id, 
+ _visual_swf_referer, 
+ ad_session_id, 
+ d, 
+ sc_anonymous_id, 
+ srp, 
+ personalization_id, 
+ ouuid, volvelle.tech
+---------------------
+
+Marketing
+--------TABLE--------
+ UIDR, 
+ uid [x3], simpli.fi turn.com adform.net
+ uuid [x4], smartclip.net avocet.io berlingske.dk mathtag.com
+ WIDGET::local::assignments, 
+ sp_ab, 
+ sp_landing, 
+ sp_t, 
+ gdprApplicability, 
+ sync-his, 
+ tidal_ttid, 
+ __bpn_uid, 
+ __ur_i, 
+ , 
+ _fbp [x2], viafree.dk berlingske.dk
+ krux_views, 
+ sh, 
+ vampid, 
+ ouuid_lu, volvelle.tech
+ matchfreewheel, 
+ matchgoogle, 
+ wfivefivec, 
+ B, 
+ GPS, 
+ PREF, 
+ VISITOR_INFO1_LIVE, 
+ YSC, 
+ yt-remote-cast-installed, 
+ yt-remote-connected-devices, 
+ yt-remote-device-id, 
+ yt-remote-fast-check-period, 
+ yt-remote-session-app, 
+ yt-remote-session-name, 
+ 0, 
+ c [x7], admedo.com clrstm.com creative-serving.com mfadsrvr.com programattik.com volvelle.tech bidswitch.net
+ icu, 
+ __ab12# [x2], berlingske.dk bidtheatre.com
+ sec, 
+ _sid, 
+ _ue, 
+ _uid, 
+ ucid [x2], gigya.com accounts.berlingske.dk
+ data-g, 
+ _abcd#, 
+ _utm, 
+ uup, 
+ uus, 
+ dp-#, 
+ uid-bp-#, 
+ __widgetsettings, 
+ __ur_dc, 
+ dc, 
+ gs/receive, 
+ hit.gif, 
+ i [x2], userreport.com openx.net
+ issued_ts, 
+ seen_ts, 
+ sync/put/adform, 
+ sync_adformdsp_ts, 
+ sync_cdwdcl_ts, 
+ whoami, 
+ tuuid_lu [x8], 254a.com 4finance.com admedo.com bidswitch.net creative-serving.com mfadsrvr.com programattik.com r.scoota.co
+ bsw_uid [x2], 4finance.com mfadsrvr.com
+ adtrc, 
+ C, 
+ cid, 
+ gi_u, 
+ UserID1, 
+ anj, 
+ uuid2, 
+ TDCPM, 
+ TDID, 
+ AA003, 
+ ATN, 
+ __zlcmid, 
+ criteo_fast_bid, 
+ criteo_fast_bid_expires, 
+ criteo_pt_cdb_metrics, 
+ criteo_pt_cdb_metrics_expires, 
+ criteo_silent_mode, 
+ criteo_silent_mode_expires, 
+ GED_PLAYLIST_ACTIVITY, 
+ GoogleAdServingTest, 
+ zte#, 
+ google_push, 
+ CMID, 
+ CMPRO, 
+ CMPS, 
+ CMST, 
+ tuuid_new, 
+ tuuid_new_lu, 
+ cid_#, 
+ opt, 
+ DSID, 
+ IDE, 
+ r/collect, 
+ test_cookie, 
+ dyn_u, 
+ everest_g_v2, 
+ mako_uid, 
+ ONPLFTRH, 
+ fr, 
+ tr, 
+ _cph, 
+ _ha, 
+ _sc, 
+ _wr, 
+ NID, 
+ rc::c, 
+ idb, 
+ _kuid_, 
+ ljt_reader, 
+ id, 
+ mt_mop, 
+ uuidc, 
+ dsp_id, 
+ KADUSERCOOKIE, 
+ KTPCACOOKIE, 
+ mc, 
+ eud, 
+ euds, 
+ rud, 
+ ruds, 
+ smd, 
+ pxrc, 
+ rlas3, 
+---------------------
+
+Uklassificert
+--------TABLE--------
+ tuuid [x8], mfadsrvr.com r.scoota.co 254a.com 4finance.com admedo.com bidswitch.net creative-serving.com programattik.com
+ b2b_company, 
+ BMSESSID, 
+ cto_writeable, 
+ investor_subscriber, 
+ krkAdfArticleCounterBer, 
+ __storejs__test__, 
+ _fbc, 
+ apr_dsu, 
+ apr_tdc, 
+ apr_whoami, 
+ ubpv, 
+ ubvs, 
+ ubvt, 
+ survi::5dea3bd36f5c9c50e6116ea47b2d1eeb::initial-url, 
+ survi::5dea3bd36f5c9c50e6116ea47b2d1eeb::referrer-url, 
+ survi::5dea3bd36f5c9c50e6116ea47b2d1eeb::search-string, 
+ survi::5dea3bd36f5c9c50e6116ea47b2d1eeb::views, 
+ survi::5dea3bd36f5c9c50e6116ea47b2d1eeb::visits-count, 
+ userInfo, 
+ visited_frontpage_at, 
+ _initial_referrer, 
+ npii, 
+ apiDomain_3_y-jd0TXyC7mzfQtaKbUTfLazF6yO-2Nzuc32nOceGlIwP8LlAq1NLCCHESxSbKLJ, 
+ ___utmvbRouBZkXB, 
+ ___utmvmRouBZkXB, 
+ ig_putma, 
+ bf_session, 
+ ci_csrf_token, 
+ _c_IEI, 
+ _osm_totp_token, 
+ 37264064_p, 
+ 37264064_u, 
+ (unavngiven), 
+ _hjCookieTest, 
+ _kxnentdenmark_geo, 
+ _kxnentdenmark_kuid, 
+ _kxnentdenmark_tech, 
+ _kxnentdenmark_user, 
+ _kxnentdenmark_visits, 
+ _kxnentdenmark_whistle, 
+ kxnentdenmark_geo, 
+ kxnentdenmark_kuid, 
+ kxnentdenmark_tech, 
+ kxnentdenmark_user, 
+ kxnentdenmark_visits, 
+ kxnentdenmark_whistle, 
+ xd_play_anon_id, 
+ xd_play_user_id, 
+---------------------

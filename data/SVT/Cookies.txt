@@ -1,0 +1,45 @@
+Cookies (25) - localStorage (2) - sessionStorage (4) 
+
+Cookies 
+--------TABLE--------
+ s_getNewRepeat
+ HTML_LastCLineTime
+ HTML_VisitValueCookie
+ HTML_VisitIntervalStartTime
+ HTML_VisitCountCookie
+ AkamaiAnalytics_BrowserSessionId
+ HTML_BitRateBucketCsv
+ HTML_isPlayingCount
+ s_sq
+ svt-cookies-information
+ SVT_NEWS_REGION
+ AMCV_4A0BCBCB582AE4800A495C57%40AdobeOrg
+ dpm
+ everest_session_v2
+ everest_g_v2
+ s_cc
+ gpv_pn
+ s_ev23
+ __codnp
+ _lp4_u
+ AMCVS_4A0BCBCB582AE4800A495C57%40AdobeOrg
+ svt-abisko-nyheter-experiments
+ demdex
+ __couid
+ __cfduid
+---------------------
+
+
+localStorage 
+--------TABLE--------
+ data-sdk-client-id
+ data-sdk-session-e0bd2370-6238-44e0-8bf8-6fe7959b73a1-newsrender
+---------------------
+
+sessionStorage 
+--------TABLE--------
+ currentIOSChromecastStatus
+ @@History/@@scroll|3t6t51
+ currentIOSChromecastPlayerState
+ currentIOSChromecastDeviceName
+---------------------

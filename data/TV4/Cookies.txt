@@ -1,0 +1,16 @@
+Förstapartscookies (10) - Cookies som används av tredje part (?) 
+
+Förstapartscookies
+--------TABLE--------
+ Namn," Typ av cookie, uppgifter som samlas in och cookiens funktion", Lagringtid
+ Adform adserver, Cookie som analyserar och mäter surfbeteende på webbplatsen. Denna cookie används även för att visa relevant marknadsföring till användare på webben., 60 dagar
+ Adform DSP, Cookie som analyserar och mäter surfbeteende på webbplatsen. Denna cookie används även för att visa relevant marknadsföring till användare på webben., 60 dagar
+ Burt," Koncerngemensam cookie som samlar in beteendedata som skapas när någon använder ett Bonnier-bolags digitala tjänster. Det kan gälla vilka artiklar, filmer, produkter som besöks, vilken typ av device som användes, tid på dygnet, osv. Denna data kan sedan användas för att bygga användarsegment som kan användas för att analys- och marknadsföringsändamål.", 30 dagar
+ DoubleClick Floodlight, Cookie som analyserar och mäter surfbeteende på webbplatsen. Denna cookie används även för att visa relevant marknadsföring till användare på webben., 540 dagar
+ Google Analytics Cookienamn: _ga _gid _gat_UA-15014556-19," Cookie som innehåller ett slumpat nummer som håller reda på dig som användare. Datan som samlas in kopplat till detta nummer används för att förstå besöksmönster, beteende på webbplatsen och hur många gånger man besöker webbplatsen. Informationen kan därefter användas för att förbättra funktioner och din användarupplevelse. Om du loggar in så sätts också ett användarID i dessa cookies som är kopplat till ditt konto hos oss.", 2 år
+ Google Optimize Cookienamn: _gaexp, Cookie som används för att testa olika versioner av webbsidor. Ibland testar vi olika versioner av webbsidor för att bättre förstå hur vi ska utforma vår webbplats. Denna cookie håller reda på om du varit med i ett sådant test., 40 dagar
+ Google Tag Manager Cookienamn: gtm_session_start, Cookie som används för att mäta hur lång tid aktivitet tar från att användaren kommit till webbplatsen. Exempelvis hur lång tid det tar från att användaren kommit till webbplatsen till att användaren startar en video., 1 timme
+ Hotjar," Cookie som används för att göra enkätundersökningar, mäta heatmaps, klickmaps och scrollmaps. Denna cookie kan även användas för att säkerställa att användare inte får samma fråga flera gånger och bara inkluderas i test/undersökningar en gång under ett besök.", 30 dagar
+ MediaMath, Cookie som analyserar och mäter surfbeteende på webbplatsen. Denna cookie används även för att visa relevant marknadsföring till användare på webben., 30 dagar
+ Facebook-pixeln, Cookie som analyserar och mäter surfbeteende på webbplatsen. Denna cookie används även för att visa relevant marknadsföring till användare på Facebooks plattformar., 90 dagar
+---------------------

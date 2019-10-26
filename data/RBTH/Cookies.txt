@@ -1,0 +1,38 @@
+Performance cookies (11) - Advertising cookies (19) 
+--------TABLE--------
+ Name, Category, Controller, Purpose, Retention period
+ AWSALB, performance cookies, Amazon Web Server," Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.", Session
+ c, advertising cookies, .bidswitch.net, Regulates synchronisation of user identification and exchange of user data between various ad services., 1 year
+ _cb, performance cookies, Chartbeat, This cookie is used to identify and track web users., Session
+ _chartbeat2, performance cookies, Chartbeat, Used to register if a person has visited the domain before (to calculate “new vs returning” users), 30 days
+ _fbp, advertising cookies, Facebook, This cookie will help deliver our advertising to people who have already visited our website when they are on Facebook or a digital platform powered by Facebook Advertising., Session
+ fr, advertising cookies, Facebook, Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers, 3 months
+ __gads, performance cookies, Google Analytics, Registers a unique ID that is used to generate and collect statistical data on how a visitor uses the website., 2 years
+ _ga, performance cookies, Google Analytics," This cookie is typically written to the browser upon the first visit to the Websites. If the cookie has been deleted by the browser operator, and the browser subsequently visits rt.com, a new _ga cookie is written with a different unique ID. In most cases, this cookie is used to understand whether a visitor is a single time visitor or a repeat visitor to the Websites and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.", 2 years
+ GAPS, advertising cookies, Google Analytics, This cookie carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website., 2 years
+ _gid, performance cookies, Google Analytics, This cookie stores a unique user session identifier., 24 hours
+ GLOBALID, advertising cookies, .bttrack.com, Customising the advertising experience, 7 months
+ i_0, advertising cookies, RevContent, RevContent provides advertising services., 1 day
+ i, advertising cookies, YANDEX LLC, Yandex.Metrics service marketing cookie, 10 years
+ __ID, advertising cookies, RevContent, RevContent provides advertising services., 50 years
+ IDE, advertising cookies, DoubleClick, These cookies set by a third party (DoubleClick) and are used for serving targeted advertisements that are relevant to you across the web. Targeted advertisements may be displayed to you based on your previous visits to this website., 1.5 years
+ mc, advertising cookies, .quantserve.com, This cookie is used to identify visitors from campaigns and gather info from visitors to our site to create lookalike audiences and target them programmatically with display ads on other sites., 1 year
+ metrics_token, advertising cookies, .syndication.twitter.com, These cookies are used by Twitter to provide embedded content that is displayed in the site., End of Session
+ __qca, advertising cookies, Quantcast," This is a cookie usually associated with Quantcast, a digital advertising company. They provide website rankings, and the data they collect is also used for audience segmentation and targeted advertising.", 1 year
+ tuuid, advertising cookies, .bidswitch.net, Registers whether or not the user has consented to the use of cookies., 1 year
+ tuuid, advertising cookies, .mfadsrvr.com, This cookie is set to make advertising messages more relevant to the website visitor., 1 year
+ tuuid, advertising cookies, .company-target.com, This cookie is set to make advertising messages more relevant to the website visitor., 1 year
+ tuuid_lu, advertising cookies, .bidswitch.net," Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.", 1 year
+ tuuid_lu, advertising cookies, .mfadsrvr.com," Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.", 1 year
+ tuuid_lu, advertising cookies, .company-target.com," Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.", 1 year
+ uuid2, advertising cookies, .adnxs.com, Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads., 3 months
+ yabs-sid, performance cookies, YANDEX LLC, Yandex.Metrics service analytics cookie., End of Session
+ yandexuid, performance cookies, YANDEX LLC, Yandex.Metrics service analytics cookie., End of Session
+ _ym_d, performance cookies, YANDEX LLC, Date of the user's first site session, 1 year
+ _ym_uid, performance cookies, YANDEX LLC, Used for identifying site users, 1 year
+ yp, performance cookies, YANDEX LLC, Yandex.Metrics service analytics cookie., End of Session
+---------------------
+
+
+
+

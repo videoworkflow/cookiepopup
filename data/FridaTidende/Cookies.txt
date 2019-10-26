@@ -1,0 +1,25 @@
+Nødvendige (2) - Funksjonelle (0) - Statistiske (5) - Markedsføring (0) - Uklassifiserte (1) 
+
+
+Nødvendige 
+--------TABLE--------
+ Navn, Leverandør, Formål, Utløpsdato
+ PHPSESSID, , Kreves for at nettsiden skal fungere riktig., Session
+ CookieInformationConsent, , Støtter nettstedets tekniske funksjoner., ett år
+---------------------
+
+Statistiske 
+--------TABLE--------
+ Navn, Leverandør, Formål, Utløpsdato
+ UIDR, .scorecardresearch.com, Samler informasjon om brukerne og bruker disse til markedsanalyser og rapporteringsformål., 2 år
+ _ga, .firdatidend.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., 2 år
+ _gat, .firdatidend.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., ett minutt
+ UID, .scorecardresearch.com, Samler informasjon om brukerne og bruker disse til markedsanalyser og rapporteringsformål., 2 år
+ _gid, .firdatidend.no, Samler informasjon om brukerne og deres aktivitet på nettstedet for analyse og rapporteringsformål., en dag
+---------------------
+
+Uklassifiserte 
+--------TABLE--------
+ Navn, Leverandør, Formål, Utløpsdato
+ pjcTotal, , Venter, 2 år
+---------------------

@@ -1,0 +1,178 @@
+Cookie usage policy
+In the interest of transparency, this policy contains detailed information on France Médias Monde's use of cookies. This policy applies to all of the websites and mobile apps produced by France Médias Monde and explains how the User can control the use of cookies and other similar technologies.
+ 
+By accessing the website, the User accepts the terms and conditions of this policy, applicable during each connection and from any terminal.
+ 
+1. What is a cookie?
+A cookie is a small text file that may be placed, depending on your preferences, in a dedicated area of your terminal (computer, smartphone, tablet, etc.) when you visit a website using your web browser. It enables the features of France Médias Monde, such as content recommendation, user authentication, and content submission. Its purpose is to collect information about the user's browsing and to transmit this information back.
+ 
+When first connecting to the website, a banner is displayed on the first page. Subject to the User's choice, cookies will be stored in the memory of your computer, smartphone, tablet, mobile, etc. The collected information is used by the Websites or by a third party, such as an advertising agency or a partner of France Médias Monde. The cookie is kept for a maximum period of 13 (thirteen) months from the date on which the User grants consent to the integration of the cookie.
+ 
+Users are free to delete them at any time on their terminal. They also have the option, at any time, of refusing the placing of cookies on their device via the browser and according to the procedure described in point 4 of this document.
+ 
+However, the refusal of certain cookies may cause the degradation of a number of features required to browse the Websites (difficulties recording or displaying, etc.). In this case, France Médias Monde cannot be held liable as a result of these malfunctions. In addition, disabling advertising cookies does not mean that Users will not receive advertising but simply that they will no longer be adapted to their interests.
+ 
+Users can also choose to view the site using the incognito mode offered by their browser; cookies will then be destroyed automatically when the window is closed. This can be a good alternative if the User wants to enjoy all the features of the Websites without the risk of sharing their browsing information beyond the duration of their visit.
+ 
+2. What are cookies for?
+The cookies used on our Websites enable France Médias Monde to recognise Users when they visit the Websites and identify behaviour, to remember preferences or offer them a personalised experience in line with their settings. Cookies also allow third-party services or advertisements to be offered, both on and off the Websites.
+ 
+Cookies are also necessary for the proper functioning of certain services or to measure the audience of its Websites.
+ 
+Cookies are likely to be included in the advertising spaces of our Websites. These advertising spaces contribute to the funding of content and services that we offer you.
+ 
+2.1. Cookies placed by France Médias Monde
+The cookies placed by France Médias Monde have several purposes:
+ 
+- Technical cookies
+These cookies enable us to track the technical performance of our Websites and apps, to detect problems that could impact the User's experience in order to correct them, to secure France Médias Monde's platforms, but also to detect malicious activity and violations of the General Terms of Use.
+ 
+Examples:
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ France Médias Monde - Incapsula, Securing the website, incap_ses_* visid_incap_*, Session 12 months
+ France Médias Monde - Ensighten, Technical management of partner scripts, _gid _ga _gat, 1 day 24 months Session
+ France Médias Monde - Pingdom, Page loading speed monitoring, _cfduid, Session
+ France Médias Monde - Akamai mPulse, Page loading speed monitoring, RT, 7 days
+ France Médias Monde, User's consent to the collection of cookies on the website, cookies_consent, 13 months
+ Netino, Securing and monitoring the moderation of comments, lan computer_id, 13 months 13 months
+--------------------- 
+- Digital Identity Management cookies
+These cookies enable us to offer account creation and connection services. They are placed on the browser when the subscriber arrives on a page of the Websites equipped with a personal space as soon as they are identified by their personal account.
+ 
+These cookies are linked to the account holder. They can provide the subscriber with access to their user space, their communication preferences. They contain the data collected directly from the account holder as well as technical session data allowing browsing from page to page without being disconnected from the user account.
+ 
+Examples:
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ France Médias Monde," Storing user session data, maintaining the connection of the account on the site", TS* SSESS, Session 3 weeks
+--------------------- 
+2.2 Cookies placed by third parties
+France Médias Monde informs Users that it does not have control over cookies placed in the User's browser by social networks or its partners.
+ 
+- Cookies related to the collection of audience statistics
+These cookies enable France Médias Monde to save certain connection information with the purpose of establishing audience statistics, analysing and quantifying the traffic on the Websites and then developing qualitative studies aimed at improving the presentation of the Websites and information on its products and services. These cookies are used for site optimisation purposes.
+ 
+Examples:
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ AT Internet, Statistical monitoring by France Médias Monde of visits on different media, atuserid idrxvr atsession atreman xtan* xtvrn, 13 months 13 months 30 minutes 1 month 13 months 13 months
+ Parsely, Statistical monitoring by France Médias Monde of visits on different media in real time, _parsely_session _parsely_visitor parsely_network_uuid, Session 13 months 13 months
+ Cxense, Statistical monitoring by France Médias Monde of visits on different media, _hstc _zlcmid _ga _plantrack _vwo_uuid_v2 cX_G cX_P gckp hubspotutk locale visitor_type, 13 months 13 months Session 13 months Session 13 months 13 months 13 months 13 months 13 months Session
+--------------------- 
+- Cookies related to social networks
+These cookies allow the User to interact from our Websites on social networks, including through sharing buttons or modules offered by third parties on certain pages of France Médias Monde's Websites. These buttons or modules allow the User to use the functionality of these networks and, in particular, to share content on France Médias Monde with other users of these networks.
+ 
+France Médias Monde informs you that when the User goes to a web page which contains one of these buttons or modules, their browser can send information to the social network which can then associate the visit to the page with their profile on the social network.
+ 
+If the User does not want the social network to link the information collected through the Websites to their user account, they can disconnect from the social network before visiting the Websites.
+ 
+Examples:
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ Facebook," Social sharing features, viewing messages and media published on the platform, space for comments", act c_user fr m_pixel_ratio pl wd xs, Session 3 months 3 months Session 1 month 1 week 3 months
+ Twitter," Social sharing features, viewing messages and media published on the platform", _gid _ga _ncuid _twitter_sess _utma _utmc _utmz ct0 daa eu_cn external_referer kdt lang mbox tfw_exp, 1 day 24 months 1 year Session 1 year Session 5 months 1 day 3 weeks 13 months 1 week 13 months Session 1 week 2 weeks
+ Google / Youtube," Social sharing features, viewing messages and media published on the platform", GPS NID PREF VISITOR_INFO1_LIVE YSC SAPISID CONSENT HSID SSID APISID SID LOGIN_INFO, Session 6 months 8 months Session 13 months
+ Dailymotion, Viewing media published on the platform, v1st dmvk ts damd client_token clsu, 1 year Session 1 year 1 year 6 hours 1 month
+ Vimeo, Viewing media published on the platform, vuid, 13 months
+ Vkontakte," Social sharing features, viewing messages and media published on the platform", remixlang remixlhk remixsid, 1 year 1 year 13 months
+ Mail.ru, Social sharing features, p, 13 months
+ Instagram, Viewing messages and media published on the platform, crsftoken rur urlgen, 1 year Session Session
+ LinkedIn, Social sharing features, IN_HASH lidc, Session 1 day
+ Reddit," Social sharing features, viewing messages and media published on the platform", edgebucket initref session_tracker, 13 months Session Session
+ Pinterest, Viewing messages and media published on the platform, _pinterest_cm, Session
+ Deezer, Viewing media published on the platform, IDE NID _utma _utmb _utmc _utmt _utmz deezer_test_cookie dzr_uniq_id sid, 13 months 6 months 1 year Session Session Session 5 months Session 6 months Session
+ Soundcloud, Viewing media published on the platform, UID sc_anonymous_id, 13 months 13 months
+ Disqus, Space for comments, G_ENABLED_IDPS NID _utma _utmb _utmc _utmz disqus_unique __jid, 13 months 6 months 1 year Session Session 5 months 1 year Session
+ Balatarin," Social sharing features, viewing messages and media published on the platform", OX_plg _balat_session_new geo _gid _ga _gat NID ad-id ad-privacy coop_session, Session Session Session 1 day 24 months Session 6 months 6 months 6 months Session
+ AddThis, Social sharing features, _ga _gid Bku Loc Mus Na_id Na_tc ups, 13 months 1 day 13 months 13 months 13 months 13 months 13 months 13 months
+--------------------- 
+- Advertising cookies and user knowledge
+These cookies are placed by France Médias Monde's advertising agencies and advertisers and/or their management ("the Partners") present on the Websites. They are used to provide the User with more relevant targeted advertising and offer them a personalised experience. These cookies make it possible to track/limit a User's exposure to content, to identify the pages that they consult when navigating the Websites and to categorise them according to their browsing habits.
+ 
+The User is free to express their choices on the use of these cookies by setting their browser or directly on the partners' sites by following the links mentioned in point 5 below.
+ 
+Our commitments: The data collected is associated with an anonymous identifier and can, in some cases, be checked against qualifying data. This data is shared with the partners of France Médias Monde, which have to meet our data security, collection, transfer, storage and use requirements.
+ 
+Examples:
+--------TABLE--------
+ Placer, Purpose, Name of the cookie, Lifespan
+ France Médias Monde / France TV Publicité - Google DFP / YouTube, Customising the advertising experience, __gads GED_PLAYLIST_ACTIVITY aid IDE id dsid _drt_, 24 months Session ? 13 months ? 14 days ?
+ Teads, Customising the advertising experience, CMDD CMID CMPRO CMPS CMRUM3 CMSC CMST CMSUM GLOBALID adtheorent[cuid] bt-es-* tt_bluekai tt_emetriq tt_exelate tt_in_i_* tt_viewer yocToken, Session 12 months 3 months 3 months 12 months Session Session 12 months 7 months Session Session 1 day 1 day 1 day 12 months 9 months 12 months
+ Kiwe, Customising the advertising experience, ticvn-* ti_rfc ti_lt ti_utk ti_stk, 1 day 1 day 4 months 4 months 4 months
+ Facebook Pixel, Monitoring the effectiveness of the brand's advertising campaigns on Facebook, fr, 3 months
+ Captify, Customising the advertising experience, cpSess, 12 months
+ Digiteka, Customising the advertising experience, e UID prerollindex STICKY PHPSESSID GED_PLAYLIST_ACTIVITY NID AFFICHE_W, 13 months 13 months 12 months Session Session Session 6 months 3 months
+ Outbrain, Customising the advertising experience, obuid ttd cdws apnxs rcktfl _*cap_*, 3 months 3 months 3 months 3 months 3 months 7 days
+ Taboola, Customising the advertising experience, trc_cookie_storage, 12 months
+ CrowdyNews, Statistical monitoring by Crowdy News of the displays of a widget and customising the advertising experience on the website, OX_plg TS* __cfduid azk, Session Session 12 months 12 months
+ Quantcast, Statistical monitoring by France Médias Monde of visits on different media and customising the advertising experience on the website, __qca mc d, 13 months 13 months 3 months
+ Zoontera, Customising the advertising experience, ZTCRSVID _IL rstg x1daid x1guid x1ha x1site, 13 months Session 7 days 13 months 13 months 13 months 13 months
+--------------------- 
+3. Other technologies and mobile devices
+France Médias Monde and its third-party partners may use technology equivalents to cookies such as LocalStorage or local databases in the mobile and tablet applications to store information equivalent to that specified above.
+ 
+4. Accepting or refusing cookies and other technologies
+Users may at any time decide to remove these cookies. The browser can also be configured to signal the creation of new cookies which Users can decide whether or not to refuse. Users may accept or refuse cookies either on an individual basis or systematically.
+ 
+Users may express their choices, manage, disable or enable cookies directly by changing the settings on their browser or OS in the following way:
+ 
+Edge / Internet Explorer:
+Firefox:
+Safari:
+Google Chrome:
+Opéra:
+Safari iOS:
+Android:
+ 
+You can also set your browser so that it sends a code indicating the websites that you do not want to be "tracked" (option "Do Not Track") in the following way:
+Edge / Internet Explorer:
+Firefox:
+Safari:
+Google Chrome:
+Opéra:
+Safari iOS:
+Android:
+ 
+You can object to the use of navigation data by our partners, including:
+AT Internet:
+Parsely:
+Outbrain:
+Your Online Choices:
+Ad choices:
+ 
+The list of these partners is likely to change over time. This is why we invite you to periodically revisit this page to learn about these developments.
+If you refuse to have cookies placed on your terminal, you will no longer be able to benefit from some of the Websites' features, such as:
+the deletion of social cookies: you will no longer be able to use the social sharing (like, share, comment, etc.) features (buttons and/or modules);
+the deletion of advertising cookies: the ads displayed on the Websites will not take your interests or preferences into account and will be less relevant but deletion will not cause the advertising to stop.
+ 
+France Médias Monde accepts no responsibility for the consequences related to impaired operation of the Websites and/or services resulting from the User's refusal or deletion of cookies required for the Websites to operate.
+ 
+5. Transferring data outside the European Union
+Some of our partners are located outside the European Union. The data collected may therefore be transferred to countries outside the European Union which have different personal data protection legislation from those inside the European Union.
+ 
+In this case, France Médias Monde implements the means to ensure the security and confidentiality of such data and ensures that the transfer meets the legal framework: the transfer to a country ensuring a sufficient level of protection, signature of contractual clauses issued by the European Commission, or any other regulatory or contractual means to ensure a sufficient level of protection.
+ 
+Please note that we strictly require that our partners only use your personal data to manage or provide the services requested. We also ask these partners to always act in compliance with the applicable laws on personal data protection and pay particular attention to the confidentiality of such data.
+ 
+6. Useful information
+Please see also the  in the legal notices of France Médias Monde that define the rules followed in the processing of your personal data that could be collected.
+ 
+You can find useful information and links to help you better understand cookies, their uses and your associated rights at the following addresses:
+ 
+Cookies: the tools to control them:
+
+Understanding private browsing:
+
+4 reflexes to better protect your identity online:
+
+ 
+In addition, CNIL provides a visualisation tool to measure the impact of cookies and other trackers while browsing:
+Cookieviz:
+
+ 
+Lastly, YourOnlineChoices allows you to better understand behavioural advertising:
+YourOnlineChoices:
+
+ 
+

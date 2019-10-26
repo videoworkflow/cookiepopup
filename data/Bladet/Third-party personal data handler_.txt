@@ -1,0 +1,5 @@
+Schibsted
+
+Type of data: Full name, age, email
+Approximate time to create account: 2 minutes 
+Experience with their settings: Easy to change, just turn off four settings. 

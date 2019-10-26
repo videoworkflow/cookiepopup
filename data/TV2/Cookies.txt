@@ -1,0 +1,21 @@
+Analyse (37) - Annosering (18) - Funksjonelle (13) - Sosiale medier (11) - Uklassifisert (2) 
+
+--------TABLE--------
+ Type/primærformål, Leverandør, Informasjonskapsel
+ Analyse, Linkpulse," _lp4_c, lp4_u"
+ Analyse, TNS," i00, tns_nip_panel_gallup, srp"
+ Analyse, Norstat, ARRAffinity
+ Analyse, Tealium, utag_main
+ Analyse, ComScore," UID, UIDR"
+ Analyse, Webtrends, WT_FPC
+ Analyse, Google Analytics," __utma, __utmz, __utmc, __utmt, _ga, _gat, _gat_UA-8408970-4, _gat_UA-8408970-5, _gat_UA-8408970-14, _gid, _gat_projectTracker, _gat_siteTracker, _usrp_lq"
+ Analyse, NewRelic," ei_client_id, login_service_login_newrelic_com_tokens, __ar_v4, _mkto_trk, intercom-id-cyym0u3i, __qca,_ga, intercom-lou-cyym0u3i, TSNGUID, ajs_user_id, optimizelyEndUserId, ajs_anonymous_id, ajs_group_id, JSESSIONID"
+ Annonsering, Schibsted," _pulse2data, _pulse2env, cis-jwe"
+ Annonsering, Adform," adtrc, CM, CM14, DigiTrust.v1.identity, TPC, uid"
+ Annonsering, AppNexus," icu, uuid2, usersync"
+ Annonsering, Doubleclick," DSID, IDE, __gads"
+ Annonsering, Userreport," __bpn_uid, __ur_dc, __ur_i"
+ Funksjonelle (brukerinnstillinger osv.), TV 2," _sumo2_1_session, JSESSIONID, jsession, rememberMe, refresh_user, referrer, abgroup, tv2samtykke, elbilertest, garasjenMin2, lbtv2, tv2vC, location"
+ Sosiale medier, Facebook," Act, c_user, csm, datr, fr, lu, m_user, p, presence, S, xs"
+ Uklassifisert, ," _fbp, _gcl_au"
+---------------------

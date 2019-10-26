@@ -1,0 +1,24 @@
+Neccessary cookies (3) - Optional cookies (2) - Required cookies for logged-in users (5)
+
+Neccessary cookies 
+--------TABLE--------
+ Cookie, Duration, Purpose, Logged-in only
+ PHPSESSID, Session," To store a simple message when a form is submitted that can be displayed on a different page. For example, if an enquiry form is completed incorrectly, a message will be stored and presented to the user to indicate the errors in the submission. When an enquiry form is submitted successfully, a message is stored and presented to the user thanking them for their enquiry. No personal information is stored in this cookie.", No
+ icl_current_language, Session, Stores the current language., No
+ ga-disable-UA-XXX, Persistent, Used to remember your cookie policy preference, No
+---------------------
+Optional cookies 
+--------TABLE--------
+ Cookie, Duration, Purpose, Logged-in only
+ _ga, 2 years, Used to distinguish users., No
+ _gid, 24 hours, Used to distinguish users., No
+---------------------
+Required cookies for logged-in users 
+--------TABLE--------
+ Cookie, Duration, Purpose, Logged-in only
+ _drip_client_XXX, 2 years, Used by WP Smush and Drip to trigger Drip’s events for logged in users only, Yes
+ wordpress_XXX, Session, Used by WordPress to distinguish logged in users., Yes
+ wordpress_logged_in_XXX, Session, Used by WordPress to distinguish logged in users., Yes
+ wp-settings, 2 years, Stores user settings for WordPress text editor., Yes
+ wp-settings-time, 2 years, Stores user settings for WordPress., Yes
+---------------------

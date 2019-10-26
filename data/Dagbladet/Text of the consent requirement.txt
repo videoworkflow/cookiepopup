@@ -1,0 +1,19 @@
+Personverninnstillinger Aller Media
+Ikke-personalisert innhold
+Deler av annonsene og innholdet på våre nettsteder vises uavhengig av dine personvernvalg.
+Innstillinger for deg med aID profil
+Har du en aID profil og er en innlogget bruker, kan du lagre dine personverninnstillinger på Min Side.
+NB! Dersom du fjerner cookies uten å tillate aid.no, må du logge inn med aID-brukeren på nytt hver gang du besøker nettstedet.
+Innstillinger for deg som ikke har en profil/innlogget bruker
+Informasjonskapsler
+Deler av annonsene og innholdet på våre nettsteder er personalisert for deg. Dette er basert på informasjonskapsler (cookies). Informasjonskapsler er tekstfiler som tjenesten lagrer på din datamaskin. Du kan når som helst motsette deg at vi bruker disse opplysninger til tilpasset annonsering og redaksjonelt innhold. Det kan du gjøre ved å gå på innstillinger i nettleseren din, dette vil hindre at informasjonskapsler lagres på datamaskinen. Dette kan imidlertid påvirke funksjonaliteten og kvaliteten på tjenesten, og du vil kun få vist generelle annonser og redaksjonelt innhold. Her finner du en veiledning på hvordan du styrer innstillingene i de vanligste nettleserne:.
+Om du ønsker å unngå informasjonskapsler (cookies) fra andre aktører uten å påvirke funksjonaliteten på våre tjenester, er det i de fleste nettlesere mulig å bare tillate cookies fra enkelte domener.
+Google
+Vi benytter infrastruktur- og annonsetjenester fra Google. Du finner informasjon om Googles tjenester og hvordan du kan påvirke Google sin bruk av personopplysninger på. Dersom du har en Google-konto, har du også mulighet til å endre personlige annonseinnstillinger på.
+Audience Project
+Vi benytter Audience Project til å bygge målgrupper basert på data. Dette er aggregerte data, og er samlet inn på en slik måte at ingen tredjepart kan identifisere hvilke brukerdata som har bidratt til de aggregerte datasettene..
+Annonser fra andre nettverk
+Vi viser også annonser fra andre nettverk. Disse annonsene er det ikke vi som har kontroll over, men du kan selv styre disse innstillingene. EU har laget nettsiden hvor du kan slå av personalisering hos disse nettverkene.
+Endre annonseinnstillinger på andre nettverk
+ 
+

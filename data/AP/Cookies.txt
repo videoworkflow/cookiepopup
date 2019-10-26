@@ -1,0 +1,17 @@
+Strictly necessary cookies (7) - Performance cookies (9) - Functional cookies (9) - Targeting cookies (20)
+
+
+Strictly necessary cookies
+PERSIST, CRAFT_CSRF_TOKEN, OptanonConsent, OptanonAlertBoxClosed, CraftSessionId, PHPSESSID, JSESSIONID
+
+Performance cookies
+__utmb, __utmz, __utma, _ga, __utmt, _gat, __utmc, __utmv, _gid
+
+Functional cookies
+TS012689c5_77, TS012689c5, FontSize, __atuvs, __atuvc, akamaized.net, paypalobjects.com, vimeo.com, abmr.net 
+
+Targeting cookies
+pardot, visitor_id#####, omm.crownpeak.com, snippet.omm.crownpeak.com, facebook.com, youtube.com, tapad.com, addthis.com, linkedin.com, twitter.com, pardot.com, google.com, go.pardot.com, bluekai.com, cdn.syndication.twimg.com, soundcloud.com, scorecardresearch.com, syndication.twitter.com, doubleclick.net, pi.pardot.com 
+
+
+

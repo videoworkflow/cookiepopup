@@ -1,0 +1,72 @@
+Cookie Policy
+October 30, 2018
+This Cookie Policy explains how cookies and similar technologies (collectively, “Cookie(s)”) are used when you visit our Site. A “Site” includes our websites, emails, and other applications owned and operated by The New York Times Company (the “Company”, “our”, or “us”) as well as any other services that display this Cookie Policy. This policy explains what these technologies are and why they are used, as well as your right to control their use.
+We may change this Cookie Policy at any time. Please take a look at the “LAST REVISED” date at the top of this page to see when this Cookie Policy was last revised. Any change in this Cookie Policy will become effective when we make the revised Cookie Policy available on or through the Site.
+If you have any question, please contact us by email at privacy@nytimes.com, or write to us at the following address: The New York Times Company, 620 Eighth Avenue, New York, NY 10018, attn.: Privacy Counsel.
+1. What Is A Cookie?
+A cookie is a small text file (often including a unique identifier), that is sent to a user’s browser from a website's computers and stored on a user’s computer's hard drive or on a tablet or mobile device (collectively, “Computer”). A Cookie stores a small amount of data on your Computer about your visit to the Site.
+We may also use “web beacons” (also known as “clear GIFs” or “pixel tags”) or similar technologies on our Site to enable us to know whether you have visited a web page or received a message. A web beacon is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an email or other type of message, which is retrieved from a remote website on the internet enabling the verification of an individual's viewing or receipt of a web page or message. A web beacon helps us to understand whether you came to our website from an online advertisement displayed on a third-party website, measure successes of email marketing campaigns and improve our website performance. They may also enable us to relate your viewing or receipt of a web page or message to other information about you, including your personal information. In many instances, web beacons rely on cookies to function properly, and so declining cookies will impair their functioning.
+We place and access Cookies on your Computer; these Cookies are known as “first-party Cookies.” Cookies may also be placed and accessed by some of our third-party vendors, which are known as “third-party Cookies” and are described below. Some Cookies are "session Cookies," which means that they are temporary Cookies that are only stored on your device while you are visiting our Site. Other Cookies are "persistent Cookies," which means that they are stored on your device for a period of time after you leave our Site.
+You can choose whether to accept Cookies by changing the settings on your browser. However, if you disable this function (or keep this function disabled, as set by default by certain browsers), your experience on the Site may be diminished and some features may not work as intended.
+2. What Cookies Do We Use?
+Below we list the different types of Cookies that are used on the Site that you are visiting.
+To the extent any personal information is collected through first-party Cookies, our applies and complements this Cookie Policy. Personal information collected through a third-party Cookie is subject to the privacy policy of that third party, and not our Privacy Policy.
+Essential Cookies
+Essential Cookies enable you to navigate the Site and to use its services and features. Without these necessary Cookies, the Site will not perform as smoothly for you as we would like it to and we may not be able to provide the Site or certain services or features.
+--------TABLE--------
+ Cookie, Description, Duration, Privacy policy
+ b2b_cig_opt, Flags for B2B access., 1 day, go to site
+ edu_cig_opt, Flags for EDU access., 1 day, go to site
+ nyt-a, Unique identifier to identify behavior on site., 1 year, go to site
+ nyt-auth-method, Information about how the user is logged in., Session, go to site
+ nyt-d, User information, 6 months, go to site
+ NYT-DBGS, Debugging, session, go to site
+ nyt-gdpr, GDPR eligibility, 6 hours, go to site
+ nyt-m, The meter for non-subscribers.," 4 years, 6 months", go to site
+ NYT-Recognize, Used by circulation to recognize users who are not currently authenticated., session, go to site
+ NYT-S, Subscription cookie., 1 year, go to site
+ optimizelyBuckets, Used for the serving of assets that have variations., 6 months, go to site
+ optimizelyEndUserId, Used for the serving of assets that have variations., 6 months, go to site
+ optimizelySegments, Used for the serving of assets that have variations., 6 months, go to site
+ LPVID, Used to handle customer support chats., 6 months, go to site
+---------------------Preference Cookies
+Preference Cookies collect information about your choices and preferences, and allow us to remember language or other local settings and customize the Site accordingly.
+--------TABLE--------
+ Cookie, Description, Duration, Privacy policy
+ NYT_W2, Remember weather preferences, 1 year, go to site
+ NYT-Edition, Remember the selected language edition, 1 year, go to site
+ nyt-pref, Remember preferences for the homepage widget, 1 year, go to site
+ NYT-T, Remember opt-out preferences, 10 years, go to site
+---------------------Social Media Cookies
+Social media Cookies are used to enable you to share pages and content you find interesting on our Site through third-party social networking and other websites. These Cookies may also be used for advertising purposes.
+--------TABLE--------
+ Cookie, Description, Duration, Privacy policy
+ _fbp, This cookie allows us to target marketing at Facebook users., session, Facebook privacy policy
+ sc_at, This cookie allows us to target marketing at Snap users., session, Snap privacy policy
+---------------------Analytics Cookies
+Analytics Cookies collect information about your use of the Site, and enable us to improve the way it works. For example, Analytics Cookies show us which are the most frequently visited pages on the Site, help us record any difficulties you have with the Site, and show us whether our advertising is effective or not. Analytics Cookies allow us to see the overall patterns of usage on the Site, rather than the usage of a single person. We use information from Analytics Cookies to analyze the Site traffic, but we do not examine this information for individually identifying information.
+--------TABLE--------
+ Cookie, Description, Duration, Privacy policy
+" __gads, __utma, _ga, _gat_UA-58630905-2, walley, walley_gid, _gcl_au, NID, OTZ, SIDCC, __utmc, __utmv, __utmz", Google Analytics," 1 year, 6 months", go to site
+" _chartbeat2, _cb, _cb_ls, _cb_svref", Chartbeat, 1 month, go to site
+---------------------Advertising Cookies
+Advertising Cookies are set to manage our advertising. These Cookies collect information about your activities on this Site and other websites to provide you targeted advertising. In the E.E.A. advertising is not personalized or targeted based on your activities.
+--------TABLE--------
+ Cookie, Description, Duration, Privacy policy
+ IDE, Used to manage advertising from Google DoubleClick., 13 months, Google Inc. privacy policy
+---------------------3. How Do I Manage Cookies?
+You can change your Cookie settings above by opting out of certain or all Cookies.
+To change your New York Times non-essential Cookie opt-out preference, please click this button:
+to New York Times non-essential cookies. By clicking this button you are not opting-out of any advertising-related third-party Cookies. To opt-out of all third party Cookies, please follow the instructions for your browser as well as the Ad Choices and Online Choices paragraphs below.
+In addition to the options provided above, you may refuse or accept Cookies from the Site or any other website at any time by activating settings on your browser. Most browsers automatically accept Cookies, but you can usually modify your browser setting to decline Cookies if you prefer. If you choose to decline Cookies, you may not be able to sign in or use other interactive features of our Site that depend on Cookies. Information about the procedure to follow in order to enable or disable Cookies can be found at:
+Chrome
+Safari
+Safari Mobile (iPhone and iPads)
+Firefox
+Microsoft Edge
+For more information about other commonly used browsers, please refer to.
+Please be aware that if Cookies are disabled, not all features of the Site may operate as intended.
+To opt-out of participating in Google Analytics data follow the instructions:.
+If the Site has ads, some of the network advertisers, ad agencies and other vendors we work with to serve ads on our Site, third-party websites and across the internet, or analytics providers that provide us with information regarding the use of the Site and effectiveness of ads are members of the Network Advertising Initiatives, the Digital Advertising Alliance Self-Regulatory Program for Online Behavioural Advertising and/or the European Interactive Digital Advertising Alliance. To opt out from receiving interest-based advertising from some or all of the participating companies, please visit and. Please note opting out through these mechanisms does not mean you will no longer be served advertising. You will still receive other types of online advertising from participating companies and any type of advertising from non-participating companies, and the web sites you visit may still collect information for other purposes.
+ 
+

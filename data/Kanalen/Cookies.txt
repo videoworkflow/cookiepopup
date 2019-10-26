@@ -1,0 +1,15 @@
+Strengt nødvendig (2) - Analyse og statistikk (9)
+--------TABLE--------
+ Leverandør, Navn, Kategori, Hensikt, Levetid
+ Google, 1P_JAR, Analyse og statistikk, Tilpasset reklame, 1 måned
+ Google, APISID, Analyse og statistikk, Tilpasset reklame, 1 år
+ Google, HSID, Analyse og statistikk, Tilpasset reklame, 1 år
+ Google, NID, Analyse og statistikk, Tilpasset reklame, 6 måneder
+ Google, OGPC, Analyse og statistikk, Tilpasset reklame, 1 måned
+ Google, SAPISID, Analyse og statistikk, Tilpasset reklame, 1 år
+ Google, SID, Analyse og statistikk, Tilpasset reklame, 1 år
+ Google, SIDCC, Analyse og statistikk, Tilpasset reklame, 3 måneder
+ Google, SSID, Analyse og statistikk, Tilpasset reklame, 1 år
+ CookieHint Plugin, reDimCookieHint, Strengt nødvendig, Cookies-instillinger, 1 år
+ Kanalen, *Generiske navn*, Strengt nødvendig, Autentisering og skille mellom brukere, Session
+---------------------

@@ -1,0 +1,30 @@
+Cookies (7)
+
+Cookie name: Google Analytics
+Cookie type: Analytics 
+Cookie function: Tracks and reports on website traffic and visitor behaviour
+
+Cookie name: Cxense
+Cookie type: Analytics, advertising
+Cookie function: Tracks and reports on website traffic and visitor behaviour; advertising analytics and data management, content recommendations; editorial purposes – content performance 
+
+Cookie name: Narratiive
+Cookie type: Analytics
+Cookie function: Tracks and reports on website traffic and visitor behaviour
+
+Cookie name: Chartbeat
+Cookie type: Analytics
+Cookie function: Tracks and reports on website traffic and visitor behaviour
+
+Cookie name: Cosmos: logged-in user cookie
+Cookie type: Essential
+Cookie function: To ensure a user's login persists, so users do not have to sign in every time they return to our website
+
+Cookie name: Behavioural advertising/marketing cookies (various)
+Cookie type: Advertising
+Cookie function: Behavioural advertising cookies are used to provide you with advertising that is tailored to your interests when you visit websites on and off our network. Behavioural advertising cookies analyse information about your interests and your browsing history, and provide you with advertisements on and off our network that matches these interests
+
+Cookie name: Social media (various)
+Cookie type: Social media
+Cookie function: Facebook, Twitter and other social media platforms use a cookie to track your behaviour on our website for advertising purposes and to enable some functionality such as sharing to social media platforms
+

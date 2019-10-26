@@ -1,0 +1,149 @@
+Inloggnings-cookies(8) - Cookies för trafikmätning (14) - Cookies för att kunna styra innehåll efter surfvanor ()  Cookie för cookieinformation (1) - Facebook cookie (1) - Google annons cookies (13) - Twitter cookies (2) - Payway cookies (4) - Adform (16) - Klarna cookies (4) - Cookie för visning av relaterat innehåll (1) - Cookies för cachening av innehåll för snabbare leverans (17) - Övriga cookies (5)
+
+Inloggnings-cookies
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+" p_onlineaccess, p_onlineaccess_digest och p_timestate", stampen*, ," cookies som sätts vid inloggning, och som innehåller info om vilka behörigheter besökaren har, i krypterad form"
+ p_registration, stampen*, , förenklar logiken som behövs för att veta om besökaren är registrerad eller inte vid köp av prenumeration på sajterna.
+ T_ID, stampen*, ," Tulo-cookie, med info om besökarens uppgifter i Payway"
+ T_ST, stampen*, ," Tulo-cookie (3:e parts), koppling till besökarens session i Tulo"
+ p_accessToken, stampen*, ," Innehåller användarens id i Polopoly, en tidstämpel, samt en krypterad hash."
+ p_userData, stampen*, ," Innehåller användardata från Payway: alias, förnamn, efternamn, epost, tel-nr, payway-id och active products i encoded-format"
+---------------------
+
+Cookies för trafikmätning
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ dep, , , 
+ _gid, , 24 timmar, Used to distinguish users.
+ _lp4_u, , 1 år," Cookie som innehåller ett slumpat nummer som håller reda på dig som användare. Datan som samlas in kopplat till detta nummer används för att förstå besöksmönster, beteende på webbplatsen och hur många gånger man besöker webbplatsen. Informationen kan därefter användas för att förbättra funktioner och din användarupplevelse. Om du loggar in så sätts också ett användarID i dessa cookies som är kopplat till ditt konto hos oss."
+ __cfduid, , , 
+ _ga, stampen*, 2 år, Används för att samla in information och användningsstatistik avseende våran webbsida. Kaka kan också användas av Google för att visa mer relevanta annonser i Googles produkter och tjänster.
+ __utmc, , Session," Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit."
+ __utmz, , 6 månader från den sätts/uppdateras, Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.
+ __utma, , 2 år från den sätts/uppdateras, Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.
+ __couid, , , Används för marknadsundersökningar via Kantar Sifo. De är permanenta cookies som förfaller vid olika tidpunkter
+ cX_G, , , 
+ cX_S, , , 
+ cX_P, , , 
+ _snrt, , , 
+---------------------
+
+Cookies för att kunna styra innehåll efter surfvanor 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ _dy_df_geo, , 29 dagar, 
+ _dy_ses_load_seq, , 29 dagar, 
+ _dy_csc_ses, , Session, 
+ _dycst, , 29 dagar, 
+ _dy_toffset, , 29 dagar, 
+ _dyus_8768321, , 29 dagar, 
+ _dy_c_exps, , 29 dagar, 
+ _dyid, , 29 dagar, 
+ _dy_soct, , 1 år, 
+ _dy_geo, , 29 dagar, 
+ __cfduid, , 1 år," Used by the content network, Cloudflare, to identify trusted web traffic."
+ DYSES, , Session, 
+ DYID, , 2 år, 
+---------------------
+
+Cookie för cookieinformation 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ stampen-cookies-hide-information, , 2 år, Används för att spara inställningen att användaren inte vill se cookie-meddelandet.
+---------------------
+ 
+
+
+Facebook cookie 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ fr, .facebook.com, 3 månader, Används av Facebooks samarbetspartners i marknadsföringssyfte till Facebook medlemmar.
+---------------------
+
+Google annons cookies 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ NID, .google.com, 6 månader, 
+ 1P_JAR, .google.se, , 
+ CONSENT, .google.se, 235 månader, 
+---------------------
+
+Twitter cookies 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ guest_id, .twitter.com, 2 år," Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service."
+ personalization_id, .twitter.com, 2 år, 
+---------------------
+
+Payway cookies 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ _gid, .worldoftulo.com, , 
+ dep, .worldoftulo.com, , 
+ _ga, .worldoftulo.com, 2 år, Används för att samla in information och användningsstatistik avseende våran webbsida. Kaka kan också användas av Google för att visa mer relevanta annonser i Googles produkter och tjänster.
+ tulo.session, .worldoftulo.com, , 
+---------------------
+Adform 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ C, , If C=1 60 dagar If C=3 3650 dagar," Identifies if user’s browser accepts cookies. 1 – Cookies are allowed, 3 – Opt-out"
+ TPC, , 14 dagar, Identifies if user’s browser accepts third party cookies
+ GCM, , 1 dagar, Identifies if there is a need to re-check partner‘s cookie matching existence
+ CM, , 1 dagar, Identifies if there is a need to re-check partner‘s cookie matching existence (set by AdServing)
+ CM14, , 14 dagar, Identifies if there is a need to re-check partner‘s cookie matching existence (set by Cookie Matching)
+ token, , Session, Security token for opt out functionality
+ otsid, , 3650 dagar, Advertiser specific opt-out
+ uid, , 60 dagar, Unique identifier
+ cid, , 60 dagar, Cookie id (legacy) – same as uid
+ adtrc, , 7 dagar, Check if browser information was gathered
+ SR<RotatorID>, , 1 dagar," Sequential rotator information – contains total impressions, daily impressions, total clicks, daily clicks, and last impression date"
+ CT<TrackingSetupID>, , 1 timma, Identifies last click membership for 3rd party pixels on advertiser’s pages
+ EBFCD<BannerID>, , 7 dagar, Identifies daily frequency capping for expanding banner
+ EBFC<BannerID>, , 7 dagar, Identifies total frequency capping for expanding banner
+ CFFC<TagID>, , 7 dagar, Compound banner frequency capping
+ , , , 
+---------------------
+Klarna cookies 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ _ga, .klarna.com, 2 år, Används för att samla in information och användningsstatistik avseende våran webbsida. Kaka kan också användas av Google för att visa mer relevanta annonser i Googles produkter och tjänster.
+ kdid, .klarna.com, , 
+ mf_5f2c7207-ae1f-4117-847f-08e6d9cd67e9, .nr-data.net, , 
+ JSESSIONID, .nr-data.net, Session, Preserves users states across page requests.
+---------------------
+Cookie för visning av relaterat innehåll 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ did, .strossle.it, , 
+---------------------
+Cookies för cachening av innehåll för snabbare leverans 
+--------TABLE--------
+ Namn, Domän, Livslängd, Syfte
+ _biz_flagsA, .cloudflare.com, , 
+ optimizelySegments, .cloudflare.com, , 
+ optimizelyEndUserId, .cloudflare.com, , 
+ __cfduid, .cloudflare.com, , 
+ optimizelyBuckets, .cloudflare.com, , 
+ _biz_nA, .cloudflare.com, , 
+ _biz_pendingA, .cloudflare.com, , 
+ _ga, .cloudflare.com, 2 år, Används för att samla in information och användningsstatistik avseende våran webbsida. Kaka kan också användas av Google för att visa mer relevanta annonser i Googles produkter och tjänster.
+ _biz_uid, .cloudflare.com, , 
+ u2, .serving-sys.com, , 
+ ActivityInfo2, .serving-sys.com, , 
+ D3, .serving-sys.com, , 
+ C6, .serving-sys.com, , 
+ A6, .serving-sys.com, , 
+ um2, .serving-sys.com, , 
+ OT2, .serving-sys.com, , 
+ t1, .serving-sys.com, , 
+---------------------
+
+Övriga cookies
+--------TABLE--------
+ 
+ 
+ 
+ 
+ 
+---------------------

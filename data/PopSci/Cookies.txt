@@ -1,0 +1,114 @@
+Necessary (14) - Preferences (0) - Statistics (10) - Marketing (50) - Unclassified (24) 
+
+Necessary 
+--------TABLE--------
+ Name, Provider, Purpose, Expiry, Type
+ ASP.NET_SessionId, , Preserves the visitor's session state across page requests., Session, HTTP
+ BIGipServer# [x2], l.mail.bonnier-subscriptions.com x.mail.bonnier-subscriptions.com, Used to distribute traffic to the website on several servers in order to optimise response times., Session, HTTP
+ __cfduid [x4], npttech.com tinypass.com tru.am viglink.com," Used by the content network, Cloudflare, to identify trusted web traffic.", 1 year, HTTP
+ __adblocker, , This cookie is used to determine if the visitor has any adblocker software in their browser – this information can be used to make website content inaccessible to visitors if the website is financed with third-party advertisement., 29 days, HTTP
+ AKA_A2, , This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser., 1 day, HTTP
+ bonnier_consent, , Determines whether the visitor has accepted the cookie consent box., 1 year, HTTP
+ CookieConsent, , Stores the user's cookie consent state for the current domain, 1 year, HTTP
+ gdprConsent, , Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website., Session, Pixel
+ opt_out, , Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website., 1 year, HTTP
+ m-b, , Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor., 2 years, HTTP
+---------------------
+Statistics 
+--------TABLE--------
+ Name, Provider, Purpose, Expiry, Type
+ collect, , Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels., Session, Pixel
+ _ga, , Registers a unique ID that is used to generate statistical data on how the visitor uses the website., 2 years, HTTP
+ _gat, , Used by Google Analytics to throttle request rate, 1 day, HTTP
+ _gid, , Registers a unique ID that is used to generate statistical data on how the visitor uses the website., 1 day, HTTP
+ _parsely_session, , This cookie is used to collect data on visitor behavior on the website., 1 day, HTTP
+ gpv_pn, , Registers statistical data on visitors' behaviour on the website. Used for internal analytics by the website operator., 1 day, HTTP
+ s_cc, , Used to check if the user's browser supports cookies., Session, HTTP
+ s_fid, , Saves the current Flash version that is available in the user's browser., 5 years, HTTP
+ s_nr, , Registers a unique ID that identifies the user's device for return visits., 29 days, HTTP
+ s_ppv, , Saves information on what vertical percentage of a page has been displayed to the user., Session, HTTP
+---------------------
+
+Marketing 
+--------TABLE--------
+ Name, Provider, Purpose, Expiry, Type
+ uuid2, , Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads., 3 months, HTTP
+ cpSess, ," Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.", 1 year, HTTP
+ dsp_app_nexus, ," Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.", 1 year, HTTP
+ dsp_avocet, ," Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.", 1 year, HTTP
+ mon, ," Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.", Session, Pixel
+ uuid, , This cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange., 1 year, HTTP
+ sync [x2], bidswitch.net cpx.to, Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant., Session, Pixel
+ CMDD, ," Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.", 1 day, HTTP
+ CMID, ," Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.", 1 year, HTTP
+ CMPRO, ," Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.", 3 months, HTTP
+ CMPS, ," Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.", 3 months, HTTP
+ CMST, ," Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.", 1 day, HTTP
+ ca.png, ," Saves information of actions that have been carried out by the user during the current visit to the website, including searches with keywords included.", Session, Pixel
+ dsp_dbm, ," Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.", 1 year, HTTP
+ dsp_pubmatic, ," Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.", 1 year, HTTP
+ IDE, , Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user., 1 year, HTTP
+ test_cookie, , Used to check if the user's browser supports cookies., 1 day, HTTP
+ brandlift.php, , Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products., Session, Pixel
+ fr, , Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers., 3 months, HTTP
+ tr, , Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers., Session, Pixel
+ pcs/activeview, , Used by DoubleClick to determine whether website advertisement has been properly displayed - This is done to make their marketing efforts more efficient., Session, Pixel
+ IMRID, ," Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.", 1 year, HTTP
+ _kuid_, , Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads., 179 days, HTTP
+ pid, ," Used to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.", 1 year, HTTP
+ _fbp, , Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers., 3 months, HTTP
+ GoogleAdServingTest, , Used to register what ads have been displayed to the user., Session, HTTP
+ trk.gif, ," Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.", Session, Pixel
+ KADUSERCOOKIE, , Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads., 3 months, HTTP
+ KTPCACOOKIE, , Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads., 3 months, HTTP
+ UID, ," Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.", 2 years, HTTP
+ UIDR, ," Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.", 2 years, HTTP
+ vglnk.Agent.p, ," Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.", 29 days, HTTP
+ GPS, , Registers a unique ID on mobile devices to enable tracking based on geographical GPS location., 1 day, HTTP
+ PREF, , Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites., 8 months, HTTP
+ VISITOR_INFO1_LIVE, , Tries to estimate the users' bandwidth on pages with integrated YouTube videos., 179 days, HTTP
+ YSC, , Registers a unique ID to keep statistics of what videos from YouTube the user has seen., Session, HTTP
+ yt-remote-cast-installed, , Stores the user's video player preferences using embedded YouTube video, Session, HTML
+ yt-remote-connected-devices, , Stores the user's video player preferences using embedded YouTube video, Persistent, HTML
+ yt-remote-device-id, , Stores the user's video player preferences using embedded YouTube video, Persistent, HTML
+ yt-remote-fast-check-period, , Stores the user's video player preferences using embedded YouTube video, Session, HTML
+ yt-remote-session-app, , Stores the user's video player preferences using embedded YouTube video, Session, HTML
+ yt-remote-session-name, , Stores the user's video player preferences using embedded YouTube video, Session, HTML
+ s_vi_#, , Pending, 2 years, HTTP
+ icu, , Pending, 3 months, HTTP
+ dt, , Pending, Session, Pixel
+ an_fire, , Pending, Session, Pixel
+ pixel.gif, , Pending, Session, Pixel
+ event, , Pending, Session, Pixel
+ __ab12#, , Pending, 2 years, HTTP
+---------------------
+
+Unclassified 
+--------TABLE--------
+ Name, Provider, Purpose, Expiry, Type
+ _parsely_visitor, ," This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.", 13 months, HTTP
+ images/pixel.gif, , Pending, Session, Pixel
+ __pat, , Pending, 29 days, HTTP
+ __pnahc, , Pending, 3 months, HTTP
+ __pvi, , Pending, 1 day, HTTP
+ __tbc, , Pending, 2 years, HTTP
+ _kxcache_a2635f949ec4ea4ee6e2254af1336d242116406b, , Pending, Persistent, HTML
+ _kxfp, , Pending, Persistent, HTML
+ _kxkuid, , Pending, Persistent, HTML
+ _kxuser, , Pending, Persistent, HTML
+ _kxvisits, , Pending, Persistent, HTML
+ _kxwhistle, , Pending, Persistent, HTML
+ cookies.js_dtest, , Pending, Session, HTTP
+ kxcache_a2635f949ec4ea4ee6e2254af1336d242116406b, , Pending, Persistent, HTML
+ kxfp, , Pending, Persistent, HTML
+ kxkuid, , Pending, Persistent, HTML
+ kxuser, , Pending, Persistent, HTML
+ kxvisits, , Pending, Persistent, HTML
+ kxwhistle, , Pending, Persistent, HTML
+ ntvSession, , Pending, Persistent, HTML
+ s_tp, , Pending, Session, HTTP
+ xbc, , Pending, 2 years, HTTP
+ _/ad/fbced24689e14b68a47e4bf613791d54/pixel, , Pending, Session, Pixel
+ __bid, , Pending, 1 year, HTTP
+---------------------
+

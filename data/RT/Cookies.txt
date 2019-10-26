@@ -1,0 +1,62 @@
+Technically necessary cookies (1) - Performance cookies (11) - Advertising cookies (39) 
+
+--------TABLE--------
+ Cookie, Category, Controller, Purpose, Retention Period
+ rt-cb-approve, technically necessary cookies, RT, This cookie enables the browser to remember the consent of the user to RT Privacy Policy., 1 year
+ _ym_isad, performance cookies, YANDEX LLC, Used to determine if a visitor has ad blockers, 2 days
+ _ym_d, performance cookies, YANDEX LLC, Date of the user's first site session, 1 year
+ __gads, performance cookies, Google Analytics, Registers a unique ID that is used to generate and collect statistical data on how a visitor uses the website., 2 years
+ _lp4_u, performance cookies, Linkpulse," This cookie of our service provider, Linkpulse, allows us to collect aggregate information about how many individual visitors access the and how they use it.", 1 year
+ _ga, performance cookies, Google Analytics," This cookie is typically written to the browser upon the first visit to the Websites. If the cookie has been deleted by the browser operat the browser subsequently visits rt.com, a new _ga cookie is written with a different unique ID. In most cases, this cookie is used to understand whether a visitor is a single time visitor or a repeat visitor to the Websites and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.", 2 years
+ _ym_uid, , YANDEX LLC, Used for identifying site users, 1 year
+ _gid, performance cookies, Google Analytics, This cookie stores a unique user session identifier., 24 hours
+ _gat, performance cookies, Google Analytics," This cookie name is associated with Google Universal Analytics, according to Google documentation it is used to throttle the request rate - limiting the collection of data on high traffic sites. It expires after 10 minutes.", 1 minute
+ OX_plg, advertising cookies, Openx, Used by ad network OpenX to identify a user across multiple websites, End of Session
+ OX_sd, advertising cookies, Openx, These cookies are used by Google Adsense and other advertisers to identify and target our site for delivering relevant advertising, End of Session
+ tuuid_lu, advertising cookies, .254a.com, Contains a unique visitor ID. This allows source to optimize the advertising relevance and ensure that the visitor does not see the same times., 3 months
+ tuuid, advertising cookies, .254a.com," Collects unidentifiable data that is sent to an unidentifiable source. The source's identity is kept secret by the company, Perfect Priv.", 3 months
+ uid, advertising cookies, .adform.com, Unique identifier, 2 months
+ uuid2, advertising cookies, .adnxs.com, Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads., 3 months
+ tuuid_lu, advertising cookies, .bidswitch.net," Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optim relevance and ensure that the visitor does not see the same ads multiple times.", 1 year
+ c, advertising cookies, .bidswitch.net, Regulates synchronisation of user identification and exchange of user data between various ad services., 1 year
+ tuuid, advertising cookies, .bidswitch.net, Registers whether or not the user has consented to the use of cookies., 1 year
+ IDE, advertising cookies, .doubleclick.net, Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with of measuring the efficacy of an ad and to present targeted ads to the user, 1 year
+ everest_g_v2, advertising cookies, .everesttech.net, This cookie is set after a user clicks on an ad. This cookie maps clicks to other events on the client's website and is set in .net domain., 2 years
+ uuidc, advertising cookies, .mathtag.com, Anonymised data used by MediaMath as a way to customize and tailor a user’s ad experience based on interest and user preferences acr websites., 1 month
+ uuid, advertising cookies, .mathtag.com, Anonymised data used by MediaMath as a way to customize and tailor a user’s ad experience based on interest and user preferences acr websites., 13 months
+ pd, advertising cookies, .openx.net, This cookie is generally provided by openx.net and is used for advertising purposes., 14 days
+ i, advertising cookies, .openx.net," Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with of optimising ad display based on the user's movement on websites that use the same ad network.", 1 year
+ __cfduid, advertising cookies, .pingdom.net," Used by the content network, Cloudflare, to identify trusted web traffic.", 1 year
+ mc, advertising cookies, .quantserve.com, This cookie is used to identify visitors from campaigns and gather info from visitors to our site to create lookalike audiences and target t with display ads on other sites., 1 year
+ d, advertising cookies, .quantserve.com, This cookie is used to identify visitors from campaigns and gather info from visitors to our site to create lookalike audiences and tar. programmatically with display ads on other sites, 3 months
+ ruds, advertising cookies, .rfihub.com," Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with of optimising ad display based on the user's movement on websites that use the same ad network.", End of Session
+ rud, advertising cookies, .rfihub.com," Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with of optimising ad display based on the user's movement on websites that use the same ad network.", 1 year
+ eud, advertising cookies, .rfihub.com," Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.", 1 year
+ vis55, advertising cookies, .rubiconproject.com, Indicates number of times a user action has precipitated an ad request for this particular unit of inventory., 1 year
+ vis2, advertising cookies, .rubiconproject.com, Indicates number of times a user action has precipitated an ad request for this particular unit of inventory., 24 hours
+ ses2, advertising cookies, .rubiconproject.com, Indicates number of times the Rubicon Project has served a user an advert for this particular unit of inventory., 24 hours
+ rsid, advertising cookies, .rubiconproject.com," Session cookie that contains information about a device, including region (derived from IP address, not geolocation data), operating Syst, etc., that is used during the ad inventory sale process.", End of Session
+ audit, advertising cookies, .rubiconproject.com, Used to record cookie consent data., 1 year
+ khaos, advertising cookies, .rubiconproject.com, Internal user identifier used for analytics., 6 months
+ ses55, advertising cookies, .rubiconproject.com, Indicates number of times the Rubicon Project has served a user an advert for this particular unit of inventory., 1 year
+ UID, advertising cookies, .scorecardresearch.com," Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.", 2 years
+ uid, advertising cookies, .simpli.fi, This cookie retargets visitors to our site with display ads on other sites., 1 year
+ __cfduid, advertising cookies, .tru.am, This Cloudflare cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis, 24 hours
+ uid, advertising cookies, .turn.com, This cookie retargets visitors to our site with display ads on other sites., 1 year
+ VID, advertising cookies, .yadro.ru, , 4 years
+ FTID, advertising cookies, .yadro.ru, , 1 year
+ yp, performance cookies, YANDEX LLC, Yandex.Metrics service analytics cookie., End of Session
+ i, advertising cookies, YANDEX LLC, Yandex.Metrics service marketing cookie, 10 years
+ yandexuid, performance cookies, YANDEX LLC, Yandex.Metrics service analytics cookie., End of Session
+ VISITOR_INFO1_LIVE, performance cookies, YouTube LLC, This cookie tracks viewing of Youtube videos on the website., 179 days
+ GPS, , YouTube LLC, Registers a unique ID on mobile devices to enable tracking based on geographical GPS location., 24 hours
+ YSC, advertising cookies, YouTube LLC, These cookies are used by Youtube as part of their embedded services on the Websites (sharing etc.). More information about Youtube’s cookies can be found in their cookie policy., End of Session
+ PREF, advertising cookies, YouTube LLC, This cookie is used by Google to set each of its users’ preferred language preferences., 8 months
+ put_1902, advertising cookies, .rubiconproject.com," Bidder identifiers placed at the request of a bidder, to sync a bidder’s independent information about an end user with Rubicon Proje allow the bidder (not Rubicon Project) to bid on ads through the Rubicon Project advertising exchange based on behavioral targeting information known only to the bidder (i.e., the user identifier will be transmitted in a bid request to the bidder that caused this cookie to be placed).", 1 month
+ pux, advertising cookies, , Dates for when information in the put_* and sput cookies expires and should be refreshed., 1 year
+ yabs-sid, performance cookies, YANDEX LLC, Yandex.Metrics service analytics cookie., End of Session
+---------------------
+
+
+
+

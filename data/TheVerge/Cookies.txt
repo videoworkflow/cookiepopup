@@ -1,0 +1,62 @@
+Analytics and Performance Cookies (?) - Essential Cookies (?) - Functionality Cookies (?) - Social Media Cookies (?) - Targeted and advertising cookies (?) 
+
+Cookies (56)
+--------TABLE--------
+ Party, Service, For More Information, Use of Tracking Technologies, Privacy Choices
+ , Customer interaction, , Yes, 
+ AddThis, Customer interaction, , Yes, 
+ Admeta, Advertising, , Yes, 
+ , Advertising, , Yes, 
+ Aggregate Knowledge, Customer interaction, , Yes, 
+ Amazon Associates, Advertising, , Yes, 
+ AppNexus, Advertising, , Yes, 
+ Atlas, Advertising, , Yes, 
+ BidSwitch, Advertising platform, , Yes, 
+ BlueKai, Advertising exchange, , Yes, 
+ Brightcove, Video hosting platform, , Yes, 
+ Chartbeat, Customer interaction, , Yes but anonymised, n/a
+ Datalogix, Advertising, www.datalogix.xom, Yes, 
+ DoubleClick, Advertising exchange, , Yes, 
+ Facebook Connect, Social networking, , Yes, 
+ Facebook Custom Audience, Social networking, , Yes, 
+ FreeWheel, Video platform, , Yes, 
+ GA Audiences, Advertising, , Yes, 
+ Google Adsense, Advertising, , Yes, 
+ Google Adwords Conversion, Advertising, , Yes, 
+ Google AJAX Search API, Applications, , Yes, 
+ Google Analytics," Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on", http://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409 http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4... https://tools.google.com/dlpage/gaoptout/, Yes, 
+ Google Dynamix Remarketing, Advertising, , Yes, 
+ Google Publisher Tags, Advertising, , Yes, 
+ Google Safeframe, Advertising, , Yes, 
+ Google Tag Manager, Tag definition and management, http://www.google.com/tagmanager/ http://www.google.com/intl/en/about.html, Yes, 
+ Index Exchange, Advertising exchange, , Yes, 
+ InsightExpress, Site analytics, , Yes, 
+ Integral Ad Science, Site analytics and optimization, , Yes, null
+ Intent IQ, Analytics, , Yes, 
+ MOAT, Analytics, , Yes, 
+ MyFonts Counter, Font seller, , Yes, null
+ NetRatings SiteCensus, Site analytics, , Yes, 
+ New Relic, Site analytics, , Yes, 
+ Omniture (Adobe Analytics), Customer interaction, , Yes, 
+ OpenX, Advertising exchange, , Yes, 
+ Outbrain, Advertising, , Yes, 
+ PubMatic, Adstack platform, , Yes, 
+ RhythmOne Beacon, Advertising, , Yes, 
+ Rocket Fuel, Advertising, , Yes, 
+ Rubicon, Advertising exchange, , Yes, 
+ Salesforce DMP (f/k/aKrux Digital), Customer interaction, , Yes, http://www.salesforce.com/marketing-cloud/sfmc/salesforce-dmp-consumer-choice /
+ Scorecard Research Beacon, Site analytics, , Yes, 
+ SMART AdServer, Advertising platform, , Yes, https:// smartadserver.com/company/privacy-policy/
+ Souvrn (f/k/a Lijit Networks), Customer interaction, , Yes, 
+ SpotXchange, Advertising platform, , Yes, 
+ StickyAds, Mobile advertising, , Yes, null
+ Taboola, Customer interaction, , Yes, 
+ TradeDesk, Advertising platform, , Yes, 
+ Tremor Media, Customer interaction, , Yes, null
+ TripleLift, Advertising, , Yes, 
+ TRUSTe Notice, Privacy platform, , Yes, 
+ Turn Inc., Marketing platform, , Yes, 
+ Twitter Advertising, Advertising, , Yes, 
+ Twitter Analytics, Site nnalytics, , Yes, 
+ Twitter Conversion Tracking, Tag manager, https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking for -websites.html, Yes, 
+---------------------

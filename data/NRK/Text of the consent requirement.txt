@@ -1,0 +1,35 @@
+Informasjonskapsler (cookies)
+De aller fleste nettsider av i dag benytter seg av såkalte informasjonskapsler eller cookies for å bedre brukeropplevelsen. En informasjonskapsel er en tekstfil som ved besøk på eller interaksjon med en nettside legges i din nettlesers internminne.
+Helge Kaasin
+Publisert 1. juli 2013 kl. 12:57 Oppdatert 5. apr. 2018 kl. 14:57
+ 
+Artikkelen er mer enn ett år gammel.
+Del på Facebook
+ Del på epost
+ 
+Den reviderte ekomloven (Lov om elektronisk kommunikasjon) krever at NRK informerer publikum om bruk av informasjonskapsler (cookies). Den såkalte «cookie paragrafen» sier følgende:
+§ 2-7b Bruk av informasjonskapsler/cookies
+Lagring av opplysninger i brukers kommunikasjonsutstyr, eller å skaffe seg adgang til slike, er ikke tillatt uten at brukeren er informert om hvilke opplysninger som behandles, formålet med behandlingen, hvem som behandler opplysningene, og har samtykket til dette. Første punktum er ikke til hinder for teknisk lagring av eller adgang til opplysninger:
+utelukkende for det formål å overføre kommunikasjon i et elektronisk kommunikasjonsnett
+som er nødvendig for å levere en informasjonssamfunnstjeneste etter brukerens uttrykkelige forespørsel.
+Ekomloven § 2-7b skal være med å sikre brukernes personvern på ekomområdet. Bestemmelsen retter seg i hovedsak mot personvernkrenkende teknikker som spionprogram og liknende, og er ikke ment å innebære noe hinder mot å benytte lovlige teknikker.
+ 
+Bestemmelsen beskytter brukers kommunikasjonsutstyr, ved at det er gitt et skjerpet krav om informasjon og samtykke fra bruker dersom det skal benyttes informasjonskapsler. Lagring av opplysninger og behandling av disse opplysningene er ikke tillatt med mindre bruker er informert om, og har samtykket til, hvilke opplysninger som behandles, hva formålet med denne behandlingen er og hvem som behandler opplysningene.
+ 
+Det er altså en forutsetning for bruk av informasjonskapsler at sluttbruker har samtykket til bruken. Forutsatt at det finnes klar og tydelig informasjon tilgjengelig på det aktuelle nettstedet om hvilke informasjonskapsler som benyttes, hvilke opplysninger som behandles, formålet med behandlingen og hvem som behandler opplysningene, kan samtykke avgis ved at sluttbruker benytter en teknisk innstilling i nettleser eller tilsvarende i tilfeller der dette er teknisk mulig og effektivt.
+ 
+Forhåndsinnstilling i nettleser om at brukeren aksepterer informasjonskapsler anses som samtykke. Det er tilstrekkelig at brukeren samtykker én gang for det samme formålet. Brukeren skal til enhver tid ha mulighet til å trekke tilbake sitt samtykke.
+Kravet til klar og tydelig informasjon anses oppfylt når:
+Informasjonen er lett synlig med en gang bruker kommer inn på nettstedet. Det vil si enten en lenke til informasjon i topptekst, tekstboks på forsiden eller som en «pop-up».
+Informasjonen inneholder opplysninger om hvilke informasjonskapsler som brukes, hvilke opplysninger som behandles, formål og hvem som behandler opplysningene.
+NRK har valgt å legge en lenke til den artikkelen du nå leser i bunnen av alle sider. I det følgende vil vi informere om påkrevde opplysninger.
+ 
+Alle NRKs nettjenester benytter seg av informasjonskapsler som gjør at nettsiden husker tidligere brukerinnstillinger gjort på siden, slik som valgt språk, båndbredde eller favorittsted, og gir oss statistikk som vi benytter til å gjøre nettsidene våre bedre for publikum. NRK benytter aldri informasjonskapsler i den hensikt å kartlegge enkeltbrukeres bruksmønster eller annen informasjon som vil kunne krenke personvernet.
+
+Ved å benytte nettjenester fra NRK samtykker du i at vi kan sette informasjonskapsler i din nettleser.
+
+De fleste moderne nettlesere (Google Chrome, Internet Explorer, Firefox, Safari, Opera, etc.) er innstilt på å akseptere informasjonskapsler automatisk, men du kan selv velge å endre innstillingene slik at informasjonskapsler ikke blir akseptert. Vi gjør oppmerksom på at dette vil kunne føre til at NRKs nettjenester ikke vil fungere optimalt.
+Hvordan slette informasjonskapsler (cookies)?
+Her følger en oversikt over informasjonskapsler på NRKs nettjenester.
+ 
+

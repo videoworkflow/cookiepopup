@@ -1,0 +1,386 @@
+Required cookies (2) - Functional cookies (48) - Advertising cookies (105) - Information storage and access (56) - Personalisation (56) -  Ad selection, delivery and reporting (50) - Content selection, delivery and reporting (32) - Measurement (43)
+
+
+Required cookies 
+--------TABLE--------
+ Fortune," fortune.com, irving.fortune.com"
+---------------------
+
+
+Functional cookies
+--------TABLE--------
+ Company, Domain
+ AMP, 
+ Adobe Marketing Cloud - Advertising Services, 
+ Akamai Technologies," hlstimeinc-a.akamaihd.net, timeincsecure-a.akamaihd.net, timeincsecurehls-a.akamaihd.net, timeincsecureuds-a.akamaihd.net, timesecure-lh.akamaihd.net Show All"
+ Amazon (Cloudfront), 
+ Brightcove," metrics.brightcove.com, players.brightcove.net"
+" CloudFlare, Inc.", 
+ Facebook Inc., 
+ Fortune, 
+ Google Inc.," csi.gstatic.com, fonts.gstatic.com, imasdk.googleapis.com, www.googletagmanager.com, www.googletagservices.com Show All"
+ ID5 Technology SAS, 
+ Microsoft Advertising," bing.com, c.bing.com"
+" Neustar, Inc.", 
+ ," config.parsely.com, srv-2019-05-14-23.config.parsely.com, srv-2019-05-15-00.config.parsely.com Show All"
+ Piano Inc.," cdn.tinypass.com, sandbox.tinypass.com"
+ Scorecard Research, 
+ Signal Digital Inc., 
+ TrustArc (formerly TRUSTe), 
+ Twitter," abs.twimg.com, cdn.syndication.twimg.com, platform.twitter.com, syndication.twitter.com, ton.twimg.com Show All"
+ VIP, 
+ Walmart, 
+ Wayfair, 
+ Zencoder, 
+ numberly, 
+---------------------
+
+Advertising cookies
+--------TABLE--------
+ Company, Domain
+ A.Mob, 
+ ADITION technologies AG, 
+ ADYOULIKE SA, 
+ ADventori SAS, 
+ AdSniper," adsniper.ru, bumlam.com"
+ Adelphic LLC, 
+ Adform A/S, 
+ Adobe Marketing Cloud - Advertising Services," demdex.net, dpm.demdex.net"
+ AdsWizz Inc., 
+ Adtelligent Inc., 
+ Amazon, 
+" Amobee, Inc.", 
+ AppNexus Inc., 
+ Appier, 
+ BIDSWITCH GmbH, 
+ Beachfront Media LLC, 
+ BeeswaxIO Corporation, 
+" Bounce Exchange, Inc", 
+ Cloud Technologies S.A.," erne.co, onaudience.com"
+" Colossus Media, LLC.", 
+" DataXu, Inc.", 
+ Dianomi (Financial Content Marketing)," dianomi.com, www.dianomi.com"
+" Exponential Interactive, Inc", 
+ Facebook Inc.," facebook.com, www.facebook.com"
+ Fluct, 
+ FreeWheel," ads.stickyadstv.com, fwmrm.net"
+" Getintent USA, inc.", 
+ Google Inc.," adservice.google.com, adservice.google.ie, doubleclick.net, pagead2.googlesyndication.com, s0.2mdn.net, securepubads.g.doubleclick.net, youtube.com Show All"
+ GroupM, 
+ IPONWEB GmbH, 
+ Improve Digital International BV, 
+" Index Exchange, Inc.", 
+ InfoLinks, 
+ Jivox Corporation, 
+ LifeStreet Corporation, 
+ Ligatus GmbH, 
+" LiveRamp, Inc.", 
+ Liveintent Inc.," i.liadm.com, liadm.com"
+" Lotame Solutions, Inc.", 
+ Media.net Advertising FZ-LLC, 
+" MediaMath, Inc.", 
+" Nativo, Inc.", 
+ Oath (EMEA) Limited, 
+ Oracle AddThis," addthis.com, dlx.addthis.com"
+ Oracle Data Cloud, 
+ Outbrain, 
+ OwnerIQ, 
+ Platform161, 
+ PowerLinks Media Limited," powerlinks.com, px.powerlinks.com"
+ Programattik, 
+" PulsePoint, Inc.", 
+ Quantcast International Limited," quantserve.com, rules.quantcount.com"
+" RhythmOne, LLC", 
+" Salesforce DMP (formerly Krux Digital, Inc.)", 
+ Scorecard Research, 
+ Semasio GmbH, 
+" Sharethrough, Inc", 
+ Simplifi Holdings Inc., 
+" Sizmek Technologies, Inc.", 
+ Smart AdServer, 
+ Sovrn Holdings Inc, 
+ SpotX, 
+ Spoutable," spoutable.com, s.spoutable.com"
+ SundaySky, 
+ Supership (formerly ScaleOut), 
+ Taboola Europe Limited, 
+" Tapad, Inc.", 
+ Teads, 
+" Telaria, Inc", 
+ The Trade Desk, 
+" TripleLift, Inc.", 
+ Tru Optik," dmp.truoptik.com, truoptik.com"
+ Unknown," events.bouncex.net, tag.clrstm.com"
+ Unruly Group Ltd, 
+ Videology Ltd., 
+ Widespace AB, 
+ Yahoo, 
+" Yandex, LLC.", 
+ Ysance, 
+" Zemanta, Inc.", 
+ ZypMedia (formerly ExtendTV), 
+ digitalAudience, 
+ plista GmbH, 
+ smartclip Holding AG, 
+---------------------
+Information storage and access 
+--------TABLE--------
+ Company
+ A.Mob
+ ADITION technologies AG
+ ADYOULIKE SA
+ ADventori SAS
+ Adelphic LLC
+ Adform A/S
+ AdsWizz Inc.
+ Adtelligent Inc.
+" Amobee, Inc."
+ AppNexus Inc.
+ Beachfront Media LLC
+ BeeswaxIO Corporation
+" Bounce Exchange, Inc"
+ Cloud Technologies S.A.
+" DataXu, Inc."
+" Exponential Interactive, Inc"
+" Getintent USA, inc."
+ ID5 Technology SAS
+ IPONWEB GmbH
+ Improve Digital International BV
+" Index Exchange, Inc."
+ Jivox Corporation
+ LifeStreet Corporation
+ Ligatus GmbH
+" LiveRamp, Inc."
+ Liveintent Inc.
+ Media.net Advertising FZ-LLC
+" MediaMath, Inc."
+" Nativo, Inc."
+" Neustar, Inc."
+ Oath (EMEA) Limited
+ Oracle AddThis
+ PowerLinks Media Limited
+" PulsePoint, Inc."
+ Quantcast International Limited
+" RhythmOne, LLC"
+ Semasio GmbH
+" Sharethrough, Inc"
+ Signal Digital Inc.
+ Simplifi Holdings Inc.
+" Sizmek Technologies, Inc."
+ Smart AdServer
+ Sovrn Holdings Inc
+ SpotX
+ Taboola Europe Limited
+" Tapad, Inc."
+ Teads
+" Telaria, Inc"
+ The Trade Desk
+" TripleLift, Inc."
+ Unruly Group Ltd
+ Widespace AB
+" Zemanta, Inc."
+ numberly
+ plista GmbH
+ smartclip Holding AG
+---------------------
+
+Personalisation 
+--------TABLE--------
+ Company
+ A.Mob
+ ADITION technologies AG
+ ADYOULIKE SA
+ ADventori SAS
+ Adelphic LLC
+ Adform A/S
+ AdsWizz Inc.
+ Adtelligent Inc.
+" Amobee, Inc."
+ AppNexus Inc.
+ Beachfront Media LLC
+ BeeswaxIO Corporation
+" Bounce Exchange, Inc"
+ Cloud Technologies S.A.
+" DataXu, Inc."
+" Exponential Interactive, Inc"
+" Getintent USA, inc."
+ ID5 Technology SAS
+ IPONWEB GmbH
+ Improve Digital International BV
+" Index Exchange, Inc."
+ Jivox Corporation
+ LifeStreet Corporation
+ Ligatus GmbH
+" LiveRamp, Inc."
+ Liveintent Inc.
+ Media.net Advertising FZ-LLC
+" MediaMath, Inc."
+" Nativo, Inc."
+" Neustar, Inc."
+ Oath (EMEA) Limited
+ Oracle AddThis
+ PowerLinks Media Limited
+" PulsePoint, Inc."
+ Quantcast International Limited
+" RhythmOne, LLC"
+ Semasio GmbH
+" Sharethrough, Inc"
+ Signal Digital Inc.
+ Simplifi Holdings Inc.
+" Sizmek Technologies, Inc."
+ Smart AdServer
+ Sovrn Holdings Inc
+ SpotX
+ Taboola Europe Limited
+" Tapad, Inc."
+ Teads
+" Telaria, Inc"
+ The Trade Desk
+" TripleLift, Inc."
+ Unruly Group Ltd
+ Widespace AB
+" Zemanta, Inc."
+ numberly
+ plista GmbH
+ smartclip Holding AG
+---------------------
+
+Ad selection, delivery and reporting
+--------TABLE--------
+ Company
+ A.Mob
+ ADITION technologies AG
+ ADYOULIKE SA
+ ADventori SAS
+ Adelphic LLC
+ Adform A/S
+ AdsWizz Inc.
+ Adtelligent Inc.
+" Amobee, Inc."
+ AppNexus Inc.
+ Beachfront Media LLC
+ BeeswaxIO Corporation
+ Cloud Technologies S.A.
+" DataXu, Inc."
+" Exponential Interactive, Inc"
+ IPONWEB GmbH
+ Improve Digital International BV
+" Index Exchange, Inc."
+ Jivox Corporation
+ LifeStreet Corporation
+ Ligatus GmbH
+" LiveRamp, Inc."
+ Media.net Advertising FZ-LLC
+" MediaMath, Inc."
+" Nativo, Inc."
+" Neustar, Inc."
+ Oath (EMEA) Limited
+ Oracle AddThis
+ PowerLinks Media Limited
+" PulsePoint, Inc."
+ Quantcast International Limited
+" RhythmOne, LLC"
+" Sharethrough, Inc"
+ Signal Digital Inc.
+ Simplifi Holdings Inc.
+" Sizmek Technologies, Inc."
+ Smart AdServer
+ Sovrn Holdings Inc
+ Taboola Europe Limited
+" Tapad, Inc."
+ Teads
+" Telaria, Inc"
+ The Trade Desk
+" TripleLift, Inc."
+ Unruly Group Ltd
+ Widespace AB
+" Zemanta, Inc."
+ numberly
+ plista GmbH
+ smartclip Holding AG
+---------------------
+
+Content selection, delivery and reporting 
+--------TABLE--------
+ Company
+ A.Mob
+ ADITION technologies AG
+ ADYOULIKE SA
+ Adform A/S
+" Amobee, Inc."
+ Beachfront Media LLC
+" Bounce Exchange, Inc"
+ Cloud Technologies S.A.
+" Exponential Interactive, Inc"
+ IPONWEB GmbH
+ Improve Digital International BV
+ Jivox Corporation
+ LifeStreet Corporation
+" LiveRamp, Inc."
+" MediaMath, Inc."
+" Nativo, Inc."
+" Neustar, Inc."
+ Oracle AddThis
+ PowerLinks Media Limited
+" PulsePoint, Inc."
+ Quantcast International Limited
+" RhythmOne, LLC"
+ Semasio GmbH
+ Signal Digital Inc.
+ Simplifi Holdings Inc.
+" Sizmek Technologies, Inc."
+ Taboola Europe Limited
+ Teads
+" Telaria, Inc"
+" Zemanta, Inc."
+ numberly
+ plista GmbH
+---------------------
+
+Measurement 
+--------TABLE--------
+ Company
+ A.Mob
+ ADITION technologies AG
+ ADYOULIKE SA
+ Adform A/S
+ AdsWizz Inc.
+" Amobee, Inc."
+ Beachfront Media LLC
+ BeeswaxIO Corporation
+" Bounce Exchange, Inc"
+ Cloud Technologies S.A.
+" Exponential Interactive, Inc"
+ IPONWEB GmbH
+ Improve Digital International BV
+ Jivox Corporation
+ LifeStreet Corporation
+ Ligatus GmbH
+" LiveRamp, Inc."
+ Media.net Advertising FZ-LLC
+" MediaMath, Inc."
+" Nativo, Inc."
+" Neustar, Inc."
+ Oath (EMEA) Limited
+ Oracle AddThis
+ PowerLinks Media Limited
+" PulsePoint, Inc."
+ Quantcast International Limited
+" RhythmOne, LLC"
+ Semasio GmbH
+" Sharethrough, Inc"
+ Signal Digital Inc.
+ Simplifi Holdings Inc.
+" Sizmek Technologies, Inc."
+ Smart AdServer
+ Taboola Europe Limited
+" Tapad, Inc."
+ Teads
+" Telaria, Inc"
+ The Trade Desk
+ Unruly Group Ltd
+" Zemanta, Inc."
+ numberly
+ plista GmbH
+ smartclip Holding AG
+---------------------

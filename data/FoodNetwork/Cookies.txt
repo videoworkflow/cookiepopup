@@ -1,0 +1,10 @@
+Cookies (9)
+--------TABLE--------
+ Cookie name(s), Provider, Purpose of cookie(s)
+ SESS*, Food Network UK," This cookie allows our server to recognise you as a returning visitor, in order for us to allow you to log into the website and store user preferences."
+ FN_cookie_accept, Food Network UK," This cookie is set once you have pressed the ""continue"" button to tell us you have accepted the use of cookies on our website, to stop us from showing you the message again."
+" _utm*, _ga*", Google Analytics," We use analytics software to help analyse use of our website. These cookies enable us to collect standard internet log information and visitor behaviour, such as new visitor numbers, interactions and paths through our website, response to our marketing campaigns and browser usage, all in an anonymous form. This information is important to help us understand how people use our website, how our website is performing and to make it as easy to use and useful as possible."
+" _chartbeat*, _cb_ls", Chartbeat," We use analytics software to help analyse use of our website. These cookies enable us to collect standard internet log information and visitor behaviour, such as new visitor numbers, interactions and paths through our website, response to our marketing campaigns and browser usage, all in an anonymous form. This information is important to help us understand how people use our website, how our website is performing and to make it as easy to use and useful as possible."
+ __gads, Google DoubleClick, Our advertising partners use cookies for the purpose of serving advertisements and ensuring they are relevant to you.
+" _gig_*, glt_, ASP.NET_SessionId", Gigya," We use Gigya to collect and manage social identites and data. Gigya provides login, registration, social follow buttons and commenting functionality on the site."
+---------------------

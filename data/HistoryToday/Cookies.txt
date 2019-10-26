@@ -1,0 +1,27 @@
+Our own cookies (2) - Visitor Statistics Cookies (5) - Additional cookies from Media 6 Degrees (5) - Marketing cookies (?)
+
+Our own cookies
+--------TABLE--------
+ has_js
+ SESS...
+---------------------
+Visitor Statistics Cookies 
+--------TABLE--------
+ __utma
+ __utmb
+ __utmc
+ __utmv
+ __utmz
+---------------------
+Additional cookies from Media 6 Degrees 
+--------TABLE--------
+ cckz
+ vstcnt
+ clid
+ ipinfo
+ acs
+---------------------
+
+Marketing cookies
+Facebook
+

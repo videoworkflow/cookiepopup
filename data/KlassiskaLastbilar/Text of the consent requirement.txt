@@ -1,0 +1,10 @@
+Information om cookies
+En cookie är en liten textfil som sparas på din dator. Cookies används på många webbplatser för att ge besökare tillgång till olika funktioner. Informationen i cookien kan användas för att följa en användares surfande.
+ 
+Det finns två typer av cookies. Den ena typen sparar en fil under en längre tid på din dator och raderas på ett förinställt datum. Den används till exempel vid funktioner som talar om vad som är nytt sedan användaren senast besökte den aktuella webbplatsen. Den andra typen kallas sessionscookies och sparas endast temporärt i din dator. Sessionscookies försvinner när du stänger din webbläsare. Används exempelvis för att upprätthålla en inloggning då användaren går från en sida till en annan.
+Cookies på denna webbplats
+ 
+Vi använder oss av både sessions- och permanenta cookies i syfte att ge dig tillgång till funktioner, samla in statistik, samt att optimera innehåll och reklam.
+Om du inte vill tillåta lagring av cookies i din dator kan du stänga av funktionen i din webbläsares inställningar. Detta kan samtidigt innebära att vissa funktioner på webbplatsen inte kommer att fungera korrekt.
+ 
+

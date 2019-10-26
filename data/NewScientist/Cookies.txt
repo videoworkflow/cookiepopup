@@ -1,0 +1,31 @@
+Strictly necessary cookies (?) - Analytical cookies (?) - Functionality cookies (?) - Targeting cookies including third party cookies and cookies used for advertising purposes (?) 
+
+Cookies (26) 
+--------TABLE--------
+ , Ely_vID
+ , _ga
+ , __gads
+ , apc_vID
+ , roost-notes-read
+ , roost-isopen
+ , cookiesDirective
+ , ns-session
+ , PHPSESSID
+ , _gid
+ , joblink-cookie
+ , iosapp-cookie
+ , sciencejobs
+ , navbar
+ , ns-auth-cookie-934258
+ , wordpress_logged_in_922c20a1efdfdb914a1a840ab0eb8fee
+ , roost-flyout
+ , wp-settings-time-53933
+ , wp-settings-53933
+ , _uetsid
+ , __atuvc
+ , __atuvs
+ , _dc_gtm_UA-3467316-2
+ , _gat_UA-3467316-2
+ , DSID
+ , IDE
+---------------------

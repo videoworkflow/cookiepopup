@@ -1,0 +1,135 @@
+Information storage and access () - Personalisation () - Ad selection, delivery, reporting () - Content selection, delivery, reporting () - Measurement () 
+
+Site Vendors (130) 
+--------TABLE--------
+" 1020, Inc. dba Placecast and Ericsson Emodo"
+ Active Agent AG
+ Acuityads Inc.
+ ADARA MEDIA UNLIMITED
+ Adello Group AG
+ Adelphic LLC
+ Adform A/S
+ Adikteev / Emoteev
+ AdMaxim Inc.
+ Admedo Ltd
+ Adobe Advertising Cloud
+ AdRoll Inc
+ Adssets AB
+" AdTheorent, Inc"
+ ADYOULIKE SA
+" Amobee, Inc."
+ AppLift GmbH
+ AppNexus Inc.
+ Avazu Inc.
+ Avid Media Ltd
+ Beachfront Media LLC
+ BeeswaxIO Corporation
+ BIDSWITCH GmbH
+" Bidtellect, Inc"
+ BidTheatre AB
+ Blis Media Limited
+ Captify Technologies Limited
+" Centro, Inc."
+ Codewise Sp. z o.o. Sp. k
+ Collective Europe Ltd.
+" comScore, Inc."
+ Conversant Europe Ltd.
+ Criteo SA
+ Delta Projects AB
+" Digilant Spain, SLU"
+ Digitize New Media Ltd
+ dunnhumby Germany GmbH
+ DynAdmic
+ EASYmedia GmbH
+ Emerse Sverige AB
+ EMX Digital LLC
+" Exponential Interactive, Inc"
+" Flashtalking, Inc."
+ Free Stream Media Corp. dba Samba TV
+" Getintent USA, inc."
+ Google Ad Manager
+ GroupM
+" GumGum, Inc."
+ IgnitionOne
+ Impression Desk Technologies Limited
+" Index Exchange, Inc."
+ InMobi Pte Ltd
+ Inskin Media LTD
+" Integral Ad Science, Inc."
+ iotec global Ltd.
+ Jampp LTD
+ Jivox Corporation
+ Justpremium BV
+ Knorex Pte Ltd
+ LiquidM Technology GmbH
+ LoopMe Ltd
+" Lotame Solutions, Inc."
+ McCann Discipline LTD
+ Media.net Advertising FZ-LLC
+" MediaMath, Inc."
+ Mediasmart Mobile S.L.
+ mobalo GmbH
+ Mobile Professionals BV
+ Oath (EMEA) Limited
+ OneTag Ltd
+ OpenX
+ ORTEC B.V.
+ Outbrain UK Ltd
+ Perform Media Services Ltd
+ Platform161
+ Playbuzz Ltd.
+ plista GmbH
+ Pocketmath Pte Ltd
+ Publicis Media GmbH
+ Publishers Internationale Pty Ltd
+" PubMatic, Inc."
+" PulsePoint, Inc."
+" Purch Group, Inc."
+ Qriously
+ Quantcast International Limited
+ Rakuten Marketing LLC
+ remerge GmbH
+" Revcontent, LLC"
+ Rezonence Limited
+" RhythmOne, LLC"
+" RockYou, Inc."
+ RTB House S.A.
+" RTK.IO, Inc"
+ S4M
+" Sharethrough, Inc"
+" Sift Media, Inc"
+ Simplifi Holdings Inc.
+" Sizmek Technologies, Inc."
+" Smaato, Inc."
+ Smadex SL
+ Smart Adserver
+ smartclip Holding AG
+ SMARTSTREAM.TV GmbH
+ Somo Audience Corp
+" Sonobi, Inc"
+ Sovrn Holdings Inc
+ Spotad
+ SpotX
+ StackAdapt
+ Sublime
+ TabMo SAS
+ Taboola Europe Limited
+" Tapad, Inc."
+ TAPTAP Networks SL
+ Teads
+" The Rubicon Project, Inc."
+ The Trade Desk
+ travel audience GmbH
+ Triapodi Ltd.
+" TripleLift, Inc."
+" UberMedia, Inc."
+ Unruly Group Ltd
+ Vdopia DBA Chocolate Platform
+ Vibrant Media Limited
+ Videology Ltd.
+ WEBORAMA
+" xAd, Inc. dba GroundTruth"
+ Yieldlab AG
+ ZBO Media
+ Ziff Davis LLC
+---------------------

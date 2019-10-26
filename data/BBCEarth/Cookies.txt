@@ -1,0 +1,10 @@
+Service provider (6)
+--------TABLE--------
+ SERVICE PROVIDER, COOKIE CATEGORY, PURPOSE, MORE INFO
+ Akamai, Strictly Necessary, Akamai is a service provider we use to ensure smooth and fast delivery of our sites and services to users., 
+ Facebook, Social Media, Provide social sharing functionality., 
+ Google Analytics, Analytics," This is a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate the use of those services and compile a report for us.", 
+ Google DoubleClick, Analytics / Marketing, We use Google DoubleClick to serve and to measure the effectiveness of our online marketing campaigns.We also use this cookie to derive demographics and interests data for analytics purposes., 
+ Cloudflare cfduid, Strictly Necessary, Used for the secure delivery of content in the Explore section of the site. This cookie allows Cloudflare to identify individual browsers behind a shared IP address and apply security settings on a per-browser basis., 
+ Twitter, Social Media, Provide social sharing functionality., 
+---------------------

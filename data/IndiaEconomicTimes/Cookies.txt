@@ -1,0 +1,19 @@
+
+Analytics (1) - Necessary (4) 
+
+Analytics 
+--------TABLE--------
+ Name, Provider, Expiry, Type, Purpose
+ Google Analytics, Google, 1 Year, HTTPS," Google Analytics drops different cookies to collects data like number of visits, duration of visits, when user first visited the website, when user left website, where the user comes from, what search term was used, Try to identify the user, Also generate a unique ID to understand how user uses the website, and other data on similar ground. We also put a tag against this to mask user PII which helps us to mask IP address. read more"
+---------------------
+
+
+Necessary
+--------TABLE--------
+ fpid, Times internet, 1 Year, HTTPS, Browser Fingerprinting to uniquely identify client browsers
+ pfuuid, Times internet, 1 Year, HTTPS, Used to improve the website's performance by anonymously identify the user
+ optout, Times internet, 1 Year, HTTPS, Stores the user's cookie consent state for the current domain
+ etupref, Times internet, 2 Year, HTTPS, Used to authenticate your identity to ET
+---------------------
+
+

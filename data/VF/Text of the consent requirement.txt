@@ -1,0 +1,207 @@
+Villkor
+Uppdaterad 2019-06-19.
+Allmänna villkor för NWT Media AB (NWT)
+ 
+Avtalsvillkor
+ 
+Användning av våra digitala tjänster
+För att få tillgång till allt vårt digitala innehåll på våra sajter, inklusive e-tidningstjänster och annat digitalt innehåll, krävs ett individuellt användarkonto.
+
+Du får enbart använda kontot för icke-kommersiellt bruk. Om ett konto används för andra ändamål har NWT rätt att stänga av kontot med omedelbar verkan. Du ansvarar för att uppgifter som du lämnar via ditt konto är korrekta samt att uppdatera dina uppgifter vid behov. Du ska förvara dina användaruppgifter (användarnamn och lösenord) till kontot säkert och oåtkomliga för andra personer. Om du har skäl att misstänka att någon obehörig har tagit del av dina användaruppgifter ska du snarast underrätta NWT om detta. Du ansvarar själv för skada som orsakas genom att någon obehörig har använt dina uppgifter.
+
+För att få registrera dig för digitalt användarkonto hos NWT måste du vara över 13 år. Är du under 18 år krävs dina målsmäns godkännande för att du ska få registrera dig och använda våra tjänster. Genom att registrera dig och skapa ett digitalt användarkonto intygar du samtidigt att du har inhämtat ett sådant godkännande från dina målsmän. Du anses alltid försäkra riktigheten av sådana uppgifter som du lämnar om dig själv.
+ 
+Systemkrav
+Din tillgång till våra digitala tjänster är beroende av att du innehar egen hårdvara som exempelvis dator, surfplatta eller telefon. Dessutom krävs nödvändiga mjukvaror, såsom program för webbläsare, e-post eller nedladdade applikationer, samt lämpligt abonnemang för internetanslutning. NWT tar inget ansvar för din tillgång till dessa hårdvaror och mjukvaror och inte heller för funktionaliteten i dessa eller förekommande kostnader som tredje parter, såsom internet- eller mobiltelefonoperatörer, som krävs vid användning av våra digitala tjänster. Våra digitala tjänster stöder som regel de senaste versionerna av de mest förekommande webbläsarna.
+ 
+Information om behandling av personuppgifter
+ 
+Cookies och annonser
+NWT använder sig av cookies på alla webbplatser.
+En cookie är en fil som innehåller en identifikation av din webbläsare. Cookiefilen innehåller inga kontaktuppgifter som namn, adress etc. En cookie sparas i den enhet du använder för tillgång till Tjänsten (t ex dator, mobil, surfplatta), för att en webbplats ska känna igen din enhet nästa gång du besöker webbplatsen. Varje gång du besöker en webbplats där du en gång fått en cookie, skickar din webbläsare med den automatiskt. Cookien gör att din enhet blir igenkänd. På så sätt sparar du tid när du surfar.
+NWT använder sig av flera olika cookies för att få tjänster att fungera. En del cookies raderas om du varit inaktiv en viss tid.
+ 
+De cookies NWT använder används bland annat för att skicka rätt information till rätt användare, hantera behörigheter och skicka rätt användare till rätt server. Dessutom kräver ett antal tjänster cookies för att överhuvudtaget fungera. Vid exempelvis röstning används cookies för att undvika dubbelröstning. NWT använder även cookies för trafikmätning, vilket är värdefullt när vi ska vidareutveckla våra tjänster.
+Lista över våra cookies finns här: Cookielista NWT Media AB
+NWT och flera av våra samarbetspartners tillåts också att sätta cookies från NWT:s webbplatser för att få sina tjänster att fungera.
+ 
+Vi tillåter också våra annonsörer att sätta cookies för att kunna mäta effekten av sin annonsering. Bland annat kan dessa mäta om samma användare har sett annonsen på flera ställen eller om användare som sett annonsen sedan går vidare till annonsörens hemsida. Annonsörerna får inte använda informationen på webbläsarnivå utan bara för att ta fram statistiska sammanställningar under förutsättning att den raderas efter en begränsad tid.
+ 
+Annonsbyråerna Leeads och Mediekompaniet sätter cookies för att visa dig relavanta annonser. Cookiespecifikation från respektive byrå finns här:
+Leeads:
+Leeads Cookies
+Mediekompaniet:
+PubMatic Cookies
+ 
+Facebook
+Våra sajter använder Facebook-pixeln som tillhandahålls av Facebook. Detta gäller endast om du är Facebookanvändare. Facebook placerar cookies på din dator för bland annat autentisering mot ditt Facebook-konto, annonsering och statistik. Läs mer om hur Facebook använder cookieshär.
+
+Du kan när som helst dra tillbaka denna tillåtelse, vilket du gör i Facebook under Inställningar på ditt personliga konto.
+ 
+NWT Media använder Facebook-pixeln för att kunna presentera bättre annonser för dig på Facebook, till exempel annonser med ett erbjudande eller en annons som marknadsför en nyhetsartikel som vi har skrivit, som vi tror att du skulle gilla. Vi använder även Facebook-pixeln för att mäta konverteringar för att kunna optimera våra annonser.
+ 
+Om du önskar stänga av annonser som baseras på data om ditt beteende på Facebook och på andra webbsidor via Facebook-pixeln, gör så här:
+Gå till Inställningar på ditt Facebook-konto och klicka vidare till Annonsinställningar.
+Välj att stänga av under “Annonser baserade på data från partner” samt “Annonser baserade på din aktivitet i Facebook-företagens produkter som du ser någon annanstans”.
+ 
+Retargeting
+Beteendestyrd retargeting är en form av intressebaserad reklam som låter oss visa reklam för dig om våra produkter och erbjudanden på andra webbplatser än våra egna. Vi använder remarketing via Google Analytics och Faceboopixeln.
+Du kan anpassa din annonsering i webbläsaren.
+
+Mer information om annonsering finns att läsa på.
+Du kan välja bort att använda cookies genom att stänga av cookiefunktionen i din webbläsare. Då kan du dock få en del problem när du använder Tjänsten. Beroende på dina inställningar kan resultatet bli till exempel att du inte kan logga in eller att annonsstyrningen inte fungerar, vilket kan innebära att du ser en annons oftare än det var tänkt och att annonserna generellt blir mindre relevanta för dig.
+iPhone-, iPad- och Android-enheter: Du kan radera ditt data i våra appar genom att radera appen och installera den på nytt.
+ 
+Våra appar behandlar namn, e-post och lösenord för inloggningen, vilket lagras lokalt på enheten. Då intressen eller val görs i appen behandlas det som en anonymiserad ström. Geoposition behandlas (om man godkänt det) för att avgöra om ett val av intresse stämmer och lagras bara så länge den är aktuell. All behandling sker inom EU.
+NWT är ett mediaföretag som producerar relevant journalistiskt material. För att det ska vara ekonomiskt möjligt att fortsätta med det i framtiden behövs intäkter från digitala annonser. Detta är ett berättigat intresse för oss som vi har bedömt väger tillräckligt tungt för att rättfärdiga behandlingen av personuppgifter.
+ 
+För dig som är prenumerant
+NWT för register över alla registrerade användare och kunder. Registret innehåller personuppgifter som exempelvis namn, födelseår/personnummer, postadress, telefonnummer, elektroniska adresser, prenumerationsuppgifter samt andra uppgifter som användaren angivit i kontakt med NWT. När du blir prenumerant av en tidning eller registrerar dig för ett digitalt användarkonto ingår du ett avtal med oss och godkänner därmed att NWT för in de uppgifter som du anger i detta register.
+ 
+Vi behandlar dina personuppgifter för att kunna uppfylla våra åtaganden enligt det avtal du ingår när du registrerar dig för ett användarkonto hos oss. Detta är även det främsta syftet med behandlingen av dina personuppgifter. Vi har också som ambition att informera och underhålla dig som prenumerant samt tillhandahålla och erbjuda information om nyttiga och efterfrågade tjänster och produkter. Vi behandlar därför även dina personuppgifter i syfte att du ska få relevant information, erbjudanden samt intressanta tjänster från oss eller våra samarbetspartners. NWT kan hämta information från externa källor för att hålla personuppgiftsregistret uppdaterat, för att kunna komplettera dina personuppgifter och för att se till att innehållet, erbjudandena och annonseringen som tillhandahålls från oss och våra samarbetspartners passar dig och dina intressen.
+ 
+Vi behandlar dina personuppgifter under den tid som du utnyttjar våra, eller våra samarbetspartners, tjänster eller erbjudanden och under sådan tidsperiod därefter som är förenlig med tillämplig lag.
+ 
+Marknadsföring och profilering
+Uppgifter som du direkt eller indirekt lämnar till NWT genom skapande av konto och utnyttjande av Tjänsten kan komma att användas av NWT eller våra samarbetspartners för marknadsföringsändamål. Innehållet i marknadsföringen relaterar till Tjänsten och/eller Tjänstens innehåll genom relevant marknadsföring från oss eller våra samarbetspartners. Den lagliga grunden för marknadsföringen är intresseavvägning, eftersom vi har ett berättigat intresse av att finansiera vår verksamhet genom att marknadsföra relevanta tjänster till dig som befintlig kund.
+Marknadsföring kan ske via post, telefon, e-post eller sms samt genom andra digitala kanaler.
+
+Du har dock möjlighet att tacka nej till vidare direktmarknadsföring, vilket du gör genom att använda dig av svarsfunktionen i de e-postmeddelanden, sms eller andra meddelanden som vi eller våra samarbetspartners skickar till dig. Är du under 16 år kommer vi inte att skicka direktmarknadsföring till dig.
+ 
+Vid annan typ av marknadsföring än den som beskrivs ovan kommer vi att fråga dig om ditt samtycke innan vi riktar sådan marknadsföring till dig. Syftet med behandlingen av dina personuppgifter är att försäkra oss om att innehållet, Tjänsten och annonseringen ska passa dig och dina intressen. Den information som samlas in används för att erbjuda dig en personanpassad och relevant upplevelse. Huruvida du samtycker till personanpassad marknadsföring eller ej har ingen betydelse för tillhandahållandet av övriga delar av våra tjänster. Du kan ta tillbaka ditt samtycke när som helst under behandlingen, men det påverkar inte lagligheten av den behandling som redan hunnit utföras.
+ 
+Utlämnande av personuppgifter
+NWT kan dela med sig av information till företag som behandlar data på uppdrag av företaget. Detta för att vi ska kunna genomföra exempelvis distribution av tidningar och leverera avtalade tjänster till läsare och kunder. Vid all hantering av personuppgifter iakttas alltid hög säkerhet och sekretess. Exempel på externa parter som NWT delar information till är distributionssystem, prenumerationssystem, e-posthanteringssystem, leverantörer av digitala tjänster (betaltjänst, inloggningsportal, webbdrift o dyl) och företag som utför administrativa tjänster åt NWT.
+ 
+NWT:s samarbetspartners kan också komma att behandla dina personuppgifter. Dessa samarbetspartners kommer endast att kunna ta del av dina personuppgifter i avidentifierad form, så att partnern inte kan koppla uppgiften till dig som individ. Undantag från detta görs när samarbetspartnern behöver uppgiften för att kunna fullgöra avtal, till exempel för att kunna leverera beställd tjänst till eller att säkerställa betalning från dig.
+
+NWT förbinder sig till att ha giltiga personuppgiftsbiträdesavtal med samtliga leverantörer.
+ 
+Personuppgifter lämnas ut till myndighet endast där så krävs med stöd av lag eller myndighetsbeslut.
+ 
+De uppgifter som du lämnar vid köp på våra webbplatser som exempelvis kortnummer, personnummer och belopp skickas till Payex, vilka anlitas av oss för säkra kortbetalningar. Payex har inte tillåtelse att föra dessa uppgifter vidare, förutom till kortföretagen för auktorisering av det belopp som kommer att debiteras ditt kort vid betalning.
+ 
+Specifikt för digitala prenumerationer
+NWT tillhandahåller webbplatserna nwt.se, vf.se, arvikanyheter.se, filipstadstidning.se, fryksdalsbygden.se, nkp.se, saffletidningen.se, karlskogatidning.se, sla.se, mariestadstidningen.se, www.nlt.se, hjotidning.se, provinstidningen.se, dalslanningen.se, kt.se och varmlandsaffarer.se och är ansvarig för den behandling av dina personuppgifter som är kopplad till dessa webbplatser.
+Utöver de personuppgifter som samlas in för både digitala prenumerationer och pappersprenumerationer kan vi även komma att samla in:
+· teknisk information om vilken typ av enheter (t ex mobil, läsplatta eller dator) som används för att ta del av Tjänsten, enhetens unika ID, IP-adress och uppgift om vilket nät som enheten använder;
+· information om hur användaren söker på och annars nyttjar sajterna, information om telefoni, IP-adress samt cookies som kan identifiera inloggning och enhet; och
+· platsinformation om användaren använder någon platsbaserad tjänst.
+Denna behandling grundas på det avtal du ingår när du köper Tjänsten och är nödvändig för att vi ska kunna leverera Tjänsten. Se vidare information om cookies längre upp på denna sida.
+
+För att vi ska kunna upprätthålla en bra kvalitet på våra tjänster behöver vi även behandla information om hur våra användare söker på och annars nyttjar sajterna. Den lagliga grunden för denna behandling är intresseavvägning, eftersom vi har ett berättigat intresse av att utveckla och förbättra Tjänsten. Du kan invända mot behandlingen genom att kontakta gdpr@nwt.se.
+ 
+För dig som skickar in en familjeannons
+För att kunna skicka in en familjeannons måste du ange namn, telefonnummer och e-postadress. Uppgifterna behandlas av oss och vår samarbetspartner Citygate, som driver vår annonstjänst. Ändamålet med behandlingen är att vi ska kunna komma i kontakt med dig, t.ex. om din annons inte blir godkänd för publicering. Om du inte lämnar dessa personuppgifter till oss kan du inte ingå avtal med oss, vilket i sin tur innebär att din annons inte kan publiceras.
+ 
+För dig som skickar in en insändare
+Allt material på insändarsidan i NWT lagras digitalt och tillhandahålls i vår arkivdatabas. Materialet publiceras även på internet. Vi förutsätter att insändarskribenten medger denna lagring och detta tillhandahållande samt publicering.
+ 
+För dig som deltar i en tävling
+Anställda hos NWT Gruppen AB med dotterbolag, samt deras familjemedlemmar och andra personer som hjälpt till vid tävlingen/evenemanget, får ej delta i våra tävlingar. Om du är under 18 år behöver du målsmans tillåtelse att delta i tävlingen. Genom att skicka in ditt tävlingsbidrag till oss samtycker du till att vi behandlar de personuppgifter om dig som du själv anger. Vi kommer endast att använda dina personuppgifter för att följa upp tävlingen samt för att kunna utse en vinnare. Om du vinner tävlingen kommer dina personuppgifter att arkiveras hos oss i enlighet med tryckfrihetsförordningen. Vid tävlingar där vinnaren utses av jury kan beslut ej överklagas. Eventuell vinstskatt betalas av vinnaren.
+ 
+Dina rättigheter
+Du har enligt dataskyddsförordningen rätt att utan kostnad få ett utdrag av de personuppgifter som vi behandlar om dig samt information om hur vi behandlar dem, under förutsättning att du kan bevisa din identitet.
+ 
+Du har rätt att begära rättelse eller komplettering av de personuppgifter som vi behandlar om dig. Under tiden vi kontrollerar om uppgifterna är korrekta kan du begära att behandlingen av dina personuppgifter begränsas, vilket innebär att de endast får lagras av oss tills vidare. I det fall du har lämnat samtycke till en behandling har du en rätt att när som helst återkalla ditt samtycke. Om du återkallar ett samtycke och vi inte har någon annan laglig grund att stödja oss på kommer den berörda behandlingen av dina personuppgifter att upphöra, dock utan att påverka lagligheten av den behandling som redan utförts.
+ 
+Alla begäranden ska göras skriftligen samt av dig personligen. Detta innebär att du, om du mejlar in din begäran, måste kontakta oss från samma mejladress som vi har registrerad på dig i vårt kundregister.
+
+Vid fysiskt besök behöver du legitimera dig.
+Om du inte vill att vi placerar cookies på din enhet kan du tacka nej till sådan behandling genom att antingen stänga av alla cookies eller anpassa inställningarna på cookienivå.
+Läs mer om det under “Cookies och annonser”.
+Om du anser att vår behandling av dina personuppgifter är olaglig eller inte sker på ett korrekt sätt har du en rätt att inge ett klagomål till Datainspektionen.
+Observera att rättigheterna i detta avsnitt inte gäller:
+a) För dig som skickat in en insändare.
+b) För dig som skickat in ett tävlingssvar via brev.
+c) För dig som skickat in ett tävlingssvar via e-post, efter att dina personuppgifter har gallrats eller arkiverats.
+ 
+Kontakt
+Om du har frågor om vår behandling av dina personuppgifter, kontakta gdpr@nwt.se.
+Prenumerationsvillkor
+ 
+Innehåll
+Våra tjänster ger dig möjlighet att ta del av ett föränderligt innehåll av nyheter och annat innehåll. NWT utvecklar tjänsterna löpande, vilket innebär att vi utan meddelande kan lägga till, förändra och ta bort innehåll och funktioner. NWT reserverar sig för eventuella skrivfel i vårt innehåll där det lämnas uppgifter om tjänsterna.
+Våra digitala produkter kan innehålla länkar till andra webbplatser som inte står under vår kontroll. NWT ansvarar inte för integritetsskydd eller innehåll på dessa webbplatser utan tillhandahåller länkarna enbart för att underlätta för våra besökare att hitta mer information inom specifika områden.
+
+I din pappers- eller e-tidning finns ibland redaktionella bilagor, annonsbilagor, reklammaterial och samhällsinformation. Genom att teckna en prenumeration accepterar du att ta emot såväl tidningen som medföljande innehåll.
+ 
+Förmånskort
+I din prenumeration kan det ingå ett förmånskort (detta gäller för närvarande prenumerationer på SLA, MT och Karlskoga Tidning/Karlskoga-Kuriren). Förmånskortet är digitalt och finns att tillgå via ditt digitala konto. Erbjudanden kopplade till förmånskortet annonseras via våra webbplatser, pappers- och e-tidningar, din e-postadress eller via SMS. Som prenumerant har du även tillgång till andra erbjudanden vid sidan av våra förmånskort.
+ 
+Avtalstid
+Avtalstiden på din prenumeration är beroende av vilket betalningssätt och prenumerationsform som du har valt.
+ 
+Tillsvidareprenumeration
+Tillsvidareprenumeration innebär att prenumerationen fortsätter utan avbrott vid övergång till ny betalningsperiod. Prenumerationen anses förnyad om uppsägning inte sker en vecka före ny betalningsperiod startar. Utebliven betalning gäller inte som uppsägning av prenumerationen.
+ 
+Tidsbestämd prenumeration
+Tidsbestämd prenumeration innebär att prenumerationen upphör vid betalningsperiodens slut. Vill du förlänga prenumerationen eller byta till tillsvidareprenumeration kontaktar du vår kundtjänst. För att undvika avbrott i leveransen måste du kontakta oss senast en vecka före prenumerationsperiodens slut.
+ 
+Betalning
+För att köpa en prenumeration, eller annan digital produkt, måste du vara 18 år eller äldre samt myndig. Genom ditt köp intygar du att de uppgifter som du lämnar om dig själv är sanna och riktiga.
+ 
+Betalning via pappersfaktura, e-faktura och autogiro
+En betalningsavi kommer att skickas till dig inom 14 dagar efter att du beställt en prenumeration. En aviavgift på 29 tillkommer på alla våra pappersavier. Du kan välja att betala genom e-faktura (endast för privatpersoner) eller genom autogiro. Betalning sker i förskott och återbetalning medges inte vid uppsägning av prenumerationen innan betalningsperiodens slut . (För mer information, se avsnittet Ångerrätt).
+ 
+Utebliven betalning av faktura
+Om betalningen för prenumerationen uteblivit och vi skickar en betalningspåminnelse till dig, tillkommer en påminnelseavgift på 30 kronor. Om betalning uteblivit längre än 30 dagar har vi rätt att säga upp prenumerationen. Detta sker genom att vi slutar leverera din produkt och skickar en slutfaktura. Slutfakturan baseras på ordinarie prenumerationspris för den perioden.
+ 
+Betalning med kort
+Om du valt att teckna en månadsvis löpande prenumeration med kortbetalning är avtalstiden 30 dagar med början den dag du genomför köpet. Så länge du inte säger upp din prenumeration förnyas den automatiskt vid avtalsperiodens slut Du debiteras då för 30 nya dagar utan att särskilt meddelande sänds till dig om detta.
+Alla betalningar sker i förskott. Vid uppsägning avslutas prenumerationen vid utgången av den redan betalade avtalsperioden. Någon återbetalning sker inte.
+Vi använder oss av Payex för säkra kortbetalningar. Vid betalning med kort kommer ditt kort att debiteras direkt vid köptillfället.
+
+Om vi justerar våra priser kommer du att få meddelande om det. För det fall vi inte kan debitera den överenskomna summan från ditt kort kommer vi att kontakta dig och be dig se till att beloppet kan debiteras inom tre dagar. Kan vi efter dessa tre dagar fortfarande inte debitera den överenskomna summan kommer din prenumeration att avslutas omedelbart.
+ 
+Utlandsbetalning
+Vid utlandsbetalning, ange följande uppgifter:
+SWIFT-kod: HANDSESS
+IBAN-nr: SE9760000000000179298348
+ 
+Priser
+Information om priser för våra tjänster och prenumerationserbjudanden finns på våra webbplatser. Alla priser som anges är i svenska kronor (SEK) och inkluderar moms. Om momsen ändras förbehåller vi oss rätten att ändra priserna på motsvarande sätt.
+Vi reserverar oss för felaktigt angivna priser på våra webbplatser.
+ 
+Bekräftelse på genomfört köp
+När du har köpt och betalat en prenumeration via internet kommer en bekräftelse att skickas till dig via den e-postadress som du uppgett i samband med köpet. I bekräftelsen framgår vad du har köpt och från och med vilken dag din prenumeration börjar gälla. De uppgifter som du angett i beställningen kommer även att framgå av bekräftelsen och vi ber dig kontrollera att dessa uppgifter stämmer. Om någon uppgift inte är korrekt ber vi dig att kontakta kundcenter.
+ 
+Dina rättigheter som konsument
+Du som konsument har rättigheter, bland annat, i enlighet med Lag om distansavtal och avtal utanför affärslokaler (2005:59) och E-handelslagen (2002:562) när du köper varor och tjänster på distans, exempelvis via internet. Vi följer Allmänna reklamationsnämndens rekommendationer (läs mer på konsumentverket.se). Kontakta kundtjänst om du är missnöjd med varor eller tjänster som du har beställt via våra webbplatser.
+Om du trots detta inte är nöjd kan du vända dig till Allmänna reklamationsnämnden (Allmänna reklamationsnämnden, Box 174, 101 23 Stockholm) eller till EU-kommissionens onlineplattform för tvistelösning: http://ec.europa.eu/odr. Vi åtar oss inte att delta i alternativa tvistelösningsförfaranden, men kommer att ta slutlig ställning till denna fråga vid en uppkommen tvist.
+ 
+Ångerrätt
+Du har rätt att ångra ditt köp av prenumeration inom 14 dagar från den dag du har fått din första leverans. För att utnyttja din ångerrätt ber vi dig att kontakta oss via e-post så snart som möjligt. Eventuell återbetalning av det inbetalade beloppet kommer att göras av oss. När återbetalning sker avräknas kostnaden för de leveranser du fått.
+ 
+Uppehåll och adressändring
+Det är inte möjligt att göra uppehåll i din digitala prenumeration Du kan göra ett tillfälligt uppehåll i din prenumeration av papperstidningen, eller ändra din adress via länkar i ditt digitala konto.
+
+Under uppehållet av papperstidningen har du tillgång till e-tidningen och plusartiklar på våra siter. Någon förlängning av prenumerationsperioden på grund av uppehållet görs inte.
+
+Under särskilda omständigheter, till exempel sjukhusvistelse, kan du göra ett tillfälligt uppehåll i prenumerationen där din prenumerationsperiod förlängs med de dagar som överstiger de sju (7) första. Du har då inte tillgång till e-tidningen eller plusartiklar.
+ 
+Immateriella rättigheter
+NWT innehar alla rättigheter (upphovsrätt) till våra webbplatser, papperstidningar samt övriga digitala produkter. Mångfaldigande, kopiering, överlåtelse, försäljning, överföring eller varje annan form av utnyttjande av sådant innehåll – såväl för kommersiella som icke-kommersiella ändamål – är förbjuden och förutsätter tillstånd av oss.
+ 
+Friskrivningar
+Utöver vad som i övrigt framgår av villkoren gäller följande friskrivningar avseende NWT:s ansvar. NWT friskriver sig från ansvar hänförligt till våra digitala tjänsters – inräknat webbsidornas – funktion, tillgänglighet, kvalitet, användbarhet eller säkerhet. Detsamma gäller för prenumerationer av våra papperstidningar. Friskrivningen omfattar varje skada, direkt eller indirekt, som kan hänföras till användningen, eller hinder att använda tjänsterna, inräknat material eller information hänförligt från dessa. Vidare friskriver sig NWT från allt ansvar för information, produkter, tjänster, erbjudanden med mera från tredje part oavsett om du fått del av dessa genom våra tjänster.
+Omständigheten att en friskrivning enligt ovan skulle gå utöver vad som följer av tvingande lag påverkar inte de övriga friskrivningarna.
+ 
+Villkorsändringar
+NWT har rätt att ensidigt ändra Användarvillkoren. En villkorsändring träder i kraft tidigast trettio (30) dagar efter det att ändrade villkor har meddelats dig via den e-postadress som du har uppgett och hållits tillgängliga. Om du inte godtar villkorsändringen ska du inom ovan nämnda 30-dagarsfrist säga upp ditt digitala konto.
+ 
+Överlåtelse
+Dessa allmänna och särskilda villkor, och de rättigheter och skyldigheter som följer genom ditt köp, kan inte överlåtas eller överföras till annan part av dig. Det står dock oss fritt att överlåta våra rättigheter och skyldigheter enligt dessa allmänna och särskilda villkor.
+ 
+Tvistelösning
+Villkoren och ditt användande av våra tjänster lyder under svensk lag och eventuella tvister ska avgöras av svensk allmän domstol.
+ 
+Leverans av papperstidningen
+Vår strävan är att du ska få tidningen levererad i brevlådan varje utgivningsdag. En förutsättning för detta är att din brevlåda är märkt med ditt efternamn och gatunummer (för boende i lägenhet räcker efternamn). Brevlådan ska vara placerad vid tomtgränsen och i vissa fall är det nödvändigt att adressen framgår på brevlådan. Vi kan komma att kontakta dig avseende brevlådans placering.
+
+I vissa områden kan vi inte leverera tidningen med morgondistribution till dig, utan använder oss av PostNord. Detta innebär en senare leveranstid. Vi informerar dig om du berörs av förändringar i distributionen.
+
+Vid utebliven tidning, kontakta Tidningstjänst, Västsvensk Tidningsdistribution eller Prolog (beroende på distributör inom ditt område) för information om orsak, samt eventuell kompensation. Kontakta kundtjänst angående utebliven tidning som distribueras av PostNord.
+ 
+
+

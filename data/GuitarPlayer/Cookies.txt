@@ -1,0 +1,62 @@
+Information storage and access (?) - Personalisation (?) - Ad selection, delivery, reporting (?) - Content selection, delivery, reporting (?) - Measurement (?) 
+
+Third Party Vendors:
+Information storage and access (16) - Personalisation (10) - Ad selection, delivery, reporting (7) - Content selection, delivery, reporting (2) - Measurement (4) 
+
+Information storage and access
+--------TABLE--------
+ 33Across
+ Adobe Advertising Cloud
+ AppNexus Inc.
+ Clicksco Digital Limited
+" comScore, Inc."
+ Criteo SA
+" Index Exchange, Inc."
+ Nielsen Marketing Cloud
+ Oath (EMEA) Limited
+ OpenX
+" PubMatic, Inc."
+ Skimbit Ltd
+ Sovrn Holdings Inc
+ SpotX
+ Teads
+" The Rubicon Project, Inc."
+---------------------
+Personalisation 
+--------TABLE--------
+ 33Across
+ Adobe Advertising Cloud
+ Clicksco Digital Limited
+ Criteo SA
+ Nielsen Marketing Cloud
+ Oath (EMEA) Limited
+ OpenX
+ Skimbit Ltd
+ Sovrn Holdings Inc
+ Teads
+---------------------
+Ad selection, delivery, reporting 
+--------TABLE--------
+ 33Across
+ Adobe Advertising Cloud
+ Clicksco Digital Limited
+ Criteo SA
+ OpenX
+ Skimbit Ltd
+ Sovrn Holdings Inc
+---------------------
+
+Content selection, delivery, reporting
+--------TABLE--------
+ Adobe Advertising Cloud
+ Clicksco Digital Limited
+---------------------
+
+Measurement 
+--------TABLE--------
+ 33Across
+ Adobe Advertising Cloud
+" comScore, Inc."
+" RhythmOne, LLC"
+---------------------
+

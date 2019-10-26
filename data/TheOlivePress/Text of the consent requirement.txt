@@ -1,0 +1,35 @@
+Las cookies son pequeños archivos que se almacenamos en tu ordenador cuando visitas una web y que se utilizan principalmente  para que tu experiencia de navegación sea más efectiva y rápida. Posteriormente, cuando el/la usuario/a vuelva a relacionarse con la web esa pequeña cantidad de información servirá para que el navegador te recuerde.
+ 
+El conjunto de cookies que utilizamos nos ayuda a mejorar la calidad de nuestro sitio web permitiéndonos controlar qué páginas encuentran nuestros usuarios útiles y cuáles no. Además  muchas funcionalidades online han sido diseñadas específicamente para funcionar por medio del uso de cookies
+ 
+IMPORTANTE
+–      Usted debe saber que las cookies no pueden dañar su ordenador.
+–      Las cookies no contienen datos personales ni revelan tu identidad.
+ 
+¿Qué tipos de cookies hay?
+ Para ampliar su información sobre las cookies:
+–        Las cookies pueden ser propias (nuestra propia web las almacena) o de terceros (de servidores externos)
+–        Igualmente podemos diferenciarlas entre cookies de sesión (cuando cerramos nuestra sesión en el sitio web se eliminan) y permanentes (permanecen en tu ordenador durante un tiempo determinado).
+También se dividen en:
+–        Cookies funcionales (sin ellas la página web no funcionaría correctamente)
+–        Cookies analíticas (conservan toda la información de la actividad del usuario en nuestra web para poder realizar estudios y analizar distintos parámetros)
+–        Cookies de personalización (determinan nuestras preferencias en cuanto a colores, idioma, etc.)
+–        Cookies publicitarias (según los hábitos detectados, ofrecer ofertas personalizada)
+–        Cookies de afiliación (con ellas se realiza un seguimiento de visitas procedentes de otras webs con las que hay un contrato de afiliación)
+ 
+¿Cómo puedo gestionar las cookies (activarlas y/o desactivarlas)?
+Para activar/ desactivar las cookies de su ordenador, tablet o smartphone, deberá hacerlo a través de su navegador de internet. En los navegadores más usados/conocidos, le indicamos a continuación como gestionar el uso de estas cookies.
+ 
+Explorer, desde http://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9
+Firefox, desde http://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we
+Safari, desde http://support.apple.com/kb/ph5042
+Chrome, desde http://support.google.com/chrome/bin/answer.py?hl=es&answer=95647
+ 
+Nota:
+ utiliza cookies analíticas, con el fin de reconocerlo como Usuario frecuente y personalizar el uso que realice del Sitio Web mediante la preselección de su idioma, o contenidos más deseados o específicos, número de visitas, etc. Las “cookies” utilizadas por el Sitio Web, o el tercero que actúe en su nombre, se asocian únicamente con un usuario anónimo y su ordenador, y no proporcionan por sí los datos personales del usuario.
+ 
+–        número de entradas a la web, progreso de las mismas, parámetros de tráfico, perfiles demográficos, preferencias de navegación, etc., para poder ofrecer una experiencia de navegación rápida y efectiva.
+–        Cualquier  modificación en la  Política de Cookies por parte de  será puntualmente comunicada a nuestros usuarios.
+–        Para aclarar cualquier duda/consulta sobre nuestra Política de Cookies, contacte con nosotros en la dirección de mail, admin@theolivepress.es
+ 
+

@@ -1,0 +1,94 @@
+Cookies (14) - Cookies (12)
+
+
+--------TABLE--------
+ Cookies
+ nn_uid / NEWSNOW
+ Browser identification cookie. We issue each browser accessing NewsNow with an anonymous unique ID. We use this to estimate the number of users visiting the site from time to time. Set for all users who use the desktop or mobile site.
+ 
+ NN_Session
+" Session cookie. This cookie is set on certain pages on the site, and is used to assist us in accounting for traffic. Set for all users who use the desktop site."
+ 
+ NN_Eng
+" User engagement cookie. This cookie is used to measure the level of user engagement, and is used to help target advertising. Set for all users who use the desktop site."
+ 
+ nnusrst
+" Settings cookie. This cookie stores settings, including the font size, whether headlines should be set in bold, and all the publications you have hidden or highlighted. It enables us to respect these settings when you navigate between web pages, and return to NewsNow from the same browser and computer. Set for non-registered or non-logged-in users who use the desktop or mobile site."
+ 
+ nn_sp
+ Web site version preference cookie. This cookie stores your preference for the mobile or classic version of the NewsNow web site. Set for all users who use the desktop site.
+ 
+ nn_sf
+ Web site layout preference cookie. This cookie stores your preference for the layout of the NewsNow web site. Set for all users who use the mobile or desktop site.
+ 
+ NNNewsfeedHistory
+" Most visited topics cookie. This cookie stores the topics and searches you visited most often. It enables us to present the ""My Most Viewed"" list so that your favourite topics are just a click away. Set for non-registered or non-logged-in users who use the desktop or mobile site."
+ 
+ nn_auth / NNAU
+" Authentication cookie. This cookie is used to identify your account when you are logged in to NewsNow (excluding NewsNow Classifieds), and is required for us to be able to provide a personalised experience when you are logged in. It enables us to recognise your account when you navigate between web pages, and (should you not have logged off) when you return to NewsNow (excluding NewsNow Classifieds) from the same browser and computer. Set for registered and logged-in users who use the desktop site."
+ 
+ flo
+ Maintenance cookie. This cookie stores no user data. We set it to be able to show a message in the rare event that we need to log you out in order to carry out essential system maintenance. Set for registered and logged-in users who use the desktop site.
+ 
+ uky
+" Data encryption cookie. This cookie is used to secure your settings (such as font size, etc) when we send a page to your browser. Set for registered and logged-in users who use the desktop site."
+ 
+ NNFavourites
+" Mobile favourites cookie (only set for users based outside the EEA). This cookie stores the topics you favourited on the mobile site. It enables us to redirect your browser to your favourite homepage when you revisit the site, and to display a list of your favourite topics so that they are just a click away. Set for non-registered or non-logged-in users who use the mobile site."
+ 
+ NN_JumpLinks
+ Jump links cookie. This cookie stores your preference as to whether or not to display 'jump links' to individual topics at the top of a page. Set for registered and logged-in users who use the mobile site.
+ 
+ nn_ssn
+" Session information cookie. This cookie is used by us to record per-session settings to make navigation on the site easier. These include the most recent keywords you searched for and settings related to the most recently viewed topic page, e.g. how many headlines should be visible. This cookie is deleted when the browser is closed. Set for all users who use the desktop site."
+ 
+ nn_sid
+ Session tracking cookie. This cookie is used by us to compile anonymous statistics on how long users spend on the NewsNow web site and how often they visit it. Set for all users who use the desktop site.
+ 
+ nn_ab
+ User testing cookie. This cookie is used to test improvements to the site with selected users. Set for all users who use the desktop site.
+ 
+ cookie_policy
+" Cookie policy cookie. We use this cookie to remember if you have accepted our cookie policy on either our news site or on NewsNow Classifieds, so that we can avoid showing the message about cookies again. Set for all users who use the desktop or mobile site."
+---------------------
+
+Cookies 2
+
+--------TABLE--------
+ Cookies
+ rub_LS_UK
+ Recent searches cookie. We use this cookie to store a list of the most recent searches made by a user. We use this information to show you the number of new ads that match your searches since your last visit.
+ 
+ rub_abtest_(suffix)
+" AB testing cookies. Any cookie whose name starts rub_abtest may be used to test different designs and functionality, in order to improve your experience of the site."
+ 
+ ASP.NET_SessionId
+" Session ID cookie. This cookie is used to establish a 'user session', so that information can be presented on NewsNow Classifieds that persists between pages. This cookie is not stored when you close your browser."
+ 
+ ASPXFORMSAUTH
+" Authentication cookie. This cookie is used to identify your account for NewsNow Classifieds when you are logged in to NewsNow, and is required for us to be able to provide a personalised experience when you are logged in. It enables us to recognise your account when you navigate between web pages, and (should you not have logged off) when you return to NewsNow from the same browser and computer."
+ 
+ rub_TrafficSourceAbTesting
+" Traffic source cookie. We use this cookie to track how you found NewsNow Classifieds, eg via a search engine, a saved search, etc. Such information is aggregated, and no individual user is tracked. No personal information is stored in this cookie."
+ 
+ rub_mc_(suffix)
+ Saved search cookies. Any cookie whose name starts rub_mc_ is used to facilitate you being able to save a search for a specific section of NewsNow Classifieds.
+ 
+ rub_fbPage
+" Like cookie. This cookie stores whether or not you have seen a message encouraging you to 'like' NewsNow's Facebook page, in order to avoid showing you the message again once you have dismissed it."
+ 
+ rub_rbPage
+" Like cookie. This cookie stores whether or not you have seen a message encouraging you to 'like' a specific page on NewsNow Classifieds, in order to avoid showing you the message again once you have dismissed it."
+ 
+ rub_desktop_from_mobile
+ Mobile device cookie. This cookie stores your preference for either the mobile or classic versions of NewsNow Classifieds when accessing it from a mobile device.
+ 
+ rub_trending_pages
+ Trending pages cookie. We use this cookie to determine if the user arrived at a trending search result page via an internal link on NewsNow.
+ 
+ rub_user_id
+" Authentication cookie. This cookie is used to identify your account when you are logged in to NewsNow Classifieds, and is required for us to be able to provide a personalised experience when you are logged in. It enables us to recognise your account when you navigate between web pages, and (should you not have logged off) when you return to NewsNow Classifieds from the same browser and computer."
+ 
+ cookie_policy
+" Cookie policy cookie. We use this cookie to remember if you have accepted our cookie policy on either our news site or on NewsNow Classifieds, so that we can avoid showing the message about cookies again."
+---------------------

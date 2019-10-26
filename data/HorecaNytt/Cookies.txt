@@ -1,0 +1,11 @@
+Cookies (7)
+
+								
+_ga: Brukes til å skille brukere, cookien settes første gang en bruker besøker nettstedet og har en levetid på inntil to år.
+_gat: Brukes for å begrense trafikken til Google Analytics, cookien har en varighet på 10 minutter.
+_gid: Brukes av Google Analytics for å skille mellom ulike brukere. Denne lagres i 24 timer.
+_unam: Er brukt som en del av ShareThis tjenesten og overvåker klikk-bevegelsen på siden. Eksempelvis navigering fra side til side, tid brukt på hver side osv. ShareThis tjenesten kan kun personlig identifisere deg hvis du har opprettet ShareThis konto og gitt dem tilatelse. Du kan lese om ShareThis sine betingelser og vilkår her.
+_stid: Er også brukt som en del av ShareThis tjenesten og overvåker klikk-bevegelsen på siden. Eksempelvis navigering fra side til side, tid brukt på hver side osv. ShareThis tjenesten kan kun personlig identifisere deg hvis du har opprettet ShareThis konto og gitt dem tilatelse. Du kan lese om ShareThis sine betingelser og vilkår her.
+cookie-agreed: Brukes for å registrere at brukeren har samtykket i nettsidens bruk av infokapsler
+has_js: Registrerer hvorvidt du har Javascript aktivert i nettleseren din, og funksjonaliteten på nettsida tilpasses i forhold til dette.
+

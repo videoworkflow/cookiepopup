@@ -1,0 +1,14 @@
+First party cookies (4) - Third party cookies (3) 
+
+First party cookies: 
+Nitrk
+thirdParyOptOut
+cookieNotifHidden
+Has_js
+
+
+Third party cookies:
+Google Analytics
+Google Ads
+Cloudflare
+

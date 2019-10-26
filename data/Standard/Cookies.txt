@@ -1,0 +1,1017 @@
+Information storage and access (44) - Personalisation (32) - Ad selection, delivery, reporting (33) - Content selection, delivery, reporting (19) - Measurement (24) - Google (841) 
+
+Information storage and access 
+--------TABLE--------
+ 33Across
+ Adform A/S
+ Adobe Advertising Cloud
+ AdRoll Inc
+" Amobee, Inc."
+ AppNexus Inc.
+ BeeswaxIO Corporation
+ BIDSWITCH GmbH
+ Captify Technologies Limited
+" Celtra, Inc."
+ Collective Europe Ltd.
+" Collective, Inc. dba Visto"
+" comScore, Inc."
+ Connatix Native Exchange Inc.
+ Conversant Europe Ltd.
+ Crimtan Holdings Limited
+ Criteo SA
+" Dataxu, Inc."
+ district m inc.
+" Exponential Interactive, Inc"
+ GroupM
+" Index Exchange, Inc."
+ IPONWEB GmbH
+ Justpremium BV
+ LoopMe Ltd
+" MediaMath, Inc."
+ Noster Finance S.L.
+ Oath (EMEA) Limited
+ OpenX
+" PubMatic, Inc."
+ Quantcast International Limited
+ Rakuten Marketing LLC
+ RTB House S.A.
+ Smadex SL
+ Sovrn Holdings Inc
+ SpotX
+ Sublime
+ Taboola Europe Limited
+ Teads
+" Telaria, Inc"
+" The Rubicon Project, Inc."
+ The Trade Desk
+" TripleLift, Inc."
+ Ve Global
+---------------------
+Personalisation 
+--------TABLE--------
+ 33Across
+ Adobe Advertising Cloud
+ ADYOULIKE SA
+ Apester Ltd
+ BIDSWITCH GmbH
+ Captify Technologies Limited
+ Collective Europe Ltd.
+" Collective, Inc. dba Visto"
+ Connatix Native Exchange Inc.
+ Crimtan Holdings Limited
+ Criteo SA
+" Dataxu, Inc."
+ district m inc.
+" Exponential Interactive, Inc"
+ GroupM
+ Inskin Media LTD
+ IPONWEB GmbH
+ Justpremium BV
+ LoopMe Ltd
+ Noster Finance S.L.
+ Oath (EMEA) Limited
+ OpenX
+ Perform Media Services Ltd
+ Smadex SL
+ Sovrn Holdings Inc
+ Sublime
+ Teads
+" Telaria, Inc"
+ The Trade Desk
+ Ve Global
+ Vibrant Media Limited
+ Vuble
+---------------------
+Ad selection, delivery, reporting 
+--------TABLE--------
+ 33Across
+ Adobe Advertising Cloud
+ BeeswaxIO Corporation
+ BIDSWITCH GmbH
+ Captify Technologies Limited
+" Celtra, Inc."
+ Collective Europe Ltd.
+" Collective, Inc. dba Visto"
+ Connatix Native Exchange Inc.
+ Crimtan Holdings Limited
+ Criteo SA
+" Dataxu, Inc."
+ district m inc.
+" Exponential Interactive, Inc"
+ GroupM
+ Inskin Media LTD
+ IPONWEB GmbH
+ Justpremium BV
+ LoopMe Ltd
+ Noster Finance S.L.
+ OpenX
+ Rezonence Limited
+ RTB House S.A.
+" Sharethrough, Inc"
+ Smadex SL
+ Sovrn Holdings Inc
+ Sublime
+" Telaria, Inc"
+" TripleLift, Inc."
+ Ve Global
+ Vibrant Media Limited
+ Vuble
+ WebMediaRM
+---------------------
+Content selection, delivery, reporting 
+--------TABLE--------
+ Adobe Advertising Cloud
+ ADYOULIKE SA
+ BIDSWITCH GmbH
+ Collective Europe Ltd.
+" Collective, Inc. dba Visto"
+ Connatix Native Exchange Inc.
+ Crimtan Holdings Limited
+" Dataxu, Inc."
+" Exponential Interactive, Inc"
+ GroupM
+ IPONWEB GmbH
+ Justpremium BV
+ Noster Finance S.L.
+ Smadex SL
+" Telaria, Inc"
+ Ve Global
+ Vibrant Media Limited
+ Vuble
+ WebMediaRM
+---------------------
+Measurement 
+--------TABLE--------
+ 33Across
+ Adobe Advertising Cloud
+ BeeswaxIO Corporation
+ BIDSWITCH GmbH
+ Collective Europe Ltd.
+" Collective, Inc. dba Visto"
+" comScore, Inc."
+ Connatix Native Exchange Inc.
+ Crimtan Holdings Limited
+" Dataxu, Inc."
+ district m inc.
+" Exponential Interactive, Inc"
+ Inskin Media LTD
+ IPONWEB GmbH
+ Justpremium BV
+ LoopMe Ltd
+ Noster Finance S.L.
+ Rezonence Limited
+" Sharethrough, Inc"
+ Smadex SL
+" Telaria, Inc"
+ Ve Global
+ Vibrant Media Limited
+ Vuble
+---------------------
+Google 
+--------TABLE--------
+ 2KDirect Inc.
+ Amazon
+ Acuityads
+ LiveRamp
+ Adara Media
+ Eacnur
+ Adform
+ Adloox
+ Digilant
+ AdPredictive
+ Adriver
+ Integral Ad Science
+ Adtelligence
+ Adverline
+ Artsai
+ comScore
+ affilinet
+ Akamai
+ AppNexus
+ Arbigo Inc.
+ AdSpirit AdServer
+ Taboola
+ Facebook
+ Aunica
+ 
+ direct interactive
+ C3 Metrics
+ CapitalData
+ E-Planning
+ Index Exchange
+ Chitika
+ Platform161
+ ClickForce
+ Clickpoint
+ Connexity
+ Constant Contact
+ Conversive
+ IBM
+ Crimtan
+ Criteo
+ DAC
+ DataXu
+ PulsePoint
+ Delta Projects
+ Demandbase
+ Digitize
+ DoubleVerify
+ eBay
+ Effinity
+ engageBDR
+ Eulerian Technologies
+ Evidon
+ Eyereturn Marketing
+ Flashtalking
+ Forbes
+ FreeWheel
+ Fringe81
+ Gemius
+ Goodway Group
+ Google
+ GroovinAds
+ Adacado
+ HQ GmbH
+ 
+ Infectious Media
+ Innity
+ intelliAd
+ Interpolls
+ IPONWEB
+ iProspect
+ Jivox
+ Kwanzoo
+ Linkstorm
+ Lotame
+ Mobfox
+ Media Force
+ MiQ
+ Dstillery
+ MediaMath
+ Sizmek
+ Conversant/CJ Affiliate
+ DMA Institute
+ Metalyzer
+ ZMS
+ Microsoft
+ Mixpo
+ Neodata Group
+ Ignition One
+ Relay42
+ Nielsen
+ GfK
+ Omnicom Media Group
+ Adobe Advertising Cloud
+ OpenX Technologies
+ OpenSlate
+ Thunder
+ Parship
+ Piximedia
+ PlatformOne
+ PopRule
+ TimeOne
+ Pulpo (An Entravision Company)
+ Viewbix
+ Quantcast
+ Recruit JP
+ RN SSI Group
+ Resonate
+ SUITE 66
+ 
+ Scigineer
+ AdRoll
+ Mediahead
+ 
+ Centro
+ Smart
+ smartclip Holding AG
+ So-net Media Networks
+ Sociomantic
+ Sojern
+ Spartoo
+ SpotX
+ The Trade Desk
+ Videology
+ Tradedoubler AB
+ TravelClick
+ Exponential
+ TrustArc
+ TruEffect
+ Underdog Media
+ Undertone
+ Unruly Group Limited
+ Vizury
+ Markit
+ Weborama
+ emetriq
+ Yieldr
+ CyberAgent
+ DaVinci11
+ 顶新
+ Mashero
+ Betgenius
+ advolution.control
+ Exactag
+ MicroAd
+ Webgains
+ Zanox
+ AT Internet
+ Innovid
+ Meetrics
+ Miaozhen Systems
+ 
+ Commanders Act
+ LifeStreet
+ Tradelab
+ AdLedge
+ MainADV
+ Mediarithmics
+ Adadyn
+ RevenueMantra
+ EASYmedia
+ LiveIntent
+ Rakuten Marketing
+ Reamp
+ Emerse
+ Zebestof
+ AdMaster/LnData
+ Trend Research
+ The Reach Group
+ Ensighten
+ econda GmbH
+ Yusp
+ AdMaxim
+ d3media
+ LivelyImpact
+ Verve
+ Batch Media
+ AdElement
+ Belboon
+ QuarticON
+ TraceAd
+ Novem
+ NET-Metrix AG
+ 
+ advanced STORE GmbH
+ TripleLift
+ Adzerk
+ GDM Services
+ Reklam Store
+ Semasio GmbH
+ Silver Egg Technology
+ Vodafone GmbH
+ 
+ Celtra
+ AudienceProject
+ KPI Solutions
+ Polldaddy
+ Outbrain Inc.
+ MaxCDN
+ PubMatic
+ Rubicon Project
+ Yandex
+ Rutarget
+ Adblade
+ Singular Labs Inc.
+ Neustar
+ Scenestealer
+ Netquest
+ mediasmart
+ Mixmarket Affiliate Network
+ Turbobytes
+ ORTEC | adscience
+ Blismedia
+ 
+ SMARTSTREAM
+ activecore
+ Walmart
+ 
+ Cloudflare
+ Brainworkz
+ FUSIO BY S4M
+ TROVIT
+ Salesforce DMP
+ Scoota
+ LendGo & Innovative Metrics
+ Audience2Media
+ Tagtoo
+ Addroid
+ Inmind
+ Bridgewell
+ Bidtheatre
+ UDG
+ Pixalate
+ InMobi
+ Orange Advertising
+ Advanse
+ Audiencevalue
+ 
+ Havas Media France - DBi
+ Extreme Reach
+ Netflix
+ Macromill group
+ numberly
+ GetIntent
+ GoldSpot Media
+ DYNADMIC
+ Lockon
+ Trafmag
+ Ligatus
+ AdClear
+ Kantar
+ travel audience – An Amadeus Company
+ Adventori
+ MindTake Research
+ CoAdvertise
+ Adcash
+ 
+ ebuilders
+ AdGibbon BV
+ Wider Planet
+ Adtoox
+ 
+ AppLovin Corp.
+ SourceKnowledge
+ M
+ MBR Targeting Gmbh
+ Awin
+ EMX Digital
+ ADman Media
+ Nano Interactive
+ CrossInstall
+ OVC GmbH
+ Mobpro
+ Fractional Media
+ Adsniper
+ LINK Institut
+ Appier
+ Sparks47
+ Rackspace
+ MediaWallah
+ Signal
+ Liftoff
+ YDigital Media
+ Zentrick
+ MSI-ACI
+ Arrivalist
+ Kimia Group
+ ZypMedia
+ Rockerbox
+ Sharethrough
+ firststars
+ adhood
+ Localsensor
+ White Ops
+ Vserv
+ Admetrics
+ Amobee
+ RTB House
+ Datalicious
+ hbfsTech
+ Kupona
+ Bannerflow
+ Exposebox
+ YOOSE
+ TripAdvisor
+ DataExchanger
+ Navegg
+ INFOnline
+ Admedo
+ Taptica
+ Joystick Interactive
+ [24]7.ai (successor to EngageClick)
+ Simplaex GmBH
+ Kochava
+ Maverick
+ Appreciate
+ FuelX
+ LeadBolt
+ ucfunnel
+ Interpublic Group
+ abilicom
+ Wish
+ Admixer
+ Placecast
+ Mobitrans
+ Smadex
+ Mobusi
+ Orbis Video
+ Suzumuchi
+ LOKA Research
+ Cloud Technologies
+ Addictive Mobility
+ Kayzen
+ IGAWorks
+ Aidata
+ OneDigitalAd Technologies
+ Teads
+ Unitymedia
+ Perfect Audience
+ Clickagy
+ GlobalWebIndex
+ ADEX
+ GroundTruth
+ Rontar
+ YOptima
+ Placed
+ Answer Media
+ LoopMe
+ Impact
+ Kwanko
+ Bidtellect
+ Gruvi
+ APNIC
+ Spotad
+ Jampp
+ Aarki
+ Takoomi
+ Bilendi
+ MGID Inc.
+ F@N communications
+ Universo Online
+ Remerge
+ Telecoming
+ LinkedIn
+ VIVALU
+ StackAdapt
+ Turbo
+ Foursquare
+ Mozoo
+ Momentum
+ usemax (Emego GmbH)
+ 
+ Avocet
+ Interrogare GmbH
+ ChannelAdvisor
+ The Bridge
+ TF1 - FR
+ Bonzai
+ Clickonometrics
+ Adventive
+ Beeswax
+ Optimise
+ AKTYVUS SEKTORIUS
+ Demand Side Science
+ SFR
+ Wizaly
+ TAPTAP
+ Cablato
+ Erate
+ Norstat
+ Knorex
+ Waystack
+ PERMODO
+ Clinch
+ Mobile Innovations
+ Epic Combo
+ RevJet
+ Lucid
+ Tealium
+ Vpon
+ Moloco Ads
+ Realzeit
+ Alkemics
+ Sodel Software Solutions Pvt. Ltd.
+ NinthDecimal
+ RichMedia Studio
+ TenMax
+ twiago
+ TreSensa
+ Adludio
+ LotLinx®
+ F Sharp
+ A1platform
+ Qantas
+ KEEN
+ Gridsum
+ Tapjoy
+ AdotMob
+ Bigabid
+ Fraudlogix
+ Azameo
+ Fospha
+ DTS
+ Ingenious Technologies
+ GAMNED
+ Localstars
+ Roy Morgan Research
+ Market Points
+ Kadam
+ Adbalancer
+ Enbritely
+ StreamRail
+ Treepodia
+ RhythmOne LLC
+ Bucksense
+ Bluecore
+ Optimize LCC D.B.A Genius Monkey
+ Ubimo
+ gskinner
+ TEEMO
+ OTTO
+ EVC
+ tapCLIQ
+ ADBOX
+ Herolens
+ Splicky
+ Crutchfield
+ Chalk Digital
+ Bizible
+ Vidazoo
+ Oxford BioChronometrics
+ Neuralone
+ AdTile
+ Protected Media
+ Crucial Interactive Inc.
+ DeltaX
+ Somo Audience
+ Art of Click
+ Adways SAS
+ Quantasy
+ ENVISIONX LTD
+ Wavenet
+ twyn
+ Happyfication inc
+ 
+ 
+ AdKernel
+ Adello
+ Parsec Media Inc
+ Tribes Research
+ KeyCDN
+ TACTIC™ Real-Time Marketing
+ A1 Media Group
+ AdTriba
+ MEDIAN
+ Adssets
+ Sellpoints
+ HockeyCurve
+ Umeng Plus Beijing Technology Limited Company
+ AdTrader
+ Survata
+ IQM
+ JustWatch
+ Video Research Interactive
+ Softcube
+ Aniview Inc.
+ NEXD
+ Inspired Mobile
+ CUBED
+ DistroScale
+ Cheq
+ AerServ
+ Adtelligent Inc.
+ SpringServe
+ Intimate Merger
+ INCUBIQ
+ On Device Research
+ 1trn
+ iBILLBOARD
+ Optomaton
+ E-Contenta
+ Naoplay
+ WooTag
+ Cint
+ Sift Media
+ StartApp
+ Adzymic
+ Expedia
+ DeepIntent
+ OmniVirt
+ fluct
+ Zucks
+ Conversion Logic
+ CollegeHumor
+ Louder
+ Zuuvi
+ Viant
+ TabMo
+ 
+ Analights
+ ROMIR
+ Pi-rate / pubintl
+ Addition Plus
+ Cauly
+ Dentsu Aegis Network
+ Millemedia
+ ProData Media
+ Smartology
+ Bidease
+ 22-Visions
+ Quple
+ Stratio Big Data
+ SCIBIDS TECHNOLOGY
+ Cortex
+ appTV
+ 
+ Rezonence
+ LKQD
+ Madington
+ MADGIC
+ Digiseg
+ UNICORN
+ Wonderbly
+ YouGov
+ Double Check
+ Smart.bid ltd
+ RAM
+ OneTag
+ Fiverr
+ Adikteev
+ Pure Cobalt
+ Cedato
+ Realytics
+ Twinpine
+ Mopedo
+ NEORY GmbH
+ Phaistos Networks
+ Maelico LTD
+ GroundhogTech
+ Netscore
+ Ve Interactive
+ OpenLedger ApS
+ Whichit UK Ltd
+ Atedra
+ Vuble
+ 
+ DServe
+ Freckle IoT
+ REES46
+ ThoughtLeadr
+ Cuebiq
+ Haensel AMS
+ KAYAK
+ Advmaker
+ VRTCAL
+ 
+ BDSK Handels GmbH & Co. KG
+ 
+ Objective Partners
+ Airtory
+ SPACE ADSERVER
+ Cheetah Mobile
+ Spring Venture Group
+ Platform360
+ Onseo
+ Mobvista/Mintegral
+ DynAdmic Corporation
+ Credebat
+ Gruuv Interactive
+ Supership
+ Marketing Science Consulting Group
+ Reactive
+ DENTSU
+ Snap Inc.
+ BidMotion
+ Essens
+ AppsFlyer
+ NetSuccess
+ Nexus Soft
+ Giantmedia
+ GP One
+ IgnitionAI
+ Parrable
+ BannerBuilder
+ Instinctive
+ eMarketingSolutions
+ Native Touch
+ Branch
+ Bannerwise
+ Pathmatics
+ N2
+ Net Info
+ Adnetic
+ OpinionAds
+ Connatix
+ Widespace
+ Qualtrics
+ Advertserve
+ adrule
+ Kaufda
+ Touch Ads
+ Softcrylic
+ INFINIA
+ Sape
+ AdPlay
+ AppGrowth Inc.
+ Blueworks
+ Seenthis
+ Tapklik
+ Vertoz
+ Sketchfab
+ Taiwan Mobile Co Ltd
+ Qualia
+ Alooma
+ 北京泛为信息科技有限公司
+ ListenLoop
+ AntVoice
+ Bombora
+ Adclouds
+ Keymantics
+ Display.direct
+ Amino Payments
+ Interplus
+ Stage Flag
+ Vimeo
+ AE Media
+ AdRetarget
+ Etu Corporation
+ LANDS' END
+ Digitec Galaxus AG
+ 
+ De Persgroep Nederland B.V.
+ Lifesight
+ Vertriebswerk
+ Somplo
+ TVadSync
+ X-Social
+ Blue
+ Adnami ApS
+ Ogury Ltd
+ Improve Digital
+ Sovrn
+ Vungle
+ Smaato
+ AdColony
+ Fresh8 Gaming
+ Tail
+ BannerNow
+ Fyber
+ TotalJobs Group Ltd
+ IOTEC
+ YieldMo
+ Dochase
+ Hotels.com L. P.
+ Overstock
+ Thomann GmbH
+ Aedge Performance S.L.
+ Combell
+ Virtual Minds
+ Oath
+ Oracle Data Cloud
+ GroupM
+ Publicis Media
+ PMG
+ Yabbi
+ Captify
+ Datafy
+ Swaven
+ Hashtag'd
+ SAS One Planet Only
+ Better Banners
+ True Wave Technologies Limited
+ Alion
+ Sublime Skinz
+ Artworx AS
+ Dumarca Gaming Ltd
+ Justpremium
+ Media Lab Limited
+ Seedtag
+ WaardeX
+ EFICIENS
+ Barometric
+ Rippll Ltd
+ Affiliate Future
+ lead alliance GmbH
+ HasOffer - Tune
+ Lucidity
+ Grabit Interactive
+ Journey by CAKE
+ zeotap
+ LivePartners
+ Coastal Digital Group
+ Qriously Inc
+ 
+ Instant Ads
+ Rambla
+ Digital Ad Systems
+ Tramplin Media
+ EASY Marketing GmbH
+ Pexi B.V.
+ R.O.EYE Limited
+ Milanoo
+ Dynamic 1001 GmbH
+ DAPP GLOBAL LIMITED
+ Hargreaves Lansdown
+ Zoekhelden
+ Bauhof Group AS
+ Retail Rocket LLC
+ A Million Ads Limited
+ JYSK LINNEN'N FURNITURE OÜ
+ Bluesummit
+ xCheck
+ Butlers GmbH & Co. KG
+ ADCELL
+ Bose
+ PLAYGROUND XYZ
+ Throtle
+ Snapupp Technologies SL
+ Red Cubes Ltd
+ Tchibo GmbH
+ Astromotion
+ Spoooky
+ ironSource Mobile
+ TogetherData
+ NETBET
+ ETERNA
+ Loopa
+ 世纪富轩科技发展（北京）有限公司
+ Amp.ai by Scaled Inference
+ 
+ Calzedonia
+ modellbau universe GbR
+ Medialabs
+ Nordisk Film A/S
+ Adhese
+ Advrtas
+ Viewst
+ Clickwise
+ Critical Mix
+ coupling media
+ Chartboost
+ Admost
+ Squeezely
+ Good-Loop
+ Visarity
+ MediaPal
+ Marketing Town
+ communicationAds
+ BSmartData
+ Dianomi
+ Adapt Retail - Advertising Platform
+ Fastbooking SAS
+ Movable Ink
+ Flexitive
+ Divvit AB
+ Tuky Data
+ Glassdoor
+ AdUnity LTD
+ YouSee
+ Connected-Stories
+ OSCARO COM
+ Sonobi
+ AdLib Digital Limited
+ Systemina
+ BanterX Inc
+ Stream Eye
+ Signals Data
+ Clipcentric
+ Edge NPD
+ Reas Travel Group
+ Conrad
+ Mintegral
+ geolad GmbH
+ Shutterstock
+ AdSpot
+ 6Sense Insights
+ BounceX
+ Maytrics
+ Blue Billywig
+ Plan.Net Performance
+ Alphalyr SAS
+ CONTXTFUL
+ Digital Hub Hannover GmbH
+ Human Made Machine Limited
+ RETENCY
+ MHU
+ Vidstart LTD
+ AdButler
+ Brand Metrics
+ Location Sciences
+ Carrefour
+ BEYOND X
+ mobilcom-debitel
+ Rebel AI LLC
+ NUROFY AS
+ FLYWHEEL
+ Data2Decisions
+ FranceTV Publicité
+ Kelkoo
+ Prodege
+ Zirca
+ nmd
+ Isobar Czech Republic
+ SpiderAF
+ GumGum
+ ADLOOP
+ The Pipes
+ Woobi
+ We Adapt
+ Inskin Media
+ TrafficGuard
+ Sixide
+ Dativa
+ Partnerize
+ VF Visual Fantastix Tanner
+ Read Peak
+ Channel Four Television Corporation
+ Go Mobile
+ Next
+ LeadsRx
+ Method Media Intelligence
+ Ubex DSP
+---------------------
+
+
+
+

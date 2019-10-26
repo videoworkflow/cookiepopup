@@ -1,0 +1,67 @@
+Cookie Notice
+Introduction
+This cookie notice is for visitors to our websites, apps and other digital platforms. It sets out how we use cookies. In this notice ‘we’ and ‘our’ means Independent Digital News and Media Limited which operates this platform. 
+ 
+What are cookies?
+For almost any modern website to work properly, it needs to collect certain basic information on its users. To do this, a site will create files known as cookies – which are small text files – on its users’ computers, tablets or mobile devices. These cookies are designed to allow the website to recognise its users on subsequent visits, or to authorise other designated websites to recognise these users for a particular purpose.
+Cookies do a lot of different jobs which make your experience of the Internet much smoother and more interactive. For instance, they are used to remember your preferences on sites you visit often, to remember your user ID and the contents of your shopping baskets, and to help you navigate between pages more efficiently. They also help ensure that the advertisements that you see online are more relevant to you and your interests. Some data collected is designed to detect browsing patterns and approximate geographical location to improve user experience.
+Some websites may also use web beacons (also known as pixels or tags) to collect information, which are embedded in images. Web beacons only collect limited information, including a cookie number, a timestamp, and a record of the page on which they are placed. Websites may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign (for example by counting the number of visitors).
+Information collected by cookies is now classed as personal data.
+ 
+Related links
+User Policies
+Privacy Notice
+Code of Conduct
+Complaint Form
+Contact Us
+External Contributors Policy
+Community Guidelines
+Competition Ts & Cs
+ 
+How do we use cookies?
+We collect a number of cookies from our users for various reasons, not least to track our own performance – but also to let us serve you content tailored to your own specifications, hopefully improving your overall experience of the website. Amongst other things, the cookies we use allow users to register to make comments, allow us to calculate how many visitors we have and how long they stay on our site.
+We do our utmost to respect users’ privacy. We use cookies to monitor and improve our services, but they do also allow us to sell advertising campaigns that are tailored to your interests and reading behaviour on our website, which helps keeps our content free to our readers. We sometimes include links on our site to goods and services offered by third parties and we may be paid some commission if you subsequently decide to make a purchase. Cookies may be used to track your visits to third party sites to help ensure that we are paid the correct amounts. Please note that these commercial arrangements do not influence our editorial content in any way.
+We believe that your experience of the site would be adversely affected if you opted out of the cookies we use.
+ 
+What types of cookie are there and which ones do we use?
+There are two  types of cookie:
+Persistent cookies remain on a user’s device for a set period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
+Session cookies are temporary. They allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Once you close the browser, all session cookies are deleted.
+Cookies also have, broadly speaking, four different functions and can be categorised as follow: ‘strictly necessary’ cookies, ‘performance’ cookies, ‘functionality’ cookies and ‘targeting’ or ‘advertising’ cookies.
+Strictly necessary cookies are essential to navigate around a website and use its features. Without them, you wouldn’t be able to use basic services like registration or shopping baskets. These cookies do not gather information about you that could be used for marketing or remembering where you've been on the internet.
+Examples of how we use ‘strictly necessary’ cookies include:
+• Setting unique identifiers for each unique visitor, so site numbers can be analysed.
+• Allowing you to sign in to The Independent website as a registered user or subscriber.
+ 
+Performance cookies collect data for statistical purposes on how visitors use a website, they don’t contain personal information such as names and email addresses, and are used to improve your user experience of a website.  
+Here are some examples of how we use performance cookies:
+• Gathering data about visits to the website, including numbers of visitors and visits, length of time spent on the site, pages clicked on or where visitors have come from.
+• For comparison with other websites using data collected by industry-accepted measurement and research companies. 
+Information supplied by performance cookies helps us to understand how you use the website; for example, whether or not you have visited before, what you looked at or clicked on and how you found us. We can then use this data to help improve our services.  We generally use independent analytics companies to perform these services for us and when this is the case, these cookies may be set by a third party company (third party cookies).
+If you have registered with the website we can combine the data from the web analytics services and their cookies with the information you have supplied to us, so that we can make your experience more personal by recommending certain articles to you based on your reading behaviour or tailoring your emails with content you might find more interesting.  We would only do this if you have given us permission to communicate with you. Sometimes the data used from the web analytics companies has been collected before you registered or signed in. In these cases, if we use this data to identify you, we use it only in accordance with our privacy notice.
+ 
+Functionality cookies allow users to customise how a website looks for them: they can remember usernames, language preferences and regions, and can be used to provide more personal services like local weather reports and traffic news.
+Here are some examples of how we use functionality cookies:
+• Storing your user preferences on Your Account page
+• Remembering if you’ve been to the site before so that messages intended for first-time users are not displayed to you.
+Advertising cookies are used to deliver advertisements more relevant to you, but can also limit the number of times you see an advertisement, and be used to chart the effectiveness of an ad campaign by tracking users’ clicks. They can also provide security in transactions. They are usually placed by third-party advertising networks with a website operator’s permission, but can be placed by the operator themselves. They can remember that you have visited a website, and this information can be shared with other organisations, including other advertisers. They cannot determine who you are though, as the data collected is never linked to your profile. 
+The main ways we use advertising cookies are set out below:
+• Interest-based advertising (or online behavioural advertising) is where cookies are placed on your device by our third party service providers which remember your web browsing activity and group together your interests in order to provide you with targeted advertisements which are more relevant to you when you visit independent.co.uk.  Your previous web browsing activity can also be used to infer things about you, such as your demographics (age, gender etc). This information may also be used to make the advertising on independent.co.uk more relevant to you.
+• ‘Retargeting’ is a form of interest-based advertising that enables our advertising partners to show you advertisements selected based on your online browsing activity away from the website.  This allows companies to advertise to people who previously visited their website. These cookies will usually be placed on your device by third-party advertising networks and we have listed the main third party networks we work with in our consent management platform.
+• Social media.  Occasionally we advertise our products and services to our readers who are on social media.  This could be to promote our subscriptions offers or events.  We use cookies to help with this process, and the social media operator (Facebook for example) can recognise Independent readers who are on their platform and serve them advertisements on our behalf.  You can opt out of this process by managing your preferences in our consent management platform.
+Without these cookies, online advertisements you encounter will be less relevant to you and your interests. 
+ 
+How do I manage my cookies?
+You should be aware that any preferences will be lost if you delete all cookies and many websites will not work properly or you will lose some functionality. We do not recommend turning cookies off when using our website for these reasons.
+Most browsers accept cookies automatically, but you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. Generally you have the option to see what cookies you’ve got and delete them individually, block third party cookies or cookies from particular sites, accept all cookies, to be notified when a cookie is issued or reject all cookies. Visit the ‘options’ or ‘preferences’ menu on your browser to change settings, and check the following links for more browser-specific information.
+Cookie settings in Internet Explorer
+Cookie settings in Firefox
+Cookie settings in Chrome
+Cookie settings in Safari for and 
+It is possible to opt out of having your anonymised browsing activity within websites recorded by performance cookies.
+Please note that if you want to opt out from receiving targeted advertising, this does not mean that you will receive less advertising when you use our website. This just means that the advertising you see will not be as customised to you.
+If you would like to change your data preferences on this website please visit our consent management platform.
+You can also change your consents to the use of cookies at any time by clicking on our.  This will give you a list of all cookies that are currently set on your device and how to opt out of each of them.  Please note that this list will contain more networks than just found on independent.co.uk.  
+If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be. For instance, the site won’t be able to recognise your commenter ID, meaning that you won’t be able to leave comments.
+ 
+

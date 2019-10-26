@@ -1,0 +1,63 @@
+Personvern og nettkapslar
+Kort oppsummering
+ 
+Kva for data vi samlar inn og lagrar
+Her i DAG OG TID har vi lagra den informasjonen om abonnentane våre som vi meiner er naudsynt for at vi skal få papiravisa fram og/eller gje tilgang til e-avisa vår, gje aktuelle tilbod om avistenestene våre og sende deg faktura. Vi har difor registrert følgjande opplysningar:
+- Namn
+- Adresse
+- Telefonnummer
+- E-post
+- Fødselsdato
+- I tillegg har vi registrert opplysningar om kjønn, kjøps- og fakturahistorikk
+For å endre på ei eller fleire av desse opplysningane, gå til dagogtid.no/DT-sida-mi.
+ 
+Korleis vi behandlar data
+DAG OG TID tek personvern på alvor. Vi lagrar berre data som er naudsynt for vår verksemd og våre føremål, og vi avgrensar tilgangen berre til dei som treng det. For lagring og behandling av personopplysningar nyttar vi oss av få underleverandørar, som vi har eigne databehandlaravtalar med:
+- MediaConnect
+- Bisnode
+- Mailchimp
+- Linode
+- Iper
+- InsightOne
+- Zapier
+ 
+Slette eller flytte data
+Om du ønskjer å slette eller flytte dine data, så kan du skrive ein e-post til tinging@dagogtid.no
+Oppbevaring av personopplysningar
+Det er vigtig for oss at dei personlege opplysningane dine vert oppbevarte sikkert og fortruleg.
+Tilgangen til alle registrerte brukardata på www.dagogtid.no er avgrensa til utvalde medarbeidarar i DAG OG TID, og tryggingsrutinane våre vert kontrollerte heile tida for å sikre at opplysningar om brukarane våre vert handterte forsvarleg og slik at vi heile tida tek omsyn til rettigheitene til brukaren.
+Det er desverre ikkje mogleg å garantere 100 prosent sikkerheit ved dataoverføring via internett. Når data vert sende og lagra elektronisk, er det alltid ein risiko for at andre uberettiga skaffar seg tilgang til beskytta data før dei når servarane våre. Så sjølv om vi prøver alt vi kan for å sikre opplysningane dine, kan vi ikkje garantere fullt ut at ikkje andre får tak i dei opplysningane du gjev frå deg.
+Du sender altså opplysningane dine på eige ansvar.
+Når du registrerer deg på www.dagogtid.no eller på anna vis oppgir opplysningar om deg sjølv til oss, sel vi under ingen omstende opplysningar som kan knytast til identifiserbare individ til tredjepart utan at du har gjeve oss løyve til det.
+På same måten vert heller ikkje loggfiler og annan standardinformasjion gjeven vidare eller seld til tredjepart.
+ 
+Vilkår for abonnement
+Abonnementsvilkår for DAG OG TID
+* Eit abonnement på vekeavisa DAG OG TID består av anten papiravisa eller ei elektronisk utgåve av denne eller ein kombinasjon av begge («komplett»).
+* Abonnementsprisen er den same i heile verda.
+* Abonnementet er løpande fram til det vert sagt opp av abonnenten. Manglande betaling vert ikkje rekna som oppseiing. Eit unntak frå dette er gåveabonnement, som stoppar automatisk dersom ikkje gjevaren har meldt frå at han vil betale det fast. Det same gjeld visse tilbod, som til dømes tre gratis prøvenummer.
+* Varsel om fornying av abonnementet vert sendt om lag ein månad før forfall. Betaling må skje innan forfall for å unngå opphald i leveringa.
+* DAG OG TID vert levert med avisbod frå det regionale distribusjonsselskapet der det er mogleg, elles med Posten. Det er viktig at abonnenten passar på at leveringsadressa er korrekt og utfyllande (til dømes opplysning om etasje der avisa vert levert på døra) og at postkassa er godt merka dersom den skal brukast.
+* Ved stopp på grunn av manglande betaling av tilbod, vil det verte sendt faktura basert på fullpris for den perioden avisa er levert.
+ 
+Betaling
+Det er kjøparen som har ansvaret for at dei kort- og kontoopplysningane som er oppgitt, er korrekte. Du vil motta ei kvittering pr. e-post når du har gjennomført kjøpet ditt. Kvitteringa bør du ta vare på. DAG OG TID AS lagrar kortopplysningar gjennom samarbeidspartnaren vår MediaConnect. Ved kjøp av e-avis eller eit anna abonnement hos oss aksepterer du handels- og leveringsvilkåra til DAG OG TID.
+ 
+Angrefrist
+Som forbrukar har du høve til å angre kjøpet ditt innan 14 dagar frå kjøpstidspunktet.
+ 
+Sikkerheit/brukartilgang
+Tilgangen til e-aviser er personleg. Derfor må brukarnamn og passord ikkje delast med andre enn medlemer av husstanden din.
+Brukarprofilen gjev tilgang for berre ei eining samstundes. Kontakt oss dersom du har problem med å logge inn.
+Dersom brukarnamn/passord eller tilgangen til e-avisa vert misbrukt på nokon måte, har DAG OG TID rett til å stenge tilgangen til abonnementet når som helst.
+ 
+Kopiering m.v.
+Artiklar, fotografi, grafikk og anna offentliggjort materiale på www.dagogtid.no, i papiravisa vår og i e-avisa vår vert stilt til rådvelde for vising/lesing. Du kan skrive ut einskilde kopiar til din eigen private bruk. Dette løyvet gjeld berre fysiske personar. Ei verksemd kan såleis ikkje skrive ut artiklar eller anna, heller ikkje til bruk for kopiering til medarbeidarar i verksemda. Du som privatperson kan gjerne ta ein kopi i digital form, så sant det berre skjer til din eigen personlege bruk innanfor husstanden.
+Bruk og eksemplarframstilling ut over dette krev tydeleg, skriftleg avtale med DAG OG TID. Dersom du er i tvil om kva du kan kopiere og korleis, ber vi deg kontakte oss.
+ 
+Tekniske krav til PC
+Det digitale innhaldet i DAG OG TID kan nåast på følgjande plattformer/browserar som kan handtere HTML-teknologien:
+PC: Windows 7, 2 gigabyte arbeidsminne, Internet Explorer 11.0, Google Chrome, Mozilla Firefox eller liknande browserar.
+MAC: OS X 10.5 (Leopard), 2 gigabyte arbeidsminne, Safari, Google Chrome eller liknande browserar.
+ 
+

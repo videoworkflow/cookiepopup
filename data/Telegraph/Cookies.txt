@@ -1,0 +1,192 @@
+Information We Collect (7) 
+
+Information Our Partners Collect:
+Data Aggregator/Supplier (12) - Demand Side Platform (14) - Ad Server (17) - Ad Network (22) - Ad Verification (3) - Mobile (5) - Ad Exchange (13) - Content management/SaaS (1) - Analytics Provider (18) - Creative/Ad Format Technology (4) - Publisher (3) - Research Provider (1) - Social media (5) - Business intelligence (1) - Agency (1) - Supply Side Platform (3) - Data Management Platform (2) - Marketing solutions (1) - Optimizer (1) - Advertiser (3) - Website optimisation (1) 
+
+
+Information We Collect
+--------TABLE--------
+ tmg_evosession
+ tmg_p13n
+ tmg_pid
+ tmg_rem
+ tmg_session
+ tmg_subs
+ _pubcid
+---------------------
+Data Aggregator/Supplier 
+--------TABLE--------
+ ADARA Analytics
+ Adobe Experience Cloud (Audience Manager)
+ Connexity
+ eXelate
+ Eyeota
+ i-Behavior
+ LiveRamp
+ Neustar Marketing (Formerly PlatformOne)
+ Nielsen
+ Oracle Data Cloud
+ Salesforce DMP (Formerly Krux Digital)
+ Twitter
+---------------------Demand Side Platform 
+--------TABLE--------
+ AddThis
+ Admatic
+ AdRoll Group
+ Amazon Associates
+ AOL Advertising
+ Criteo
+ Dotomi
+ 
+ MediaMath
+ Quantcast
+ ShareThis
+ Taboola
+ Unruly
+ Yieldr (formerly YD Group B.V.)
+---------------------
+Ad Server 
+--------TABLE--------
+ AdGear
+ Adition Technologies AG
+ Amobee
+ AppNexus
+ 
+ Delta Projects
+ Flashtalking
+ FreeWheel
+ iBILLBOARD
+ Innovid
+ Jivox
+ LiveIntent
+ Oath Ad Server (Formerly One by AOL)
+ Ooyala
+ SiteScout
+ Sizmek
+ Smart AdServer
+---------------------
+Ad Network 
+--------TABLE--------
+ Adkontekst
+ Atlas
+ AWIN
+ Chocolate (Formerly Vdopia)
+ ClickTripz
+ Coull
+ Dianomi
+ Exponential Interactive
+ Google Inc.
+ GumGum
+ LinkedIn Marketing Solutions
+ Netmining
+ Platform161
+ Plista
+ PowerLinks
+ Primis (Fomerly SekiNdo)
+ Sharethrough
+ sovrn (formerly Lijit Networks)
+ Undertone
+ Widespace
+ Yahoo!
+ Zedo
+---------------------
+Ad Verification 
+--------TABLE--------
+ Adloox
+ DoubleVerify
+ Moat
+---------------------
+Mobile 
+--------TABLE--------
+ AdMan Media
+ Bombora
+ Crimtan
+ Pinterest
+ Tag Commander
+---------------------
+Ad Exchange 
+--------TABLE--------
+ ADMIXER
+ Beeswax
+ CPX Interactive
+ Index Exchange (Formerly Casale Media)
+ IPONWEB
+ Microsoft Advertising
+ Nativo
+ OpenX
+ PubMatic
+ Pulsepoint Ad Exchange
+ Rubicon Project
+ Sonobi
+ SpotXchange
+---------------------
+Content management/SaaS 
+Adobe Creative Cloud
+Analytics Provider 
+--------TABLE--------
+ Adobe Experience Cloud (Analytics)
+ Akamai Technologies
+ ChartBeat
+ Google Analytics
+ Grapeshot
+ Hotjar
+ Infinity Tracking
+ InsightExpress
+ Inspectlet
+ Integral Ad Science (formerly AdSafe)
+ Navegg
+ New Relic
+ Petametrics
+ Polldaddy
+ Qubit
+ TripleLift
+ UserReport
+ Webtrends
+---------------------
+Creative/Ad Format Technology 
+--------TABLE--------
+ Adobe Experience Cloud (Target)
+ InSkin Media
+ SkimLinks
+ SundaySky
+---------------------
+Publisher  
+--------TABLE--------
+ Adobe Livefyre
+ Disqus
+ Newsmax
+---------------------
+Research Provider 
+Conversant
+Social media 
+--------TABLE--------
+ Facebook Business (formerly Facebook Custom Audience)
+ Facebook for Developers (formerly Facebook Connect)
+ Facebook Social Graph
+ Facebook Social Plugins
+ LinkedIn
+---------------------
+Business intelligence
+Full Circle Studies
+Agency
+Impression Desk
+Supply Side Platform 
+--------TABLE--------
+ Improve Digital
+ Ooyala (formerly Videoplaza)
+ Polymorph (formerly AdsNative)
+---------------------
+Data Management Platform
+Lotame
+Zemanta
+Marketing solutions
+Media Innovation Group (Out of Business)
+Optimizer
+Optimizely
+Advertiser
+Outbrain
+RythmOne
+Zypmedia
+Website optimisation 
+Visual Website Optimizer (Wingify)
+

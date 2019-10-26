@@ -1,0 +1,54 @@
+Necessary website cookies (3) - Preference website cookies (0) - Statistics Cookies (0) - Marketing website cookies & Facebook Pixel (31) - Unclassified website cookies (4) 
+
+
+Necessary website cookies 
+@@History/@@scroll|#: Stores the user’s cookie consent state for the current domain. By isleofthanetnews.com. Expires persistant.
+csrftoken: Helps prevent Cross-Site Request Forgery (CSRF) attacks. By isleofthanetnews.com. Expires 1 year.
+SESS#: Preserves user session state across page requests. By isleofthanetnews.com. Expires session.
+
+Preference website cookies
+-
+
+Statistics Cookies 
+-
+
+Marketing website cookies & Facebook Pixel
+Http Headers – Anything present in HTTP headers. HTTP Headers is a standard web protocol sent by default between any browser request and any server on the internet. HTTP Headers include IP addresses, information about the web browser, page location, document, referrer, and user agent.
+Pixel-specific Data – This includes Pixel ID and the Facebook Cookie.
+Optional Values – Developers and marketers can optionally choose to send additional information about the visit through Custom Data events. Example custom data events are conversion value, page type, and more. Read more about custom data events 
+_js_datr: Used by Facebook for targeted advertising. By Facebook.com. Expires 2 years.
+_js_reg_ext_ref: Used by Facebook for targeted advertising. By Facebook.com. Expires session.
+_js_reg_fb_gate: Used by Facebook for targeted advertising. By Facebook.com. Expires session.
+_js_reg_fb_ref: Used by Facebook for targeted advertising. By Facebook.com. Expires session.
+datr: Used by Facebook to detect suspicious login activity. By Facebook.com. Expires 2 years.
+fr: Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. By Facebook.com. Expires 3 months.
+reg_ext_ref: Saves the external URL through which Facebook is accessed when a user activates a “Follow us” link to subscribe to a social media channel. The cookie is set when the user is not a Facebook user or when the user is not logged in to Facebook. By Facebook.com. Expires session.
+reg_fb_gate: Saves the first URL on Facebook when a user activates a “Share this” link. The cookie is set when the user is not a Facebook user or when the user is not logged in to Facebook. By Facebook.com. Expires session.
+reg_fb_ref: Saves the last URL on Facebook when a user activates a “Share this” link. The cookie is set when the user is either not a Facebook user or not logged in on Facebook. By Facebook.com. Expires session.
+tr: Used to track page views by Facebook. By Facebook.com. Expires session.
+VISITOR_INFO1_LIVE: Tries to estimate the users’ bandwidth on pages with integrated YouTube videos. By YouTube.com. Expires 179 days.
+YSC: Registers a unique ID to keep statistics of what videos from YouTube the user has seen. By YouTube.com. Expires session.
+_twitter_sess: Collects anonymous data related to the user’s visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service. By Twitter.com. Expires session.
+CheckConnectionTempCookie#: Used by YouTube to check if the user’s browser supports cookies. BY YouTube.com. Expires session.
+ct0: Used by Twitter. By Twitter.com. Expires session.
+external_referer: Collects anonymous data related to the user’s visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service. By Twitter.com. Expires 6 days.
+guest_id: Collects anonymous data related to the user’s visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service. By Twitter.com. Expires 2 years.
+GAPS: Used by Google to identify the user when sharing content with a Google +1 button. By Google.com. Expires 2 years.
+GPS: Registers a unique ID on mobile devices to enable tracking based on geographical GPS location. By YouTube.com. Expires session.
+i/jot: Used by Twitter. By Twitter.com. Expires session.
+i/jot/syndication: Used by Twitter for sharing. By Twitter.com. Expires session.
+metrics_token: Used by Twitter for statistics. By Twitter.com. Expires 43 days.
+personalization_id: Used by Twiter to share from your account. By Twitter.com. Expires 2 years.
+tfw_exp: Used by Twitter. By Twitter.com. Expires session.
+wd: Saves screen size and resolution to optimise content display on the user’s device. By Facebook.com. Expires 6 days.
+PREF: Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites. By YouTube.com. Expires 8 months.
+NID: Registers a unique ID that identifies a returning user’s device. The ID is used for targeted ads. By Google.com. Expires 6 months.
+_auth: Authorises to share a post to your Pinterest account. By Pinterest.com Expires 1 year.
+
+
+Unclassified website cookies 
+_pinterest_referrer: Unclassified. By pinterest.com. Expires session.
+_pinterest_sess: Unclassified. By pinterest.com. Expires 1 year.
+cm_sub: Unclassified. By pinterest.com. Expires 1 year.
+G_ENABLED_IDPS: Unclassified. By pinterest.com. Expires 2915240 days.
+

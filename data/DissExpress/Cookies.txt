@@ -1,0 +1,81 @@
+Storage and Access (15) - Personalization (12) - Ad Selection (14) - Content Selection (9) - Measurement (11) 
+
+Storage and Access
+--------TABLE--------
+ Diss Express
+ Amazon
+ AppNexus Inc.
+ Conversant Europe Ltd.
+" Index Exchange, Inc."
+ Justpremium BV
+" Lotame Solutions, Inc."
+ OpenX
+ Quantcast International Limited
+ Sovrn Holdings Inc
+ Sublime
+ Taboola Europe Limited
+ Teads
+" The Rubicon Project, Inc."
+" comScore, Inc."
+---------------------
+Personalization 
+--------TABLE--------
+ Diss Express
+ Amazon
+ Justpremium BV
+" Lotame Solutions, Inc."
+ OpenX
+ Sovrn Holdings Inc
+ Sublime
+ Teads
+ Conversant Europe Ltd.
+ Quantcast International Limited
+ Taboola Europe Limited
+" The Rubicon Project, Inc."
+---------------------
+
+
+Ad Selection 
+--------TABLE--------
+ Diss Express
+ Amazon
+ Justpremium BV
+" Lotame Solutions, Inc."
+ OpenX
+ Sovrn Holdings Inc
+ Sublime
+ AppNexus Inc.
+ Conversant Europe Ltd.
+" Index Exchange, Inc."
+ Quantcast International Limited
+ Taboola Europe Limited
+ Teads
+" The Rubicon Project, Inc."
+---------------------
+Content Selection 
+--------TABLE--------
+ Diss Express
+ Amazon
+ Justpremium BV
+" Lotame Solutions, Inc."
+ Conversant Europe Ltd.
+ Quantcast International Limited
+ Taboola Europe Limited
+ Teads
+" The Rubicon Project, Inc."
+---------------------
+
+Measurement 
+--------TABLE--------
+ Diss Express
+ Amazon
+ Justpremium BV
+" Lotame Solutions, Inc."
+" comScore, Inc."
+ Conversant Europe Ltd.
+ Quantcast International Limited
+ Sublime
+ Taboola Europe Limited
+ Teads
+" The Rubicon Project, Inc."
+---------------------

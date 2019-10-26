@@ -1,0 +1,151 @@
+Strictly necessary cookies (73) - Functional cookies (28) - Performance cookies (31)
+
+
+Strictly necessary cookies
+
+--------TABLE--------
+ AM_REDIRECT_​BACK_SERVER_URL, Provides a redirection URL during sign in & registration events.
+ AMAuthCookie, Temporary cookie used to manage sign in.
+ amlbcookie, Server side management of sign in.
+ announcement," In BBC Sounds, a cookie that ensures you only see announcements in the Radioplayer web console once per session."
+ atidvisitor / atuserid / idrxvr," The BBC’s analytics system uses cookies to gather information regarding visitor activity on the BBC's websites and other BBC online services. The data gathered is sent to AT Internet, the BBC's analytics partner, for analysis and reporting. The BBC uses this information to help improve the services it provides to its users."
+ AWSELB, Manages web traffic and balances traffic load.
+ BBCCOMMENTS​MODULESESSID, Reports back error messages in posting comments.
+ _cb_ls / _cb_svref / _chartbeat2 / _chartbeat5 / _chartbeat4 /_cb / _cb_cp, Chartbeat is used to understand engagement with pages by tracking how far a user gets on a page and where they're clicking.
+ ckns_acad-​gateway, Academy page language setting.
+ ckns_bbcTvVod, Manages the Banner asking users to confirm that they have a TV Licence to be able to watch BBC programmes in iPlayer. The Cookie is set to display TV Licence advisory notice every every 3 months.
+ ckns_echo_​device_id," Used to synchronise the analytics device ID between the native and web layers of iOS/Android apps, e.g. BBC Sport"
+ ckns_eds, Suppresses surveys already seen.
+ ckns_explicit, Stores whether or not a browser has explicitly actioned the cookie banner.
+ ckns_id-session​-redirects, Counts redirects in the sign in flows so that the BBC can degrade gracefully during instances of infinite redirects.
+ ckns_idtkn / ckns_atkn / ckns_id, Indicates that a user is signed in.
+ ckns_IVOTE_​HISTORY, Stores voting history per user.
+ ckns_jwt, Indicates the state of the sign in session.
+ ckns_mvt, Identifies visitors included in website optimisation tests to understand if the website is operationally efficient and delivering the right customer experience.
+ ckns_nav​_promofail," Counts how often the footer ""promo"" cards fail to load, so we can tell browsers to stop further attempts to loads."
+ ckns_nonce, Helps to keep BBC accounts secure while signed in.
+ ckns_orb_fig_​cache," Stores if the browser visiting the page is in the UK, EU & the device type they use when they visit (Mobile, Tablet or Desktop). Used by BBC products to load specific services such as cookie compliance messaging and to optimise the page loading to reduce data usage and page loading times."
+ ckns_orb_nofig," Remembers any failures on pages using our older, deprecated global navigation (ORB)."
+ ckns_orb_​nopromo," Counts how often the footer ""promo"" cards fail to load, so we can tell browsers to stop further attempts to loads."
+ ckns_pgAge​Confirm, Stores parental guidance confirmation that you're over 16.
+ ckns_pgPIN, Stores Parental Guidance PIN number.
+ ckns_pg​Unlocked, Stores Parental Guidance Lock state.
+ ckns_policy, Stores current user's cookies settings.
+ ckns_policy​_exp," Cookie storing date and time the user saw the BBC cookie banner, allows us in the future to redisplay cookie banner for compliance reasons, with new wording or updates to browsers who only viewed the banner before the new wording date."
+ ckns_privacy, Stores whether or not a browser has been displayed the privacy policy banner.
+ ckns_rtkn, Refresh token (refresh expired access and identity tokens).
+ ckns_sa_labels​_persist, Persists statistics tracking when users move between different BBC websites.
+ ckns_session, Indicates that a user has signed in recently. Provides additional security for accessing sensitive information in the BBC account settings.
+ ckns_settings-​nonce, Stores a unique identifier for the signed in session.
+ ckns_sscid," Analytics device ID for BBC Affiliates (World Service, GNL)."
+ ckns_stateless," Controls user journey based on web session type, i.e. stateless or stateful."
+ ckns_sylphid," This cookie value can be disabled by turning off personalisation, it stores the hashed user ID to track signed in activity."
+ ckns_taster_csrf​_token, Ensures that feedback about pilots on Taster is only submitted from legitimate BBC websites.
+ ckns_taster​_dsc, Remembers how many times Taster disclaimer banner has previously been shown and if the user has explicitly dismissed it.
+ ckns_taster_​rate_id," Stores audience members ratings to pilots on Taster, and answers to feedback questions."
+ ckns_telescope, Stores voting history per user.
+ ckps_bbcLive​SignIn​Dismissable​Count, Stores the number of times a user has dismissed the mandatory sign in banner.
+ ckps_bbcLive​SignIn​Dismissable​CountMet, Displays mandatory sign in banner.
+ ckps_bbcTv," Determines if a user has accepted the tv license banner and if they have, we don’t display the banner again."
+ ckps_id_ptrt, Provides a redirection URL at the end of sign in & registration events.
+ ckps_tap_​implicit," Stores content consumption information for non-signed in users, and information on promotional banners seen for BBC services on TVs."
+ ckps_tap_users, Stores credentials information for signed in users on BBC services on TVs.
+ , Stores information about Online Quality Survey.
+ guid," In BBC Sounds, a cookie in the Radioplayer web console that sets an identifier for each unique browser to allow aggregated analysis."
+ identitytoken, Indicates that a user is signed in.
+ identitytoken (Transversal)," Remembers the visitor between sessions. Mainly for logging statistics. If not present, could not track repeat visits."
+ interstitial," In BBC Sounds, a cookie in the Radioplayer web console to ensure you only see any radio station-provided advertising once per session."
+ lastplayed," In BBC Sounds, a cookie in the Radioplayer web console to remember the last station you listened to."
+ listening​history," In BBC Sounds, a cookie in the Radioplayer web console to remember the stations you've listened to, for your Recents list."
+ metafaq​Session​ID," Maintains a visitor's session. Mainly for logging statistics. If not present, could not track a user journey."
+ nightfall​RefreshToken," Stores a game token for the Nightfall game, so a user's progress can be attributed to them."
+ nightfall​SessionToken, Stores a game token that allows Nightfall game session tokens to be renewed. Needed to authenticate a user so their game progress can be attributed to them.
+ optimizelyEnd​​UserId, Identifies visitors included in website optimisation tests to help improve the customer experience.
+ _pk_cvar, Used by the Matamo (formerly Piwik) 3rd party statistics tool. Provides enhanced metrics on top of Transversal's native statistics tracking.
+ _pk_id, Used by the Matamo (formerly Piwik) 3rd party statistics tool. Provides enhanced metrics on top of Transversal's native statistics tracking.
+ _pk_ref, Used by the Matamo (formerly Piwik) 3rd party statistics tool. Provides enhanced metrics on top of Transversal's native statistics tracking.
+ _pk_ses, Used by the Matamo (formerly Piwik) 3rd party statistics tool. Provides enhanced metrics on top of Transversal's native statistics tracking.
+ preferences," In BBC Sounds, a cookie in the Radioplayer web console to remember whether you've seen certain one-time messages."
+ presets," In BBC Sounds, a cookie in the Radioplayer web console to remember radio stations you've added to your My Stations (favourites)."
+ primed," In BBC Sounds, a cookie that allows the Radioplayer web console to work well on Safari on iOS devices."
+ rpsde_​client_id," In BBC Sounds, used for analytics in the Radioplayer web console to recognise your device each time you visit."
+ S1," The BBC’s analytics system uses cookies, log file data and embedded code to gather information regarding visitor activity on the BBC's websites and other BBC online services. The data gathered is sent to ComScore, the BBC's analytics partner, for analysis and reporting. The BBC uses this information to help improve the services it provides to its users."
+ sa_labels," Allows the BBC to track which links on the BBC website a user has clicked on, so that we know what the previous BBC page was the user came from."
+ seencookieanno," In BBC Sounds, a Radioplayer cookie that records whether you've been shown the message describing how cookies are used to store station favourites."
+ SID, Remembers routes a user takes through the website/quizzes.
+ site24x7rumID, Allows site availability to be measured based on actual visitor usage rather than polling from external machines every few minutes.
+ stations​listprefix," In BBC Sounds, a Radioplayer cookie that helps make the A-Z station list work well by storing the last letter viewed."
+ volume," In BBC Sounds, a Radioplayer cookie that remembers your last volume level value."
+ WEATHER, Stores up to eight weather forecast locations for BBC Weather.
+---------------------
+
+Functional cookies
+
+--------TABLE--------
+ _cerego​_session, Stores API session information in Bitesize.
+ _cerego_user, Stores user settings in Bitesize.
+ _iknow_session, Stores front-end session information in Bitesize.
+ ckns_news, Contains settings used in the delivery and development of BBC services on TVs.
+ ckns_sport, Contains settings used in the delivery and development of BBC services on TVs.
+ ckns_weather, Stores localisation information for weather content on BBC TV services.
+ ckps_acad_lang, Stores BBC Academy page language setting.
+ ckps_academy​_overlay​_beta_accept, Stores Opt in preference for BBC Academy beta site.
+ ckps_breaking​_seen, Stores the last article seen to prevent the banner repeating the last breaking news story.
+ ckps_cbbc_​channel_​banner_hidden / ckps_cbeebies_​channel_​banner_hidden, Remembers the user's choice in hiding a banner that suggests CBBC brands that they may be interested in.
+ ckps_hploc, Saves the location for the weather widget on bbc.com.
+ ckps_iplayer_​unsupported, Stores when the user has dismissed the banner informing them that they are using an unsupported operating system e.g iOS 5.
+ ckps_kl_lang, Stores the language to be served.
+ ckps_language, Stores user language settings.
+ ckps_onward​Journey," Stores user preference for Continuous Play on/off and other player settings, on a per-product basis."
+ ckps_​smpj2OptIn, Stores user's preference for use of BBC Media Player on Android.
+ ckps_smp​Settings, Stores the accessibility and other customisation of BBC media player.
+ ckps_tap_​explicit," Stores parental guidance settings, favourited content (for non-signed in users), content consumption information (for non-signed in users), previous search terms, region setting, media quality setting, subtitle setting, beta mode setting, information on promotional banners seen and settings used in the delivery and development of BBC services on TVs."
+ ckps_tviplayer​_category_view, Stores the type of sort a user select in on the iPlayer category page (e.g A to Z).
+ ckps_tviplayer​_enablePers​Upsell, Displays iPlayer banner for enable personalisation in iPlayer.
+ ckps_tviplayer​_old_browser_​dismiss, Stores when the user has dismissed the banner informing them that they are using an unsupported browser e.g Internet Explorer 9.
+ ckps_tviplayer​_upsell_​dismiss, Stores when the user has dismissed the banner informing about that we have an iPlayer mobile application.
+ csrf_token, CSRF token used in Bitesize to prevent cross-site request forgery attacks.
+ currentURL, Things To Do uses it to remember the way you have your lists configured for the next time you visit the page.
+ ipbs, Stores user and app settings.
+ locserv, Stores users location data to provide the user with content relevant to their location.
+ rack.session, Rack session based cookie management for Bitesize.
+ timezone​_offset, Stores the local timezone in Bitesize.
+---------------------
+
+
+
+Performance cookies
+
+--------TABLE--------
+ __hs_do_not_​track," In Bitesize, prevents tracking code from sending information to HubSpot. Still allows anonymised information to be sent to HubSpot, so different from opting out of cookies."
+ __hs_opt_out, Used in Bitesize to remember not to ask the user to accept cookies again.
+ __hs_​testcookie, Used in Bitesize to test whether the user has support for cookies enabled.
+ __hssc, Keeps track of Bitesize sessions.
+ __hssrc, Used in Bitesize to determine if the user has restarted their browser.
+ __hstc," Used in Bitesize to record the domain, utk, first visit, last visit, this visit, and session number."
+ _ga," Used in Bitesize to set apart unique users by assigning a randomly generated number as a client identifier. Used to calculate visitor, session and campaign data for analytics reports."
+ _gat," In Bitesize, used to throttle the request rate."
+ _gid," Used in Bitesize to store and update a unique value of each page visited, distinguishing the users."
+ _s, Used in Bitesize to store a session identifier to monitor session counts.
+ _sm_au_c, Checks if a user has been authenticated.
+ AMP_TOKEN," Used in Bitesize to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service."
+ ckpf_childrens​_mandolin, It places users into pre-defined 'segments' when loading a page with an active experiment. Users in each segment will get a slightly different experience (i.e. may see a button in a different colour).
+ ckpf_iplayer_​experiments, Used for iPlayer improvement experiments to give a user the correct variation of a test.
+ ckpf_​localnewsgeo​prompt, Stores whether we have asked you to share the location or not.
+ ckpf_mandolin, Users are placed into pre-defined 'segments' when loading a page with an active experiment. Users in each segment will get a slightly different experience (i.e. may see a button in a different colour).
+ ckpf_mvt, Identifies visitors included in website optimisation tests to understand if the website is operationally efficient and delivering the right customer experience.
+ ckpf_sounds_​experiments, Used for Sounds improvement experiments to give a user the correct variation of a test.
+ ckpf_sylphid," This cookie value can be disabled by turning off personalisation, it stores the hashed user ID to track signed in activity."
+ ckpf_tap_​analytics, Stores analytics identifiers using in reporting usage of BBC TV services.
+ ckpf_uid, Collects data on the traffic and engagement for the site to provide the BBC with a competitive context of their performance versus the market. For more information please visit the Scorecard Research Privacy Policy. Opt-out of ScoreCard Research cookies.
+ ckps_tviplayer​_playback, Remembers playback volume and mute settings.
+ ckps_tviplayer​_region, Stores the iPlayer TV region.
+ dtPC / rxVisitor / rxvt / dtSa / dtLatC," Stores session ID for world service users / Stores an (anonymous) ID for the user, to correlate across sessions on world service / Stores two timestamps, to determine session length and end of session / Saves action names across pages so we can monitor performance across pages / Measures delay of page transmission from user browser to BBC server. You can opt in or out of this reporting in cookie settings."
+ hsPagesViewed​ThisSession, Used in Bitesize to keep track of page views in a session.
+ hubspotutk, Keeps track of a user's identity in Bitesize.
+ i00 Kantar for BARB," Along with other broadcasters, we share anonymous data about use of online and mobile media players with the Broadcasters' Audience Research Board (BARB), to understand how many people watch online, and how much they watch. Kantar Media collect this data for BARB using cookies. The anonymous data collected by Kantar's cookies is only used for this purpose. Opt-out of Kantar cookies"
+ JSESSIONID," Used in Bitesize, to store a unique ID for the duration of the user's browsing session on a site."
+ messagesUtk," In Bitesize, used to recognise other users who chat with you via the messages tool."
+ youwantthe​cookieshown / youwant​thecookie, Allows Tribepad to remember whether you had cookies turned off or on for their site to help us keep as much functionality working as possible for you.
+ YSC, Cookie set by YouTube to track views of embedded videos on BBC sites. Opt-out here.
+---------------------

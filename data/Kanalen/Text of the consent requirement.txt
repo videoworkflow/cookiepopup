@@ -1,0 +1,42 @@
+Cookie policy
+Denne Cookie-policy omfatter Kanalen sin bruk av cookies på nettsiden. Her går vi gjennom hvilke cookies som brukes, og hva de brukes til.
+ 
+Hva er en cookie
+En «cookie» (engelsk begrep) er en liten tekstfil som automatisk lagres på din enhet (PC, nettbrett, eller mobil) når du besøker en nettside. En cookies hensikt er å kunne lagre midlertidig informasjon om en brukers aktivitet på en nettside, slik at nettsiden kan skille mellom brukere samt tilpasse seg brukerens aktivitet på en vedvarende måte. For eksempel vil nettsiden huske at brukeren er innlogget selv om brukeren laster inn en helt ny side på nettsiden.
+ 
+Cookie-typer
+I hovedsak skiller vi mellom to typer cookies. Én type brukes til å behandle økter på en hjemmeside og slettes etter at økten er over. Den andre typen brukes til å lagre informasjon over lengre tid.
+ 
+Session cookies
+Når du besøker et nettbutikk startes en «session», eller økt, som det heter på norsk. For hver økt lagres en unik «session cookie» på din enhet som inneholder informasjon om din brukers status. Logger du inn på nettbutikken, vil din brukers status endres til «innlogget» og bli overskrevet til cookie-filen. Dersom du legger en vare i handlekurven, vil denne informasjonen også lagres i cookie-filen slik at nettbutikken kan huske hva du har lagt i den, selv om du velger å fortsette å se gjennom andre varer.
+ 
+Vedvarende cookies
+Vedvarende cookies brukes til å huske en brukers innstillinger og preferanser, selv etter at en økt er over. Denne typen cookies har en definert utløpsdato som kan variere fra et par minutter til flere år. Vedvarende cookies brukes ofte til å kartlegge personers aktivitet på en nettside. For eksempel, hvor man trykker mest, hvor lenge man blir på siden, og hvor i verden man besøker nettstedet fra.
+ 
+Cookie-kategorier
+Det er vanlig å skille mellom ulike kategorier cookies. Noen cookies er strengt nødvendige for at nettsiden skal fungere, noen analyserer aktivitet og danner statistisk grunnlag, og andre lagrer preferanser og innstillinger.
+ 
+Strengt nødvendige cookies
+Dette er den viktigste cookies-kategorien, ettersom denne typen cookies for eksempel kan skille mellom brukere for å unngå forveksling mellom noen som er innlogget og noen som ikke er innlogget på nettsiden. Strengt nødvendige cookies bevarer integriteten og sikkerheten på nettsiden.
+ 
+Analyse-cookies
+Analyse-cookies brukes for å analysere brukeres atferdsmønster på nettstedet samt deres metadata, som for eksempel, nettleser, operativsystem, og geografisk lokasjon.
+ 
+Preferanse-cookies
+Denne type cookies brukes i hovedsak for å gjøre besøksopplevelsen bedre for brukeren, ved å huske innstillinger som brukeren direkte eller indirekte har satt. For eksempel, dersom et nettsted spør om hvilket språk brukeren ønsker å vise siden på, kan den ved hjelp av preferanse-cookies sørge for at brukeren slipper å velge språk for hvert besøk, og dermed huske brukerens preferanser.
+ 
+Ytelses-cookies
+Ytelses-cookies brukes for å maksimere en nettsides ytelse gjennom overstyring av spørringer (header requests).
+ 
+Hva vi bruker cookies til
+ 
+System og sikkerhet
+Vi bruker strengt nødvendige cookies for sikkerhetsmessige årsaker, hvor nettsiden enkelt kan skille mellom vanlige besøkende og innloggede brukere.
+ 
+Analyse og statistikk
+Vi bruker analyse-cookies for å kunne gjøre vårt nettsted enda bedre. Hver gang brukere besøker nettstedet får vi informasjon om hvordan de besøker nettstedet og hva de synes er interessant. På denne måten kan vi gjøre nettstedet bedre ved å avdekke potensielle svakheter og sørge for at nettstedets innhold blir mest mulig relevant for målgruppen.
+ 
+Besøksopplevelse
+Besøksopplevelsen på vår nettside skal være så bra som mulig og derfor bruker vi cookies som husker dine innstillinger og preferanser. Dersom en bruker har trykket på knappen for å godta vår personvernerklæring og cookies-policy, skal brukeren slippe å måtte utføre handlingen på nytt, for hvert besøk.
+ 
+

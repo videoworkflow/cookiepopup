@@ -1,0 +1,78 @@
+Personvern­erklæring
+Introduksjon
+I dette dokumentet forklarer vi hvilke opplysninger vi samler inn om deg. Dataene vi henter inn, er godt beskyttet. Vi selger ikke og kommer ikke til å selge disse videre.
+Ved å samle inn data om deg kan vi levere tjenesten du har bestilt.Les mer om Kundeservice
+Denne personvernerklæringen forklarer hva slags personopplysninger vi samler inn, enten vi får opplysningene fra deg eller andre. Den forklarer også hvordan vi bruker dem. Personopplysninger er all informasjon som kan brukes til å identifisere deg eller som vi kan koble til deg. Erklæringen viser også hva du kan gjøre med dataene vi samler inn. Du kan be om å få se hvilke opplysninger vi lagrer og du kan be om at vi sletter dine opplysninger. Dette kan du gjøre via min side eller kontakte kundeservice. Informasjon om din konto på min side får du ved eget brukernavn og et passord.Les mer om rettighetene dine her
+Ansvarlig:
+Det er Dagsavisen ved daglig leder/administrerende direktør som er ansvarlig for behandlingen av dine personvernopplysninger.Les mer om behandlingsansvarlig
+Hvorfor samler vi inn data:
+Når du er abonnent, har vi en avtale med deg som kunde. Derfor trenger vi opplysninger om deg. Hvis du skal få tjenesten du har bestilt, må vi vite hvor den skal leveres og hvordan vi kan kontakte deg.Les mer om hvordan vi bruker opplysningene
+Vi kan bruke personopplysningene dine til for eksempel analyse. Formål kan være å forbedre produktene våre.Les mer om berettiget interesse her
+Disse opplysningene samler vi inn:
+Vi vil stort sett hente inn informasjon fra deg når du registreres som kunde. Det kan være navn, adresse, telefonnummer og e-post. Vi samler også informasjon om deg automatisk. Det gjør vi for å forstå hvordan du bruker tjenestene våre. Dagsavisen tar vare på opplysningene dine på en sikker måte slik loven krever
+Les mer om hva vi samler inn
+Vi samler ikke bevisst inn informasjon fra barn under 16 år.Les mer om opplysninger om barn
+Informasjonen kan bli utlevert til offentlige myndigheter.Les mer om opplysninger om utlevering av personopplysninger
+For å kunne gi deg et bra produkt, vil vi bruke informasjonen til å kontakte deg.Les mer om kommunikasjon
+Opplysninger om deg og din bruk av tjenestene deles med andre selskaper i Mentor Medier for å kunne levere tjenesten du har bestilt.
+Har du spørsmål om personopplysningene dine? Kontakt kundeservice på telefon 22 99 80 50
+Behandlings­ansvarlig
+Hvorfor samler vi inn person­opplysninger?
+Hvilke typer person­opplysninger samler vi inn?
+Hvordan bruker vi person­opplysninger?
+Hvordan bruker vi informasjons­kapsler?
+Informasjonskapsler (ofte kalt cookies) lagrer ulike typer data lokalt på din enhet via nettleseren din. Slike lokalt lagrede data kan for eksempel inneholde brukerinnstillinger, informasjon om hvordan du har surfet på våre nettsider, hvilken nettleser du bruker, hvilke annonser du har blitt vist og tilsvarende atferd hos nettsteder.
+I Dagsavisen bruker vi for eksempel informasjonskapsler til å lagre din påloggingsinformasjon slik at du direkte får tilgang til alt ditt abonnement gir deg.
+Ved å benytte Dagsavisen sine nettsider, som for eksempel dagsavisen.no, samtykker du i at vi kan sette informasjonskapsler i din nettleser.
+Det finnes forskjellig typer av informasjonskapsler, som kan deles inn på forskjellige måter.
+Etter utløpstid
+Sesjonslagring - inneholder kun data fra ditt nåværende besøk. Når du avslutter besøket (sesjonen) vil data bli slettet fra din enhet. Når du for eksempel stenger alle åpne nettleservinduer eller slår enheten helt av, vil den sesjonsbaserte dataen slettes automatisk.
+Vedvarende lagring - denne informasjonen forblir lagret etter at du avslutter din sesjon, inntil en bestemt dato. Den varierer med formålet, og kan være i morgen, neste uke, eller neste år. Vedvarende lagring kan slettes manuelt i nettleseren din.
+Etter hvilket domene de tilhører
+Førstepart - plasseres av den som driver nettstedet du er på. Dette er lokal lagring vi setter selv, blant annet for at nettsiden skal fungere og for at du som bruker skal få en best mulig opplevelse.
+Tredjepart - settes av andre enn den som driver nettstedet. Dette kan for eksempel være annonsører som ønsker å måle effekten av annonser. Disse informasjonskapslene er underlagt de respektive personvernreglene for de eksterne tjenestene, for eksempel Facebooks retningslinjer for databruk.
+Piksler og andre teknologier som ligner
+I tillegg til informasjonskapsler bruker vi noen ganger små grafiske bilder kalt «piksler» (også kjent som «web beacons», «clear GIFs» eller «pixel tags»). Vi bruker piksler i e-postene vi sender deg (hvis du har valgt å motta slik kommunikasjon) for å få vite om e-postene har blitt vist. Dessuten bruker vi piksler fra tredjeparter (f.eks. Google, Facebook og andre annonsenettverk) for å kunne levere annonser som er relevante i forhold til interessene dine. Dette er filer som kommer fra vårt annonsenettverk og vår trafikkleverandør, og som sporer aktiviteten på ulike nettsteder. Filene lar annonsesystemet kjenne igjen informasjonskapsler og hvilken enhet du er på, for å forstå hvilke annonser som skal vises og hvilke som har vært vist.
+Hvorfor bruker vi informasjonskapsler?
+Vi bruker vi informasjonskapsler for å gi deg relevant informasjon når du besøker nettstedet vårt. For eksempel kan vi lagre historikken over hvilke annonser du har sett i din nettleser, og se hvilke kategorier du har vist interesse for den siste uken.
+Vi bruker også lokal lagring for å forenkle og forbedre våre tjenester, gi deg relevant informasjon når du besøker tjenestene våre, måle trafikk og for å samle statistikk.
+Noen av informasjonskapslene er helt avgjørende for at du skal kunne navigere på nettstedene våre og bruke deres funksjoner. Uten disse informasjonskapslene virker ikke tjenester som for eksempel handlekurven i våre nettbutikker, automatisk innlogging og saksanbefalinger. Andre informasjonskapsler går mer på ytelse og de samler inn informasjon om hvordan du bruker nettstedene våre. Disse dataene kan brukes til å optimalisere nettstedet vårt og gjøre det enklere for deg å navigere.
+Informasjonskapsler for funksjonalitet gjør at nettstedene våre kan huske valg du gjør og tilpasse opplevelsen for deg. For eksempel kan vi lagre din geografiske plassering i en informasjonskapsel, slik at vi kan vise deg de nettsidene som er relevante for ditt område
+Vi bruker informasjonskapsler for analyse, f.eks. de som tilbys av Google Analytics, for å finne ut ting som hvor lenge besøkende blir værende på nettstedene våre, hvilke sider de finner mest nyttige, og hvordan de kom til våre nettsider.
+I tillegg kan vi bruke informasjonskapsler fra tredjeparter for å måle og analysere bruken av nettsidene og se atferdsmønstre for å:
+Sette sammen målgrupper til markedsføringsformål.
+Forenkle annonsestyring.
+Forbedre funksjonaliteten på nettsidene.
+Hva med informasjonskapsler fra annonsører og andre tredjeparter?
+Når du bruker våre tjenester kan annonsører og andre tredjeparter plassere informasjonskapsler for å måle og analysere effekten på annonsering. I tillegg brukes de for å øke relevansen til annonser som vises, samt unngå annonsesvindel. Vi har utarbeidet strenge retningslinjer for hvordan slike aktører kan samle inn og bruke data om våre besøkende.  
+Hvordan kan jeg styre informasjonskapsler fra annonsører og andre tredjeparter?
+Listen nedenfor består av de vanligste annonseverktøyene. I tillegg vil det være ulike tredjepartsverktøy avhengig av hvilke annonser som lastes på sidene våre. Dagsavisen krever at alle disse begrenser sin bruk av data i tråd med vår datapolicy for annonsører. En rekke aktører lar deg også sette innstillinger som begrenser dataene som brukes for å vise deg annonser på sider som youronlinechoices.com og youradchoices.com.
+
+MERK: Enhver begrensning eller stopp av cookies vil redusere funksjonalitet på våre nettsider, og kan føre til uønskede konsekvenser som at automatisk innlogging vil slutte å fungere, saksanbefalinger blir mindre relevante mm.
+--------TABLE--------
+ Navn, Mulighet for deaktivering
+ Adform, http://site.adform.com/privacy-policy/en/
+ Google DoubleClick      , https://support.google.com/ads/answer/2662922?hl=no
+ Audience Science, https://www.audiencescience.com/privacy/
+ C3 Metrics, https://c3tag.com/
+ Criteo, http://www.criteo.com/privacy/
+---------------------Hvordan kan jeg se hvilke informasjonskapsler som lagres i nettleseren?
+I innstillingene til nettleseren finner du som regel en oversikt over alle informasjonskapsler som er lagret, slik at du eventuelt kan slette de du ikke ønsker. Nettleseren lagrer vanligvis alle informasjonskapsler i en bestemt mappe på harddisken, slik at du også kan undersøke innholdet i mer detalj.
+Det finnes også tjenester som er utviklet nettopp for at brukere skal kunne følge med på informasjonskapsler og andre sporingsmekanismer, for eksempel eller.
+Hvordan kan jeg administrere informasjonskapsler i nettleseren?
+De fleste nettlesere er innstilt på å akseptere informasjonskapsler automatisk, men du kan selv endre innstillingene slik at informasjonskapsler ikke blir akseptert. Husk at dette kan føre til at våre nettsider ikke fungerer optimalt. For eksempel kan du bli nødt til å logge deg på nytt hver gang.
+De samme innstillingene lar deg vanligvis velge hvilke nettsteder du tillater informasjonskapsler fra, inkludert tredjeparter som er tilknyttet nettsidene. Du kan også be om å bli varslet hver gang en ny informasjonskapsel blir lagret.
+Slik går du frem for å slette informasjonskapsler i ulike nettlesere
+Den nøyaktige fremgangsmåten avhenger av enheten din og hvilken nettleser du bruker:
+Cookieinnstillinger i Internet Explorer
+Cookieinnstillinger in Firefox
+Cookieinnstillinger i Google Chrome
+ og.
+Hvis du ønsker å begrense informasjonskapsler som brukes til annonsering, kan du laste ned en blank informasjonskapsel (”opt-out cookie”) fra våre ulike annonsepartnere, eller bruke egne løsninger som for eksempel youronlinechoices.com.
+Slik går du frem for å bruke våre nettsider uten å legge igjen spor
+Du kan enten åpne nettleseren din i «Inkognitomodus». Dette gjør du som regel ved å høyreklikke på nettleserikonet og velge «Nytt Inkognitovindu» i Chrome, «Starte In-private visning» i Explorer eller «Nytt privat vindu» i Firefox. På mobiltelefon / nettbrett (Android) kan du holde ikonet inne for å få opp tilsvarende valgmuligheter, eller velge «privat» i nettleser på Apple-produkter.
+Deles informasjonen med andre?
+Dine rettigheter og valgmuligheter
+Hvordan kan du kontakte oss?
+ 
+

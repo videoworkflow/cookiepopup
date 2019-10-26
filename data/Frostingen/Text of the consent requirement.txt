@@ -1,0 +1,24 @@
+Personvernerklæring
+Personvernerklæringen handler om hvordan denne nettsiden samler inn og bruker informasjon om besøkende. Erklæringen inneholder informasjon du har krav på når det samles inn opplysninger fra nettstedet vårt, og generell informasjon om hvordan vi behandler personopplysninger. Juridisk eier av nettsiden er behandlingsansvarlig for virksomhetens behandling av personopplysninger. Det er frivillig for de som besøker nettsidene å oppgi personopplysninger i forbindelse med tjenester som å motta nyhetsbrev og benytte del- og tipstjenesten. Behandlingsgrunnlaget er samtykke fra den enkelte, med mindre annet er spesifisert.
+ 
+1. Webanalyse og informasjonskapsler (cookies)
+Som en viktig del av arbeidet med å lage et brukervennlig nettsted, ser vi på brukermønsteret til de som besøker nettstedet. For å analysere informasjonen, bruker vi analyseverktøyet. Google Analytics bruker informasjonskapsler/cookies (små tekstfiler som nettstedet lagrer på brukerens datamaskin), som registrerer brukernes IP-adresse, og som gir informasjon om den enkelte brukers bevegelser på nett. Eksempler på hva statistikken gir oss svar på er; hvor mange som besøker ulike sider, hvor lenge besøket varer, hvilke nettsteder brukerne kommer fra og hvilke nettlesere som benyttes. Ingen av informasjonskapslene gjør at vi kan knytte informasjon om din bruk av nettstedet til deg som enkeltperson. Informasjonen som samles inn av Google Analytics, lagres på Googles servere i USA. Mottatte opplysninger er underlagt. En IP-adresse er definert som en personopplysning fordi den kan spores tilbake til en bestemt maskinvare og dermed til en enkeltperson. Vi bruker Google Analytics sin sporingskode som før informasjonen lagres og bearbeides av Google. Dermed kan ikke den lagrede IP-adressen brukes til å identifisere den enkelte brukeren.
+ 
+2. Søk
+Hvis nettsiden har søkefunksjon så lagrer informasjon om hvilke søkeord brukerne benytter i Google Analytics. Formålet med lagringen er å gjøre informasjonstilbudet vårt bedre. Bruksmønsteret for søk lagres i aggregert form. Det er bare søkeordet som lagres, og de kan ikke kobles til andre opplysninger om brukerne, slik som til IP-adressene.
+ 
+3. Del/tips-tjenesten
+Funksjonen "Del med andre" kan brukes til å videresende lenker til nettstedet på e-post, eller til å dele innholdet på sosiale nettsamfunn. Opplysninger om tips logges ikke hos oss, men brukes kun der og da til å legge inn tipset hos nettsamfunnet. Vi kan imidlertid ikke garantere at nettsamfunnet ikke logger disse opplysningene. Alle slike tjenester bør derfor brukes med vett. Dersom du benytter e-postfunksjonen, bruker vi bare de oppgitte e-postadressene til å sende meldingen videre uten noen form for lagring.
+ 
+4. Nyhetsbrev
+Nettsiden kan sende ut nyhetsbrev via epost hvis du har registrert deg for å motta dette. For at vi skal kunne sende e-post må du registrere en e-postadresse. Mailchimp er databehandler for nyhetsbrevet. E-postadressen lagres i en egen database, deles ikke med andre og slettes når du sier opp abonnementet. E-postadressen slettes også om vi får tilbakemelding om at den ikke er aktiv.
+ 
+5. Påmelding, skjema
+Nettsiden kan ha skjema for påmelding, kontaktskjema eller andre skjema. Disse skjemaene er tilgjengeliggjort for publikum for å utføre de oppgaver de er ment å gjøre. Påmeldingsskjema er for at besøkende kan melde seg på eller registrere seg. Kontaktskjema er for at besøkende enkelt kan sende en melding til nettsidens kontaktperson. Vi ber da om navnet på innsender og kontaktinformasjon til denne. Personopplysninger vi mottar blir ikke benyttet til andre formål enn å svare på henvendelsen. Skjema sendes som epost via Mailgun som tredjepartsløsning. Hele innsendelen blir lagret hos Mailgun i 24 timer. Mellom 24 timer og 30 dager er det kun mailheader som blir oppbevart før innsendelsen blir slettet etter 30 dager. Årsaken til denne lagringen er for å bekrefte om eposter blir sendt fra nettsiden og videresendt til riktig mottaker. Når eposten er mottatt av mottaker så er det opp til mottaker å avgjøre Databehandlingsbehovet av eposten.
+ 
+6. Side- og tjenestefunksjonalitet
+Det blir brukt informasjonskapsler i drift og presentasjon av data fra nettsteder. Slike informasjonskapsler kan inneholde informasjon om språkkode for språk valgt av brukeren. Det kan være informasjonskapsler med informasjon som støtter om lastbalanseringen av systemet slik at alle brukere blir sikret en best mulig opplevelse. Ved tjenester som krever innlogging eller søk kan det bli brukt informasjonskapsler som sikrer at tjenesten presenterer data til rett mottaker.
+ 
+7. Hvordan håndtere informasjonskapsler i din nettleser
+På kan du lese om hvordan du og få.
+

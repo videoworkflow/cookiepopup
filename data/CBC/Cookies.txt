@@ -1,0 +1,67 @@
+First party cookies (48) - Third party cookies (9)
+
+
+First party cookies
+--------TABLE--------
+ __atuvc
+ __gads
+ _cb
+ _cb_ls
+ _cb_svref
+ _chartbeat2
+ _chartbeat4
+ _chartbeat5
+ _ga
+ _qca
+ _vfa
+ _vfb
+ _vff
+ _vfz
+ _zendesk_session
+ _zendesk_shared_session
+ akaas_feed
+ Akamai_AnalyticsMetrics_clientId
+ AkamaiAnalytics_BrowserSessionId
+ AkamaiAnalytics_VisitCookie
+ AkamaiAnalytics_VisitIsPlaying
+ AkamaiAnalytics_VisitLastCloseTime
+ AkamaiAnalytics_VisitUnqueTitles
+ AkamaiAnalyticsDO_bitRateBucketsCsv
+ AkamaiAnalyticsDO_visitMetricsCsv
+ AkamaiAnalyticsDO_visitStartTime
+ AMCV_951720B3535680CB0A490D45%40AdobeOrg
+ AMCVS_951720B3535680CB0A490D45%40AdobeOrg
+ 
+ avcaff_captions
+ avcaff_volume
+ CBC_ID
+ cbc-session
+ cbc_privacy_notification
+ cbclocal
+ cbconboarding
+ cbc_plus
+ cbcvideoheartbeatplayer
+ cbc_visitor
+ cX_G
+ cX_P
+ cX_S
+ deviceId
+ deviceToken
+ s_pers
+ s_sess
+ s_vi
+ SC_LINKS
+---------------------
+
+Third party cookies
+--------TABLE--------
+ gckp, Set by Cxense. We use Cxense to enable search in CBC's products.
+ gcks, Third Party Cookie set by cxense.
+ _cc_aud," Set by Lotame, our Data Management Platform, this cookie stores audience segment device information. We use Lotame to better understand our audiences and target personalized content and advertising. To opt-out from Lotame tracking, click here."
+ _cc_cc," Set by Lotame, our Data Management Platform. We use Lotame to better understand our digital audiences and target personalized content and advertising. To opt-out from Lotame tracking, click here."
+ _cc_dc," Set by Lotame, our Data Management Platform. We use Lotame to better understand our digital audiences and target personalized content and advertising. To opt-out from Lotame tracking, click here."
+ _cc_domain," Set by Lotame, our Data Management Platform, to remember the domain of the CBC sites you have visited. We use Lotame to better understand our digital audiences and target personalized content and advertising. To opt-out from Lotame tracking, click here."
+ _cc_id," Set by Lotame, our Data Management Platform, as a unique, anonymous identifier for each web browser. We use Lotame to better understand our digital audiences and target personalized content and advertising. To opt-out from Lotame tracking, click here."
+ UID, Allows CBC to compare utility delivered to Canadians against other media companies.
+ UIDR, Allows CBC to compare utility delivered to Canadians against other media companies.
+--------------------- 

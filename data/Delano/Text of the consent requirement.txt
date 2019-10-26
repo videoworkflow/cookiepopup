@@ -1,0 +1,211 @@
+Politique de confidentialité 
+Date d’entrée en vigueur : 10 juillet 2018
+ 
+Chez MM Publishing and Media SA (« nous », « notre » ou « nos »), nous prenons très au sérieux les questions de confidentialité et de respect de la vie privée. Nous avons mis au point la présente politique de confidentialité (la « Politique de confidentialité ») afin de définir clairement et d’expliquer comment nous nous engageons en permanence à respecter vos droits à la vie privée, comment nous collectons les données à caractère personnel via votre utilisation de nos sites Web (www.maisonmoderne.com, paperjam.lu, guide.paperjam.lu, club.paperjam.lu,  jobs.paperjam.lu, archiduc.lu, delano.lu, jobs.delano.lu, explorator.lu), de nos lettres d’information et de nos applications mobiles (le « Service »), et comment nous utilisons et divulguons ces données à caractère personnel.
+​
+Tout traitement de vos données à caractère personnel est effectué conformément aux lois applicables à la protection des données, y compris, sans s’y limiter, au Règlement général européen sur la protection des données 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
+​
+En utilisant nos Services, vous reconnaissez avoir été informé de cette Politique de confidentialité et que vous la comprenez et en acceptez le contenu.
+​
+​
+Définitions
+Données à caractère personnel 
+« Données à caractère personnel » désigne toute information permettant l’identification directe ou indirecte d’une personne physique.
+​
+Données d’utilisation
+« Données d’utilisation » désigne les données collectées automatiquement et générées par l’utilisation des Services ou de l’infrastructure même d’un Service (comme la durée de visite d’une page, par exemple).
+​
+Cookies 
+« Cookies » désigne de petits fichiers qui sont stockés sur le disque dur de votre ordinateur ou dans la mémoire de votre navigateur lorsque vous utilisez nos Services.
+​
+Responsable du traitement
+« Responsable du traitement » désigne la personne qui, seule ou conjointement avec d’autres, détermine les finalités et les moyens par lesquels les données à caractère personnel sont, ou seront, traitées.
+Aux fins de la présente Politique de confidentialité, nous sommes le Responsable du traitement de vos données à caractère personnel.
+​
+Sous-traitants (ou Prestataires de services)
+Sous-traitant (ou Prestataire de services) désigne toute personne (autre qu’un employé du Responsable du traitement) qui traite des données à caractère personnel pour le compte du Responsable du traitement.
+Nous pourrions être amenés à utiliser plusieurs prestataires de services afin de traiter plus efficacement vos données à caractère personnel.
+ 
+Personne concernée
+« Personne concernée » désigne toute personne physique, identifiée ou identifiable, concernée par des données à caractère personnel.
+​
+Utilisateur
+L’utilisateur désigne tout individu qui utilise nos services. L’utilisateur correspond à la personne concernée par les données à caractère personnel (« vous » ou « votre », « vos »).
+​
+​
+Collecte d’informations
+Nous collectons des informations de différente nature, y compris des données à caractère personnel, afin de vous fournir un service personnalisé et de l’améliorer.
+​
+Nous nous efforçons de préserver l’exactitude des données à caractère personnel que nous détenons ou contrôlons. Les personnes concernées qui fournissent des données à caractère personnel sont toutefois tenues de nous informer rapidement de toute modification de leurs données à caractère personnel.
+​
+Soyez informés que vous avez le droit de refuser de nous fournir vos données à caractère personnel ; pour autant, sachez que le fait de ne pas nous fournir certaines données en particulier (comme, par exemple, les données requises pour nous contacter) nous empêchera malheureusement de vous répondre ou de vous assurer la fourniture de notre service, voire de conclure un accord ou de maintenir l’accord en cours entre vous et nous dans le cadre de notre service.
+​
+ 
+Quand collectons-nous vos données à caractère personnel ?
+Nous collectons notamment vos données à caractère personnel lorsque :
+vous naviguez sur nos sites Web et via nos applications mobiles, et utilisez par conséquent nos services ;
+vous vous connectez à nos services ;
+vous assistez à un événement ;
+vous vous abonnez à nos lettres d’information ;
+vous postulez pour un emploi et/ou vous inscrivez pour recevoir des alertes d’emploi ;
+vous utilisez notre boutique en ligne et y achetez des produits ;
+vous nous demandez que nous vous contactions ;
+vous postulez pour devenir membre, conférencier ou parrain ;
+vous téléchargez des documents et nos applications.
+ 
+Remarque importante : la plupart du temps, nous collectons les données à caractère personnel directement auprès de la personne concernée. Mais si vous fournissez des informations, notamment des données à caractère personnel, au nom d’une tierce personne (comme, par exemple, l’un de vos employés), vous vous engagez à le faire conformément aux lois applicables en matière de protection des données et, en particulier, à informer le tiers en question du traitement de ses données, et à lui fournir la présente politique de confidentialité.
+​
+ 
+Types de données à caractère personnel collectées 
+Données à caractère personnel
+Lors de l’utilisation de notre service, nous pourrions vous demander de nous fournir des données à caractère personnel pouvant inclure, sans que la liste soit exhaustive :
+des informations d’identification telles que nom et prénom, date et lieu de naissance ;
+des coordonnées telles que courriel, numéro de téléphone, adresse, code postal, ville, pays de résidence ;
+des informations professionnelles, telles que la société qui vous emploie ou que vous représentez, votre rôle, votre position, le pays où vous travaillez ;
+votre nom et votre photographie lorsque vous participez à nos événements ;
+vos loisirs et vos domaines d’intérêt ;
+les produits achetés ;
+des informations sur votre expérience professionnelle (CV, lettre de motivation) ;
+des données à caractère personnel contenues dans les cookies ;
+tout autre type de données à caractère personnel qui nous seront fournies dans le cadre de l’utilisation des services.
+ 
+Données d’utilisation
+Nous pourrions également collecter des informations que nous envoie votre navigateur lorsque vous visitez notre Service ou que vous y accédez, par le biais de nos sites Web, nos lettres d’information ou via un dispositif mobile.
+​
+Ces données d’utilisation peuvent inclure des informations telles que l’adresse IP de votre ordinateur, le type de navigateur, sa version, les pages visitées de notre service, l’heure et la date de votre visite, la localisation, le temps passé sur ces pages, ainsi que les identifiants uniques de vos dispositifs ou d’autres données de diagnostic.
+​
+Lorsque vous accédez au service au moyen d’un appareil mobile, ces données d’utilisation peuvent inclure des informations telles que le type de dispositif que vous utilisez, son identifiant unique, l’adresse IP de votre dispositif mobile, votre système d’exploitation mobile, la localisation, le type de navigateur Internet mobile que vous utilisez, les identifiants uniques de vos dispositifs ou d’autres données de diagnostic.
+​
+Données de localisation
+Nous pouvons aussi utiliser et stocker des informations sur votre localisation (« Données de localisation »). Nous utilisons ces données pour vous fournir diverses fonctionnalités de notre service, l’améliorer et le personnaliser.
+​
+Données des cookies et traçabilité
+Nous utilisons des cookies et des technologies de traçabilité pour suivre votre activité sur notre Service et conserver certaines informations.
+​
+Les cookies sont des fichiers avec de petites quantités de données pouvant contenir des données à caractère personnel ou inclure un identifiant unique, anonyme. Les cookies sont envoyés à partir d’un site Web sur votre navigateur et stockés sur votre dispositif. Les technologies de traçabilité telles que les balises Web, les étiquettes et les scripts sont utilisées pour collecter et suivre les informations, ainsi que pour analyser et améliorer notre service.
+​
+Vous pouvez paramétrer votre navigateur pour qu’il refuse tous les cookies ou qu’il vous indique lorsqu’un cookie est envoyé. Cependant, si vous n’acceptez pas les cookies, vous pourriez ne pas être en mesure d’utiliser certaines parties de notre Service ou risquer qu’il ne fonctionne pas correctement. À moins que vous ayez modifié les paramètres de votre navigateur pour qu’il refuse les cookies, votre système continuera d’accepter les cookies lorsque votre navigateur vous dirigera vers notre service. L’acceptation des cookies signifie que vous autorisez la communication entre votre ordinateur et notre service, tel que décrit dans la présente section.
+​
+Exemples de cookies que nous utilisons :
+Cookies de session : nous utilisons des cookies de session, qui ne durent que le temps de votre visite, afin de faire fonctionner notre service (ces cookies nous empêchent par exemple d’identifier à chaque page une même personne ayant un identifiant unique et passant d’une page à l’autre).
+Cookies de préférence : nous utilisons des cookies de préférence, qui perdurent après votre session, afin de mémoriser vos préférences et vos différents paramètres (par exemple, lorsque vous utilisez notre service, ces cookies nous permettent de vous offrir une expérience utilisateur améliorée).
+Cookies de sécurité : comme leur nom l’indique, nous utilisons ces cookies à des fins de sécurité (pour protéger vos informations de connexion, par exemple).
+Cookies publicitaires : les cookies publicitaires sont utilisés pour vous servir des annonces les plus pertinentes possibles en fonction de qui vous êtes et de vos intérêts.
+ 
+Certains des cookies ci-dessus sont des cookies tiers. Vous êtes libre de consentir ou non à leur utilisation, via une bannière qui s’affichera sur votre écran. Nous utilisons :
+Cookies analytiques : cookies tiers servant à surveiller et analyser l’utilisation de notre service. Google Analytics est un service d’analyse Web proposé par Google, qui permet d’assurer la traçabilité et de générer des rapports sur le trafic du site Web. Google utilise les données collectées pour tracer et contrôler l’utilisation de notre service. Ces données sont partagées avec d’autres services de Google. Google peut également utiliser les données collectées pour contextualiser et personnaliser les annonces de son propre réseau publicitaire.
+Pour obtenir davantage d’informations sur les règles de confidentialité de Google, consultez la page Web relative à la confidentialité et aux conditions d’utilisation de Google : 
+Cookies publicitaires : nous pourrions utiliser des prestataires de services tiers pour vous afficher des publicités, afin de nous aider à soutenir et maintenir notre service.
+Cookies de Google AdSense et de DoubleClick : Google, en tant que régie tierce, utilise des cookies pour diffuser des annonces sur notre Service. L’utilisation du cookie DoubleClick permet à Google et à ses partenaires de servir des annonces à nos utilisateurs en fonction des visites qu’ils font à notre service ou à d’autres sites sur Internet.
+Vous pouvez adapter l’utilisation du cookie DoubleClick à la publicité ciblée par centres d’intérêt en accédant à la page Web de paramétrage des annonces de Google :
+ 
+Lorsque nous fournissons nos services, nous pouvons également utiliser des balises Web. Les pages de notre service peuvent également contenir des images électroniques connues sous le nom de balises pixels (ou pixels invisibles, pixels espions, etc.). Ces balises Web nous permettent de collecter certaines informations concernant les utilisateurs de notre service, comme, à titre d’exemple, le nombre d’utilisateurs accédant à chaque page Web, les données de trafic, de localisation, les journaux de connexion et autres données de communication, des informations relatives à l’accès aux ressources ou à l’ordinateur de l’utilisateur et à sa connexion Internet (y compris les adresses IP, les systèmes d’exploitation et le type de navigateur). Les balises Web sont utilisées uniquement pour tracer les taux d’ouverture de nos lettres d’information.
+​
+Finalités du traitement
+ 
+MM Publishing and Media SA utilise les données à caractère personnel collectées sur la base d’une ou de plusieurs des finalités suivantes :
+Le traitement est nécessaire à l’exécution d’un contrat ou à la stipulation d’un contrat avec vous ;
+Le traitement est nécessaire pour nous permettre de respecter une obligation légale, par exemple pour nous conformer au droit commercial applicable et à toute obligation réglementaire, ainsi que pour nous permettre de répondre aux requêtes et autres exigences des autorités publiques ;
+Le traitement est nécessaire en raison de nos intérêts légitimes ou de ceux d’un tiers, comme, par exemple, (i) dans le cadre des services : pour fournir et maintenir notre service, répondre à vos questions ou vous fournir le service demandé, vous permettre d’interagir avec les fonctionnalités de notre service lorsque vous décidez de le faire, vous informer des changements apportés à notre service, fournir un SAV à notre clientèle, surveiller l’utilisation de notre service et collecter des analyses ou de précieuses informations en vue d’améliorer notre service conformément aux lois applicables, détecter, prévenir et résoudre les problèmes techniques, vous fournir des actualités, des lettres d’information, des offres spéciales et des informations générales sur d’autres biens, services et événements que nous offrons, toujours en conformité avec les lois applicables, afin de présenter notre service et ses contenus de manière efficace et appropriée à votre intention, ainsi que pour appliquer nos politiques et d’autres conventions ; et (ii) hors du cadre du service : pour gérer nos relations avec nos fournisseurs, nos prestataires de services et nos sous-traitants, de même que pour prévenir des fraudes, gérer des litiges et protéger les droits, la propriété ou la sécurité de MM Publishing and Media SA et de ses filiales ;
+Vous avez donné votre consentement préalable pour recevoir, par exemple, dès lors que votre consentement est requis, des communications commerciales de notre part ou encore provenant de tiers, ou bien pour que nous puissions utiliser des cookies tiers.
+ 
+Nous pouvons utiliser vos données à caractère personnel pour vous contacter à votre demande, ou via des lettres d’information, des opérations marketing ou commerciales de ventes, des événements ou via du matériel promotionnel et d’autres informations susceptibles de vous intéresser, toujours dans le respect des lois applicables. Concernant les messages commerciaux que nous vous adressons lorsque votre consentement n’est pas légalement requis, vous pouvez refuser de recevoir tout ou partie de ces communications en suivant le lien de désabonnement ou les instructions fournies dans les courriels que nous vous envoyons, voire en nous contactant directement. Lorsque vous participez à nos événements, nous pouvons aussi utiliser votre photo dans nos lettres d’information, nos sites Web et/ou nos publications imprimées.
+​
+Aucune décision automatisée ne sera prise en lien avec les données à caractère personnel traitées.
+​
+Conservation des données à caractère personnel
+ 
+MM Publishing and Media SA ne conservera vos données à caractère personnel que pendant le temps indispensable aux finalités énoncées dans la présente politique de confidentialité. Nous ne conserverons et utiliserons vos données à caractère personnel que dans la mesure nécessaire pour être en conformité avec nos obligations légales (dès lors que nous sommes tenus de conserver vos données à caractère personnel, par exemple, pour nous conformer aux lois applicables), pour résoudre des litiges et mettre en application nos accords juridiques et nos politiques.
+​
+MM Publishing and Media SA conservera également les données d’utilisation à des fins d’analyse interne, et conformément aux lois applicables en matière de protection des données lorsque les données d’utilisation font référence à des données à caractère personnel. La durée de conservation des données d’utilisation est généralement moins longue, sauf lorsqu’elles sont utilisées pour renforcer la sécurité ou améliorer les fonctionnalités de notre service, ou bien lorsque nous sommes légalement obligés de les conserver pendant plus longtemps.
+​
+Divulgation de données à caractère personnel
+ 
+Aux fins décrites ci-dessus, nous pouvons communiquer des données à caractère personnel aux destinataires suivants : autres entités membres de MM Publishing and Media SA, partenaires commerciaux, sous-traitants, prestataires de services externes, conseillers professionnels, acheteurs ou vendeurs de nos actifs (le cas échéant), ainsi qu’à des organismes publics, des autorités administratives ou juridiques et des organes de surveillance, selon le cas.
+​
+Transfert de données à caractère personnel
+ 
+Les informations vous concernant, y compris les données à caractère personnel, pourront être transférées vers - et conservées sur - des ordinateurs situés en dehors de votre état, province, pays ou de toute autre juridiction gouvernementale, là où les lois sur la protection des données pourraient être différentes de celles de votre juridiction.
+​
+Lorsque les destinataires des transferts de données à caractère personnel sont situés hors du territoire de l’Espace économique européen, dans des pays n’offrant pas un niveau de protection équivalent à celui accordé dans l’Union européenne, nous nous engageons à ce que ce transfert, selon sa nature :
+soit couvert par des garanties adéquates telles que des clauses contractuelles types agréées par la Commission européenne, auquel cas vous pourrez obtenir une copie de ces garanties en nous contactant ; ou
+soit autrement autorisé en vertu des lois sur la protection des données, le cas échéant, ce transfert étant nécessaire pour l’exécution d’un contrat conclu dans votre intérêt ou pour la constatation, l’exercice ou la défense d’un droit en justice ou pour l’exécution d’un contrat entre vous et nous.
+ 
+MM Publishing and Media SA prendra toutes les mesures raisonnablement nécessaires pour s’assurer que vos données à caractère personnel soient traitées en toute sécurité, conformément à la présente politique de confidentialité et aux lois applicables en matière de protection des données, et qu’aucun transfert à un destinataire quelconque de vos données à caractère personnel n’ait lieu sans la mise en place de contrôles de sécurité adéquats, notamment en termes de sécurité de vos données à caractère personnel.
+​
+Sécurité des données à caractère personnel
+ 
+La sécurité de vos données à caractère personnel est importante pour nous, mais rappelez-vous qu’aucune méthode de transmission sur Internet ni aucune méthode de stockage électronique n’est sécurisée à 100 %. Bien que nous nous efforcions d’utiliser des moyens commercialement acceptables pour protéger vos données à caractère personnel, nous ne pouvons en garantir la sécurité absolue.
+​
+La sécurité de vos données à caractère personnel signifie également que nous nous engageons à déployer tous nos efforts pour les protéger contre toute violation. Nous mettons en œuvre des mesures de sécurité techniques et organisationnelles adéquates telles que, en fonction des équipements, une protection par mot de passe, des verrous physiques, etc., pour garantir un niveau de sécurité adapté aux risques que représentent le traitement et la nature des données à caractère personnel à protéger.
+​
+Nos employés n’ont accès aux données à caractère personnel que dans le but d’accomplir leurs tâches professionnelles. Ils sont soumis à une obligation de confidentialité et reçoivent une formation et une documentation qui leur permettent d’améliorer leurs compétences et leurs connaissances en matière de protection des données.
+​
+Vos droits
+ 
+Concernant vos données à caractère personnel, vous avez le droit :
+d’accéder aux données à caractère personnel vous concernant et de recevoir des informations complémentaires sur la façon dont elles sont traitées ;
+de rectifier toutes données à caractère personnel incorrectes ou de les compléter ;
+de demander l’effacement de vos données à caractère personnel lorsque leur traitement n’est plus nécessaire aux fins décrites ci-dessus, lorsque le traitement n’est pas ou plus licite pour quelque raison que ce soit, lorsque vous avez retiré votre consentement au traitement conformément au droit applicable, lorsque l’effacement est nécessaire pour respecter le droit applicable ou lorsque vous vous opposez au traitement en l’absence de tout motif légitime impérieux pour justifier le traitement ;
+de vous opposer, pour des motifs liés à votre situation particulière, à tout traitement fondé sur notre intérêt légitime ;
+de recevoir vos données à caractère personnel et de les transmettre à un autre responsable du traitement dans la mesure où la légitimité du traitement repose sur l’exécution d’un contrat et le traitement est automatisé ;
+de retirer votre consentement au traitement à tout moment, dans la mesure où votre consentement justifie ce traitement ;
+de chercher à limiter le traitement, par exemple lorsque vous contestez l’exactitude des données à caractère personnel ou lorsque le traitement n’est pas ou plus conforme, à l’exception du stockage, traité uniquement dans des cas spécifiques (par exemple pour la constatation, l’exercice ou la défense de vos droits en justice).
+ 
+Nous répondrons aux réclamations et questions individuelles relatives à la confidentialité et nous enquêterons et chercherons à résoudre toutes les réclamations. Nous pourrons répondre favorablement à toute demande ci-dessus relative au droit d’opposition, au droit à l’effacement et au droit à la limitation uniquement à la condition qu’elle ne porte pas atteinte et qu’elle ne soit pas en contradiction avec nos obligations légales (comme, par exemple, une obligation légale de conserver les données à caractère personnel correspondantes) ou en raison de tout autre empêchement qui justifierait que nous ne puissions pas donner suite à ces demandes. Nous nous engageons à traiter chaque demande sans frais et dans un délai raisonnable (dans tous les cas dans un délai d’un mois au plus).
+​
+Vous pouvez également déposer une réclamation auprès de la Commission Nationale pour la Protection des Données du Luxembourg (la « CNPD »), ou auprès de votre autorité locale chargée de la protection des données si vous ne résidez pas au Luxembourg. Vous pouvez contacter la CNPD comme suit :
+Téléphone : (+352) 26 10 60 – 1
+Site Web :
+Formulaire Web :
+Adresse : 1, avenue du Rock’n’Roll, L-4361 Esch-sur-Alzette, Luxembourg
+ 
+Veuillez noter que nous vous demanderons de vérifier votre identité avant de répondre à ces demandes. Soyez informé que si vous ne nous autorisez pas à vérifier votre identité en nous communiquant les éléments demandés (un document d’identité officiel, par exemple) à des fins de sécurité, nous ne pourrons malheureusement pas répondre à vos demandes.
+​
+Prestataires de services
+ 
+Nous pourrions faire appel à des prestataires ou des individus tiers en vue de faciliter notre service (« Prestataires de services »), afin qu’ils fournissent le service à notre compte, qu’ils accomplissent les tâches liées au service ou qu’ils nous aident à analyser la façon dont notre service est utilisé.
+​
+Ces tiers n’auront accès à vos données à caractère personnel que pour effectuer ces tâches en notre nom, et ils sont tenus de ne pas les divulguer ni de les utiliser à d’autres fins, tel que décrit dans les sections ci-dessus, « Transfert de données à caractère personnel » et « Divulgation de données à caractère personnel ».
+​
+Paiements
+Nous pourrions fournir des produits et/ou des services payants dans le cadre du service. Dans ce cas, nous utilisons des prestataires de services tiers pour le traitement des paiements (sous-traitants chargés des paiements, par exemple).
+​
+Nous ne stockons ni ne collectons les détails de votre carte de paiement. Vous fournissez directement ces informations aux sous-traitants tiers chargés des paiements : l’utilisation qu’ils font de vos données à caractère personnel est régie par leur propre politique de confidentialité, que nous vous invitons à consulter lors du traitement d’un achat. Ces sous-traitants en charge des paiements respectent les exigences établies par la norme PCI-DSS. Cette norme de sécurité de l’industrie des cartes de paiement est gérée par le Conseil des normes de sécurité PCI, créé conjointement par des marques telles que Visa, Mastercard, American Express et Discover. Les exigences liées à la norme PCI-DSS garantissent le traitement sécurisé des informations de paiement.
+​
+Les sous-traitants en charge des paiements avec qui nous travaillons sont :
+Google Play In-App Payments : leur politique de confidentialité peut être consultée à l’URL 
+Stripe : leur politique de confidentialité peut être consultée à l’URL 
+PayPal ou Braintree : leur politique de confidentialité peut être consultée à l’URL 
+​
+Liens vers d’autres sites
+ 
+Notre service peut contenir des liens vers d’autres sites, exploités par d’autres que nous. Si vous cliquez sur le lien d’un tiers, vous serez redirigé vers le site de ce tiers. Nous vous conseillons vivement de consulter la politique de confidentialité de chaque site que vous visitez.
+​
+Nous n’avons aucun contrôle et n’assumons aucune responsabilité quant au contenu, aux politiques de confidentialité et aux pratiques de ces sites ou services tiers.
+​
+Respect de la vie privée des enfants
+ 
+Notre Service n’est destiné à aucun utilisateur âgé de moins de 18 ans (« Enfants »).
+​
+À notre connaissance, nous ne collectons pas de données à caractère personnel auprès de personnes de moins de 18 ans. Si vous êtes un parent ou un tuteur et êtes informé que vos enfants nous ont fourni des données à caractère personnel, merci de nous contacter. Si nous sommes informés du fait que nous avons collecté des données à caractère personnel auprès d’enfants sans vérification du consentement parental, nous prendrons des mesures pour éliminer ces informations de nos serveurs.
+​
+Modifications à la présente politique de confidentialité
+ 
+De temps à autre, nous pourrions actualiser notre politique de confidentialité. Nous vous informerons de toute modification en publiant sur cette page la nouvelle politique de confidentialité.
+​
+Nous vous le ferons savoir par courriel et/ou en publiant un avis bien visible sur notre service avant que toute modification n’entre en vigueur, et mettrons à jour la nouvelle « date d’entrée en vigueur » en l’inscrivant au début de la présente politique de confidentialité.
+​
+Nous vous conseillons cependant de consulter régulièrement la présente politique de confidentialité pour prendre connaissance de toute modification. Les modifications à la présente politique de confidentialité entrent en vigueur dès qu’elles sont publiées sur cette page. L’utilisation continue du Service de votre part est réputée être une acceptation desdites modifications.
+​
+Contactez-nous
+Nous avons nommé un délégué à la protection des données afin de gérer et de contrôler que nous nous conformons aux obligations en matière de protection des données. Vous pouvez contacter notre délégué à la protection des données pour toute question ou demande relative à la présente Politique de confidentialité, par courriel, à : privacy@maisonmoderne.com.
+​
+Vous pouvez également nous contacter aux coordonnées suivantes :
+En visitant la page de contact de notre site Web :
+En nous appelant au : (+352) 20 70 70
+Par courrier : 10 rue des Gaulois, L-1618 Luxembourg, LUXEMBOURG
+ 
+Politique de confidentialité de
+ 
+

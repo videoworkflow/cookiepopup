@@ -1,0 +1,109 @@
+Information storage and access (32) - Personalisation of content or advertisements (21) - Advertisement selection, delivery, reporting analytics (19) - Content selection, delivery, reporting analytics (16) - Essential Cookies (?) 
+
+
+Information storage and access 
+--------TABLE--------
+ Oath (EMEA) Limited
+ travel audience GmbH
+ RTB House S.A.
+ The Trade Desk
+ ADARA MEDIA UNLIMITED
+ AdRoll Inc
+ Blis Media Limited
+" Exponential Interactive, Inc"
+" Bidtellect, Inc"
+ Adform A/S
+ AppNexus Inc.
+ Conversant Europe Ltd.
+" Sizmek Technologies, Inc."
+ Teads
+ TabMo SAS
+" MediaMath, Inc."
+ Rakuten Marketing LLC
+ Adelphic LLC
+" PulsePoint, Inc."
+ Outbrain UK Ltd
+ Quantcast International Limited
+ BeeswaxIO Corporation
+ BIDSWITCH GmbH
+ Delta Projects AB
+" The Rubicon Project, Inc."
+ Adobe Advertising Cloud
+ Criteo SA
+" Amobee, Inc."
+ Impression Desk Technologies Limited
+" Centro, Inc."
+" Dataxu, Inc."
+ Pocketmath Pte Ltd
+---------------------
+
+Personalisation of content or advertisements 
+--------TABLE--------
+ Google Ad Manager
+ Oath (EMEA) Limited
+ BidTheatre AB
+ travel audience GmbH
+ The Trade Desk
+ ADARA MEDIA UNLIMITED
+ Inskin Media LTD
+ Blis Media Limited
+" Exponential Interactive, Inc"
+" Bidtellect, Inc"
+ Teads
+ TabMo SAS
+ Adelphic LLC
+" PulsePoint, Inc."
+ Outbrain UK Ltd
+ BIDSWITCH GmbH
+ Adobe Advertising Cloud
+ Criteo SA
+" Dataxu, Inc."
+ Pocketmath Pte Ltd
+ Simplifi Holdings Inc.
+---------------------
+
+Advertisement selection, delivery, reporting analytics 
+--------TABLE--------
+ travel audience GmbH
+ RTB House S.A.
+ ADARA MEDIA UNLIMITED
+ Inskin Media LTD
+ Blis Media Limited
+" Exponential Interactive, Inc"
+" Bidtellect, Inc"
+ TabMo SAS
+ Adelphic LL
+" PulsePoint, Inc."
+ Outbrain UK Ltd
+ BeeswaxIO Corporation
+ BIDSWITCH Gmb
+ Adobe Advertising Cloud
+ Criteo SA
+ Impression Desk Technologies Limited
+" Dataxu,"
+ Pocketmath Pte Ltd
+ Simplifi Holdings Inc.
+---------------------
+
+Content selection, delivery, reporting analytics 
+--------TABLE--------
+ travel audience GmbH
+" RhythmOne, LLC"
+ ADARA MEDIA UNLIMITED
+ Inskin Media LTD
+ Blis Media Limited
+" Exponential Interactive, Inc"
+" Bidtellect, Inc"
+" PulsePoint, Inc."
+ Outbrain UK Ltd
+ BeeswaxIO Corporation
+ BIDSWITCH GmbH
+ Adobe Advertising Cloud
+ Impression Desk Technologies Limited
+" Dataxu, Inc."
+ Pocketmath Pte Ltd
+ Simplifi Holdings Inc.
+---------------------
+
+Essential Cookies 
+Not listed

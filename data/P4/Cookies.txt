@@ -1,0 +1,17 @@
+First party cookies (6) - Third party cookies (51)
+
+First party cookies
+--------TABLE--------
+ Formål, Leverandør, Informasjonskapsel
+ Brukerfunksjoner, P4-gruppen, CookiesAccepted
+ Brukerfunksjoner, P4-gruppen," _gads, _ga, _gat_RollupProperty, _gid, i00"
+---------------------
+
+Third party cookies 
+--------TABLE--------
+ Formål, Leverandør, Informasjonskapsel
+ Annonser, Doubleclick," DSID, IDE, _gads"
+ Sosiale medier, Facebook," c_user, datr, dpr, fr, presence, sb, wd, xs"
+ Sosiale medier, Twitter," _utma, _utmz, _ga, _gid, _twitter_sess, auth_token, csrf_same_site_set, ct0, dnt, eu_cn, guest_id, kdt, netpu, personalization_id, remember_checked_in, syndication_guest_id, tfw_exp, twid, twitter_ads_id, lang"
+ Statistikk og annonser, Google," 1P_JAR, APISID, CONSENT, HSID, NID, SAPISID, SID, SIDCC, SSID, _ga, _gads, _ga, adptset_0042, evid_0042, evid_0057, evidref_0042, evidref_0057, evid_v_0042, evid_v_0057, trc_cookie_storage"
+---------------------

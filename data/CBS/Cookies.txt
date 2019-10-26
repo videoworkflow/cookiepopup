@@ -1,0 +1,84 @@
+Ad network (5) - Analytics Provider (6) - Demand Side Platform (5) - Content Management/SaaS (1) - Data Aggregator/Supplier (4) - Marketing Solutions (1) - Data Management Platform (2) - Ad Server (3) - Social Media (2) - Business Intelligence (1) - Ad Exchange (5) - Retargeter (2) - Ad Verification (1) - Optimizer (1) - Publisher (1)
+
+
+Ad network
+--------TABLE--------
+ 33Across
+ ADMIXER
+ 
+ 
+ 
+---------------------
+Analytics Provider 
+--------TABLE--------
+ 
+ Google Analytics
+ Neustar AdAdvisor
+ Qualtrics
+ Tealium
+ 
+---------------------
+
+Demand Side Platform
+--------TABLE--------
+ 
+ GetIntent
+ Tapad
+ The Trade Desk
+ Turn Inc.
+---------------------
+
+Content Management/SaaS 
+Adobe Creative Cloud
+
+Data Aggregator/Supplier
+
+--------TABLE--------
+ Adobe Experience Cloud (Audience Manager)
+ 
+ Neustar Marketing (Formerly PlatformOne)
+ Oracle Data Cloud
+---------------------
+Marketing Solutions
+Bombora
+
+Data Management Platform
+--------TABLE--------
+ Cedexis
+ Lotame
+---------------------
+Ad Server 
+--------TABLE--------
+ 
+ LiveIntent
+ SiteScout
+---------------------
+Social Media
+--------TABLE--------
+ Facebook for Developers (formerly Facebook Connect)
+ Pinterest
+---------------------
+Business Intelligence
+Full Circle Studies
+
+Ad Exchange
+--------TABLE--------
+ Index Exchange (Formerly Casale Media)
+ IPONWEB
+ OpenX
+ Rubicon Project
+ 
+---------------------
+Retargeter
+--------TABLE--------
+ MediaMath
+ Yieldr (formerly YD Group B.V.)
+---------------------
+Ad Verification
+Moat
+
+Optimizer
+Optimizely
+
+Publisher 
+Technorati

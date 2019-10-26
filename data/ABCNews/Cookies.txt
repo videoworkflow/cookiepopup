@@ -1,0 +1,39 @@
+Cookie companies, not classified (16) + (Nielsen Total Audience and Nielsen Marketing Cloud)?
+
+--------TABLE--------
+  , Company, Company Type, Status, Opt-out
+--------------------- 
+--------TABLE--------
+ ," Amobee, Inc.", Ad Server, opted-out,  , 
+ , , , , , 
+ , AppNexus Inc., Ad Network, opted-out,  , 
+ , , , , , 
+ ," AudienceScience, Inc.", Demand Side Platform (DSP), , Learn More, 
+ , , , , , 
+ , Conversant, Ad Network, opted-out,  , 
+ , , , , , 
+ ," DataXu, Inc.", Demand Side Platform (DSP), opted-out,  , 
+ , , , , , 
+ , Facebook Inc., Social / Sharing Tools, , Learn More, 
+ , , , , , 
+ , Ghostery Enterprise (formerly Evidon), Verification / Privacy, , Learn More, 
+ , , , , , 
+ , Google Inc., Ad Network, opted-out,  , 
+ , , , , , 
+ , LinkedIn Marketing Solutions, Ad Network, , Learn More, 
+ , , , , , 
+ , Oath (EMEA) Limited, Ad Network, , Learn More, 
+ , , , , , 
+ ," PubMatic, Inc.", Sell Side Platform (SSP), opted-out,  , 
+ , , , , , 
+ , Quantcast International Limited, Ad Platform, opted-out,  , 
+ , , , , , 
+ , Signal Digital Inc., Tag Management, opted-out,  , 
+ , , , , , 
+ ," Tapad, Inc.", Ad Network, opted-out,  , 
+ , , , , , 
+ ," The Rubicon Project, Inc.", Sell Side Platform (SSP), opted-out,  , 
+ , , , , , 
+ , Yahoo, Ad Platform, no cookie,  , 
+--------------------- 
+

@@ -1,0 +1,1338 @@
+Buzzfeed (all required) 
+Information storage and access (?) - Personalisation (?) - Ad selection, delivery and reporting (?) - Content selection, delivery and reporting (?) 
+
+
+Third Party Vendors 
+Information storage and access (351) - Personalisation (276) - Ad selection, delivery and reporting (271) -  Content selection, delivery and reporting (192) - Measurement (213) 
+
+
+Information storage and access
+--------TABLE--------
+" 1020, Inc. dba Placecast and Ericsson Emodo", Off
+ 33Across, Off
+ : Tappx, Off
+ A.Mob, Off
+ Accelerize Inc., Off
+ Acuityads Inc., Off
+ ad6media, Off
+ Adacado Technologies Inc. (DBA Adacado), Off
+ ADARA MEDIA UNLIMITED, Off
+ AdClear GmbH, Off
+ AddApptr GmbH, Off
+ AdElement Media Solutions Pvt Ltd, Off
+ Adelphic LLC, Off
+ Adform A/S, Off
+ Adhese, Off
+ adhood.com, Off
+ Adikteev / Emoteev, Off
+ Adimo, Off
+ ADITION technologies AG, Off
+ Adkernel LLC, Off
+" ADMAN - Phaistos Networks, S.A.", Off
+ ADman Interactive SL, Off
+ admetrics GmbH, Off
+ Admixer EU GmbH, Off
+ Admotion SRL, Off
+ Adobe Advertising Cloud, Off
+ Adobe Audience Manager, Off
+ Adprime Media Inc., Off
+ AdRoll Inc, Off
+ Adsolutions BV, Off
+ AdSpirit GmbH, Off
+ adsquare GmbH, Off
+ Adtelligent Inc., Off
+" AdTheorent, Inc", Off
+ ADUX, Off
+ ADventori SAS, Off
+ Aerserv LLC, Off
+ Alliance Gravity Data Media, Off
+" Amobee, Inc.", Off
+ AntVoice, Off
+ AppLift GmbH, Off
+ AppNexus Inc., Off
+ Arcspire Limited, Off
+ ARMIS SAS, Off
+ ATG Ad Tech Group GmbH, Off
+ AudienceProject Aps, Off
+ Audiens S.r.l., Off
+ audio content &amp; control GmbH, Off
+ Automattic Inc., Off
+ Avid Media Ltd, Off
+ B2B Media Group EMEA GmbH, Off
+ Bandsintown Amplified LLC, Off
+ Beemray Oy, Off
+ BeeswaxIO Corporation, Off
+ BEINTOO SPA, Off
+ Bidmanagement GmbH, Off
+ bidstack ltd, Off
+ BIDSWITCH GmbH, Off
+" Bidtellect, Inc", Off
+ BILENDI SA, Off
+ Bit Q Holdings Limited, Off
+ Blis Media Limited, Off
+ Blue, Off
+" Bmind a Sales Maker Company, S.L.", Off
+ Bombora Inc., Off
+" Bounce Exchange, Inc", Off
+ Brand Metrics Sweden AB, Off
+ Browsi Mobile Ltd, Off
+ Bucksense Inc, Off
+ Cablato Limited, Off
+ Capitaldata, Off
+ Captify Technologies Limited, Off
+" Celtra, Inc.", Off
+" Centro, Inc.", Off
+ ChannelSight, Off
+ Chargeads, Off
+ CHEQ AI TECHNOLOGIES LTD., Off
+ Clicksco Digital Limited, Off
+" Clipcentric, Inc.", Off
+ Cloud Technologies S.A., Off
+ Codewise Sp. z o.o. Sp. k, Off
+ Collective Europe Ltd., Off
+" Collective, Inc. dba Visto", Off
+ Colpirio.com, Off
+ Comcast International France SAS, Off
+ Commanders Act, Off
+" comScore, Inc.", Off
+ Confiant Inc., Off
+ Connatix Native Exchange Inc., Off
+ ConnectAd Realtime GmbH, Off
+" Consumable, Inc.", Off
+ Contact Impact GmbH, Off
+ Converge-Digital, Off
+ Conversant Europe Ltd., Off
+ Crimtan Holdings Limited, Off
+ Criteo SA, Off
+ Cuebiq Inc., Off
+ Cxense ASA, Off
+" Cybba, Inc.", Off
+ Czech Publisher Exchange z.s.p.o., Off
+ D-Edge, Off
+" Dataxu, Inc.", Off
+ Delta Projects AB, Off
+" Demandbase, Inc.", Off
+" Digilant Spain, SLU", Off
+ Digital Control GmbH &amp; Co. KG, Off
+ digitalAudience, Off
+ DigiTrust / IAB Tech Lab, Off
+ district m inc., Off
+ Dr. Banner, Off
+" Drawbridge, Inc.", Off
+ DynAdmic, Off
+ EASYmedia GmbH, Off
+ Emerse Sverige AB, Off
+ emetriq GmbH, Off
+ EMX Digital LLC, Off
+ Etarget SE, Off
+ Eulerian Technologies, Off
+ Exactag GmbH, Off
+" Exponential Interactive, Inc", Off
+ Eyeota Ptd Ltd, Off
+ Fidzup, Off
+ Fifty Technology Limited, Off
+" Flashtalking, Inc.", Off
+" FlexOffers.com, LLC", Off
+ FORTVISION, Off
+ Free Stream Media Corp. dba Samba TV, Off
+ Gamned, Off
+ Gamoshi LTD, Off
+" GDMServices, Inc. d/b/a FiksuDSP", Off
+ Gemius SA, Off
+" Getintent USA, inc.", Off
+ GlobalWebIndex, Off
+ Golden Bees, Off
+ Greenhouse Group BV (with its trademark LemonPI), Off
+ GroupM, Off
+" GumGum, Inc.", Off
+ Hottraffic BV (DMA Institute), Off
+ Hybrid Adtech GmbH, Off
+ ID5 Technology SAS, Off
+ Illuma Technology Limited, Off
+ Impactify, Off
+ Impression Desk Technologies Limited, Off
+ Improve Digital International BV, Off
+" Index Exchange, Inc.", Off
+ INFINIA MOBILE S.L., Off
+ InMobi Pte Ltd, Off
+ INNITY, Off
+ Innovid Inc., Off
+" Intent Media, Inc.", Off
+ Intowow Innovation Ltd., Off
+ IPONWEB GmbH, Off
+ Jampp LTD, Off
+ Join, Off
+ Jointag S.r.l., Off
+ Justpremium BV, Off
+ Kairos Fire, Off
+ Keymantics, Off
+ LBC France, Off
+ Leadplace - Temelio, Off
+ Leiki Ltd., Off
+ Little Big Data sp.z.o.o., Off
+ Liveintent Inc., Off
+" LiveRamp, Inc.", Off
+ Localsensor B.V., Off
+ Location Sciences AI Ltd, Off
+ LoopMe Ltd, Off
+" Lotame Solutions, Inc.", Off
+" Lucid Holdings, LLC", Off
+ M32 Connect Inc, Off
+ MADVERTISE MEDIA, Off
+ mainADV Srl, Off
+ MAIRDUMONT NETLETIX GmbH&amp;Co. KG, Off
+ Marfeel Solutions S.L, Off
+ Market Resource Partners LLC, Off
+ Maytrics GmbH, Off
+ Media.net Advertising FZ-LLC, Off
+" MediaMath, Inc.", Off
+ mediarithmics SAS, Off
+ Mediasmart Mobile S.L., Off
+ MGID Inc., Off
+ MiQ, Off
+ Mirando GmbH &amp; Co KG, Off
+ mobalo GmbH, Off
+ Mobfox US LLC, Off
+ Mobile Professionals BV, Off
+ Mobusi Mobile Advertising S.L., Off
+ My6sense Inc., Off
+ Myntelligence Limited, Off
+" Nativo, Inc.", Off
+ Near Pte Ltd, Off
+ Neodata Group srl, Off
+ NEORY GmbH, Off
+ Netsprint SA, Off
+" NetSuccess, s.r.o.", Off
+ netzeffekt GmbH, Off
+ NEURAL.ONE, Off
+" Neustar, Inc.", Off
+" News and Media Holding, a.s.", Off
+ Nielsen Marketing Cloud, Off
+ Norstat Danmark A/S, Off
+ Noster Finance S.L., Off
+ numberly, Off
+ Oath (EMEA) Limited, Off
+ Ogury Ltd., Off
+ On Device Research Limited, Off
+ OneTag Ltd, Off
+ Online Solution Int Limited, Off
+ Ooyala Inc, Off
+ OpenX, Off
+ Optomaton UG, Off
+ Oracle, Off
+ Oracle AddThis, Off
+ Orion Semantics, Off
+ Outbrain UK Ltd, Off
+" PaperG, Inc. dba Thunder Industries", Off
+ Passendo ApS, Off
+ Permodo GmbH, Off
+ Pexi B.V., Off
+ PIXIMEDIA SAS, Off
+ Platform161, Off
+ PLAYGROUND XYZ EMEA LTD, Off
+ plista GmbH, Off
+ Pocketmath Pte Ltd, Off
+ PowerLinks Media Limited, Off
+ Predicio, Off
+ Programatica de publicidad S.L., Off
+ Proxi.cloud Sp. z o.o., Off
+ PROXISTORE, Off
+ PUB OCEAN LIMITED, Off
+ Publicis Media GmbH, Off
+ Publishers Internationale Pty Ltd, Off
+" PubMatic, Inc.", Off
+ PubNative GmbH, Off
+" PulsePoint, Inc.", Off
+ Quantcast International Limited, Off
+ Qwertize, Off
+ R-Advertising, Off
+ R-TARGET, Off
+ Rakuten Marketing LLC, Off
+ Readpeak Oy, Off
+ Realeyes OÜ, Off
+ ReigNN Platform Ltd., Off
+ Relay42 Netherlands B.V., Off
+ remerge GmbH, Off
+" Research Now Group, Inc", Off
+" Reveal Mobile, Inc", Off
+ RevLifter Ltd, Off
+ RevX Inc., Off
+ Rich Audience, Off
+ RMSi Radio Marketing Service interactive GmbH, Off
+ Rockabox Media Ltd, Off
+ Roq.ad GmbH, Off
+ RTB House S.A., Off
+" RTK.IO, Inc", Off
+" salesforce.com, inc.", Off
+ Samba TV UK Limited, Off
+ Sanoma Media Finland, Off
+ Scene Stealer Limited, Off
+ Schibsted Product and Tech UK, Off
+ Seedtag Advertising S.L, Off
+" ShareThis, Inc.", Off
+" SheMedia, LLC", Off
+ Shopalyst Inc, Off
+ Shopstyle, Off
+" Sift Media, Inc", Off
+ Signal Digital Inc., Off
+ Signals, Off
+ SINGLESPOT SAS, Off
+ Sirdata, Off
+" Sizmek Technologies, Inc.", Off
+ Skimbit Ltd, Off
+ SlimCut Media SAS, Off
+" Smaato, Inc.", Off
+ Smadex SL, Off
+ Smart Adserver, Off
+ Smart Traffik, Off
+ Smartclip Hispania SL, Off
+ smartclip Holding AG, Off
+ SMARTSTREAM.TV GmbH, Off
+ SmartyAds Inc., Off
+ Smile Wanted Group, Off
+" Snapsort Inc., operating as Sortable", Off
+ Social Tokens Ltd., Off
+" Sojern, Inc.", Off
+ Solocal, Off
+ Somo Audience Corp, Off
+" Sonobi, Inc", Off
+ Sovrn Holdings Inc, Off
+ Spolecznosci Sp. z o.o. Sp. k., Off
+ SpotX, Off
+" Steel House, Inc.", Off
+ Sublime, Off
+ SunMedia, Off
+ Switch Concepts Limited, Off
+ SYNC, Off
+ TabMo SAS, Off
+ Taboola Europe Limited, Off
+ TACTIC™ Real-Time Marketing AS, Off
+" Tapad, Inc.", Off
+ TAPTAP Networks SL, Off
+ Teads, Off
+ Teemo SA, Off
+" Telaria, Inc", Off
+ Teroa S.A., Off
+ The ADEX GmbH, Off
+ The Kantar Group Limited, Off
+ The Ozone Project Limited, Off
+ The Reach Group GmbH, Off
+" The Rubicon Project, Inc.", Off
+ The Trade Desk, Off
+ Thirdpresence Oy, Off
+ Totaljobs Group Ltd, Off
+" Tradelab, SAS", Off
+ travel audience GmbH, Off
+" TreSensa, Inc.", Off
+ Triapodi Ltd., Off
+ Triboo Data Analytics, Off
+" TripleLift, Inc.", Off
+ Tunnl BV, Off
+ Turbo, Off
+" UberMedia, Inc.", Off
+" ucfunnel Co., Ltd.", Off
+ Underdog Media LLC, Off
+ Uprival LLC, Off
+ Vdopia DBA Chocolate Platform, Off
+ Ve Global, Off
+ VECTAURY, Off
+ Venatus Media Limited, Off
+ video intelligence AG, Off
+ Video Reach, Off
+ Vidoomy Media SL, Off
+ ViewPay, Off
+ Viralize SRL, Off
+ WebAds B.V, Off
+ Webedia, Off
+ WEBORAMA, Off
+ Whenever Media Ltd, Off
+ Widespace AB, Off
+ Wizaly, Off
+" X-Mode Social, Inc.", Off
+" xAd, Inc. dba GroundTruth", Off
+ YellowHammer Media Group, Off
+" Yieldmo, Inc.", Off
+ Yieldr UK, Off
+ YOC AG, Off
+ Yormedia Solutions Ltd, Off
+ ZBO Media, Off
+" Zemanta, Inc.", Off
+ Ziff Davis LLC, Off
+ ZighZag, 
+--------------------- 
+
+
+Personalisation
+
+--------TABLE--------
+" 1020, Inc. dba Placecast and Ericsson Emodo", Off
+ 33Across, Off
+ A.Mob, Off
+ Accorp Sp. z o.o., Off
+ Acuityads Inc., Off
+ ad6media, Off
+ Adacado Technologies Inc. (DBA Adacado), Off
+ ADARA MEDIA UNLIMITED, Off
+ AdElement Media Solutions Pvt Ltd, Off
+ Adelphic LLC, Off
+ Adhese, Off
+ adhood.com, Off
+ Adikteev / Emoteev, Off
+ Adkernel LLC, Off
+" ADMAN - Phaistos Networks, S.A.", Off
+ ADman Interactive SL, Off
+ admetrics GmbH, Off
+ Admixer EU GmbH, Off
+ Adobe Advertising Cloud, Off
+ Adobe Audience Manager, Off
+ Adprime Media Inc., Off
+ adrule mobile GmbH, Off
+ AdSpirit GmbH, Off
+ adsquare GmbH, Off
+" AdTheorent, Inc", Off
+ ADUX, Off
+ Adverline, Off
+ ADYOULIKE SA, Off
+ Aerserv LLC, Off
+ Alliance Gravity Data Media, Off
+ AntVoice, Off
+ Apester Ltd, Off
+ AppLift GmbH, Off
+ Arcspire Limited, Off
+ ARMIS SAS, Off
+ AudienceProject Aps, Off
+ Automattic Inc., Off
+ Avid Media Ltd, Off
+ B2B Media Group EMEA GmbH, Off
+ Bandsintown Amplified LLC, Off
+ Beemray Oy, Off
+ Bidmanagement GmbH, Off
+ bidstack ltd, Off
+ BIDSWITCH GmbH, Off
+" Bidtellect, Inc", Off
+ BidTheatre AB, Off
+ Blis Media Limited, Off
+ Blue, Off
+" Bmind a Sales Maker Company, S.L.", Off
+ Bombora Inc., Off
+ Cablato Limited, Off
+ Capitaldata, Off
+ Captify Technologies Limited, Off
+ Chargeads, Off
+ Clicksco Digital Limited, Off
+ Cloud Technologies S.A., Off
+ Codewise Sp. z o.o. Sp. k, Off
+ Collective Europe Ltd., Off
+" Collective, Inc. dba Visto", Off
+ Colpirio.com, Off
+ Commanders Act, Off
+ Connatix Native Exchange Inc., Off
+ Contact Impact GmbH, Off
+ Crimtan Holdings Limited, Off
+ Criteo SA, Off
+ Cuebiq Inc., Off
+ Cxense ASA, Off
+" Cybba, Inc.", Off
+ Czech Publisher Exchange z.s.p.o., Off
+" Dataxu, Inc.", Off
+ DEFINE MEDIA GMBH, Off
+" Digilant Spain, SLU", Off
+ Digital Control GmbH &amp; Co. KG, Off
+ Digitize New Media Ltd, Off
+ district m inc., Off
+ EASYmedia GmbH, Off
+ Effiliation, Off
+ Emerse Sverige AB, Off
+ EMX Digital LLC, Off
+ Etarget SE, Off
+ Eulerian Technologies, Off
+" Exponential Interactive, Inc", Off
+ Eyeota Ptd Ltd, Off
+ Ezoic Inc., Off
+ Fidzup, Off
+ Fifty Technology Limited, Off
+" FlexOffers.com, LLC", Off
+ FM Labs LLC, Off
+ FORTVISION, Off
+ Free Stream Media Corp. dba Samba TV, Off
+ Gamned, Off
+" GDMServices, Inc. d/b/a FiksuDSP", Off
+ Gemius SA, Off
+ Genius Sports Media Limited, Off
+ Golden Bees, Off
+ Greenhouse Group BV (with its trademark LemonPI), Off
+ GroupM, Off
+" GumGum, Inc.", Off
+ Hybrid Adtech GmbH, Off
+ Impactify, Off
+ Improve Digital International BV, Off
+ INFINIA MOBILE S.L., Off
+ InMobi Pte Ltd, Off
+ INNITY, Off
+ Innovid Inc., Off
+ Inskin Media LTD, Off
+" Instinctive, Inc.", Off
+ INVIBES GROUP, Off
+ IPONWEB GmbH, Off
+ Jampp LTD, Off
+ Join, Off
+ Jointag S.r.l., Off
+ Justpremium BV, Off
+ Keymantics, Off
+ LBC France, Off
+ Leadplace - Temelio, Off
+ Leiki Ltd., Off
+ Linicom, Off
+ Little Big Data sp.z.o.o., Off
+" LiveRamp, Inc.", Off
+ Localsensor B.V., Off
+ Location Sciences AI Ltd, Off
+ LoopMe Ltd, Off
+" Lotame Solutions, Inc.", Off
+" Lucid Holdings, LLC", Off
+ M32 Connect Inc, Off
+ MADVERTISE MEDIA, Off
+ mainADV Srl, Off
+ MAIRDUMONT NETLETIX GmbH&amp;Co. KG, Off
+ Market Resource Partners LLC, Off
+ Maytrics GmbH, Off
+ Media.net Advertising FZ-LLC, Off
+ mediarithmics SAS, Off
+ MGID Inc., Off
+ MiQ, Off
+ Mirando GmbH &amp; Co KG, Off
+ mobalo GmbH, Off
+ Mobfox US LLC, Off
+ Mobile Professionals BV, Off
+ Myntelligence Limited, Off
+" Nativo, Inc.", Off
+ Near Pte Ltd, Off
+ Neodata Group srl, Off
+ NEORY GmbH, Off
+ Netsprint SA, Off
+" NetSuccess, s.r.o.", Off
+ NEURAL.ONE, Off
+" News and Media Holding, a.s.", Off
+ Nielsen Marketing Cloud, Off
+ Norstat Danmark A/S, Off
+ Noster Finance S.L., Off
+ Oath (EMEA) Limited, Off
+ Ogury Ltd., Off
+ On Device Research Limited, Off
+ OneTag Ltd, Off
+ Online Solution Int Limited, Off
+ Onnetwork Sp. z o.o., Off
+ Ooyala Inc, Off
+ OpenX, Off
+ Optomaton UG, Off
+ Oracle, Off
+ Oracle AddThis, Off
+ Orion Semantics, Off
+ ORTEC B.V., Off
+ Outbrain UK Ltd, Off
+" PaperG, Inc. dba Thunder Industries", Off
+ Perform Media Services Ltd, Off
+ Permodo GmbH, Off
+ Pexi B.V., Off
+ pilotx.tv, Off
+ PIXIMEDIA SAS, Off
+ Platform161, Off
+ Playbuzz Ltd., Off
+ plista GmbH, Off
+ Pocketmath Pte Ltd, Off
+ Polar Mobile Group Inc., Off
+ PowerLinks Media Limited, Off
+ Predicio, Off
+ Programatica de publicidad S.L., Off
+ Proxi.cloud Sp. z o.o., Off
+ Publishers Internationale Pty Ltd, Off
+ PubNative GmbH, Off
+" PulsePoint, Inc.", Off
+ Qriously, Off
+ Qwertize, Off
+ R-Advertising, Off
+ Readpeak Oy, Off
+ Realeyes OÜ, Off
+ ReigNN Platform Ltd., Off
+ Relay42 Netherlands B.V., Off
+ remerge GmbH, Off
+" Reveal Mobile, Inc", Off
+ RevX Inc., Off
+ Rich Audience, Off
+ RMSi Radio Marketing Service interactive GmbH, Off
+ Roq.ad GmbH, Off
+ S4M, Off
+" salesforce.com, inc.", Off
+ Samba TV UK Limited, Off
+ Sanoma Media Finland, Off
+ Scene Stealer Limited, Off
+ Schibsted Product and Tech UK, Off
+ Seedtag Advertising S.L, Off
+" Seznam.cz, a.s.", Off
+" ShareThis, Inc.", Off
+" SheMedia, LLC", Off
+ Shopalyst Inc, Off
+ Shopstyle, Off
+" Sift Media, Inc", Off
+ Signal Digital Inc., Off
+ Signals, Off
+ Simplifi Holdings Inc., Off
+ SINGLESPOT SAS, Off
+ Sirdata, Off
+ Skimbit Ltd, Off
+ SlimCut Media SAS, Off
+" Smaato, Inc.", Off
+ Smadex SL, Off
+ Smartclip Hispania SL, Off
+ SMARTSTREAM.TV GmbH, Off
+ Smile Wanted Group, Off
+ Social Tokens Ltd., Off
+" Sojern, Inc.", Off
+ Solocal, Off
+ Somo Audience Corp, Off
+" Sonobi, Inc", Off
+ Sovrn Holdings Inc, Off
+ Spolecznosci Sp. z o.o. Sp. k., Off
+ Spotad, Off
+ StartApp Inc., Off
+" Steel House, Inc.", Off
+ Ströer Mobile Performance GmbH, Off
+ Sublime, Off
+ SunMedia, Off
+ TabMo SAS, Off
+ TAPTAP Networks SL, Off
+ Teads, Off
+ Tealium Inc, Off
+ Teemo SA, Off
+" Telaria, Inc", Off
+ The Ozone Project Limited, Off
+ The Reach Group GmbH, Off
+ The Trade Desk, Off
+ Totaljobs Group Ltd, Off
+" Tradelab, SAS", Off
+ travel audience GmbH, Off
+ Triboo Data Analytics, Off
+ Tunnl BV, Off
+ Turbo, Off
+" UberMedia, Inc.", Off
+" ucfunnel Co., Ltd.", Off
+ Underdog Media LLC, Off
+ Ve Global, Off
+ VECTAURY, Off
+ Venatus Media Limited, Off
+ Vibrant Media Limited, Off
+ video intelligence AG, Off
+ Video Media Groep B.V., Off
+ Vidoomy Media SL, Off
+ ViewPay, Off
+ Viralize SRL, Off
+ Vuble, Off
+ WebAds B.V, Off
+ Webedia, Off
+ Whenever Media Ltd, Off
+ Widespace AB, Off
+" X-Mode Social, Inc.", Off
+" xAd, Inc. dba GroundTruth", Off
+ YellowHammer Media Group, Off
+" Yieldmo, Inc.", Off
+ Yieldr UK, Off
+ YOC AG, Off
+ Yormedia Solutions Ltd, Off
+ ZBO Media, Off
+" Zemanta, Inc.", Off
+ Ziff Davis LLC, 
+--------------------- 
+
+Ad Selection, delivery and reporting
+
+--------TABLE--------
+" 1020, Inc. dba Placecast and Ericsson Emodo", Off
+ 33Across, Off
+ A.Mob, Off
+ Accorp Sp. z o.o., Off
+ Acuityads Inc., Off
+ Adacado Technologies Inc. (DBA Adacado), Off
+ ADARA MEDIA UNLIMITED, Off
+ AddApptr GmbH, Off
+ Adelphic LLC, Off
+ Adhese, Off
+ adhood.com, Off
+ Adikteev / Emoteev, Off
+ Adkernel LLC, Off
+" ADMAN - Phaistos Networks, S.A.", Off
+ ADman Interactive SL, Off
+ admetrics GmbH, Off
+ Admixer EU GmbH, Off
+ Admotion SRL, Off
+ Adobe Advertising Cloud, Off
+ Adprime Media Inc., Off
+ AdSpirit GmbH, Off
+ adsquare GmbH, Off
+ Adtelligent Inc., Off
+" AdTheorent, Inc", Off
+ AdTiming Technology Company Limited, Off
+ ADUX, Off
+ ADventori SAS, Off
+ Aerserv LLC, Off
+ Alliance Gravity Data Media, Off
+ AntVoice, Off
+ AppLift GmbH, Off
+ Arcspire Limited, Off
+ ATG Ad Tech Group GmbH, Off
+ Automattic Inc., Off
+ Avid Media Ltd, Off
+ B2B Media Group EMEA GmbH, Off
+ Bandsintown Amplified LLC, Off
+ Beemray Oy, Off
+ BeeswaxIO Corporation, Off
+ BEINTOO SPA, Off
+ Bidmanagement GmbH, Off
+ bidstack ltd, Off
+ BIDSWITCH GmbH, Off
+" Bidtellect, Inc", Off
+ BILENDI SA, Off
+ Blis Media Limited, Off
+ Blue, Off
+ Capitaldata, Off
+ Captify Technologies Limited, Off
+" Celtra, Inc.", Off
+ Clicksco Digital Limited, Off
+" Clipcentric, Inc.", Off
+ Cloud Technologies S.A., Off
+ Codewise Sp. z o.o. Sp. k, Off
+ Collective Europe Ltd., Off
+" Collective, Inc. dba Visto", Off
+ Colpirio.com, Off
+ Commanders Act, Off
+ Connatix Native Exchange Inc., Off
+" Consumable, Inc.", Off
+ Contact Impact GmbH, Off
+ Crimtan Holdings Limited, Off
+ Criteo SA, Off
+ Cuebiq Inc., Off
+ Cxense ASA, Off
+" Cybba, Inc.", Off
+ Czech Publisher Exchange z.s.p.o., Off
+" Dataxu, Inc.", Off
+ DEFINE MEDIA GMBH, Off
+" Digilant Spain, SLU", Off
+ Digital Control GmbH &amp; Co. KG, Off
+ digitalAudience, Off
+ district m inc., Off
+ DynAdmic, Off
+ Dynamic 1001 GmbH, Off
+ EASYmedia GmbH, Off
+ Effiliation, Off
+ Etarget SE, Off
+ Eulerian Technologies, Off
+" Exponential Interactive, Inc", Off
+ Eyeota Ptd Ltd, Off
+ Fidzup, Off
+ Fifty Technology Limited, Off
+" FlexOffers.com, LLC", Off
+ FORTVISION, Off
+ Free Stream Media Corp. dba Samba TV, Off
+ Fyber, Off
+ Gamned, Off
+" GDMServices, Inc. d/b/a FiksuDSP", Off
+ Gemius SA, Off
+ Golden Bees, Off
+ Greenhouse Group BV (with its trademark LemonPI), Off
+ GroupM, Off
+" GumGum, Inc.", Off
+ Haensel AMS GmbH, Off
+ Hybrid Adtech GmbH, Off
+ Impression Desk Technologies Limited, Off
+ Improve Digital International BV, Off
+ INFINIA MOBILE S.L., Off
+ InMobi Pte Ltd, Off
+ INNITY, Off
+ Innovid Inc., Off
+ Inskin Media LTD, Off
+" Instinctive, Inc.", Off
+ InsurAds Technologies SA., Off
+ Intowow Innovation Ltd., Off
+ INVIBES GROUP, Off
+ IPONWEB GmbH, Off
+ Jampp LTD, Off
+ Join, Off
+ Jointag S.r.l., Off
+ Justpremium BV, Off
+ Kairos Fire, Off
+ Keymantics, Off
+ LBC France, Off
+ Leadplace - Temelio, Off
+ Leiki Ltd., Off
+" LiveRamp, Inc.", Off
+ Localsensor B.V., Off
+ Location Sciences AI Ltd, Off
+ LoopMe Ltd, Off
+" Lotame Solutions, Inc.", Off
+" Lucid Holdings, LLC", Off
+ M32 Connect Inc, Off
+ MADVERTISE MEDIA, Off
+ mainADV Srl, Off
+ MAIRDUMONT NETLETIX GmbH&amp;Co. KG, Off
+ Marfeel Solutions S.L, Off
+ Market Resource Partners LLC, Off
+ Maytrics GmbH, Off
+ mediarithmics SAS, Off
+ Mediasmart Mobile S.L., Off
+ MGID Inc., Off
+ MiQ, Off
+ Mirando GmbH &amp; Co KG, Off
+ mobalo GmbH, Off
+ Mobfox US LLC, Off
+ Mobile Professionals BV, Off
+ Mobusi Mobile Advertising S.L., Off
+ My6sense Inc., Off
+ Myntelligence Limited, Off
+" Nativo, Inc.", Off
+ Near Pte Ltd, Off
+ Neodata Group srl, Off
+ Netsprint SA, Off
+" NetSuccess, s.r.o.", Off
+ NEURAL.ONE, Off
+" News and Media Holding, a.s.", Off
+ NEXD, Off
+ Norstat Danmark A/S, Off
+ Noster Finance S.L., Off
+ Ogury Ltd., Off
+ On Device Research Limited, Off
+ OneTag Ltd, Off
+ Onnetwork Sp. z o.o., Off
+ Ooyala Inc, Off
+ OpenX, Off
+ Optomaton UG, Off
+ Oracle, Off
+ Oracle AddThis, Off
+ Orion Semantics, Off
+ Outbrain UK Ltd, Off
+ Passendo ApS, Off
+ Permodo GmbH, Off
+ Pexi B.V., Off
+ pilotx.tv, Off
+ Platform161, Off
+ PLAYGROUND XYZ EMEA LTD, Off
+ plista GmbH, Off
+ Pocketmath Pte Ltd, Off
+ Predicio, Off
+ Programatica de publicidad S.L., Off
+ Proxi.cloud Sp. z o.o., Off
+ PubNative GmbH, Off
+" PulsePoint, Inc.", Off
+ Qriously, Off
+ R-Advertising, Off
+ Readpeak Oy, Off
+ Realeyes OÜ, Off
+ ReigNN Platform Ltd., Off
+ Relay42 Netherlands B.V., Off
+ remerge GmbH, Off
+" Research Now Group, Inc", Off
+" Reveal Mobile, Inc", Off
+ RevX Inc., Off
+ Rezonence Limited, Off
+ Rich Audience, Off
+ RMSi Radio Marketing Service interactive GmbH, Off
+" RockYou, Inc.", Off
+ Roq.ad GmbH, Off
+ RTB House S.A., Off
+" salesforce.com, inc.", Off
+ Samba TV UK Limited, Off
+ Sanoma Media Finland, Off
+ Scene Stealer Limited, Off
+ Schibsted Product and Tech UK, Off
+ Seedtag Advertising S.L, Off
+" Seznam.cz, a.s.", Off
+" ShareThis, Inc.", Off
+" Sharethrough, Inc", Off
+" SheMedia, LLC", Off
+ Shopstyle, Off
+" Sift Media, Inc", Off
+ Signal Digital Inc., Off
+ Signals, Off
+ Simplifi Holdings Inc., Off
+ SINGLESPOT SAS, Off
+ Sirdata, Off
+ Skimbit Ltd, Off
+" Smaato, Inc.", Off
+ Smadex SL, Off
+ Smartclip Hispania SL, Off
+ SMARTSTREAM.TV GmbH, Off
+ SmartyAds Inc., Off
+ Smile Wanted Group, Off
+ Social Tokens Ltd., Off
+" Sojern, Inc.", Off
+ Solocal, Off
+ Sovrn Holdings Inc, Off
+ Spolecznosci Sp. z o.o. Sp. k., Off
+ Spotad, Off
+" Steel House, Inc.", Off
+ Ströer Mobile Performance GmbH, Off
+ Sub2 Technologies Ltd, Off
+ Sublime, Off
+ Switch Concepts Limited, Off
+ SYNC, Off
+ TabMo SAS, Off
+ TACTIC™ Real-Time Marketing AS, Off
+ TAPTAP Networks SL, Off
+ Tealium Inc, Off
+ Teemo SA, Off
+" Telaria, Inc", Off
+ The Kantar Group Limited, Off
+ The Ozone Project Limited, Off
+ Totaljobs Group Ltd, Off
+" Tradelab, SAS", Off
+ travel audience GmbH, Off
+ Triapodi Ltd., Off
+ Triboo Data Analytics, Off
+" TripleLift, Inc.", Off
+ Tunnl BV, Off
+ Turbo, Off
+" UberMedia, Inc.", Off
+" ucfunnel Co., Ltd.", Off
+ Underdog Media LLC, Off
+ Vdopia DBA Chocolate Platform, Off
+ Ve Global, Off
+ VECTAURY, Off
+ Venatus Media Limited, Off
+ Vibrant Media Limited, Off
+ video intelligence AG, Off
+ Video Reach, Off
+ ViewPay, Off
+ Viralize SRL, Off
+ Vuble, Off
+ WebAds B.V, Off
+ Webedia, Off
+ WebMediaRM, Off
+ Whenever Media Ltd, Off
+ Widespace AB, Off
+" X-Mode Social, Inc.", Off
+" xAd, Inc. dba GroundTruth", Off
+ YellowHammer Media Group, Off
+" Yieldmo, Inc.", Off
+ Yieldr UK, Off
+ Yormedia Solutions Ltd, Off
+ ZBO Media, Off
+" Zemanta, Inc.", Off
+ Ziff Davis LLC, Off
+ ZighZag, Off
+--------------------- 
+
+
+
+Content selection, delivery and reporting
+--------TABLE--------
+" 1020, Inc. dba Placecast and Ericsson Emodo", Off
+ A.Mob, Off
+ Accorp Sp. z o.o., Off
+ Acuityads Inc., Off
+ ad6media, Off
+ ADARA MEDIA UNLIMITED, Off
+ AdElement Media Solutions Pvt Ltd, Off
+ Adhese, Off
+ adhood.com, Off
+ Adikteev / Emoteev, Off
+ Adkernel LLC, Off
+" ADMAN - Phaistos Networks, S.A.", Off
+ admetrics GmbH, Off
+ Admixer EU GmbH, Off
+ Adobe Advertising Cloud, Off
+ adrule mobile GmbH, Off
+ AdSpirit GmbH, Off
+" AdTheorent, Inc", Off
+ ADUX, Off
+ ADYOULIKE SA, Off
+ Aerserv LLC, Off
+ Alliance Gravity Data Media, Off
+ Arcspire Limited, Off
+ Automattic Inc., Off
+ B2B Media Group EMEA GmbH, Off
+ Bandsintown Amplified LLC, Off
+ Bidmanagement GmbH, Off
+ bidstack ltd, Off
+ BIDSWITCH GmbH, Off
+" Bidtellect, Inc", Off
+ BILENDI SA, Off
+ Blis Media Limited, Off
+ Blue, Off
+" Bmind a Sales Maker Company, S.L.", Off
+ Cablato Limited, Off
+ Capitaldata, Off
+ Clicksco Digital Limited, Off
+" Clipcentric, Inc.", Off
+ Cloud Technologies S.A., Off
+ Codewise Sp. z o.o. Sp. k, Off
+ Collective Europe Ltd., Off
+" Collective, Inc. dba Visto", Off
+ Colpirio.com, Off
+ Commanders Act, Off
+ Connatix Native Exchange Inc., Off
+ Contact Impact GmbH, Off
+ Crimtan Holdings Limited, Off
+ Cxense ASA, Off
+" Cybba, Inc.", Off
+ Czech Publisher Exchange z.s.p.o., Off
+" Dataxu, Inc.", Off
+ DEFINE MEDIA GMBH, Off
+" Digilant Spain, SLU", Off
+ Digitize New Media Ltd, Off
+ EASYmedia GmbH, Off
+ Effiliation, Off
+ Emerse Sverige AB, Off
+ Etarget SE, Off
+ Eulerian Technologies, Off
+" Exponential Interactive, Inc", Off
+ Eyeota Ptd Ltd, Off
+ Ezoic Inc., Off
+ Fidzup, Off
+" FlexOffers.com, LLC", Off
+ FORTVISION, Off
+ Free Stream Media Corp. dba Samba TV, Off
+ Gamned, Off
+ Gemius SA, Off
+ Genius Sports Media Limited, Off
+ Golden Bees, Off
+ Greenhouse Group BV (with its trademark LemonPI), Off
+ GroupM, Off
+ Hybrid Adtech GmbH, Off
+ Improve Digital International BV, Off
+ InMobi Pte Ltd, Off
+ INNITY, Off
+ Innovid Inc., Off
+" Instinctive, Inc.", Off
+ INVIBES GROUP, Off
+ IPONWEB GmbH, Off
+ Jampp LTD, Off
+ Join, Off
+ Jointag S.r.l., Off
+ Justpremium BV, Off
+ Kairos Fire, Off
+ LBC France, Off
+ Leadplace - Temelio, Off
+ Little Big Data sp.z.o.o., Off
+" LiveRamp, Inc.", Off
+ Localsensor B.V., Off
+ Location Sciences AI Ltd, Off
+" Lotame Solutions, Inc.", Off
+" Lucid Holdings, LLC", Off
+ M32 Connect Inc, Off
+ MADVERTISE MEDIA, Off
+ mainADV Srl, Off
+ MAIRDUMONT NETLETIX GmbH&amp;Co. KG, Off
+ Market Resource Partners LLC, Off
+ Maytrics GmbH, Off
+ mediarithmics SAS, Off
+ MGID Inc., Off
+ MiQ, Off
+ Mirando GmbH &amp; Co KG, Off
+ mobalo GmbH, Off
+ Mobfox US LLC, Off
+ Mobile Professionals BV, Off
+ Mobusi Mobile Advertising S.L., Off
+ Myntelligence Limited, Off
+" Nativo, Inc.", Off
+ Neodata Group srl, Off
+ NEORY GmbH, Off
+ Netsprint SA, Off
+" NetSuccess, s.r.o.", Off
+" News and Media Holding, a.s.", Off
+ Norstat Danmark A/S, Off
+ Noster Finance S.L., Off
+ Ogury Ltd., Off
+ On Device Research Limited, Off
+ OneTag Ltd, Off
+ Optomaton UG, Off
+ Oracle, Off
+ Oracle AddThis, Off
+ Pexi B.V., Off
+ PIXIMEDIA SAS, Off
+ Platform161, Off
+ plista GmbH, Off
+ Predicio, Off
+ Programatica de publicidad S.L., Off
+ Proxi.cloud Sp. z o.o., Off
+ PubNative GmbH, Off
+" PulsePoint, Inc.", Off
+ Qriously, Off
+ Qwertize, Off
+ R-Advertising, Off
+ Readpeak Oy, Off
+ Realeyes OÜ, Off
+ ReigNN Platform Ltd., Off
+ Relay42 Netherlands B.V., Off
+ remerge GmbH, Off
+" Reveal Mobile, Inc", Off
+ Rich Audience, Off
+ RMSi Radio Marketing Service interactive GmbH, Off
+ Roq.ad GmbH, Off
+" RTK.IO, Inc", Off
+ Samba TV UK Limited, Off
+ Sanoma Media Finland, Off
+ Scene Stealer Limited, Off
+ Schibsted Product and Tech UK, Off
+" Seznam.cz, a.s.", Off
+" ShareThis, Inc.", Off
+" SheMedia, LLC", Off
+ Shopstyle, Off
+ Signal Digital Inc., Off
+ Signals, Off
+ Simplifi Holdings Inc., Off
+ Sirdata, Off
+" Smaato, Inc.", Off
+ Smadex SL, Off
+ SmartyAds Inc., Off
+ Smile Wanted Group, Off
+ Social Tokens Ltd., Off
+ Solocal, Off
+ Spolecznosci Sp. z o.o. Sp. k., Off
+" Steel House, Inc.", Off
+ Ströer Mobile Performance GmbH, Off
+ Sub2 Technologies Ltd, Off
+" Telaria, Inc", Off
+ The Ozone Project Limited, Off
+ The Reach Group GmbH, Off
+ Totaljobs Group Ltd, Off
+ travel audience GmbH, Off
+ Triboo Data Analytics, Off
+ Tunnl BV, Off
+" UberMedia, Inc.", Off
+" ucfunnel Co., Ltd.", Off
+ Ve Global, Off
+ VECTAURY, Off
+ Venatus Media Limited, Off
+ Vibrant Media Limited, Off
+ video intelligence AG, Off
+ ViewPay, Off
+ Viralize SRL, Off
+ Vuble, Off
+ Webedia, Off
+ WebMediaRM, Off
+ Whenever Media Ltd, Off
+" X-Mode Social, Inc.", Off
+" xAd, Inc. dba GroundTruth", Off
+" Yieldmo, Inc.", Off
+ Yieldr UK, Off
+ Yormedia Solutions Ltd, Off
+" Zemanta, Inc.", Off
+--------------------- 
+
+
+Measurement 
+
+--------TABLE--------
+ 33Across, Off
+ A.Mob, Off
+ Acuityads Inc., Off
+ ADARA MEDIA UNLIMITED, Off
+ AdClear GmbH, Off
+ AddApptr GmbH, Off
+ Adhese, Off
+ adhood.com, Off
+ Adikteev / Emoteev, Off
+ Adkernel LLC, Off
+" ADMAN - Phaistos Networks, S.A.", Off
+ admetrics GmbH, Off
+ Admixer EU GmbH, Off
+ Adobe Advertising Cloud, Off
+ Adobe Audience Manager, Off
+ Adsolutions BV, Off
+ AdSpirit GmbH, Off
+ adsquare GmbH, Off
+" AdTheorent, Inc", Off
+ AdTiming Technology Company Limited, Off
+ ADUX, Off
+ Aerserv LLC, Off
+ Alliance Gravity Data Media, Off
+ AppLift GmbH, Off
+ Arcspire Limited, Off
+ Audiens S.r.l., Off
+ B2B Media Group EMEA GmbH, Off
+ Bandsintown Amplified LLC, Off
+ Beemray Oy, Off
+ BeeswaxIO Corporation, Off
+ Bidmanagement GmbH, Off
+ bidstack ltd, Off
+ BIDSWITCH GmbH, Off
+" Bidtellect, Inc", Off
+ BILENDI SA, Off
+ Bit Q Holdings Limited, Off
+ Blis Media Limited, Off
+ Blue, Off
+" Bmind a Sales Maker Company, S.L.", Off
+ Browsi Mobile Ltd, Off
+ Cablato Limited, Off
+ Capitaldata, Off
+" Clipcentric, Inc.", Off
+ Cloud Technologies S.A., Off
+ Codewise Sp. z o.o. Sp. k, Off
+ Collective Europe Ltd., Off
+" Collective, Inc. dba Visto", Off
+ Colpirio.com, Off
+ Commanders Act, Off
+" comScore, Inc.", Off
+ Connatix Native Exchange Inc., Off
+ Contact Impact GmbH, Off
+ Crimtan Holdings Limited, Off
+ Cuebiq Inc., Off
+ Cxense ASA, Off
+" Cybba, Inc.", Off
+ Czech Publisher Exchange z.s.p.o., Off
+" Dataxu, Inc.", Off
+" Digilant Spain, SLU", Off
+ digitalAudience, Off
+ district m inc., Off
+ DoubleVerify Inc.​, Off
+ EASYmedia GmbH, Off
+ Effiliation, Off
+ Etarget SE, Off
+ Eulerian Technologies, Off
+ Exactag GmbH, Off
+" Exponential Interactive, Inc", Off
+ Eyeota Ptd Ltd, Off
+ Ezoic Inc., Off
+ Fidzup, Off
+" FlexOffers.com, LLC", Off
+ FORTVISION, Off
+ Free Stream Media Corp. dba Samba TV, Off
+ Gamned, Off
+ Gemius SA, Off
+ Golden Bees, Off
+ Greenhouse Group BV (with its trademark LemonPI), Off
+" GumGum, Inc.", Off
+ Haensel AMS GmbH, Off
+ Happydemics, Off
+ Hottraffic BV (DMA Institute), Off
+ Hybrid Adtech GmbH, Off
+ Impression Desk Technologies Limited, Off
+ Improve Digital International BV, Off
+ InMobi Pte Ltd, Off
+ INNITY, Off
+ Inskin Media LTD, Off
+ IPONWEB GmbH, Off
+ Jampp LTD, Off
+ Join, Off
+ Jointag S.r.l., Off
+ Justpremium BV, Off
+ Kairos Fire, Off
+ LBC France, Off
+ Leadplace - Temelio, Off
+" LiveRamp, Inc.", Off
+ Localsensor B.V., Off
+ Location Sciences AI Ltd, Off
+ LoopMe Ltd, Off
+" Lotame Solutions, Inc.", Off
+" Lucid Holdings, LLC", Off
+ M32 Connect Inc, Off
+ MADVERTISE MEDIA, Off
+ mainADV Srl, Off
+ MAIRDUMONT NETLETIX GmbH&amp;Co. KG, Off
+ Market Resource Partners LLC, Off
+ Maytrics GmbH, Off
+ mediarithmics SAS, Off
+ MGID Inc., Off
+ MiQ, Off
+ Mirando GmbH &amp; Co KG, Off
+ mobalo GmbH, Off
+ Mobfox US LLC, Off
+ Mobile Professionals BV, Off
+ Mobusi Mobile Advertising S.L., Off
+ My6sense Inc., Off
+ Myntelligence Limited, Off
+ Near Pte Ltd, Off
+ Neodata Group srl, Off
+ NEORY GmbH, Off
+ Netsprint SA, Off
+" NetSuccess, s.r.o.", Off
+ NEURAL.ONE, Off
+" News and Media Holding, a.s.", Off
+ NEXD, Off
+ Norstat Danmark A/S, Off
+ Noster Finance S.L., Off
+ On Device Research Limited, Off
+ Onnetwork Sp. z o.o., Off
+ Outbrain UK Ltd, Off
+ Pexi B.V., Off
+ Platform161, Off
+ PLAYGROUND XYZ EMEA LTD, Off
+ Pocketmath Pte Ltd, Off
+ PowerLinks Media Limited, Off
+ Predicio, Off
+ Programatica de publicidad S.L., Off
+ Proxi.cloud Sp. z o.o., Off
+ PubNative GmbH, Off
+" PulsePoint, Inc.", Off
+" PurposeLab, LLC", Off
+ R-Advertising, Off
+ Readpeak Oy, Off
+ Realeyes OÜ, Off
+ ReigNN Platform Ltd., Off
+ Relay42 Netherlands B.V., Off
+ remerge GmbH, Off
+" Research Now Group, Inc", Off
+" Reveal Mobile, Inc", Off
+ Rezonence Limited, Off
+" RhythmOne, LLC", Off
+ Rich Audience, Off
+ RMSi Radio Marketing Service interactive GmbH, Off
+ Roq.ad GmbH, Off
+ Samba TV UK Limited, Off
+ Sanoma Media Finland, Off
+ Scene Stealer Limited, Off
+ Schibsted Product and Tech UK, Off
+" Sharethrough, Inc", Off
+" SheMedia, LLC", Off
+ Shopstyle, Off
+ Signal Digital Inc., Off
+ Signals, Off
+ Simplifi Holdings Inc., Off
+ Sirdata, Off
+" Smaato, Inc.", Off
+ Smadex SL, Off
+ Smartclip Hispania SL, Off
+ SmartyAds Inc., Off
+ Smile Wanted Group, Off
+" Snapsort Inc., operating as Sortable", Off
+ Social Tokens Ltd., Off
+" Sojern, Inc.", Off
+ Solocal, Off
+ Spolecznosci Sp. z o.o. Sp. k., Off
+" Steel House, Inc.", Off
+ Sub2 Technologies Ltd, Off
+ Switch Concepts Limited, Off
+ Tealium Inc, Off
+ Teemo SA, Off
+" Telaria, Inc", Off
+ The Kantar Group Limited, Off
+ The Ozone Project Limited, Off
+ The Reach Group GmbH, Off
+ Totaljobs Group Ltd, Off
+ travel audience GmbH, Off
+ Triapodi Ltd., Off
+ Triboo Data Analytics, Off
+ Tunnl BV, Off
+ Turbo, Off
+" UberMedia, Inc.", Off
+" ucfunnel Co., Ltd.", Off
+ Underdog Media LLC, Off
+ Ve Global, Off
+ VECTAURY, Off
+ Venatus Media Limited, Off
+ Vibrant Media Limited, Off
+ video intelligence AG, Off
+ ViewPay, Off
+ Viralize SRL, Off
+ Visarity Technologies GmbH, Off
+ Vuble, Off
+ Webedia, Off
+ Whenever Media Ltd, Off
+ Wizaly, Off
+" X-Mode Social, Inc.", Off
+" xAd, Inc. dba GroundTruth", Off
+" Yieldmo, Inc.", Off
+ Yieldr UK, Off
+ Yormedia Solutions Ltd, Off
+" Zemanta, Inc.", Off
+ Ziff Davis LLC, Off
+--------------------- 
+

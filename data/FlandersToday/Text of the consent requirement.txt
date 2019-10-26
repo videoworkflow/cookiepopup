@@ -1,0 +1,69 @@
+The use of files and technology such as cookies
+If you visit a website or use an application (such as an app) provided by the Mediahuis Group, files and technology may be used which store information on your equipment (PC, laptop, Smartphone, tablet, etc.) or obtain access to information already stored on your equipment. 
+ 
+The present policy describes the files and technology used by Mediahuis and third parties.  This policy may be amended from time to time and each new version will be placed online.  Only the most recent version of the policy shall apply to the use of the website. Your use of the website implies your agreement to the most recent version of this policy. 
+ 
+The above-mentioned files and technology may consist of cookies, web beacons, log files, settings and information on your equipment, etc.  They are used by Mediahuis and third parties. Mediahuis cannot be held liable for any use by third parties of the aforementioned type of files and technology via a Mediahuis Group website. 
+ 
+The files and technology do not contain any viruses or other harmful applications.  The files and technology can be of a temporary nature (session cookies, which are removed when you close your browser) or of a permanent nature (persistent cookies: they remain on your hard drive until they expire or are deleted by you) or both. 
+ 
+What are cookies?
+Cookies are tiny files that are placed and/or read on your equipment when you visit our website.
+ 
+What are web beacons?
+Web beacons or pixel tags are (invisible) graphical files contained in a web page or an e-mail and which may record certain information, such as your IP-address.
+ 
+What are log files?
+Among other things, log files may gather information about your web browser’s activities.
+ 
+What are the settings and information on your equipment?
+Your PC, laptop, Smartphone and tablet and all the applications available thereon may contain information about the type of device, the settings of an application, etc.  Such settings may be read.
+ 
+Personal data and their use
+Some of the used files and technology described herein contain data which may identify you directly or indirectly (personal data). The Mediahuis Group uses such personal data for the following purposes: functioning and use of the website; customer management; market research (e.g. for the CIM Internet Study) and direct marketing; list broking (trade in commercial information) and resume and job services (providing information according to your profile).
+ 
+Your personal data may be passed on to companies which process data (processors) for and on behalf of Mediahuis, to commercial partners and to affiliated companies. For more information and details about your rights in relation to the processing of personal data, please refer to our.
+ 
+To what end does Mediahuis use files and technology? 
+Mediahuis uses files and technology for the following purposes:
+Files and technology required to allow smooth navigation on our website and for ease of use of our website or for enabling interactivity with our websites.
+ 
+For example: the use of features; detection of your device type; detection of your screen resolution; detection of your text size; consultation of your browser settings, buffer size, device ID.
+Files and technology that store your browsing preferences
+ 
+For instance: your language; your login; your password; your subscription; your preferential themes; your search preferences.
+Files and technology that remember your purchases or the information entered about different web pages or browsing sessions.
+ 
+For instance:  order basket; forms.
+Files and technology that speed up the load time of web pages, warrant security, test the website or its users, detect abuse and detect the required age.
+ 
+For instance: load balancing; detection of the number of login attempts; automatic logout function; A/B testing.
+Files and technology that record the number of visitors, your browsing behaviour, user patterns and error messages for the purpose of optimising the content and structure of our website.
+ 
+For instance: how many times do you visit the website; which pages do you visit; which pages return errors; how do you reach our website.
+Files and technology that monitor your browsing history in time, either or not in combination with information via third-party sources, for the purpose of showing relevant content, messages (cf. Push messages) and commercials; for research purposes and market analysis; and for safeguarding accurate and proper functioning of the advertising system.
+ 
+For instance: based on your previous browsing behaviour, your geo location, the commercials you have clicked on, your device’s ID or other identification data and your socio-demographic data you will be shown personalised content and adverts of the Mediahuis Group.  Said files and technology remain in force for at least one year.
+Files and technology that detect whether or not you are using ad-block technology. 
+ 
+To what end do third parties use files and technology via the Mediahuis websites
+Third parties use files and technology for the following purposes:
+Files and technology that monitor your browsing behaviour in time, either or not in combination with information from other commercials or via third-party sources, to show third party commercials.
+ 
+For instance: based on your previous browsing behaviour, your geo location, the commercials you have clicked on, your device’s ID or other identification data and your socio-demographic data you will be shown personalised content and adverts of third parties.
+Files and technology that can follow you via a social network after you have clicked the button of that social network and through which that social network automatically receives your personal data.
+ 
+For instance: the Facebook ‘like’ or ‘share’ button.
+ 
+Disabling certain files and technology
+You may disable cookies, web beacons, log files and other files and technology used by Mediahuis and/or third parties to the extent and in the manner described below.  Removing and/or refusing cookies, web beacons, log files, ad-block detection and other files and technology may result in suboptimal functioning of the website.
+ 
+Disabling cookies:
+Google Chrome: about removing existing cookies and refusing new cookies. Click
+Internet Explorer: about removing existing cookies and refusing new cookies. Click
+Firefox/Mozilla: about refusing new cookies. Click
+Firefox/Mozilla: about removing existing cookies. Click
+Safari: about removing existing cookies and refusing new cookies. Click
+Opera: about removing existing cookies and refusing new cookies. Click
+ 
+

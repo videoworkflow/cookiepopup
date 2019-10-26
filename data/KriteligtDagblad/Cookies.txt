@@ -1,0 +1,165 @@
+Nødvendige (4) - Funktionelle (8) - Statistiske (30) - Marketing (82) - Uklassificerte (23) 
+
+--------TABLE--------
+ Nødvendige (4), , , 
+ Navn, Udbyder, Formål, Udløb
+ AWSELB, , Understøtter websitets tekniske funktioner., Session
+ PHPSESSID, .kristeligt-dagblad.dk, Påkrævet for at websitet kan fungere., Session
+ has_js, ," Understøtter funktionerne i et ""Content Management System"" til at sikre, at websitet fungerer korrekt.", Session
+ LB, , Understøtter websitets tekniske funktioner., Session
+ , , , 
+ Funktionelle (8), , , 
+ Navn, Udbyder, Formål, Udløb
+ AWSALB, ," Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.", 7 dage
+ _initial_referrer, , Understøtter det visuelle indhold og webstedets elementer på websitet., Session
+ sc_anonymous_id, .soundcloud.com, Understøtter brugen af ​​indlejrede musikafspillere på websitet., 10 år
+ _ga, .infogram.com, Understøtter det visuelle indhold og webstedets elementer på websitet., 2 år
+ __cfduid, .zopim.com," Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.", et år
+ __zlcmid, .kristeligt-dagblad.dk," Indsamler oplysninger om brugerne og deres aktivitet på websitet, som bruges til at levere personlig kundeservice og indhold.", et år
+ __cfduid, .zdassets.com, Påkrævet for at websitet kan fungere., et år
+ __cfduid, .knightlab.com, Understøtter det visuelle indhold og webstedets elementer på websitet., et år
+ , , , 
+ Statistiske (30), , , 
+ Navn, Udbyder, Formål, Udløb
+ vuid, .vimeo.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem en indlejret video player til analyse og rapporteringsformål., 2 år
+ UID, .scorecardresearch.com," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", 2 år
+ parsely_network_uuid, .config.parsely.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 100 år
+ cX_P, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ gckp, .cxense.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ player, .vimeo.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem en indlejret video player til analyse og rapporteringsformål., et år
+ _gat, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
+ _ga, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 2 år
+ _gid, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., en dag
+ i00, .tns-gallup.dk," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", 10 år
+ srp, ," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
+ _gat_gtag_UA_5784146_31, .spotify.com, Bruges til at analysere brugen af ​​indlejrede musikafspillere på websitet., et minut
+ cX_G, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ wam-sync, .weborama.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 7 dage
+ _parsely_session, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 30 minutter
+ sp_t, .spotify.com, Bruges til at analysere brugen af ​​indlejrede musikafspillere på websitet., 2 måneder
+ cX_S, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., Session
+ mako_uid, .eyeota.net, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ UIDR, .scorecardresearch.com," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", 2 år
+ ONPLFTRH, , Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., Session
+ _parsely_visitor, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ _gat_UA-xxx-xxx, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
+ _gid, .spotify.com, Bruges til at analysere brugen af ​​indlejrede musikafspillere på websitet., en dag
+ sp_ab, .spotify.com, Bruges til at analysere brugen af ​​indlejrede musikafspillere på websitet., en måned
+ sp_landing, .spotify.com, Bruges til at analysere brugen af ​​indlejrede musikafspillere på websitet., en dag
+ wui, .weborama.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 3 måneder
+ AFFICHE_W, .weborama.fr, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 3 måneder
+ d, .quantserve.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 3 måneder
+ mc, .quantserve.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ _dc_gtm_UA-xxx-xxx, .kristeligt-dagblad.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet gennem indlejrede elementer med det formål at analysere og rapportere., et minut
+ , , , 
+ Marketing (82), , , 
+ Navn, Udbyder, Formål, Udløb
+ MUID, .bing.com," Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.", et år
+ fr, .facebook.com," Facebooks primære annonceringscookie, som bruges til at levere, måle og forbedre relevansen af annoncer.", 3 måneder
+ IDE, .doubleclick.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ YSC, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., Session
+ _cc_cc, .crwdcntrl.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 9 måneder
+ _cc_aud, .crwdcntrl.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 9 måneder
+ cookie, .onaudience.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ tuuid, .creative-serving.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ uuid, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ cnac, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 5 minutter
+ car, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 5 minutter
+ uf, .tradetracker.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ test_cookie, .doubleclick.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 15 minutter
+ PREF, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 8 måneder
+ lang, , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ __gads, .kristeligt-dagblad.dk, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
+ TDID, .adsrvr.org, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., et år
+ _cc_id, .crwdcntrl.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 9 måneder
+ pxrc, .rlcdn.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 2 måneder
+ bkdc, .bluekai.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 6 måneder
+ smd, .rfihub.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ TestIfCookieP, .smartadserver.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ Gdyn, .hit.gemius.pl, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 5 år
+ pi, .ml314.com," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", et år
+ 8lcfmzhxc8d6_uid, .redintelligence.net, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., 3 måneder
+ wfivefivec, .w55c.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ uid, .adform.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
+ pi, .tradetracker.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
+ __telemetric.v, .kristeligt-dagblad.dk, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., 2 år
+ , , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ MUIDB, ," Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.", et år
+ GPS, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 30 minutter
+ VISITOR_INFO1_LIVE, .youtube.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 6 måneder
+ pxcelPage_c010, .t.sharethis.com, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., 7 dage
+ __stid, .sharethis.com, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., et år
+ rlas3, .rlcdn.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ uuidc, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ everest_g_v2, .everesttech.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ TDCPM, .adsrvr.org, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., et år
+ euds, .rfihub.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., Session
+ TapAd_TS, .tapad.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 måneder
+ TapAd_DID, .tapad.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 måneder
+ bito, .bidr.io, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ tuuid_lu, .creative-serving.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ pid, .smartadserver.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ ud, .exelator.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 4 måneder
+ SEUNCY, .semasio.net, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., et år
+ audience, .spotxchange.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 14 dage
+ matchgoogle, .w55c.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", en måned
+ NID, .google.com," Husker dine seneste søgninger, dine tidligere interaktioner med en annoncørs annoncer eller søgeresultater og dine besøg på en annoncørs websted for, at vise dig tilpassede annoncer på Google.", 6 måneder
+ _fbp, .kristeligt-dagblad.dk, Identificerer browsere med det formål at levere reklamer og website statistik., 3 måneder
+ _cc_dc, .crwdcntrl.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 9 måneder
+ eud, .rfihub.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ ruds, .rfihub.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., Session
+ uuid2, .adnxs.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
+ id5, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
+ uuid, .sxp.smartclip.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., en måned
+ csync, .smartadserver.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ 3pi, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 måneder
+ u, .agkn.com, Understøtter integrationen af ​​en tredjeparts platform på websitet., et år
+ uid, .turn.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 6 måneder
+ uid, .simpli.fi, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ id, .m6r.eu, Understøtter integrationen af ​​en tredjeparts platform på websitet., 3 måneder
+ mt_mop, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., en måned
+ cc, .de17a.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ __gfp_64b, .kristeligt-dagblad.dk, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 3 år
+ Gtest, .hit.gemius.pl, Indsamler oplysninger om brugerne og deres aktivitet på websitet via indlejrede videospillere med det formål at levere målrettet annoncering., 5 år
+ bku, .bluekai.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 6 måneder
+ pxcelBcnLcy, .t.sharethis.com, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., Session
+ rud, .rfihub.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ uuid, , Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ psyn, .sxp.smartclip.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., en måned
+ cf, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 5 minutter
+ cip, .id5-sync.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 5 minutter
+ EE, .exelator.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 4 måneder
+ ab, .agkn.com, Understøtter integrationen af ​​en tredjeparts platform på websitet., et år
+ __unam, .kristeligt-dagblad.dk, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., 9 måneder
+ DSID, .doubleclick.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., en time
+ test, .m6r.eu, Understøtter integrationen af ​​en tredjeparts platform på websitet., en time
+ guid, .de17a.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ UserID1, .adfarm1.adition.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 6 måneder
+ __telemetric.s, .kristeligt-dagblad.dk, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., 30 minutter
+ , , , 
+ Uklassificerede (23), , , 
+ Navn, Udbyder, Formål, Udløb
+ kd_order, , Afventer, Session
+ , , Afventer, Session
+ hsk_1992, .exelator.com, , 4 måneder
+ oo, .go.affec.tv, , et år
+ digitalAudience, .target.digitalaudience.io, , 10 år
+ KD.Tracking.newsletterId, , Afventer, et år
+ fifid, .fiftyt.com, , et år
+ KD.Tracking.sessionId, , Afventer, et år
+ KD.Split.decisions, , , Session
+ KD.Viewed.articles, , , Session
+ abid, .entitytag.co.uk, Afventer, 2 år
+ done_redirects154, .onaudience.com, , en dag
+ callback, .id5-sync.com, , 5 minutter
+ BMLFT, .kristeligt-dagblad.dk, Afventer, 14 dage
+ sec, .eyeota.net, , et år
+ bkpa, .bluekai.com, , 6 måneder
+ pt, .go.affec.tv, , et år
+ gdpr, .id5-sync.com, , 5 minutter
+ KD.User.data, , Afventer, Session
+ ab_t, .vimeo.com, , en time
+ , , Afventer, et år
+ ck, .go.affec.tv, , et år
+ fm, .fiftyt.com, , 7 dage
+---------------------

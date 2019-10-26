@@ -1,0 +1,92 @@
+Personuppgiftspolicy
+Behandling av personuppgifter
+Publicerade den 23 maj 2018.
+ 
+Grundläggande principer
+Norrköpings Tidningars Media AB, nedan kallat NTM är en mediekoncern med kärnan i publicistisk verksamhet med starka lokala mediebolag och deras varumärken. Vi värdesätter dig som kund och din personliga integritet. Vi förbinder oss att respektera och skydda Dina personuppgifter och Din personliga integritet i enlighet med gällande lagstiftning, branschregler och andra relevanta normer. För att Du bättre ska kunna förstå hur vi behandlar information om Dig redovisar vi nedan våra grundläggande principer för behandling av personuppgifter.
+ 
+Viktiga begrepp
+En personuppgift är en upplysning som direkt eller indirekt kan knytas till en fysisk levande person. Exempel på personuppgifter är namn, adress, telefonnummer och e-postadress. Under vissa omständigheter kan även uppgifter om IP-nummer och ditt användarbeteende vid nyttjande av våra tjänster utgöra personuppgifter. Behandling av personuppgifter menas all hantering av personuppgifter, exempelvis insamling, registrering, organisering och lagring. Personuppgiftsansvarig är den som ensam eller tillsammans med annan bestämmer ändamål och medel för behandlingen av personuppgifterna och som ytterst ansvarar för att behandlingen sker i enlighet med tillämplig personuppgiftslagstiftning. KiD är NTMs inloggningssystem som används för NTMs alla digitala tjänster som använder inloggning. KiD-konto är ditt personliga konto i KiD där du som kund enkelt kan logga in och röra dig mellan NTM-koncernens olika tjänster. NTMs webbplatser/tjänster är de som är anslutna till KiD. En aktuell förteckning över varumärken som ingår finner du här: kundid.se/kid.
+ 
+Vilken information samlar vi in om dig?
+Vi samlar in uppgifter om dig vid skapandet av ett KiD-konto och även vid användning av våra tjänster. För att du bättre ska kunna förstå hur vi behandlar information om Dig redovisar vi nedan vår hantering av både personuppgifterna du lämnar till oss och de vi samlar in vid användandet av tjänsterna.
+Uppgifter som du själv lämnar till oss När du köper tjänster av oss, registrerar ett KiD-konto eller uppdaterar dina uppgifter lämnar du uppgifter om dig själv, så som e-postadress och/eller mobilnummer, namn, personnummer, postadress och ett lösenord. Dessa uppgifter kan du själv komma åt och ändra genom ditt KiD-konto.
+Information vi samlar in om dig När du använder våra tjänster/webbplatser lagrar vi information om din användning. Informationen som lagras kan delas upp i olika kategorier:
+Teknisk information/enhetsinformation Genom loggar registrerar vi teknisk information om den enheten och den uppkoppling du surfar med på våra webbplatser/tjänster. Den tekniska informationen omfattar även webbläsare, operativsystem och IP-nummer.
+Geografisk information När du använder våra webbplatser/tjänster beräknar vi din geografiska position. Om du har godkänt platstjänster på din enhet samlar vi löpande in uppgifter om din geografiska position. Dessa uppgifter används och kommer användas för att ge dig både redaktionellt innehåll, erbjudanden och annonsering anpassad efter din geografiska position.
+Cookies och tokens När du använder våra webbplatser lagrar vi cookies och tokens för att du t ex inte ska behöva logga in varje gång du besöker en av våra webbplatser. Cookies/tokens hjälper oss också att anpassa vårt innehåll till dig och se generella beteendemönster på våra webbplatser och därmed lära oss mer om våra användare och kunna förbättra användarupplevelsen på våra webbplatser.
+Uppdateringar från andra källor För att kunna hålla våra register uppdaterade och kvalitetssäkrade kommer NTM hämta uppdateringar från SPAR (Statens personadressregister) och liknande register.
+ 
+Ändamål med behandlingen - vad används uppgifterna till?
+NTM behandlar dina personuppgifter enligt gällande lagstiftning. All data används och behandlas för att tillhandahålla, fullfölja åtaganden, utföra och förbättra NTMs tjänster till dig som kund/besökare. När du blir prenumerant eller registrerar ett KiD-konto hos oss ingår du ett avtal med oss och godkänner därmed att NTM behandlar de uppgifter du lämnar från dig, både direkt och indirekt.
+Kundvård Vi använder oss av dina personuppgifter för att kunna ge dig service om du kontaktar oss med frågor, synpunkter kring dina tjänster och prenumerationer på NTM. Vi använder även dina personuppgifter när vi behöver kontakta dig i något ärende som rör dina tjänster.
+Hantera dina prenumerationer och tjänster Vi använder oss av dina personuppgifter, såsom ditt KiD-konto, för att kunna ge dig rätt typ av tjänster och prenumeration när du besöker våra tjänster och webbplatser.
+Förbättra användarupplevelsen på våra webbplatser och tjänster Vi använder personuppgifter för att kunna ge dig mer användarvänliga tjänster.
+Personifierade erbjudanden och annonser Vi vill kunna erbjuda dig skräddarsydda erbjudanden och annonser när du besöker våra sajter. Det innebär att vi kan leverera digitala annonskampanjer som är anpassade till dig som individ så du kan få relevanta annonser och erbjudande utifrån vilka sidor du besöker på våra webbplatser, vilka tjänster du använder på våra webbplatser eller den demografiska data som du har gett oss (ålder och kön etc). Vi använder oss även av geopositionering för att ge dig anpassade annonser och erbjudande nära där du är. Uppgifterna analyseras och grupperas inför urval, prioritering och planering av kontakter med kunden/användaren. Till uppgifterna kopplas en eller flera markörer om vilken typ av anpassning av webbtjänster och marknadskommunikation som riktas mot användaren, så kallad profilering.
+Personifierat redaktionellt innehåll För att kunna anpassa det redaktionella innehållet på våra webbplatser och i våra tjänster så använder vi persondata om dig gällande dina beteendemönster på våra webbplatser samt vilka tjänster som du använder på våra webbplatser. Vi använder oss även av geopositionering för att ge dig anpassat innehåll nära där du är. Uppgifterna analyseras och grupperas inför urval, prioritering och planering av kontakter med kunden/användaren. Till uppgifterna kopplas en eller flera markörer om vilken typ av anpassning av webbtjänster och marknadskommunikation som riktas mot användaren, så kallad profilering.
+ 
+Vilka kan vi komma att dela din information till?
+Vi behandlar och delar med oss av dina uppgifter först och främst till NTMs dotterbolag allt för att kunna uppfylla ändamålen med behandlingen. NTMs alla dotterbolag har t ex en gemensam kundtjänst vars syfte givetvis är att ge dig en så bra service som möjligt.
+
+Utöver detta kan vi lämna ut dina personuppgifter till andra bolag inom vår koncern, våra anställda och konsulter, våra leverantörer av IT-tjänster, datasystem samt finansiella och juridiska tjänster, banker, försäkringsbolag och till myndigheter och andra offentliga organ.
+ 
+Cookies och annan teknik
+NTM använder cookies, local storage och andra tekniker på våra webbplatser och i våra tjänster för att analysera data om användarna.
+
+En cookie är en textfil som webbläsaren eller motsvarande program laddar ner på uppmaning av den besökta webbplatsen. Varje cookie som laddas ner sparas på besökarens hårddisk och är tillgänglig för webbplatsen via webbläsaren när besökaren återkommer. Du kan enkelt ta del av, blockera och avlägsna lagrade cookies om så önskas.
+
+Med hjälp av cookies kan NTM föra besöksstatistik, anpassa sidan korrekt till dina webbläsarinställningar, förenkla menyval och på andra sätt öka användbarheten för dig som besökare. Genom cookies kan NTM också samla information om våra användares beteenden och utifrån dessa mönster anpassa, begränsa och på ett bättre sätt styra vilken reklam som ska visas.
+
+Generell statistik Användning av cookies medför inte att NTM kan lagra information som sedan kan knytas till personliga identiteter, utan det är enbart generell statistik och anonyma användarbeteenden som kan följas och lagras.
+
+NTM kan även använda sig av så kallade tredjepartscookies, dvs cookie-filer som tillhandahålls av våra samarbetspartner. Tredjepartscookies kan förekomma exempelvis vid undersökningar, genom annonsnätverk och/eller enskilda annonsörer som vi samarbetar med.
+
+Radera, blockera eller avaktivera nedladdning av cookies
+
+Nedladdning och hantering av cookies sköts av din webbläsare eller motsvarande program. Du kan när som helst ändra inställningarna i din webbläsare så att cookies antingen raderas, blockeras eller aktiveras.
+
+Genom din webbläsare kan du också se och läsa innehållet i alla cookies som har laddats ner från webbplatsen. Tänk på att vissa funktioner på webbplatsen fungerar sämre, eller till och med slutar att fungera helt och hållet, ifall du blockerar eller stänger av användning av cookies.
+
+Mer om cookies
+Användning av cookies på webbplatser regleras i 6 kap 18 § lagen (2003:389) om elektronisk kommunikation. Post- och telestyrelsen, PTS, är den myndighet som bevakar områdena elektronisk kommunikation och post i Sverige. Du kan läsa mer om cookies på http://www.minacookies.se.
+ 
+Säkerhet
+NTM och dess dotterbolag skyddar Dina personuppgifter genom tekniska och organisatoriska säkerhetsåtgärder. För att förhindra obehörig åtkomst och för riktigheten hos informationen använder vi oss av kryptering när känsliga uppgifter behandlas.
+ 
+Hur länge sparar vi dina personuppgifter?
+Vi sparar dina uppgifter som huvudregel under avtalstiden med dig som kund och i ett år därefter, men vissa uppgifter kan sparas längre beroende på ändamålet med behandlingen. Uppgifterna på ditt KiD-konto sparar vi endast så länge som ditt KiD-konto är aktivt eller så länge det är nödvändigt för att utföra våra åtaganden gentemot dig och så länge det krävs enligt lagstadgade lagringstider.
+ 
+Var behandlar vi dina personuppgifter?
+Vi strävar alltid efter att behandla din data inom EU/EES. Om vi överför dina personuppgifter till tredje land, dvs land utanför EU/ESS kommer vi att vidta alla rimliga legala, tekniska och organisatoriska åtgärder för att säkerställa att din data hanteras säkert och med en adekvat skyddsnivå jämförbar med och i samma nivå som det skydd som erbjuds inom EU/EES.
+ 
+Vad kommer vi INTE göra med din data?
+Vi kommer aldrig sälja dina personuppgifter till tredje part om vi inte har ditt uttryckliga tillstånd att göra så.
+ 
+Dina rättigheter
+Rätt att få tillgång till din data. Du kan begära en kopia av de uppgifter du skulle vilja veta och verifiera den information vi har om dig. Kopian är gratis att begära.
+
+Rätt att bli raderad. Du har dessutom rätt att när som helst begära att vi raderar personuppgifter i enlighet med vad som anges i tillämplig lag. Vi är skyldiga enligt lag att behålla vissa uppgifter rörande betalningstransaktioner under en längre tid för bokföringsändamål.
+
+Du har även rätt att begära rättelse eller komplettering av de personuppgifter som vi behandlar om dig. Under tiden vi kontrollerar om uppgifterna är korrekta kan du begära att behandlingen av dina personuppgifter begränsas, vilket innebär att de endast får lagras av oss tills vidare. I det fall du har lämnat samtycke till en behandling har du en rätt att när som helst återkalla ditt samtycke. Om du återkallar ett samtycke och vi inte har någon annan laglig grund att stödja oss på kommer den be-rörda behandlingen av dina personuppgifter att upphöra, dock utan att påverka lagligheten av den behandling som redan utförts.
+
+Alla begäranden ska göras skriftligen enligt information på vår kundportal (www.kundid.se) alternativt lämnas in till vår kundservice på Stohagsgatan 2 i Norrköping.
+ 
+Personuppgiftsansvar
+NTM AB är personuppgiftsansvarig i samband med din användning av KiD och kringliggande tjänster.
+ 
+Ändringar i personuppgiftspolicyn
+Denna personuppgiftspolicy kan komma att uppdateras från tid till annan. Den senaste versionen hittar du alltid på denna sida. Vi kommer dock att meddela dig om vi gör väsentliga förändringar som kräver ditt samtycke.
+ 
+Klagomål till tillsynsmyndigheten
+Om du anser att vi behandlar dina personuppgifter på ett felaktigt sätt kan du lämna in ditt klagomål till tillsynsmyndigheten (Datainspektionen/Integritetsskyddsmyndigheten).
+ 
+Kontakta oss
+Vi tar dataskydd på stort allvar och har en särskild grupp som ansvarar för vår behandling av personuppgifter, om du har frågor eller synpunkter på hur vi arbetar med dataskydd eller på vår personuppgiftspolicy, kontakta oss på dataskydd@ntm.eu.
+
+NTM AB (org nr 556741-2340)
+Postadress: Stohagsgatan 2, 601 83 Norrköping
+Tel: 075-245 60 00
+E-postadress: dataskydd@ntm.eu
+Web:https://www.kundid.se
+ 
+

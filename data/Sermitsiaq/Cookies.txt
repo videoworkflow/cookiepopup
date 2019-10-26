@@ -1,0 +1,111 @@
+Nødvendige (10) - Præferencer (1) - Statistik (26) - Marketing (53) - Uklassificert (1)
+
+
+Nødvendige 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ PHPSESSID [x2], aviisi.sermitsiaq.ag kommune-tv.dk, Bevarer brugertilstand på tværs af sideforespørgsler., Session, HTTP
+ CONSENT, ," Viser, hvorvidt den besøgende har tilvalgt cookies i marketingkategorien. Cookien er nødvendig for overholdelsen af GDPR-regulativet.", 6745 dage, HTTP
+ JSESSIONID, , Bevarer brugertilstand på tværs af sideforespørgsler., Session, HTTP
+ CookieConsent, , Gemmer brugerens cookie-samtykke-tilstand for det aktuelle domæne., 1 år, HTTP
+ has_js, , Registrerer om brugeren har Javascript aktiveret i sin browser., Session, HTTP
+ SESS#, , Bevarer brugertilstand på tværs af sideforespørgsler., 23 dage, HTTP
+ local_storage_support_test, ," Denne cookie benyttes i kontekst med local-storage‐funktionen på hjemmesiden. Dette tillader hjemmesiden at pre-loade bestemte procedurer, hvilket optimerer hjemmesidens hastighed og ydelse.", Persistent, HTML
+ __cfduid, , Anvendes af indholds-netværket Cloudflare til at identificere betroet webtrafik., 1 år, HTTP
+ SSESS#, , Afventer, 23 dage, HTTP
+---------------------
+
+Præferencer 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ jwplayerLocalId, , Bestemmer den optimale video kvalitet ud fra den besøgendes platform og netværkshastighed., Persistent, HTML
+---------------------
+
+Statistik 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ S, ," Sætter et unikt ID for det aktuelle besøg. Dette tillader hjemmesiden at skelne individuelle besøg fra hinanden, hvilket benyttes til intern statistik og analyse.", 1 dag, HTTP
+ Gtest, ," Denne cookie sættes for at indsamle data om brugerens adfærd og navigation på hjemmesiden, hvilket benyttes til at udarbejde rapporter til hjemmesideejeren - Cookien tillader også at Google Ads og Google Analytics kan anvende disse data i deres tjenester i marketingsøjemed.", 1876 dage, HTTP
+ _gat [x3], giphy.com kommune-tv.dk sermitsiaq.ag, Anvendes af Google Analytics til at drosle hastigheden på antallet af forespørgsler til serveren, 1 dag, HTTP
+ _ga [x3], kommune-tv.dk sermitsiaq.ag giphy.com," Registrerer et unikt ID, der anvendes til at føre statistik over hvordan den besøgende bruger hjemmesiden.", 2 år, HTTP
+ _gid [x3], kommune-tv.dk sermitsiaq.ag giphy.com," Registrerer et unikt ID, der anvendes til at føre statistik over hvordan den besøgende bruger hjemmesiden.", 1 dag, HTTP
+ loglevel, , Registrerer den besøgendes interaktion med hjemmesidens video-indhold. Dette gøres for at optimere hjemmesidens video-indhold., Persistent, HTML
+ muxData, ," Denne cookie bruges i forbindelse med en video-player. Cookien husker, hvor langt i videoen den besøgende er nået. Dette muliggør, at den besøgende kan starte fra det sted, han/hun sluttede.", 20 år, HTTP
+ _at.hist.#, , Anvendes af den sociale delings-tjeneste AddThis til at gemme brugerens historik ved brug af AddThis delingsfunktion, Persistent, HTML
+ _cb, ," Indsamler data om den besøgendes IP-adresse, geografiske placering og navigation på hjemmesiden. Dette benyttes til optimering af hjemmesiden og som statistik for hjemmesidens ejer.", 1 år, HTML
+ _cb_expires, , Denne cookie bruges i forbindelse med HTML Local Storage; cookien sætter en udløbsdato/-tidspunkt for _cb trackeren. Dette får _cb til at fungere som en normal cookie., Persistent, HTML
+ _cb_ls, , Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst., 1 år, HTTP
+ _cb_svref, , Denne cookie indsamler informationer omkring den besøgendes adfærd og præferencer på hjemmesiden. Denne information bliver en ID-streng af information omkring den specifikke besøgende. Denne ID-streng kan bruges til at målrette annoncer til den specifikke besøgende af tredje-parts-reklamehjemmesider., 1 dag, HTML
+ _cb_svref_expires, ," Denne cookie bruges i forbindelse med HTML Local Storage, cookien sætter en udløbsdato/-tidspunkt for _cb_sverf trackeren. Dette får _cb_sverf til at fungere som en normal cookie.", Persistent, HTML
+ sn_global_countdown_last_reset_timestamp, , Sætter et tidsstempel for hvornår den besøgende tilgik hjemmesiden. Benyttes til analytiske formål., Persistent, HTML
+ SNC, ," Sætter et unikt ID for det aktuelle besøg. Dette tillader hjemmesiden at skelne individuelle besøg fra hinanden, hvilket benyttes til intern statistik og analyse.", 2 år, HTTP
+ SNS, ," Sætter et unikt ID for det aktuelle besøg. Dette tillader hjemmesiden at skelne individuelle besøg fra hinanden, hvilket benyttes til intern statistik og analyse.", Session, HTTP
+ sc_anonymous_id, ," Denne cookie muliggør, at besøgende kan indlejre indhold på hjemmesiden; denne indlejring kan være begrænset til bestemte besøgende.", 10 år, HTTP
+ p.gif, , Denne cookie benyttes internt på hjemmesiden for at analysere- og holde styr på hjemmesidens fonts. Indeholder ingen persondata., Session, Pixel
+ vuid, , Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst., 2 år, HTTP
+ Gdyn, , Afventer, 1876 dage, HTTP
+---------------------
+
+Marketing 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ loc, ," Geolocation, bruges til at hjælpe udgivere med at vurdere hvor brugere, der deler information med andre, geografisk er placeret (statsniveau)", 13 mdr., HTTP
+ uvc, , Registrerer hvor ofte den sociale delingstjeneste AddThis møder samme bruger., 13 mdr., HTTP
+ xtc, , Registrerer brugerens delinger af indhold via sociale tjenester., 13 mdr., HTTP
+ IDE, , Anvendes af Google DoubleClick til at registrere og rapportere om hjemmesidebrugerens handlinger efter at have set eller klikket på en af annoncørens annoncer. Formålet er at måle effekten af en annonce samt at målrette annoncer til brugeren., 1 år, HTTP
+ test_cookie, , Anvendes til at tjekke om brugerens browser understøtter cookies., 1 dag, HTTP
+ fr, ," Anvendes af Facebook til at levere forskellige reklame-tjenester, herunder realtids-bud fra tredjeparts-annoncører.", 3 mdr., HTTP
+ tr, ," Anvendes af Facebook til at levere forskellige reklame-tjenester, herunder realtids-bud fra tredjeparts-annoncører.", Session, Pixel
+ _cph, , Indsamler data om brugerens præferencer og interaktion med internet-kampagner - Dette benyttes på CRM-kampagne-platforme af hjemmesideejere til promovering af events eller produkter., 29 dage, HTTP
+ _ha, ," Registrerer præference-data på en specifik besøgende på tværs af flere hjemmesider. Dette gøres for at optimere annoncernes relevans, samt sikre at den samme besøgende ikke får vist den samme annonce flere gange end tiltænkt.", Session, HTTP
+ _sc, ," Registrerer præference-data på en specifik besøgende på tværs af flere hjemmesider. Dette gøres for at optimere annoncernes relevans, samt sikre at den samme besøgende ikke får vist den samme annonce flere gange end tiltænkt.", 29 dage, HTTP
+ _wr, ," Registrerer præference-data på en specifik besøgende på tværs af flere hjemmesider. Dette gøres for at optimere annoncernes relevans, samt sikre at den samme besøgende ikke får vist den samme annonce flere gange end tiltænkt.", 29 dage, HTTP
+ gstorage, , Sætter et ID for den specifikke besøgende. Dette tillader tredjeparts annoncetjenester at målrette annoncer til den specifikke besøgende. Denne parring mellem besøgende og tredjeparts-tjenester faciliteres gennem online annoncebruger-auktioner i realtid., Persistent, HTML
+ __asc, , Denne cookie indsamler informationer om den besøgendes adfærd og præferencer; disse informationer bliver sendt til Alexa Analytics. Alexa Analytics er en del af Amazon., 1 dag, HTTP
+ __auc, , Denne cookie indsamler informationer om den besøgendes adfærd og præferencer; disse informationer bliver sendt til Alexa Analytics. Alexa Analytics er en del af Amazon., 1 år, HTTP
+ __qca, ," Indsamler statistik om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at generere rapporter til optimering af hjemmesidens indhold.", 1 år, HTTP
+ 1P_JAR, ," Registrerer præference-data på en specifik besøgende på flere hjemmesider, for at optimere annoncernes relevans.", 29 dage, HTTP
+ ads/ga-audiences, ," Anvendes af Google AdWords til at gentage annoncer for besøgende, der sandsynligvis vil konvertere til kunder baseret på den besøgendes onlineadfærd på tværs af websteder.", Session, Pixel
+ NID, ," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.", 6 mdr., HTTP
+ mc, , Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst. De registrerede data anvendes til at målrette annoncer., 13 mdr., HTTP
+ UID, ," Indsamler information om brugeren og dennes adfærd, såsom tidspunkt for besøg, læste sider og ip-adresse. Data bruges af markedsundersøgelses-netværket Scorecard Research til at analysere besøgsmønstre og gennemføre undersøgelser for at hjælpe deres klienter med bedre at forstå kundernes præferencer.", 2 år, HTTP
+ UIDR, ," Indsamler information om brugeren og dennes adfærd, såsom tidspunkt for besøg, læste sider og ip-adresse. Data bruges af markedsundersøgelses-netværket Scorecard Research til at analysere besøgsmønstre og gennemføre undersøgelser for at hjælpe deres klienter med bedre at forstå kundernes præferencer.", 2 år, HTTP
+ __atuvc, , Opdaterer tæller på en hjemmesides sociale delingsfunktioner., 13 mdr., HTTP
+ __atuvs, ," Sørger for at brugeren ser den opdaterede tæller, hvis de deler en side med den social delings-tjeneste AddThis.", 1 dag, HTTP
+ __gfp_64b, , Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst. De registrerede data anvendes til at kategorisere brugernes interesser og demografiske profiler med henblik på videresalg til målrettet markedsføring., 999 dage, HTTP
+ _at.cww, , Anvendes af den sociale delings-tjeneste AddThis, Persistent, HTML
+ _chartbeat2, , Anvendes af web-analyse-selskabet Chartbeat til at registrere om brugeren har besøgt hjemmesiden før., 1 år, HTML
+ _chartbeat2_expires, , Anvendes af web-analyse-selskabet Chartbeat til at registrere om brugeren har besøgt hjemmesiden før., Persistent, HTML
+ _chartbeat4, , Anvendes af web-analyse-selskabet Chartbeat til at registrere om brugeren har besøgt hjemmesiden før., 1 dag, HTML
+ _chartbeat4_expires, , Anvendes af web-analyse-selskabet Chartbeat til at registrere om brugeren har besøgt hjemmesiden før., Persistent, HTML
+ at-lojson-cache-#, , Anvendes af den sociale delings-tjeneste AddThis, Persistent, HTML
+ at-rand, , Anvendes af den sociale delings-tjeneste AddThis, Persistent, HTML
+ GoogleAdServingTest, ," Anvendes til at registrere hvilke annoncer, der er blevet vist for brugeren.", Session, HTTP
+ WIDGET::local::assignments, ," Benyttes af audio-tjenesten SoundCloud for at implementere, måle og forbedre deres integrerede indhold på hjemmesiden - Denne dataindsamling inkluderer brugerinteraktion med indhold, hvilket kan benyttes til statistiske formål eller til marketing.", Persistent, HTML
+ ep201, , Bevarer brugertilstand på tværs af sideforespørgsler ved gennemførsel af en webbaseret undersøgelse., 1 dag, HTTP
+ ep202, , Bevarer brugertilstand på tværs af sideforespørgsler ved gennemførsel af en webbaseret undersøgelse., 1 år, HTTP
+ GPS, , Registrerer et unikt ID på mobile enheder for at muliggøre tracking baseret på geografisk GPS lokation., 1 dag, HTTP
+ PREF, ," Registrerer et unikt ID, der anvendes af Google til at føre statistik over hvordan den besøgende bruger YouTube vidoer på tværs af forskellige hjemmesider.", 8 mdr., HTTP
+ VISITOR_INFO1_LIVE, , Forsøger at estimere brugernes båndbredde på sider med integreret YouTube-video., 179 dage, HTTP
+ YSC, , Registrerer et unikt ID for at føre statistik over hvilke videoer fra YouTube brugeren har set., Session, HTTP
+ yt-remote-cast-installed, , Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Session, HTML
+ yt-remote-connected-devices, , Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Persistent, HTML
+ yt-remote-device-id, , Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Persistent, HTML
+ yt-remote-fast-check-period, , Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Session, HTML
+ yt-remote-session-app, , Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Session, HTML
+ yt-remote-session-name, , Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Session, HTML
+ ping, , Afventer, Session, Pixel
+ _sid, , Afventer, Session, HTTP
+ _ue, , Afventer, Session, HTTP
+ _uid, , Afventer, 1 år, HTTP
+ _vr, , Afventer, 29 dage, HTTP
+ __ab12#, , Afventer, 2 år, HTTP
+ inlinejobvisited, , Afventer, 1 dag, HTTP
+ __widgetsettings, , Afventer, Persistent, HTML
+---------------------
+
+Uklassificert 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ , , Afventer, Session, Pixel
+---------------------

@@ -1,0 +1,21 @@
+Cookiepolicy
+
+För att få den här webbplatsen att fungera ordentligt skickas vid enstaka tillfällen små filer till din dator. Dessa filer kallas kakor eller ”cookies”. De flesta större webbplatser gör på samma sätt och har gjort så sedan internets och world wide webs begynnelse.
+ 
+Kakorna är små textfiler som sparas på din dator, telefon eller surfplatta när du besöker webbplatsen. Kakorna hjälper webbplatsen att komma ihåg dina inställningar (t.ex. användarnamn, språk, textstorlek och andra förhandsval) under en viss tid.
+ 
+Det finns två typer av cookies. Den ena typen sparar en fil under en längre tid på din dator. Den används till exempel vid funktioner som talar om vad som är nytt sedan användaren senast besökte den aktuella webbplatsen. Den andra typen av cookies kallas sessionscookies. Under tiden du är inne och surfar på en sida, lagras den här cookien temporärt i din dators minne exempelvis för att hålla reda på vilket språk du har valt. Sessionscookies lagras inte under en längre tid på din dator, utan försvinner när du stänger din webbläsare.
+ 
+Höglandsnytt använder Google Analytics för att få en bild av hur besökare använder webbplatsen, för att avgöra längden och antalet sidvisningar på webbplatsen, hur besökaren hittade till webbplatsen och för att identifiera unika besökare. Kakorna används inte för att identifiera dig som person. Höglandsnytt sparar ingen personligt identifierbar information i cookies.
+ 
+Syftet med behandling av uppgifter i cookies att kunna ge en tillämplig användarupplevelse på vår webbplats genom att tillhandahålla adekvata nyheter och annonser. Laglig grund är ett berättigat intresse från vår sida att ge en bra upplevelse av sajten, tillhandahålla relevant innehåll.
+ 
+Höglandsnytts cookies kommer från tillhandahållare av annonser samt från Googles statistiska analysverktyg. Filerna sparas mellan en timme och ett år beroende på typ. Lista på cookies:
+ 
+https://www.leeads.com/blog/gdpr-coockies-leeads-hanterar-pa-publicisters-siter
+ 
+Kakorna är inte helt nödvändiga för att webbplatsen ska fungera, men de gör det lättare för dig att söka information. Kakorna används inte för att identifiera dig som person.
+ 
+Genom att använda vår sajt godkänner du cookies. Accepterar du inte cookies måste du ändra dina browserinställningar. Här kan du justera dina cookie-inställningar http://www.youronlinechoices.com/se/dina-val
+ 
+

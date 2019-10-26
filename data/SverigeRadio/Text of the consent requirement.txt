@@ -1,0 +1,42 @@
+Så använder Sveriges Radio cookies
+Uppdaterat fredag 25 maj 2018 kl 08.30
+Publicerat fredag 28 oktober 2011 kl 16.00
+ 
+På sverigesradio.se använder vi inte längre den traditionella typen av cookies. I stället använder vi en ny metod som hjälper oss att anpassa sajten efter ditt unika lyssningsbeteende. Några av våra samarbetspartners använder däremot traditionella cookies, så kallade tredjepartscookies, för att hjälpa oss att få förståelse för hur vår sajt används.
+ 
+När vi uppdaterade vår webbplattform i maj 2016, införde vi ett så kallat cachelager för att minska laddningstiderna på sverigesradio.se. Som en del i detta slutade vi att använda cookies för lyssnarnas personliga inställningar. Cookies skickas nämligen fram och tillbaka mellan vår server och din webbläsare varje gång du navigerar på sidan. Det tycker vi är onödigt, eftersom inställningar av denna typ endast behövs i webbläsaren. Vi har därför övergått till en nyare metod som lagrar denna typ av personliga inställningar lokalt hos dig och inte skickar med data till oss på Sveriges Radio vid varje sidnavigering. Den nya lagringsmetoden baseras på vad som stöds av din webbläsare. I första hand försöker vi lagra informationen i en W3C-standardiserad databas som heter IndexedDb som är inbyggd i webbläsaren. Om stöd för IndexedDb saknas i din webbläsare, används istället LocalStorage, som är en äldre standard.
+ 
+Du som lyssnare ska inte påverkas av den här förändringen mer än att det blir en något minskad datatrafik vid besök på sverigesradio.se, samt att du inte behöver exponera dina inställningar för Sveriges Radio. Detta kan exempelvis vara inställningar såsom ditt val av P4-kanal eller volym- och kvalitetsinställningar för uppspelning. Med hjälp av denna metod kan vi även anpassa sajten så att ditt senaste lyssnade ljud finns kvar i spelaren vid nästa besök liksom position i ljudet, vilket innebär att spelaren kommer ihåg var i ljudet du befann dig om du laddar om sidan. Syftet med dessa anpassningar är helt enkelt att ge dig som lyssnare en bättre upplevelse.
+ 
+Tredjepartcookies
+Några av våra samarbetspartner använder däremot fortfarande den vanliga cookie-tekniken i syfte att mäta användningen av våra tjänster. Det handlar då framför allt om statistik. Dessa är så kallade tredjepartscookies, vilket innebär att de finns i funktioner som styrs av annan part än Sveriges Radio, såsom Sifo och Google Analytics.
+Mätverktygen som vi använder på sverigesradio.se tar fram statistik i samlad form. Sådan statistik innehåller ingen personlig information om dig som lyssnare, utan är till för att se generella mönster för trafik och användare på våra webbaserade tjänster.
+Inga IP-adresser sparas i de databaser som rör beteende på webbplatsen och informationen om dig kan aldrig kopplas samman med din identitet. Däremot använder vi din IP-adress för felsökning för att kunna rätta till fel som uppstått. Dessa IP-adresser sparar vi endast så länge vi behöver och raderar dem sedan systematiskt så snart syftet med lagringen inte uppfylls längre.
+ 
+Så tackar du nej till cookies
+Du kan radera cookies från din hårddisk när som helst. Du kan också ändra inställningarna i din webbläsare så att den inte tillåter att cookies sparas. Detta kan dock försämra funktionen på vissa webbsidor och medföra att vissa funktioner inte är tillgängliga.
+Har din webbläsare stöd för ett så kallat "inkognitoläge" kan du även aktivera det för att automatiskt radera alla cookies varje gång du stänger din webbpublik.
+ 
+Ta bort cookies
+Instruktioner för hur du kan rensa cookies i din webbläsare finns bland annat på. Här finns steg för steg-guider för de vanligaste webbläsarna.
+ 
+Kontakta oss
+Om du har några frågor om Sveriges Radios hantering av cookies är du alltid välkommen att kontakta webmaster@sverigesradio.se
+ 
+ 
+Fakta om cookies
+Vad är cookies?
+Många av de webbsajter du besöker använder cookies. En cookie är en liten textfil på din dator som innehåller information om till exempel dina personliga inställningar på en webbsajt eller när webbsidan besöktes senast. Cookies skrivs av webbplatsen du besöker men lagras på din egen dator. Med hjälp av denna funktion är det möjligt att spara inställningar som ska ge dig bättre service varje gång du besöker sajten. Den kan också användas för att urskilja unika besökare. Textfilen är inte skadlig för din dator och kan inte innehålla någon programkod som kan köras på din dator.
+Cookien är inte läsbar annat än om den kopplas ihop med den webbsajt som skapat cookien.
+Begreppet tredjepartscookies betyder att cookien – via den webbplats du besöker – kommer från en tredje part. Tredjepartscookies används av till exempel av mätföretag.
+Vill du veta mer om cookies och vad lagen säger om dem kan du läsa mer på Kommunikations­myndigheten PTS hemsida på länken nedan.
+ 
+ 
+Vad används tredjepartscookies till?
+Trediepartscookies används bland annat för att föra statistik över besökare på en enda webbplats.
+ 
+ 
+Kan tredjepartscookies användas för att kartlägga enskilda individer?
+Nej. Informationen sparas anonymt och den här cookien kommunicerar via ett anonymt, krypterat ID-nummer, som inte kan kopplas till en dator. Det enda sättet att koppla samman informationen med en dator är om man har tillgång till både databasen och den enskilda datorn.
+ 
+

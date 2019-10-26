@@ -1,0 +1,99 @@
+Cookie Policy
+This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or looking at  which offers guidance for all modern browsers
+ 
+What are cookies?
+Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by online service providers to (for example) make their websites or services work, or to work more efficiently, as well as to provide reporting information.
+ 
+Cookies set by the website owner or service provider (in this case, The Isle of Thanet News) are called “first party cookies”. Cookies set by parties other than the website owner are called “third party cookies”. Third party cookies enable third party features or functionality to be provided on or through the website or service you are using (such as advertising, interactive content and analytics). The third parties that set these third-party cookies can recognise your computer both when it visits the website or service in question and when it visits certain other websites or services.
+ 
+Why do we use cookies?
+We use first party and third-party cookies for several reasons. Some cookies are required for technical reasons for our Website and Services to operate, and we refer to these as “essential” or “strictly necessary” cookies. Other cookies enable us and the third parties we work with to track and target the interests of visitors to our Websites, and we refer to these as “performance” or “functionality” cookies. For example, we use cookies to tailor content and information that we may send or display to you and otherwise personalize your experience while interacting with our Websites and to otherwise improve the functionality of the Services we provide. We also enable our users to employ cookies and similar tracking technologies in connection with their use of our Services to allow us and our users to track their subscribers. Finally, third parties serve cookies through our Websites and Services for advertising, analytics, and other purposes. This is described in more detail below.
+ 
+Cookies served through our Websites
+The specific types of first and third-party cookies served through our website and their purposes are explained below.
+ 
+Necessary website cookies
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+ 
+The necessary website cookies are:
+@@History/@@scroll|#: Stores the user’s cookie consent state for the current domain. By isleofthanetnews.com. Expires persistant.
+csrftoken: Helps prevent Cross-Site Request Forgery (CSRF) attacks. By isleofthanetnews.com. Expires 1 year.
+SESS#: Preserves user session state across page requests. By isleofthanetnews.com. Expires session.
+ 
+Preference website cookies
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+N/A
+ 
+Statistics Cookies
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+N/A
+ 
+Marketing website cookies & Facebook Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+ 
+Facebook’s pixel collects three types of data whenever it is loaded:
+Http Headers – Anything present in HTTP headers. HTTP Headers is a standard web protocol sent by default between any browser request and any server on the internet. HTTP Headers include IP addresses, information about the web browser, page location, document, referrer, and user agent.
+Pixel-specific Data – This includes Pixel ID and the Facebook Cookie.
+Optional Values – Developers and marketers can optionally choose to send additional information about the visit through Custom Data events. Example custom data events are conversion value, page type, and more. Read more about custom data events 
+ 
+For full details on Facebook Pixels and Ads please visit Facebook’s own guide – .
+ 
+The marketing Cookies are:
+_js_datr: Used by Facebook for targeted advertising. By Facebook.com. Expires 2 years.
+_js_reg_ext_ref: Used by Facebook for targeted advertising. By Facebook.com. Expires session.
+_js_reg_fb_gate: Used by Facebook for targeted advertising. By Facebook.com. Expires session.
+_js_reg_fb_ref: Used by Facebook for targeted advertising. By Facebook.com. Expires session.
+datr: Used by Facebook to detect suspicious login activity. By Facebook.com. Expires 2 years.
+fr: Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. By Facebook.com. Expires 3 months.
+reg_ext_ref: Saves the external URL through which Facebook is accessed when a user activates a “Follow us” link to subscribe to a social media channel. The cookie is set when the user is not a Facebook user or when the user is not logged in to Facebook. By Facebook.com. Expires session.
+reg_fb_gate: Saves the first URL on Facebook when a user activates a “Share this” link. The cookie is set when the user is not a Facebook user or when the user is not logged in to Facebook. By Facebook.com. Expires session.
+reg_fb_ref: Saves the last URL on Facebook when a user activates a “Share this” link. The cookie is set when the user is either not a Facebook user or not logged in on Facebook. By Facebook.com. Expires session.
+tr: Used to track page views by Facebook. By Facebook.com. Expires session.
+VISITOR_INFO1_LIVE: Tries to estimate the users’ bandwidth on pages with integrated YouTube videos. By YouTube.com. Expires 179 days.
+YSC: Registers a unique ID to keep statistics of what videos from YouTube the user has seen. By YouTube.com. Expires session.
+_twitter_sess: Collects anonymous data related to the user’s visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service. By Twitter.com. Expires session.
+CheckConnectionTempCookie#: Used by YouTube to check if the user’s browser supports cookies. BY YouTube.com. Expires session.
+ct0: Used by Twitter. By Twitter.com. Expires session.
+external_referer: Collects anonymous data related to the user’s visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service. By Twitter.com. Expires 6 days.
+guest_id: Collects anonymous data related to the user’s visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service. By Twitter.com. Expires 2 years.
+GAPS: Used by Google to identify the user when sharing content with a Google +1 button. By Google.com. Expires 2 years.
+GPS: Registers a unique ID on mobile devices to enable tracking based on geographical GPS location. By YouTube.com. Expires session.
+i/jot: Used by Twitter. By Twitter.com. Expires session.
+i/jot/syndication: Used by Twitter for sharing. By Twitter.com. Expires session.
+metrics_token: Used by Twitter for statistics. By Twitter.com. Expires 43 days.
+personalization_id: Used by Twiter to share from your account. By Twitter.com. Expires 2 years.
+tfw_exp: Used by Twitter. By Twitter.com. Expires session.
+wd: Saves screen size and resolution to optimise content display on the user’s device. By Facebook.com. Expires 6 days.
+PREF: Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites. By YouTube.com. Expires 8 months.
+NID: Registers a unique ID that identifies a returning user’s device. The ID is used for targeted ads. By Google.com. Expires 6 months.
+_auth: Authorises to share a post to your Pinterest account. By Pinterest.com Expires 1 year.
+ 
+Unclassified website cookies
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+_pinterest_referrer: Unclassified. By pinterest.com. Expires session.
+_pinterest_sess: Unclassified. By pinterest.com. Expires 1 year.
+cm_sub: Unclassified. By pinterest.com. Expires 1 year.
+G_ENABLED_IDPS: Unclassified. By pinterest.com. Expires 2915240 days.
+ 
+How to configure your cookie preferences
+Please remember that cookies on our website are there to improve your experience in using our website (without them, online advertisements you encounter will be less relevant to you and your interests) and do not collect any personal identifiable information from you. However, there are ways in which you can control and manage the cookies on your device. Most modern web browsers will allow you to:
+ 
+See what cookies you’ve got and delete them on an individual basis
+Block third party cookies
+Block cookies from specific sites
+Block all cookies from being set
+Delete all cookies when you close your browser
+ 
+Every web browser (such as Internet Explorer, Safari, Google Chrome and Firefox) lets you change your cookie preferences. The links below take you to the ‘Help’ sections for each of the major web browsers so that you can find out more about how to manage your cookies.
+Google Chrome
+
+Safari
+
+Internet Explorer
+
+Firefox
+
+ 
+We suggest consulting the Help section of your browser or taking a look at  which offers guidance for all modern browsers
+ 
+

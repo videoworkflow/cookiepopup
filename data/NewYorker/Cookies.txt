@@ -1,0 +1,141 @@
+Strictly necessary cookies (10) - Performance cookies (13) - Functional cookies (9) - Targeting cookies (103) - Social media cookies (12) 
+
+
+Strictly necessary cookies 
+,,_dc_gtm_UA-8293713-14
+: tsrce, AKDC, X-PP-SILOVER, ts_c, nsid, ts, akavpau_ppsd
+ 
+
+Performance cookies
+,,,,,,,,,,, nr-data.net, JSESSIONID
+ 
+
+Functional cookies 
+,,,,, ubid-main, session-id, session-token, session-id-time
+ 
+
+Targeting cookies 
+
+--------TABLE--------
+" __CT_Data, _fbp, __qca, aam_uuid, __gads, AMCV_F7093025512D2B690A490D44%40AdobeOrg, AMCVS_xxxxxAdobeOrg"
+ 
+ uid
+ 
+" APISID, SSID, NID, SID, SAPISID, HSID"
+ 
+" IDE, id"
+ 
+ uid
+ 
+" B, s, b"
+ 
+ __stid
+ 
+ __cfduid
+ 
+" HAPLB5S, __uis"
+ 
+" c, tuuid_lu, tuuid"
+ 
+ dpm
+ 
+ SEUNCY
+ 
+" ouid, um, uid"
+ 
+ ONPLFTRH
+ 
+" APID, ADMARK, IDSYNC"
+ 
+ mako_uid
+ 
+" sa-user-id, sa-user-id-v2"
+ 
+ pi
+ 
+" KRTB, KRTBCOOKIE_27, 16736-uid:05165cc8-e2fc-4e00-84d2-a63d5daa7224, PUBMDCID, PugT, KTPCACOOKIE, KADUSERCOOKIE"
+ 
+" demdex, DST, dextp"
+ 
+ ab
+ 
+" d, mc"
+ 
+" UID, UIDR"
+ 
+" rsid, audit, vis2, ses55, vis57, vis55, ses57, ses2, khaos"
+ 
+" mt_mop, uuidc, mt_misc, uuid"
+ 
+" ud, EE"
+ 
+ uid
+ 
+" _cc_cc, _cc_id, _cc_dc, _cc_aud"
+ 
+ uid
+ 
+" matchcasale, wfivefivec"
+ 
+ condenast
+ 
+" bito, checkForPermission"
+ 
+ parsely_network_uuid
+ 
+ EQUser
+ 
+" TDID, TDCPM"
+ 
+ uuid2
+ 
+ ANON_ID
+ 
+ 
+ __ev_uid
+ 
+" AA003, ATN"
+ 
+" everest_g_v2, everest_session_v2"
+ 
+" lidc, bcookie, __utma, __utmv, UserMatchHistory"
+ 
+ extendtv_user_id
+ 
+ dsp_id
+ 
+" bku, bkdc, bkpa"
+ 
+" 035cc8e3a9276005165cc8-e2fc-4e00-84d2-a63d5daa7224, 035cc8e3a105a0, 285cc87a5f2760c6e4c135-195d-4598-9bea-962af8d55b4f, 585cc8e3ea2760XMjjqAAAFHfpeRN_, 295cc8e56f05a0, 515cc8e3ea27604bO3drHjtSv54eEotrX5fLLo4n755-F95eHCovXy, 265cc87af04ec00, 6f5cc87af827607555029404866284421, 7b5cc8e41627600-269ad04b-dca0-4387-501c-5fbd7f6cfb23%24ip%2440.85.82.207, 1b5cc87af000b40, 585cc8e3e505a0, a65cc8e44505a0, 6f5cc8e41627602436002399013324386, CMPRO, 6f5cc87af005a0, 2d5cc8e3a105a0, b55cc8e3a72760OPTOUT, 045cc87a5d27604402255648674343768, 955cc8e49105a0, 295cc8e41105a0, 825cc8e3e5a8c0, 405cc8e3e505a0, 415cc87a9905a0, 495cc87a5805a00, bf5cc8e49105a00, be5cc8e4f927608912346954631619490, 2f5cc87a5d27603gUA757l1HlvNp5, 275cc87af00b40, 2f5cc8e4162760ZjtIUuSZ1HlCPV5, 955cc8e56f05a0, 515cc87a9e2760vycBOr0lVDKndgRg73RPNO91Vjunc1c76HRHWhfw, 2e5cc8e3a927608912346954631619490, 585cc87a9905a0, 275cc8e56f0b40, 985cc8e3e505a00, 2e5cc8e3a105a0, 4d5cc8e3a105a00, 835cc8e44c276018072662405786780755, 035cc87a62276037a55cc8-7262-4100-bf8f-c398b4716dae, 375cc87af005a00, CMID, CMST, CMDD, 955cc8e4f305a0, 395cc8e3a105a0, 275cc8e3e50b40, 495cc8e3a105a00, 485cc8e44505a00, 955cc8e41105a0, 415cc8e52f05a0, 295cc8e44505a0, 515cc87a9905a0, 2d5cc87a5d2760CAESEHvhbkgoJRhkGZ-iJ9e_8GE, 035cc8e3b3276005165cc8-e2fc-4e00-84d2-a63d5daa7224, 695cc87a5d05a00, 405cc8e3ea2760no-consent, 9c5cc8e41105a00, 585cc87a9e2760XMh6WwAAErybAjx0, 275cc8e4450b40, CMSUM, 2e5cc87a9e27607538339914668147057, 045cc8e3ea27607269343409636220577, be5cc8e4f305a0, CMRUM3, 9d5cc8e5762760rlNbW6EpM0xXayg5, 5a5cc8e41105a0, b05cc87a9905a0, 955cc8e5352760PhO1GuNNpVlmzhx18lWdSoG1B8nrD070FhP_i2JiR5k%3D, 5a5cc87af82760B98932A9F57AC85CBA88153902462274, b05cc8e52f05a0, 405cc87a9e2760no-consent, 265cc8e4454ec00, 295cc8e4f305a0, 825cc8e3eb2760AAauFE65kcgAABfMKXsHzQ, 415cc8e49105a0, 955cc87afb2760zLNZWX832uO0T5x5f_-v7QRmACgd0H7c8sDO778NQrw%3D, 415cc87af005a0, CMPS, 395cc8e3a627601871597490958495467, 955cc8e4962760PhO1GuNNpVlmzhx18lWdSoG1B8nrD070FhP_i2JiR5k%3D, ac5cc8e49627608e81c2fa-ae76-488d-9f19-a6971b1c4e54, 285cc8e44d2760ad93026c-cd54-430a-ac65-f9f3d5a04a58, 4d5cc8e3ab276096b5e2276ef14d648568d7439db4462d, 695cc8e44a05a00, 275cc87a990b40, 695cc8e44505a0, a65cc8e44a27606cb4f579a80d4224b6068cc0, 295cc8e49105a0, 395cc87a5d27601041527793820635424, 955cc8e4192760PhO1GuNNpVlmzhx18lWdSoG1B8nrD070FhP_i2JiR5k%3D, 515cc8e3e505a0, 2f5cc8e41105a00, 1b5cc8e3e500b40, 7b5cc8e41105a0, 2e5cc87a9905a0, 405cc87a9905a0, 955cc8e5762760PhO1GuNNpVlmzhx18lWdSoG1B8nrD070FhP_i2JiR5k%3D, 955cc87af005a0, 955cc8e4fa2760PhO1GuNNpVlmzhx18lWdSoG1B8nrD070FhP_i2JiR5k%3D, 275cc8e52f0b40, 955cc8e52f05a0, b05cc8e49105a0, 415cc8e41105a0, 7b5cc8e49527600-269ad04b-dca0-4387-501c-5fbd7f6cfb23%24ip%2440.85.82.207, 5a5cc8e4162760BC80FD9F13E4C85C5B1AEF7002E2DCAD, 045cc8e3e505a0, 415cc8e4f305a0, 835cc8e44505a0, b05cc8e5352760di_4c47fb8bc2e74ababb04e, 275cc8e4f30b40, b55cc8e3a105a0, 7b5cc8e49105a0, 295cc8e52f05a0, 9d5cc8e56f05a0, 285cc8e44505a00, 415cc8e56f05a0, 5a5cc87af005a0, ac5cc8e49105a00, 985cc8e3ec27607fce6a5e-2ac1-44d2-b1d9-b41a671c0735, 375cc8e49105a00, 2d5cc8e3a62760CAESEFZ_cluHyxcvo8Wx3FD2z0A, 6f5cc8e41105a0"
+ 
+" pxrc, rlas3"
+ 
+" rud, eud, euds, ruds"
+ 
+" BizoID, lang"
+ 
+ i
+ 
+" TapAd_DID, TapAd_TS"
+ 
+ 
+ cb
+ 
+---------------------
+
+Social media cookies
+
+--------TABLE--------
+ 
+ auth_token
+ 
+ datr
+ fr
+ twll
+ secure_session
+ guest_id
+ __utma
+ personalization_id
+ remember_checked
+ remember_checked_on
+---------------------

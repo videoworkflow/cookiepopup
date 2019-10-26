@@ -1,0 +1,34 @@
+Cookie Policy
+In this Media Investments & Holding OÜ (registry code 14609223, address Rävala pst 4, 10143 Tallinn) conditions for the use of cookies (hereinafter the Terms), we will explain which cookies and similar technologies are used by the Media Investments & Holding Webpages (postimees.ee and all its subdomains and the mobile applications managed by Media Investments & Holding). Terms used in the Terms should be understood as defined by Media Investments & Holding.
+ 
+1. Cookies
+1.1. Cookies are small text files that are installed on the user's computer from the webpages that the user visits, unless the user has disabled the installation of all or some cookies in his/her browser settings. Cookies allow to recognize the user's device when visiting the webpages.
+ 
+1.2. Cookies may be divided by the time they are installed:
+·       temporary or session-based cookies - allows to link the user activities temporarily during the same browsing session, i.e. opening the browser window until it closes, or up to 4 hours after the last page view;
+·       permanent cookies - stored permanently in the user's device for the time specified in the cookie and activated each time the user visits a site from which the cookie was installed.
+ 
+1.3. Cookies may be divided by their belonging:
+·       first-party cookies - originate from the webpage viewed Webpages can use these cookies to store information that will be retrieved the next time a page is visited. From a perspective of the processing of personal data, the installer of the first-party cookie is a controller (or any of their authorized processors) administering the visited page;
+·       third-party cookies - originate, for example, from the other webpage ads that are located on a webpage visited by the user. From a perspective of processing personal data, a third-party cookie installer is the controller who is different from the webmaster of the site being visited.
+ 
+1.4. Cookies may be divided, depending on the purpose of their installation:
+·       essential cookies – important to move around in webpages, using its functions, and providing the services provided by the users. Without the installation of these cookies, the user can not be provided with the webpage and the desired services;
+·       statistical cookies - collect information about how the users use the webpages, for example, which webpages they visit most often and what error messages they receive on the webpages. The information collected is aggregated and anonymized. The purpose of these cookies is to improve the functioning of the webpages;
+·       preferences cookies - these cookies allow to remember the choices made by the user (for example, the size of the text, other properties that can be changed on the webpage), and the characteristics (for example, the user name, language or the user's country of residence) to provide more personalized and more convenient ways to use the webpage;
+·       advertising cookies - these cookies allow to display the personalized advertising to the user, and conduct market research and analysis using the user's behavior and interest data. Data received may be shared with the advertisement networks and advertising service providers.
+·        
+2. Consent
+2.1. Media Investments & Holding does not require the consent of the Users to use the essential cookies, as without them, the use of the Webpage is not possible. With respect to the remaining cookies, the User agrees to the installation of cookies by consenting to these Terms, which Media Investments & Holding asks the users via the banner displayed on the Webpages. Consent to the preferences cookies is provided by the Use by choosing the respective preference.
+ 
+3. Change of cookies setting in web browser
+3.1. Users can freely change their web browser settings so that their browser does not allow all or some of the cookies to be saved. Please note that if you do not allow the use of essential cookies, you will not be able to use the Webpage. In addition, all the most popular web browsers allow cookies to be deleted.
+ 
+4. For more information on managing cookies in your web browser:
+·       Internet Explorer:
+·       Chrome:
+·       Firefox:
+·       Opera:
+·       Safari:
+ 
+

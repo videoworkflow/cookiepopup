@@ -1,0 +1,22 @@
+Third party cookies (16)
+
+--------TABLE--------
+ Cookie, Type, Description
+" Google Analytics, Google AdSense, DoubleClick", Site analytics (Google Analytics)," Google (www.google.com) operates the Google Display Network: a collection of millions of websites and mobile applications that are powered by display advertising, including many Google services like YouTube. Google also operates the DoubleClick digital advertising platform: the ad technology foundation to create, transact, and manage digital advertising for the world’s buyers, creators, and sellers. The DoubleClick platform includes the DoubleClick Advertising Exchange and Double Click Bid Manager. To learn more about how Google collect and use information for online advertising, please visit http://www.google.com/intl/en/privacy.html"
+ NetRatings SiteCensus, Site analytics, 
+ Rubicon, Advertising, 
+ Permutive, Advertising," Permutive is a behavioural targeting service provided by Permutive Inc., for use on websites owned and operated by Condé Nast. Permutive uses first-party cookies to store an anonymous ID for a user. A cookie is a small information file that is sent to your computer, mobile or other device when you visit a website and it will recognise your device on future visits. Users can configure their web browser to reject these cookies—or all cookies—and Permutive, Inc. will no longer collect information for them. Events (e.g. article page views) are stored for users within Permutive, and users can be segmented based upon these events. Permutive does not store IP addresses within the member states of the European Union or in other states of the European Economic Area."
+ Full Circle Studies / Scorecard Research Beacon," Third party, advertising", 
+ Sizmek," Third party, advertising", 
+ Facebook Pixel, Advertising, 
+ Celtra, Audio/visual player, 
+ Adobe Typekit, Essential, 
+ Communities and forum site cookies / Vision Critical, Communities domains e.g. uk.voguevoices.com, 
+ Twitter Share Button, ," When you create or log in to an account on http://www.twitter.com cookies are stored on your computer in order to remain logged-in to your Twitter account when visiting http://www.twitter.com again. The Twitter Share Button used on our website is hosted by http://www.twitter.com and your browser therefore sends this cookie data to Twitter when creating the button inside your browser. This data is used by Twitter in order to associate the Twitter Share Button with your Twitter account. Please note that this data is not accessible to us, and is not sent to us by Twitter. More information about this cookie and Twitter's Privacy Policy can be found at http://www.twitter.com/privacy"
+ Hotjar, Site analytics, 
+ Pinterest, Social media, 
+ Facebook Connect, Social media, 
+ Skimlinks, e-commerce traffic attribution," Privacy policy: https://skimlinks.com/pages/privacy-policy Purposes: Information storage and access Personalisation: Ad selection, delivery, reporting Legitimate Interest Purposes: Measurement Features: Linking Devices"
+ Genius Link, e-commerce traffic attribution, Privacy policy: https://skimlinks.com/pages/privacy-policy Purposes: Information storage and access Personalisation: directing web users to relevant local websites within our content.
+--------------------- 
+

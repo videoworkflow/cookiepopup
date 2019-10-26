@@ -1,0 +1,68 @@
+Cookieregler
+Erhvervsstyrelsen informerer og vejleder om, hvordan man kan overholde loven og fører tilsyn med, at cookiereglerne bliver overholdt.
+ 
+Introduktion til cookies
+Kender du dine cookies? Ved du, hvad de bliver brugt til og om du kan undgå dem?
+Hvis ikke kan du her finde en introduktion til, hvad cookies er.
+Du kan fx læse om de forskellige typer cookies, få et indblik i, hvorfor hjemmesider bruger dem og få gode tips til, hvordan du kan begrænse cookies på din computer, smartphone eller tablet.
+Opfordringen lyder: "Kend dine cookies lige så godt, som de kender dig".
+ 
+ 
+Sådan undgår du cookies
+Du blokerer eller sletter cookies på din computer ved at ændre din browsers indstillinger. Hvor du finder indstillingerne, og hvordan du gør, afhænger af, hvilken browser du anvender.
+ 
+Når du sletter cookies, sletter du de cookies, som er blevet placeret på din computer. Hvis du blokerer cookies, forhindrer du, at der kommer  nye cookies, når du bevæger dig rundt på nettet, men du sletter ikke dem, som allerede ligger på din computer. Husk, at hvis du bruger flere forskellige browsere, skal du slette eller blokere cookies i dem alle. Du skal være opmærksom på, at når du blokerer cookies, kan der være funktioner og services på hjemmesider, som du ikke kan bruge, da mange hjemmesider kun fungerer på grund af de cookies, som er placeret på dem.
+Nogle hjemmesider tillader, at tredjeparter får adgang til at placere cookies på din computer, tablet eller smartphone til forskellige formål. Det vil sige, at andre end hjemmesideejeren får adgang til at sætte cookies. Du kan slette disse cookies ved at følge guiden længere nede på siden.
+ 
+ 
+Sådan blokerer du eller sletter du cookies
+Cookies blokeres og slettes i din browser. Vælg din browser her under og få hjælp til, hvordan du gør.
+ 
+ 
+ 
+Sådan slår du tredjepartscookies fra
+Apple Safari:
+Vælg 'Indstillinger' i menuen.
+Vælg den fane, der hedder 'Anonymitet'.
+Markér 'Bloker alle cookies’.
+Luk vinduet.
+ 
+Firefox:
+Vælg 'Indstillinger' i menuen.
+Vælg fanen 'Privatliv og sikkerhed'.
+I afsnittet 'Historik' under 'Firefox vil:' vælges 'Bruge tilpassede indstillinger for historik'.
+Vælg 'Aldrig' under 'Accepter tredjeparts cookies'.
+ 
+Google Chrome:
+Vælg 'Indstillinger' i menuen.
+Vælg 'Vis avancerede indstillinger'.
+Under ’Sikkerhed og Privatliv’ klikker du på 'Indstillinger for indhold' i afsnittet om '.
+Klik på ’Cookies’.
+Vælg ’Bloker cookies fra tredjepart’.
+ 
+Opera:
+Klik på det røde Opera-ikon øverst til venstre.
+Vælg Indstillinger.
+Gå til punktet 'Cookies'.
+Sæt flueben i 'Bloker cookies og webstedsdata fra tredjeparter'.
+ 
+Internet Explorer:
+Vælg menuen 'Funktioner' og derefter 'Internetindstillinger' eller klik på tandhjuls-ikonet øverst til højre og vælg 'Internetindstillinger'.
+Vælg fanen 'Beskyttelse af personlige oplysninger'.
+Klik på knappen 'Avanceret'.
+Markér 'Tilsidesæt automatisk behandling af cookies'.
+Under 'Tredjepartscookies' skal du markere 'Bloker'.
+Klik på 'OK'.
+ 
+Microsoft Edge:
+Gå til punktet 'Flere handlinger' (de 3 prikker) i menuen.
+Vælg 'Indstillinger'.
+Gå ned til 'Avancerede indstillinger' og vælg 'Vis avancerede indstillinger'.
+Under ’Beskyttelse af personlige oplysninger og tjenester’.
+Gå ned til feltet 'Cookies' og vælg 'Bloker kun cookies fra tredjeparter'.
+Nogle sider virker ikke med blokering
+Blokerede cookies kan gøre, at nogle sider ikke fungerer. Hvis du gerne vil besøge siderne alligevel, men ikke vil have, at de følger dig, kan du bruge en ekstra browser.
+Det vil for eksempel sige, at du normalt bruger Firefox, hvor du blokerer cookies. Når du så vil besøge en side, der ikke virker uden cookies, har du en anden browser, for eksempel Google Chrome, kun til det formål.
+Opdatér din browser
+Sørg i øvrigt altid for, at din browser er opdateret til seneste version. Nogle browsere opdateres automatisk, andre skal du selv opdatere.
+Kilde: Forbrugerrådet TÆNK

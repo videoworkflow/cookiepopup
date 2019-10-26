@@ -1,0 +1,49 @@
+About your interests
+Interests are based on audience segments we create to help us personalize the content that you see within the CBC. Audience segments are built up over time and help us understand your interests based on the nature and frequency of your interactions with us.
+For example, we might create an audience segment for people who regularly read business news stories so we can show them more business news, and a different segment for people who love comedy so we can show them more comedy content. We also have segments for the actions you make on our sites, such as posting comments or sharing links.
+All of this information is anonymous and is only linked to cookies (), so if you use a different browser or a different device, you will probably see different interests listed. None of this information allows us to personally identify you but if you don't want us to store it, you can delete your cookies.
+ 
+ 
+Cookies
+What are cookies?
+A cookie is a small text file that’s saved on your browser and stores information as you navigate the internet. They were invented to count how many web browsers visited the Internet’s first websites. For example, a cookie may contain a unique number attributed to you. This number allows us to recognize your browser without being able to establish your identity.
+ 
+How do cookies work?
+When you visit a website that uses cookies, your web browser stores a cookie on your device. If you come back, the cookie recognizes your unique identifier and you’re considered a repeat visitor. They become the building blocks of your browser’s memory.
+Over time, the internet evolved and so did cookies. Today, they remember items in your shopping cart or your preferred settings, allowing you to log in to websites automatically or resume playing videos where you left off.
+How does CBC/Radio-Canada use cookies?
+Every time you interact with CBC/Radio-Canada online, you create data and we send you data. This basic exchange of information is how the internet works. Without it, there is no internet.
+ 
+How to manage your cookies
+The ABCs of cookies, blocking and browser blocking
+Your data is valuable and we believe you should have a say in how much you share with us.
+Your data helps us in important ways and shows us what content is resonating with our audience. It also allows us to target ads and information to specific audiences.Read more about how sharing your data helps us improve our content and our products.
+ 
+Types of cookies
+There are a few different types of cookies we rely on to help deliver content to you.
+Here’s a brief overview:
+ 
+Strictly necessary cookies
+Strictly necessary cookies are needed for personalised services to work. If you sign in to comment on stories, for instance, our system needs a cookie to remember who you are.
+ 
+Functionality cookies
+Functionality cookies are needed for specific features to work. For example, saving your region allows you to see more of your local news each time you visit our site.
+ 
+Performance cookies
+Performance cookies help us understand how our platforms are working. We need them to find out what errors are happening and to create statistical reports of our audiences. Without measuring what people are reading, watching and listening to, or if something is preventing them from doing so, we wouldn’t know how to improve.
+ 
+Targeting cookies
+Once our systems know your preferences, they can use targeting cookies to present the most relevant and timely content for you. Targeting cookies allow you to see personalised pages or ads that might be more interesting to you, or to avoid seeing the same items over and over again.
+Cookie blockers and browser controls
+If you do choose to download a cookie blocker, please note that these tools will stop some CBC/Radio-Canada products from working properly, if not entirely, on your computer. Specifically, your access to audio and video content, location-based services, search features, registration, sign-in and commenting may be affected.
+We also ask that you please consider whitelisting Chartbeat, Adobe, Viafoura, and Scorecardresearch, so that we will continue to receive a minimum of useful information about how you’re using our sites.
+You can also control what cookies are stored through your browser. In your browser settings, you can delete cookies individually or block cookies from a specific site. You can also set notifications that allow you to accept or reject a cookie.
+ 
+For more on how to control the cookies in your browser, you’ll find more here:
+Internet Explorer
+Firefox
+Chrome
+Safari
+ 
+
+

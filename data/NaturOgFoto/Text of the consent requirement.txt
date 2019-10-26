@@ -1,0 +1,9 @@
+Bruk av informasjonskapsler
+
+Generelt bruk
+Vi bruker informasjonskapsler, sporing av piksler og relaterte teknologier på vårt nettsted. Informasjonskapsler er små datafiler som styres av vår plattform og lagres på din enhet. Vårt nettsted bruker informasjonskapsler fra oss eller tredjeparter for en rekke formål inkludert å operere og tilpasse webområdet. Informasjonskapsler kan også brukes til å spore hvordan du bruker nettstedet for målrettete annonser for deg på andre nettsteder.
+ 
+Tredjeparter
+Våre nettsider gjør bruk av ulike tredjepartstjenester. Ved hjelp av vår nettside, kan disse tjenestene plassere anonyme informasjonskapsler på de besøkendes nettleser og kan sende sine egne informasjonskapsler til den besøkendes informasjonskapselfil. Noen av disse tjenestene inkluderer, men er ikke begrenset til: Google, Facebook, Twitter, Adroll, MailChimp, Sucuri, Intercom og andre sosiale nettverk, reklamebyråer, sikkerhetsbrannmurer, analyse bedrifter og tjenesteleverandører. Disse tjenestene kan også samle inn og bruke anonyme identifikatorer som IP-adresse, HTTP Referanser, Unik Enhets Identifikator og annen ikke-personlig identifiserbar informasjon og serverlogger.
+ 
+

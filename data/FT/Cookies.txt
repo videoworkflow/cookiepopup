@@ -1,0 +1,25 @@
+Third party cookies (12) - Third party cookies: Functionality (3)
+
+
+Third party cookies
+--------TABLE--------
+ Salesforce DMP, Salesforce DMP is our data management platform. It is used to help us better understand our audience and to serve more relevant advertising based on your browsing activity.
+ Google Doubleclick, Google is our main advertising platform and is also used by some advertisers to buy adverts that appear on our Sites.
+ TrustX, TrustX is an advertising platform used just in the United States of America and is managed as a co-operative of publishers.
+ Smart Adserver, Smart Adserver is an advertising platform used in some European countries.
+ Scoota, Scoota is an advertising platform used to help with production and hosting of advertising creative.
+ Skimlinks, Skimlink technology is used for attribution purposes to link ecommerce purchases to our brand (howtospendit.com only).
+ Oracle Data Cloud, Oracle Data Cloud is a digital measurement platform that enables us to monitor advert viewability and analyse invalid traffic.
+ Google, Advertising systems that some advertisers use to buy adverts on our Sites.
+ The Trade Desk, Advertising systems that some advertisers use to buy adverts on our Sites.
+ MediaMath, Advertising systems that some advertisers use to buy adverts on our Sites.
+ DataXu, Advertising systems that some advertisers use to buy adverts on our Sites.
+ AppNexus, Advertising systems that some advertisers use to buy adverts on our Sites.
+--------------------- 
+
+Third party cookies: Functionality 
+--------TABLE--------
+ Google
+ Twitter
+ LinkedIn
+---------------------

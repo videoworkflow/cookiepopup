@@ -1,0 +1,58 @@
+Strictly necessary cookies (8) - Functionality cookies (7) - Flash cookies (3) - Analytics cookies (5) - Advertising cookies (4) - Social networking cookies (4) - Third party cookies (?) 
+
+Strictly necessary cookies 
+--------TABLE--------
+ djcs_session
+ djcs_group
+ djcs_route
+ djcs_sid or oidc_session
+ GPLogin
+ GSLogin
+ LPLogin
+ LSLogin
+---------------------
+
+Functionality cookies 
+--------TABLE--------
+ DJSESSION
+ DJCOOKIE
+ auth0
+ login_avc
+ persistent_lang
+ kmli or djcs_kli
+" djvideovol, djvideolang"
+---------------------
+
+Flash cookies
+--------TABLE--------
+ org.osmf.strobemediaplayback.lso
+ So_WSJ_Volume
+ Ad_freq_key
+---------------------
+
+Analytics cookies 
+
+--------TABLE--------
+ Adobe Analytics
+ Google Analytics
+ Nielsen
+ comScore
+ 
+---------------------Advertising cookies
+--------TABLE--------
+ Blue Kai
+ Google DoubleClick Google Adsense
+ Cxsense
+ News IQ
+---------------------
+
+Social networking cookies
+--------TABLE--------
+ Facebook Social Plugin
+ Google Plus
+ LinkedIn
+ Twitter
+---------------------
+
+Third party cookies 
+?

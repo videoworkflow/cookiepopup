@@ -1,0 +1,180 @@
+Strictly Necessary Cookies (19) - Performance Cookies (62) - Functional Cookies (25) - Targeting Cookies (302) 
+
+Strictly Necessary Cookies 
+--------TABLE--------
+" phpsessionid, OptanonConsent, OptanonAlertBoxClosed, tmz:gdpr:viewer-country, notice_behavior, volumeControl_volumeValue"
+ static.vilynx.com:
+ vitrk
+ policies.warnerbros.com:
+ has_js
+ disqus.com:
+" disqusauth, G_ENABLED_IDPS"
+ warnerbros.com:
+ __cfduid
+ wbgdpr:
+ wbgdpr:engaged
+---------------------
+
+Performance Cookies 
+--------TABLE--------
+" s_sq, _vwo_uuid_v2, s_cc, s_fid, _vis_opt_test_cookie, _vis_opt_exp_22_exclude, _vis_opt_s, s_nrv, _vis_opt_exp_23_exclude, _vwo_uuid, _vis_opt_exp_n_combi, _hjIncludedInSample, muxData, _ga, _gali, _gid, AkamaiAnalytics_BrowserSessionId, UID, s_vi, omtrdc.net, HTML_BitRateBucketCsv, HTML_isPlayingCount, HTML_LastCLineTime, HTML_VisitCountCookie, HTML_VisitIntervalStartTime, HTML_VisitValueCookie, _gat, s_campaign, s_ptc"
+ warnerbros.112.2o7.net:
+ s_vi
+ ctv.122.2o7.net:
+ s_vi
+ omtrdc.net:
+ s_vi
+ tmz-lh.akamaihd.net:
+ _alid_
+ cnnios-f.akamaihd.net:
+ _alid_
+ tmz.com:
+" s_nrv, s_ppn, s_ptc, metrics.tmz.com, AMCV_30DD32275548FB877F000101%40AdobeOrg, AMCVS_30DD32275548FB877F000101%40AdobeOrg"
+ nr-data.net:
+ JSESSIONID
+ jwpsrv-vh.akamaihd.net:
+ _alid_
+---------------------
+
+Functional Cookies 
+--------TABLE--------
+ accounts.google.com:
+" __utma, GAPS, LSID"
+ tmz.com:
+ _hjIncludedInSample
+ jobs.jobvite.com:
+" __utmz, __utmv, __utmt_~3, __utmt_~1, ADRUM_18_32_0, __utmb, ADRUM_18_32_1, __utma, __utmc, AWSELB"
+ jobvite.com:
+ guestidc
+ vimeo.com:
+ vuid
+---------------------
+
+Targeting Cookies 
+--------TABLE--------
+" notice_behavior, __gads, IMRID"
+ youtube.com:
+" SID, HSID, demographics, VISITOR_INFO1_LIVE, PREF, APISID, LOGIN_INFO, GPS, SSID, YSC, SAPISID"
+ adsrvr.org:
+" TDID, TDCPM"
+ accounts.google.com:
+ __utma
+ m.youtube.com:
+ LOGIN_INFO
+ linkedin.com:
+" lidc, bcookie, __utma, __utmv, bscookie, __qca, visit, lang, UserMatchHistory"
+ twitter.com:
+" auth_token, twll, secure_session, guest_id, __utma, remember_checked, remember_checked_on, personalization_id"
+ google.com:
+" APISID, SSID, PREF, SID, SAPISID, HSID, NID"
+ agkn.com:
+" u, ab"
+ cdn.syndication.twimg.com:
+ lang
+ fwmrm.net:
+" _ha, _sid, _wr, _uid, _stid, _cph, _sc"
+ soundcloud.com:
+ sc_anonymous_id
+ scorecardresearch.com:
+" UID, UIDR"
+ syndication.twitter.com:
+ lang
+ krxd.net:
+ _kuid_
+ mathtag.com:
+" uuidc, uuid"
+ doubleclick.net:
+" IDE, id"
+ quantserve.com:
+ mc
+ media.mtvnservices.com:
+" mgk, GoogleAdServingTest, embed"
+ corriere.it:
+ TSstop
+ video.corriere.it:
+" _cb_svref, _cb_ls, testcookie, _cb, _chartbeat2"
+ 9c9media.com:
+" s_sq, s_cc, s_fid"
+ webapps.9c9media.com:
+ GED_PLAYLIST_ACTIVITY
+ 140cc.v.fwmrm.net:
+ NSC_mpobewjq1.gxnsn.ofu*443
+ facebook.com:
+" datr, lu, fr"
+ ipredictive.com:
+ cu
+ rlcdn.com:
+" rlas3, pxrc"
+ ellentube.com:
+" GED_PLAYLIST_ACTIVITY, cto_pub_test_tld, _gd#############, GoogleAdServingTest, s_cc, _gat_8edb8f34ccb848509567c212926238a1, AMCVS_xxxxxAdobeOrg, notice_behavior, _gid, _ga, cto_lwid, AMCV_91A7E2315947DA0E0A495EB7%40AdobeOrg, _wbeppurl"
+ cardlytics.com:
+ mv3
+ newsvine.com:
+ vid
+ everesttech.net:
+" ev_sync_dd, everest_g_v2, everest_session_v2"
+ dpm.demdex.net:
+ dpm
+ eyeota.net:
+ mako_uid
+ mxptint.net:
+ mxpim
+ nbcu.demdex.net:
+ nbcu
+ navdmp.com:
+ __cfduid
+ demdex.net:
+" demdex, DST, dextp"
+ adnxs.com:
+ uuid2
+ crwdcntrl.net:
+" _cc_cc, _cc_id, _cc_aud, _cc_dc"
+ vindicosuite.com:
+ ugc
+ ml314.com:
+ pi
+ clickagy.com:
+ cb
+ l.ooyala.com:
+ gi
+ today.com:
+" __utmc, _parsely_session, aam_uuid, _dy_df_geo, _nv, _dyjsession, _dycnst, cookies.js_dtest, __utmt_3c37078de2c50498bbedaf11ae970ae3, _dy_soct, AMCVS_xxxxxAdobeOrg, i_abd, mp_vilynx, _dy_geo, _dycst, _dy_toffset, _dyus_8765529, _dy_csc_ses, _parsely_visitor, AMCV_A8AB776A5245B4220A490D44%40AdobeOrg, _dy_c_att_exps, __utmb, _dy_ses_load_seq, _dy_ssn_strt, __utma, cookies.js, akaas_TODAY, _fbp, _dy_c_exps, vid, _dyid, __utmz"
+ liveleak.com:
+" PHPSESSID, ll_data, __qca"
+ pubexchange.com:
+ __cfduid
+ aorta.clickagy.com:
+ chs
+ globalwebindex.net:
+ GWIQ
+ timecommerce.net:
+ sid
+ ps.eyeota.net:
+ ONPLFTRH
+ cdn2.trb.tv:
+" ooyala_cookie_test, GED_PLAYLIST_ACTIVITY, Ooyala"
+ dynamicyield.com:
+" DYSES, __cfduid, DYID"
+ cdn.dynamicyield.com:
+ __cfduid
+ ooyala.com:
+ key_auth0
+ instagram.com:
+" csrftoken, mid, mcd"
+ i.instagram.com:
+" csrftoken, mid, mcd"
+ brightcove.net:
+" _gcl_au, ajs_group_id, AMCV_A7FC606253FC752B0A4C98A2%40AdobeOrg, ajs%3Acookies, ajs_user_id, __tld__, AMCVS_xxxxxAdobeOrg, uci, ajs%3Atest, uct, ajs_anonymous_id"
+ players.brightcove.net:
+" jumpstart-plugin-test-roll, __ric_sc1976, aam_uuid, __ric_c1976, globalTI_SID, GED_PLAYLIST_ACTIVITY"
+ turner.com:
+" _gid, _ga, _gat"
+ crazyegg.com:
+ __cfduid
+ ads.linkedin.com:
+" BizoID, lang"
+ *.nhl.com:
+ x-nhl-country
+ nhl.com:
+" _gid, _gat, AMCVS_xxxxxAdobeOrg, __qca, _fbp, calltrk_referrer, _parsely_session, AMCV_25823F955A99D5040A495C1D%40AdobeOrg, _gat_tmOpenPlatform, _gcl_au, calltrk_landing, _ga"
+---------------------

@@ -1,0 +1,83 @@
+We value your privacy
+We and our partners process your personal data using technology such as cookies in order to serve advertising, analyse our traffic and deliver customised experiences for you. You have choice in who uses your data and for what purposes and after setting your preferences may come back anytime to make changes.
+ 
+Cookie Policy
+What is a cookie?
+Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+ 
+Please be aware that restricting or blocking cookies may impact on the functionality of our website and it may not work properly.
+ 
+How do we use cookies?
+We make use of cookies to help manage the site and your visitor experience. These cookies may be used to collect analytics of ‘non-personal’ visitor activity outlines, manage user logins and personal preferences, provide relevant or timely information to you or offer focused advertisements.
+ 
+Partners we work with also collect user information on our sites through cookies, tags and pixels. Tags and pixels, also known as web beacons, are similar to cookies but are collected through embedded images.
+ 
+Using cookies and other technology allows other organisations to help us to analyse how our site is being used, measure the number of visitors to the site, and display advertising.
+ 
+What are the reasons for using different types of cookies?
+Necessary cookies
+These are cookies which we need for the website to work properly. They cover areas such as ensuring the website functions along with the operation of any shopping baskets, allowing you to log into your account(s) and helping us monitor and maintain security of the website.
+ 
+Information storage and access
+The storage of information, or access to information that is already stored, on your device such as advertising identifiers, device identifiers, cookies, and similar technologies.
+ 
+Personalisation
+The collection and processing of information about your use of this service to subsequently personalise content and/or advertising for you in other contexts, such as on other websites or apps, over time. Typically, the content of the site or app is used to make inferences about your interests, which inform future selection of content and/or advertising
+ 
+Ad selection, delivery, reporting
+The collection of information, and combination with previously collected information, to select and deliver advertisements for you, and to measure the delivery and effectiveness of such advertisements. This includes using previously collected information about your interests to select ads, processing data about what advertisements were shown, how often they were shown, when and where they were shown, and whether you took any action related to the advertisement, including for example clicking an ad or making a purchase. This does not include personalisation, which is the collection and processing of information about your use of this service to subsequently personalise advertising and/or content for you in other contexts, such as websites or apps, over time
+ 
+Content selection, delivery, reporting
+The collection of information, and combination with previously collected information, to select and deliver content for you, and to measure the delivery and effectiveness of such content. This includes using previously collected information about your interests to select content, processing data about what content was shown, how often or how long it was shown, when and where it was shown, and whether the you took any action related to the content, including for example clicking on content. This does not include personalisation, which is the collection and processing of information about your use of this service to subsequently personalise content and/or advertising for you in other contexts, such as websites or apps, over time.
+ 
+Measurement
+The collection of information about your use of the content, and combination with previously collected information, used to measure, understand, and report on your usage of the service. This does not include personalisation, the collection of information about your use of this service to subsequently personalise content and/or advertising for you in other contexts, i.e. on other service, such as websites or apps, over time.
+ 
+How to manage advertising cookies
+You can manage the use of advertising cookies, and disable the sharing of data with partners for advertising purposes by using our preferences tool which you can find here.
+ 
+You can switch some cookies off through the . You may need to do this again each time you use a different IP address or device.
+ 
+How to manage necessary cookies
+For cookies which we have listed as being required we do not have a current mechanism that would allow you to opt out in an automated fashion.
+ 
+These cookies are required to make the sites work in the correct fashion, offer enhanced security, provide additional insight or improve our marketing capabilities.  The following cookies may be used across our sites
+ 
+Cookie Vendor                  Purpose                               Description
+Google Analytics               Security                               Required for security monitoring
+MPP                                     Access                                 Required for identity management
+Gigya                                   Access                                 Required for site functionality
+Magento                             Access                                 Required for site functionality
+Google AdX                       Advertising                                                        
+Google Doubleclick         Advertising                                                       
+Sailthru                              Personalisation                Opt out                               
+Facebook pixel                 Advertising                                                       
+Twitter                               Advertising                                                       
+Chartbeat                          Measurement                   Anonymous data
+ 
+Required cookies explained
+Security – DCT Media use Analytics tools to monitor performance of our network and alert the support team of any security or performance issues
+ 
+Access – DCT Media run management identity platforms which allow our readers to login to the site, manage preferences through DCT Passport, purchase products, digital editions and premium content.  Cookies are required to enable this functionality including the shopping basket.
+ 
+If you wish to stop all cookie’s you run the risk of our sites not working properly.  If you wish to continue to do so Internet browsers allow you to change your cookie settings. These settings are usually found in the ‘options’ or ‘preferences’ menu of your Internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the ‘Help’ option in your Internet browser for more details.
+ 
+
+
+
+
+
+
+For more detailed information on how to control cookies you may wish to visit 
+ 
+ 
+Useful links
+If you would like to find out more about privacy, cookies and their use on the internet, you may find the following links useful:
+
+
+
+ 
+If you would like to contact us about cookies please email privacy@dcthomson.co.uk
+Last Update – 14 August 2018
+ 
+

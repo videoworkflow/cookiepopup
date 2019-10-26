@@ -1,0 +1,38 @@
+Personvern og datalagring
+Lagring og logging av data
+Ved å besøke dette nettstedet lagres noen tekniske data om din internettforbindelse og nettleser. Disse data kan kategoriseres som følger:
+Informasjonskapsler ("cookies") i din nettleser
+Teknisk info på servere
+Brukerinformasjon i databaser
+ 
+Informasjonskapsler
+Dette nettstedet bruker cookies/"informasjonskapsler" for å forbedre funksjonalitet og brukeropplevelse.
+Vis mer
+ 
+Teknisk info
+Når du besøker et nettsted vil webserveren logge noe teknisk info som din IP-adresse, hvilken nettleser du bruker og tidspunktet for hver gang du forespør data fra serveren, altså når du klikker på en intern lenke og laster en ny nettside eller tilhørende data som skrifttyper, bilder, ulike script som kreves for at nettsiden skal fungere.
+Disse dataene spares bare en viss tidsperiode for å kunne utføre feilsøking og feilretting i systemene, og deles aldri med avisens ansatte eller tredjepart.
+Brukerinformasjon
+Vi lagrer noe informasjon om deg som bruker. På dette nettstedet lagres ingen sensitiv informasjon, men enkel kontaktinformasjon som du gir fra deg når du oppretter en brukeronto eller kjøper tjenester i nettavisen vil lagres i våre databaser. Dette er nødvendig for å kunne levere tjenestene til deg. Disse dataene slettes når du sletter din brukerkonto.
+ 
+Hvem lagrer vi data om?
+Vanlige besøkende/lesere:
+Hvis du besøker dette nettstedet uten å ha registrert en brukerkonto eller abonnement, lagres følgende data om deg:
+Vis mer
+ 
+Innloggede brukere og abonnenter:
+Hvis du velger å opprette en brukerkonto og/eller abonnement på nettavisen, vil også følgende informasjon lagres om deg:
+Vis mer
+ 
+NB: Etter at data er slettet vil de likevel kunne spares i inntil 180 dager i backuper. Backuper lagres med høy sikkerhet og begrenset tilgang, og er nødvendig for å kunne drive feilsøking og ivareta brukerenes og datasystemenet sikkerhet.
+ 
+Dine rettigheter:
+Som bruker av dette nettstedet kan du for å få dine data utlevert og/eller slettet.
+Har du en brukerkonto/abonnement, kan du logge inn i din brukerprofil og laste ned dine lagrede data, samt slette din brukerkonto og tilhørende data når som helst.
+Vis mer
+ 
+Hvis du trykker AVVIS vil ingen informasjonskapsler lagres i din nettleser og ingen data om deg logges i våre databaser. Det betyr også at vi ikke kan vite om du har godkjent eller ikke, slik at du vil se denne advarselen på hver side du besøker. Teknisk informasjon (webserverlogger) vil likevel lagre din IP-adresse og nettleserinformasjon, men dise slettes fortløpende som beskrevet ovenfor.
+ 
+Skjul Avvis Bekreft
+ 
+

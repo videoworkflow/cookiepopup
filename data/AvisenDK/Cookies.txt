@@ -1,0 +1,238 @@
+Nødvendige (54) - Præferencer (12) - Statistik (19) - Marketing (157) - Uklassificert (29) 
+
+
+
+Nødvendige cookies hjælper med at gøre en hjemmeside brugbar ved at aktivere grundlæggende funktioner såsom side-navigation og adgang til sikre områder af hjemmesiden. Hjemmesiden kan ikke fungere ordentligt uden disse cookies.
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ __cfduid [x24], 8asians.com adnami.io altamontapparel.com answersingenesis.org aporrea.org avisen.dk berlingskemedia.dk blogs.com danskfolkeparti.dk danskundergrund.dk etapes.com freefiles.dk horrordna.com jifo.co latimesblogs.latimes.com mediavoice.com myhero.com noedhjaelp.dk planetquo.net polarcdn-pentos.com qsl.net thrashbarg.net typepad.com venezuelanalysis.com, Anvendes af indholds-netværket Cloudflare til at identificere betroet webtrafik., 1 år, HTTP
+ sid [x3], abuddhistcatholic.com anglonautes.com riddle.com, Bevarer brugertilstand på tværs af sideforespørgsler., Session, HTTP
+ cart_sig, altamontapparel.com, Nødvendig for at de sikkerhedsmæssige aspekter i hjemmesidens check-out og betalingssystem virker. Denne service udbydes af shopify.com., 13 dage, HTTP
+ secure_customer_sig, altamontapparel.com," Denne cookie bruges til at lagre den besøgenes personlige oplysninger, disse er nødvendige når der udføres transaktioner på hjemmesiden. Cookien er nødvendig for at gøre transaktionen sikker.", 20 år, HTTP
+ PHPSESSID [x3], anarkismo.net cig.gal klangart.ch, Bevarer brugertilstand på tværs af sideforespørgsler., Session, HTTP
+ ASP.NET_SessionId [x3], avisen.dk dst.dk soschildrensvillages.org.uk, Bevarer brugertilstand på tværs af sideforespørgsler., Session, HTTP
+ CookieConsent, avisen.dk, Gemmer brugerens cookie-samtykke-tilstand for det aktuelle domæne., 1 år, HTTP
+ checkForPermission, bidr.io, Registrerer om den besøgende har accepteret cookie-banneret., 1 dag, HTTP
+ X-Mapping-# [x2], commondreams.org eurekastreet.com.au," Gemmer adressen og portnummeret på den webserver, der håndterer sessionen. Anvendes til at forbedre hjemmesidens ydeevne og sikkerhed.", Session, HTTP
+ cid [x2], ctnsnet.com adform.net, Nødvendig for implementeringen af hjemmesidens betalingssystem. Benyttes specifikt til kreditkort-betalingsmuligheden., 1 år, HTTP
+ ARRAffinity [x2], directive.adnami.io functions.adnami.io, Anvendes til at fordele trafikken på hjemmesiden over flere servere for at optimere svartider., Session, HTTP
+ incap_ses_#, economist.com, Bevarer brugertilstand på tværs af sideforespørgsler., Session, HTTP
+ visid_incap_#, economist.com, Bevarer brugertilstand på tværs af sideforespørgsler., 1 år, HTTP
+ CONSENT [x2], google.com youtube.com," Viser, hvorvidt den besøgende har tilvalgt cookies i marketingkategorien. Cookien er nødvendig for overholdelsen af GDPR-regulativet. ", 6779 dage, HTTP
+ crumb, henryjenkins.org, Nødvendig for hjemmesidens sikkerhed - Cookien benyttes til at identifcere og forebygge cross-site request forfalskning., Session, HTTP
+ test, m6r.eu," Viser, hvorvidt den besøgende har tilvalgt cookies i marketingkategorien. Cookien er nødvendig for overholdelsen af GDPR-regulativet. ", 1 dag, HTTP
+ BNI_BARRACUDA_LB_COOKIE, soschildrensvillages.org.uk, Anvendes til at fordele trafikken på hjemmesiden over flere servere for at optimere svartider., Session, HTTP
+ SESS#, stickyadstv.com, Bevarer brugertilstand på tværs af sideforespørgsler., Session, HTTP
+ AWSALB, teads.tv, Indeholder information om hvilken server-cluster den besøgende benytter. Dette bruges i kontekst med load-balancing for at optimere brugeroplevelsen på hjemmesiden., 6 dage, HTTP
+ local_storage_support_test, twitter.com," Denne cookie benyttes i kontekst med local-storage‐funktionen på hjemmesiden. Dette tillader hjemmesiden at pre-loade bestemte procedurer, hvilket optimerer hjemmesidens hastighed og ydelse.", Persistent, HTML
+ TS#, brunijazzart.com, Afventer, Session, HTTP
+---------------------
+
+
+Præference cookies gør det muligt for en hjemmeside at huske oplysninger, der ændrer den måde hjemmesiden ser ud eller opfører sig på. F.eks. dit foretrukne sprog, eller den region, du befinder dig i.
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ uid [x6], adotmob.com addthis.com adform.net simpli.fi turn.com proxy.strossle.it, Unikt bruger-id som genkender brugeren ved tilbagevendende besøg, 1 år, HTTP
+ jwplayerLocalId, avisen.dk, Bestemmer den optimale video kvalitet ud fra den besøgendes platform og netværkshastighed., Persistent, HTML
+ lang, cdn.syndication.twimg.com, Gemmer det sprog brugeren har valgt på en hjemmeside, Session, HTTP
+ website#lang, dst.dk, Gemmer brugerens foretrukne sprog på hjemmesiden., Session, HTTP
+ CMSPreferredCulture, soschildrensvillages.org.uk, Indeholder den besøgendes sprog- og landeindstilling. Dette giver hjemmesiden mulighed for at formatere hjemmesiden efter disse indstillinger., 1 år, HTTP
+ UID [x2], stickyadstv.com scorecardresearch.com, Unikt bruger-id som genkender brugeren ved tilbagevendende besøg, 29 dage, HTTP
+---------------------
+
+
+Statistisk cookies hjælper webstedsejere med at forstå, hvordan de besøgende interagerer med hjemmesider ved at indsamle og rapportere oplysninger anonymt.
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ ab, agkn.com," Denne cookie benyttes i forbindelse med multi-variate-tests - Dette gør hjemmesiden i stand til at ændre og kombinere elementer på hjemmesiden, for igennem effektivitetsmålinger at finde den bedste kombination.", 1 år, HTTP
+ _dc_gtm_UA-#, avisen.dk, Anvendes af Google Tag Manager til at styre indlæsningen af Google Analytics script., 1 dag, HTTP
+ _ga [x3], avisen.dk infogram.com riddle.com," Registrerer et unikt ID, der anvendes til at føre statistik over hvordan den besøgende bruger hjemmesiden.", 2 år, HTTP
+ _gat [x3], avisen.dk infogram.com riddle.com, Anvendes af Google Analytics til at drosle hastigheden på antallet af forespørgsler til serveren, 1 dag, HTTP
+ _gid [x2], avisen.dk riddle.com," Registrerer et unikt ID, der anvendes til at føre statistik over hvordan den besøgende bruger hjemmesiden.", 1 dag, HTTP
+ i00 [x2], avisen.dk tns-gallup.dk," Indsamler anonym statistik om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at generere rapporter til optimering af hjemmesidens indhold.", Persistent, HTML
+ ak_bmsc, elpais.com," Benyttes til at bestemme, om brugeren er en virkelig person eller en software-robot - Dette muliggør skabelsen af valide rapporter om brugen af hjemmesiden.", 1 dag, HTTP
+ collect, google-analytics.com, Bruges til at sende data til Google Analytics om den besøgendes enhed og adfærd. Sporer den besøgende på tværs af enheder og marketingkanaler., Session, Pixel
+ S, hi5.com," Sætter et unikt ID for det aktuelle besøg. Dette tillader hjemmesiden at skelne individuelle besøg fra hinanden, hvilket benyttes til intern statistik og analyse.", Session, HTTP
+ d, quantserve.com," Indsamler anonym statistik om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at generere rapporter til optimering af hjemmesidens indhold.", 3 mdr., HTTP
+ sc_anonymous_id, soundcloud.com," Denne cookie muliggør, at besøgende kan indlejre indhold på hjemmesiden; denne indlejring kan være begrænset til bestemte besøgende.", 10 år, HTTP
+ srp, tns-gallup.dk," Indsamler anonym statistik om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at generere rapporter til optimering af hjemmesidens indhold.", Session, HTTP
+ ouuid, volvelle.tech, Indeholder ID for den besøgende - benyttes til identificering af den besøgende ved tilbagevending., 1 år, HTTP
+---------------------
+
+
+
+
+
+
+Marketing cookies bruges til at spore besøgende på tværs af websites. Hensigten er at vise annoncer, der er relevante og engagerende for den enkelte bruger, og dermed mere værdifulde for udgivere og tredjeparts annoncører.
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ tuuid [x7], 254a.com 4finance.com admedo.com bidswitch.net creative-serving.com programattik.com r.scoota.co," Indsamler uidentificerbare data, som sendes til en uidentificerbar kilde. Kildens identitet holdes hemmelig af selskabet Perfect Privacy, LLC.", 3 mdr., HTTP
+ tuuid_lu [x7], 254a.com 4finance.com admedo.com bidswitch.net creative-serving.com programattik.com r.scoota.co," Tildeler den besøgende et anonymiseret ID. Dette tillader Bidswitch.com at indsamle data om den besøgende over flere hjemmesider. Dette benyttes til at optimere annonce relevans, samt undgå at den besøgende bliver præsenteret for den samme annonce flere gange end tiltænkt. ", 3 mdr., HTTP
+ bsw_uid, 4finance.com, Identificerer den besøgende på tværs af besøg og platforme - benyttes til at optimere hjemmesidens annonce-relevans i forhold til den specifikke besøgende. Cookien tillader også hjemmesiden at måle effektiviteten af deres marketingsindsats., 1 år, HTTP
+ auid, acuityplatform.com," Registerer et unikt bruger-ID, som genkender brugerens browser ved besøg på hjemmesider, der viser annoncer fra samme annoncenetværk. Cookien anvendes til at indsamle statistik om den besøgendes færden og til målretning af annoncer.", 68 år, HTTP
+ na_id, addthis.com," Identificerer den besøgende ved genbesøg. Muliggør at hjemmesiden registrerer informationer om den besøgendes navigation, samt faciliterer hjemmesidens sociale-medier-delingsfunktion. Denne service udbydes af Addthis.com.", 13 mdr., HTTP
+ na_rn, addthis.com," Identificerer den besøgende ved genbesøg. Muliggør at hjemmesiden registrerer informationer om den besøgendes navigation, samt faciliterer hjemmesidens sociale-medier-delingsfunktion. Denne service udbydes af Addthis.com.", 29 dage, HTTP
+ na_sc_e, addthis.com," Identificerer den besøgende ved genbesøg. Muliggør at hjemmesiden registrerer informationer om den besøgendes navigation, samt faciliterer hjemmesidens sociale-medier-delingsfunktion. Denne service udbydes af Addthis.com.", 29 dage, HTTP
+ na_sr, addthis.com," Identificerer den besøgende ved genbesøg. Muliggør at hjemmesiden registrerer informationer om den besøgendes navigation, samt faciliterer hjemmesidens sociale-medier-delingsfunktion. Denne service udbydes af Addthis.com.", 29 dage, HTTP
+ na_srp, addthis.com," Identificerer den besøgende ved genbesøg. Muliggør at hjemmesiden registrerer informationer om den besøgendes navigation, samt faciliterer hjemmesidens sociale-medier-delingsfunktion. Denne service udbydes af Addthis.com.", 1 dag, HTTP
+ na_tc, addthis.com," Identificerer den besøgende ved genbesøg. Muliggør at hjemmesiden registrerer informationer om den besøgendes navigation, samt faciliterer hjemmesidens sociale-medier-delingsfunktion. Denne service udbydes af Addthis.com.", 13 mdr., HTTP
+ ouid, addthis.com, Tildeler den besøgende anonymiseret ID - Dette benyttes til genkendelse af den besøgende ved genbesøg. Yderligere faciliterer cookien hjemmesidens sharing-funktion. Denne udbydes af Addthis.com., 13 mdr., HTTP
+ _fbp, adform.net," Anvendes af Facebook til at levere forskellige reklame-tjenester, herunder realtids-bud fra tredjeparts-annoncører.", 3 mdr., HTTP
+ adtrc, adform.net, Registrerer om partner data synchronization er aktiv – Denne funktion sender brugerdata mellem tredjeparts annoncetjenester med henblik på målrettede annoncer., 6 dage, HTTP
+ C, adform.net, Anvendes til at tjekke om brugerens browser understøtter cookies., 2 mdr., HTTP
+ bsw_sync, adhigh.net, Indsamler data om den besøgendes præferencer på flere hjemmesider - benyttes til at optimere hjemmesidens annonce-relevans i forhold til den specifikke besøgende., 1 år, HTTP
+ gi_u, adhigh.net, Anvendes til at målrette annoncer og dokumentere effektiviteten af hver enkelt annonce., 1 år, HTTP
+ UserID1, adition.com, Denne cookie indsamler informationer omkring den besøgendes adfærd og præferencer på hjemmesiden. Denne information bliver en ID-streng af information omkring den specifikke besøgende. Denne ID-streng kan bruges til at målrette annoncer til den specifikke besøgende af tredje-parts-reklamehjemmesider., 179 dage, HTTP
+ am-uid, admixer.net, Denne cookie bruges til at identificere den besøgende. Denne identificering muliggør en udveksling af data om den besøgendes adfærd og præferencer fra flere hjemmesider. Derigennem kan hjemmesiden målrette produkter eller reklamer til den individuelle besøgende. Denne udveksling sker oftest gennem en tredje-parts-data- eller reklame-udbyder., 2 år, HTTP
+ uuid2, adnxs.com," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.", 3 mdr., HTTP
+ uuid [x5], adotmob.com avocet.io innovid.com mathtag.com vidible.tv, Denne cookie bruges til at identificere den besøgende. Denne identificering muliggør en udveksling af data om den besøgendes adfærd og præferencer fra flere hjemmesider. Derigennem kan hjemmesiden målrette produkter eller reklamer til den individuelle besøgende. Denne udveksling sker oftest gennem en tredje-parts-data- eller reklame-udbyder., 1 år, HTTP
+ TDCPM, adsrvr.org," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.", 1 år, HTTP
+ TDID, adsrvr.org," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.", 1 år, HTTP
+ u, agkn.com, Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst. De registrerede data anvendes til at kategorisere brugernes interesser og demografiske profiler med henblik på videresalg til målrettet markedsføring., 1 år, HTTP
+ _shopify_y, altamontapparel.com, Registrerer den besøgendes præferencer og navigation på hjemmesiden. Denne registrering gør hjemmesiden i stand til at målrette annoncer og indhold til den specifikke besøgende., 2 år, HTTP
+ ATN, atdmt.com, Målretter annoncer baseret på adfærdsmæssig profilering og geografisk placering., 2 år, HTTP
+ GED_PLAYLIST_ACTIVITY, avisen.dk," Denne cookie bruges, hvis hjemmesiden har reklamer eller andet indhold på andre hjemmesider. Cookien registrerer, hvilket indhold den besøgende er blevet vist. Denne information bruges så den besøgende vises forskelligt indhold.", Session, HTTP
+ GoogleAdServingTest, avisen.dk," Anvendes til at registrere hvilke annoncer, der er blevet vist for brugeren.", Session, HTTP
+ bito, bidr.io, Sætter et ID for den specifikke besøgende. Dette tillader tredjeparts annoncetjenester at målrette annoncer til den specifikke besøgende. Denne parring mellem besøgende og tredjeparts-tjenester faciliteres gennem online annoncebruger-auktioner i realtid., 1 år, HTTP
+ c [x7], bidswitch.net clrstm.com creative-serving.com programattik.com sportradarserving.com volvelle.tech xrl.us, Styrer synkronisering af brugeridentifikation og udveksling af bruger-data mellem forskellige annonceringstjenester., 1 år, HTTP
+ google_push, bidswitch.net," Indsamler statistik om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at segmentere hjemmesidens brugere efter faktorer såsom demografi og geografi for at gøre det muligt for medier og marketingbureauer at strukturere og forstå deres målgrupper med henblik på at tilpasse online annoncering.", 1 dag, HTTP
+ bkdc, bluekai.com," Registerer anonymiserede data om brugeren såsom IP-adresse, geografisk placering, besøgte hjemmesider og hvilke annoncer, brugeren har klikket på. Formålet er at optimere visning af annoncer ud fra brugerens adfærd på hjemmesider, der anvender samme annoncenetværk.", 179 dage, HTTP
+ bkpa, bluekai.com," Anvendes til at præsentere den besøgende med relevant indhold og annoncer. Servicen udbydes af tredjeparts annoncecentraler, som faciliterer at annoncører kan byde i real-time.", 179 dage, HTTP
+ bku, bluekai.com," Registerer anonymiserede data om brugeren såsom IP-adresse, geografisk placering, besøgte hjemmesider og hvilke annoncer, brugeren har klikket på. Formålet er at optimere visning af annoncer ud fra brugerens adfærd på hjemmesider, der anvender samme annoncenetværk.", 179 dage, HTTP
+ CMID, casalemedia.com," Indsamler anonyme data om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at kunne levere målrettede annoncer.", 1 år, HTTP
+ CMPRO, casalemedia.com," Registrerer præference-data på en specifik besøgende på tværs af flere hjemmesider. Dette gøres for at optimere annoncernes relevans, samt sikre at den samme besøgende ikke får vist den samme annonce flere gange end tiltænkt.", 3 mdr., HTTP
+ CMPS, casalemedia.com," Indsamler anonyme data om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at kunne levere målrettede annoncer.", 3 mdr., HTTP
+ CMST, casalemedia.com," Indsamler anonyme data om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at kunne levere målrettede annoncer.", 1 dag, HTTP
+ tuuid_new, clrstm.com," Registrerer præference-data på en specifik besøgende på flere hjemmesider, for at optimere annoncernes relevans.", 2 år, HTTP
+ tuuid_new_lu, clrstm.com," Registrerer præference-data på en specifik besøgende på flere hjemmesider, for at optimere annoncernes relevans.", 2 år, HTTP
+ cid_#, ctnsnet.com," Indsamler uidentificerbare data, som sendes til en uidentificerbar kilde. Kildens identitet holdes hemmelig af selskabet Whois Privacy Protection Service, Inc.", 1 år, HTTP
+ opt, ctnsnet.com," Indsamler uidentificerbare data, som sendes til en uidentificerbar kilde. Kildens identitet holdes hemmelig af selskabet Whois Privacy Protection Service, Inc.", 1 år, HTTP
+ DSID, doubleclick.net," Anvendes af Google DoubleClick til re-targerting, optimering, rapportering og tilskrivning af online-annoncer.", 1 dag, HTTP
+ IDE, doubleclick.net, Anvendes af Google DoubleClick til at registrere og rapportere om hjemmesidebrugerens handlinger efter at have set eller klikket på en af annoncørens annoncer. Formålet er at måle effekten af en annonce samt at målrette annoncer til brugeren., 1 år, HTTP
+ r/collect, doubleclick.net, Denne cookie benyttes til at sende data til Google Analytics omkring brugeres enhed og adfærd. Cookien følger den specifikke bruger på flere hjemmesider og enheder., Session, Pixel
+ test_cookie, doubleclick.net, Anvendes til at tjekke om brugerens browser understøtter cookies., 1 dag, HTTP
+ everest_g_v2, everesttech.net, Anvendes til at målrette annoncer og dokumentere effektiviteten af hver enkelt annonce., 1 år, HTTP
+ everest_session_v2, everesttech.net, Anvendes til at målrette annoncer og dokumentere effektiviteten af hver enkelt annonce., Session, HTTP
+ gglck, everesttech.net, Anvendes til at målrette annoncer og dokumentere effektiviteten af hver enkelt annonce., 29 dage, HTTP
+ fr, facebook.com," Anvendes af Facebook til at levere forskellige reklame-tjenester, herunder realtids-bud fra tredjeparts-annoncører.", 3 mdr., HTTP
+ tr, facebook.com," Anvendes af Facebook til at levere forskellige reklame-tjenester, herunder realtids-bud fra tredjeparts-annoncører.", Session, Pixel
+ _cph, fwmrm.net, Indsamler data om brugerens præferencer og interaktion med internet-kampagner - Dette benyttes på CRM-kampagne-platforme af hjemmesideejere til promovering af events eller produkter., 29 dage, HTTP
+ _ha, fwmrm.net," Registrerer præference-data på en specifik besøgende på tværs af flere hjemmesider. Dette gøres for at optimere annoncernes relevans, samt sikre at den samme besøgende ikke får vist den samme annonce flere gange end tiltænkt.", Session, HTTP
+ _sc, fwmrm.net," Registrerer præference-data på en specifik besøgende på tværs af flere hjemmesider. Dette gøres for at optimere annoncernes relevans, samt sikre at den samme besøgende ikke får vist den samme annonce flere gange end tiltænkt.", 29 dage, HTTP
+ _wr, fwmrm.net," Registrerer præference-data på en specifik besøgende på tværs af flere hjemmesider. Dette gøres for at optimere annoncernes relevans, samt sikre at den samme besøgende ikke får vist den samme annonce flere gange end tiltænkt.", 29 dage, HTTP
+ 1P_JAR, google.com," Registrerer præference-data på en specifik besøgende på flere hjemmesider, for at optimere annoncernes relevans.", 29 dage, HTTP
+ NID, google.com," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.", 6 mdr., HTTP
+ B, hi5.com," Indsamler statistik om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at segmentere hjemmesidens brugere efter faktorer såsom demografi og geografi for at gøre det muligt for medier og marketingbureauer at strukturere og forstå deres målgrupper med henblik på at tilpasse online annoncering.", 10 år, HTTP
+ idb, impdesk.com," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.", 1 år, HTTP
+ lidc, linkedin.com, Anvendes af den sociale netværkstjeneste LinkedIn til at spore brugen af indlejrede services., 1 dag, HTTP
+ id [x2], m6r.eu mookie1.com," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.", 3 mdr., HTTP
+ mt_mop, mathtag.com, Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst. De registrerede data anvendes til at målrette annoncer., 29 dage, HTTP
+ uuidc, mathtag.com, Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst. De registrerede data anvendes til at målrette annoncer., 1 år, HTTP
+ mdata, mookie1.com," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.", 1 år, HTTP
+ _nauid, nrich.ai," Registrerer præference-data på en specifik besøgende på tværs af flere hjemmesider. Dette gøres for at optimere annoncernes relevans, samt sikre at den samme besøgende ikke får vist den samme annonce flere gange end tiltænkt.", 1 år, HTTP
+ i, openx.net," Registerer anonymiserede data om brugeren såsom IP-adresse, geografisk placering, besøgte hjemmesider og hvilke annoncer, brugeren har klikket på. Formålet er at optimere visning af annoncer ud fra brugerens adfærd på hjemmesider, der anvender samme annoncenetværk.", 1 år, HTTP
+ KADUSERCOOKIE, pubmatic.com," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg på tværs af hjemmesider, der anvender samme annoncenetværk. ID'et anvendes til at målrette annoncer.", 3 mdr., HTTP
+ KTPCACOOKIE, pubmatic.com," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg på tværs af hjemmesider, der anvender samme annoncenetværk. ID'et anvendes til at målrette annoncer.", 1 dag, HTTP
+ mc, quantserve.com, Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst. De registrerede data anvendes til at målrette annoncer., 13 mdr., HTTP
+ pxrc, rlcdn.com, Indsamler data om den besøgendes brug af hjemmesiden. Dette benyttes til at optimere relevansen af hjemmesidens annoncer., 2 mdr., HTTP
+ rlas3, rlcdn.com," Indsamler anonyme data om brugerens besøg på hjemmesiden såsom antallet af besøg, den gennemsnitlige tid på hjemmesiden og hvilke sider der er læst. Formålet er at kunne levere målrettede annoncer.", 1 år, HTTP
+ browser_id, rqtrk.eu, Benyttes til genkendelse af brugerens browser ved genbesøg., 6 dage, HTTP
+ cd, rubiconproject.com," Registerer anonymiserede data om brugeren såsom IP-adresse, geografisk placering, besøgte hjemmesider og hvilke annoncer, brugeren har klikket på. Formålet er at optimere visning af annoncer ud fra brugerens adfærd på hjemmesider, der anvender samme annoncenetværk.", Session, HTTP
+ UIDR, scorecardresearch.com," Indsamler information om brugeren og dennes adfærd, såsom tidspunkt for besøg, læste sider og ip-adresse. Data bruges af markedsundersøgelses-netværket Scorecard Research til at analysere besøgsmønstre og gennemføre undersøgelser for at hjælpe deres klienter med bedre at forstå kundernes præferencer.", 2 år, HTTP
+ A6, serving-sys.com," Indsamler data om den besøgende over flere hjemmesider. Dette tjener til, at se hvorfra den besøgende er tilgået hjemmesiden og derigennem måle effektiviteten af hjemmesidens marketing.", 3 mdr., HTTP
+ u2, serving-sys.com," Indsamler data om brugerens besøg på hjemmesiden for at vurdere effektiviten af annoncer, der vises på hjemmesiden.", 3 mdr., HTTP
+ pbw, smartadserver.com, Indsamler data om brugerens præferencer og interaktion med internet-kampagner - Dette benyttes på CRM-kampagne-platforme af hjemmesideejere til promovering af events eller produkter., 13 mdr., HTTP
+ pdomid, smartadserver.com, Indeholder information om hvilken server-cluster den besøgende benytter. Dette bruges i kontekst med load-balancing for at optimere brugeroplevelsen på hjemmesiden., 13 mdr., HTTP
+ pid, smartadserver.com," Registrerer et unikt ID, der identificerer brugerens enhed ved tilbagevendende besøg. ID'et anvendes til at målrette annoncer.", 13 mdr., HTTP
+ TestIfCookie, smartadserver.com, Registrerer om den besøgende har accepteret cookie-banneret., 13 mdr., HTTP
+ TestIfCookieP, smartadserver.com, Identificerer nye brugere og genererer et unikt ID til hver bruger., 13 mdr., HTTP
+ WIDGET::local::assignments, soundcloud.com," Benyttes af audio-tjenesten SoundCloud for at implementere, måle og forbedre deres integrerede indhold på hjemmesiden - Denne dataindsamling inkluderer brugerinteraktion med indhold, hvilket kan benyttes til statistiske formål eller til marketing.", Persistent, HTML
+ sa-user-id, stackadapt.com, Indsamler data om den besøgendes præferencer på flere hjemmesider - benyttes til at optimere hjemmesidens annonce-relevans i forhold til den specifikke besøgende., 5 år, HTTP
+ sa-user-id-v2, stackadapt.com, Indsamler data om den besøgendes præferencer på flere hjemmesider - benyttes til at optimere hjemmesidens annonce-relevans i forhold til den specifikke besøgende., 5 år, HTTP
+ gdprApplicability, stickyadstv.com, Fastslår hvorvidt brugeren befinder sig EU og derigennem er underlagt EUs data regulativer., Session, HTTP
+ gdprConsent, stickyadstv.com," Viser, hvorvidt den besøgende har tilvalgt cookies i marketingkategorien. Cookien er nødvendig for overholdelsen af GDPR-regulativet. ", Session, HTTP
+ tt_bluekai, teads.tv," Anvendes til at præsentere den besøgende med relevant indhold og annoncer. Servicen udbydes af tredjeparts annoncecentraler, som faciliterer at annoncører kan byde i real-time.", 1 dag, HTTP
+ tt_emetriq, teads.tv," Anvendes til at præsentere den besøgende med relevant indhold og annoncer. Servicen udbydes af tredjeparts annoncecentraler, som faciliterer at annoncører kan byde i real-time.", 1 dag, HTTP
+ tt_exelate, teads.tv," Anvendes til at præsentere den besøgende med relevant indhold og annoncer. Servicen udbydes af tredjeparts annoncecentraler, som faciliterer at annoncører kan byde i real-time.", 1 dag, HTTP
+ tt_liveramp, teads.tv, Registrerer responsraten mellem brugeren og hjemmesidens pop-up annoncer - Dette benyttes til at optimere annoncernes relevans på hjemmesiden., 1 dag, HTTP
+ tt_neustar, teads.tv, Registrerer responsraten mellem brugeren og hjemmesidens pop-up annoncer - Dette benyttes til at optimere annoncernes relevans på hjemmesiden., 1 dag, HTTP
+ tt_viewer, teads.tv," Cookien benyttes i forbindelse med hjemmesidens video-annoncer. Sørger for, at den besøgende ikke bliver vist den samme annonce flere gange end tiltænkt.", 1 år, HTTP
+ i/jot, twitter.com, Sætter et ID for den specifikke besøgende. Dette tillader tredjeparts annoncetjenester at målrette annoncer til den specifikke besøgende. Denne parring mellem besøgende og tredjeparts-tjenester faciliteres gennem online annoncebruger-auktioner i realtid., Session, Pixel
+ ouuid_lu, volvelle.tech," Benyttes sammen med ""Ouuid""-cookien. Tillader annoncører at målrette den besøgende med relevante annoncer og indhold. ", 1 år, HTTP
+ matchbidswitch, w55c.net, Sætter et ID for den specifikke besøgende. Dette tillader tredjeparts annoncetjenester at målrette annoncer til den specifikke besøgende. Denne parring mellem besøgende og tredjeparts-tjenester faciliteres gennem online annoncebruger-auktioner i realtid., 29 dage, HTTP
+ matchgoogle, w55c.net, Styrer synkronisering af brugeridentifikation og udveksling af bruger-data mellem forskellige annonceringstjenester., 29 dage, HTTP
+ wfivefivec, w55c.net, Indsamler data om brugerens besøg på hjemmesiden såsom hvilke sider der er læst. De registrerede data anvendes til at målrette annoncer., 13 mdr., HTTP
+ GPS, youtube.com, Registrerer et unikt ID på mobile enheder for at muliggøre tracking baseret på geografisk GPS lokation., 1 dag, HTTP
+ PREF, youtube.com," Registrerer et unikt ID, der anvendes af Google til at føre statistik over hvordan den besøgende bruger YouTube vidoer på tværs af forskellige hjemmesider.", 8 mdr., HTTP
+ VISITOR_INFO1_LIVE, youtube.com, Forsøger at estimere brugernes båndbredde på sider med integreret YouTube-video., 179 dage, HTTP
+ YSC, youtube.com, Registrerer et unikt ID for at føre statistik over hvilke videoer fra YouTube brugeren har set., Session, HTTP
+ yt-remote-cast-installed, youtube.com, Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Session, HTML
+ yt-remote-connected-devices, youtube.com, Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Persistent, HTML
+ yt-remote-device-id, youtube.com, Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Persistent, HTML
+ yt-remote-fast-check-period, youtube.com, Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Session, HTML
+ yt-remote-session-app, youtube.com, Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Session, HTML
+ yt-remote-session-name, youtube.com, Gemmer brugerens video-afspiller-præferencer ved afspilning af en indlejret YouTube video, Session, HTML
+ 0, adform.net, Afventer, 1 dag, HTTP
+ partners, adotmob.com, Afventer, 1 år, HTTP
+ USID, advertising.com, Afventer, 1 dag, HTTP
+ __ab12# [x2], avisen.dk bidtheatre.com, Afventer, 2 år, HTTP
+ nlbi_#, economist.com, Afventer, Session, HTTP
+ common/cavalry_endpoint.php, facebook.com, Afventer, Session, Pixel
+ _auv, fwmrm.net, Afventer, 29 dage, HTTP
+ _av, fwmrm.net, Afventer, 29 dage, HTTP
+ _sid, fwmrm.net, Afventer, Session, HTTP
+ _stid, fwmrm.net, Afventer, 1 år, HTTP
+ _ue, fwmrm.net, Afventer, Session, HTTP
+ _uid, fwmrm.net, Afventer, 1 år, HTTP
+ _vr, fwmrm.net, Afventer, 29 dage, HTTP
+ UUID#[abcdef0123456789]{32} [x2], horrordna.com horrortalk.com, Afventer, Session, HTTP
+ pixel.gif, moatads.com, Afventer, Session, Pixel
+ pd, openx.net, Afventer, 14 dage, HTTP
+ S_#, serving-sys.com, Afventer, 1 dag, HTTP
+ dp-#, stickyadstv.com, Afventer, 179 dage, HTTP
+ uid-bp-#, stickyadstv.com, Afventer, 1 år, HTTP
+ __widgetsettings, twitter.com, Afventer, Persistent, HTML
+ i/jot/syndication, twitter.com, Afventer, Session, Pixel
+ hit.gif, userreport.com, Afventer, Session, Pixel
+ trk/action.gif, vidible.tv, Afventer, Session, Pixel
+ trk/display.gif, vidible.tv, Afventer, Session, Pixel
+ trk/impression.gif, vidible.tv, Afventer, Session, Pixel
+ trk/video-impression.gif, vidible.tv, Afventer, Session, Pixel
+---------------------
+
+
+
+Uklassificerede cookies er cookies, som vi er i færd med at klassificere sammen med udbyderne af de enkelte cookies.
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb, Type
+ _polar_tu, avisen.dk, Afventer, 2 år, HTTP
+ strosslePageSessionId, avisen.dk, Afventer, Session, HTML
+ BBC-UID, bbc.co.uk, Afventer, 1 år, HTTP
+ b30msc, beacon.walmart.com, Afventer, 1 dag, HTTP
+ bsc, beacon.walmart.com, Afventer, Session, HTTP
+ btc, beacon.walmart.com, Afventer, 10 år, HTTP
+ CBS_INTERNAL, cbsnews.com, Afventer, Session, HTTP
+ fly_device, cbsnews.com, Afventer, 6 dage, HTTP
+ fly_geo, cbsnews.com, Afventer, 6 dage, HTTP
+ _initial_referrer, e.infogram.com, Afventer, Session, HTTP
+ eptz, elpais.com, Afventer, Session, HTTP
+ hpage, elpais.com, Afventer, 1 år, HTTP
+ RecentRedirect, henryjenkins.org, Afventer, 1 dag, HTTP
+ ltk, lovetoknow.com, Afventer, Session, HTTP
+ PLAY_LANG, mingler.com, Afventer, Session, HTTP
+ marketPref, msn.com, Afventer, 1 år, HTTP
+ PreferencesMsn, msn.com, Afventer, 1 år, HTTP
+ abRange, proxy.strossle.it, Afventer, Persistent, HTML
+ session, proxy.strossle.it, Afventer, Persistent, HTML
+ ngStorage-defaultLanguage, riddle.com, Afventer, Persistent, HTML
+ ngStorage-riddleResults, riddle.com, Afventer, Persistent, HTML
+ CMSCsrfCookie, soschildrensvillages.org.uk, Afventer, Session, HTTP
+ zuuid, sportradarserving.com, Afventer, 1 år, HTTP
+ zuuid_lu, sportradarserving.com, Afventer, 1 år, HTTP
+ sskya, sundaysky.com, Afventer, 6 dage, HTTP
+ sskyCreationTime, sundaysky.com, Afventer, 2 år, HTTP
+ sskyu, sundaysky.com, Afventer, 2 år, HTTP
+ ZNPCQ003-31303400, udayton.edu, Afventer, Session, HTTP
+ WMF-Last-Access, upload.wikimedia.org, Afventer, 1 md., HTTP
+---------------------

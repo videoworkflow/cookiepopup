@@ -1,0 +1,52 @@
+Essential cookies (14) - Preference cookies (4) - Social media cookies (2) - Analytic cookies (17) - Advertising cookies (1) 
+
+
+Essential cookies:
+
+--------TABLE--------
+ b2b_cig_opt, Flags for B2B access., 1 day, go to site
+ edu_cig_opt, Flags for EDU access., 1 day, go to site
+ nyt-a, Unique identifier to identify behavior on site., 1 year, go to site
+ nyt-auth-method, Information about how the user is logged in., Session, go to site
+ nyt-d, User information, 6 months, go to site
+ NYT-DBGS, Debugging, session, go to site
+ nyt-gdpr, GDPR eligibility, 6 hours, go to site
+ nyt-m, The meter for non-subscribers.," 4 years, 6 months", go to site
+ NYT-Recognize, Used by circulation to recognize users who are not currently authenticated., session, go to site
+ NYT-S, Subscription cookie., 1 year, go to site
+ optimizelyBuckets, Used for the serving of assets that have variations., 6 months, go to site
+ optimizelyEndUserId, Used for the serving of assets that have variations., 6 months, go to site
+ optimizelySegments, Used for the serving of assets that have variations., 6 months, go to site
+ LPVID, Used to handle customer support chats., 6 months, go to site
+--------------------- 
+
+Preference Cookie 
+
+--------TABLE--------
+ NYT_W2, Remember weather preferences, 1 year, go to site
+ NYT-Edition, Remember the selected language edition, 1 year, go to site
+ nyt-pref, Remember preferences for the homepage widget, 1 year, go to site
+ NYT-T, Remember opt-out preferences, 10 years, 
+--------------------- 
+
+
+
+Social Media Cookies
+
+--------TABLE--------
+ _fbp, This cookie allows us to target marketing at Facebook users., session, Facebook privacy policy
+ sc_at, This cookie allows us to target marketing at Snap users., session, Snap privacy policy
+--------------------- 
+
+Analytic cookies
+
+--------TABLE--------
+" __gads, __utma, _ga, _gat_UA-58630905-2, walley, walley_gid, _gcl_au, NID, OTZ, SIDCC, __utmc, __utmv, __utmz", Google Analytics," 1 year, 6 months", go to site
+" _chartbeat2, _cb, _cb_ls, _cb_svref", Chartbeat, 1 month, go to site
+--------------------- 
+Advertising cookies
+
+--------TABLE--------
+ IDE, Used to manage advertising from Google DoubleClick., 13 months, Google Inc. privacy policy
+--------------------- 
+

@@ -1,0 +1,16 @@
+2.4 Hvad cookies bruges til på vores website
+Cookies anvendes til at føre statistik over hvor antallet af brugere.
+Sitet anvender cookies fra en følgende tredjeparter, der har adgang til de pågældende cookies:
+2.5 Google Analytics (trafikmåling)
+Websitet bruger cookies fra Google Analytics til at måle trafikken på websitet. 
+Du kan fravælge cookies fra Google Analytics her: http://tools.google.com/dlpage/gaoptout
+2.6 Add This (deling)
+Websitet bruger cookies fra Add This til at dele indhold på websitet. 
+Du kan fravælge cookies fra Add This her: http://www.addthis.com/privacy/opt-out
+2.7 Facebook
+Websitet bruger Facebook pixel til at målrette annoncer bedre.
+2.8 Dansk Online Index
+Websitet er tilsluttet Dansk Online Index, der måler al trafikken på danske websites. Målingen udføres af Kantar Gallup på vegne af Danske Medier Research ApS, der er dataansvarlig. Der anvendes cookies fra: tns-gallup.dk og ssl- danskemedier.tns-gallup.dk til brug for indsamling af oplysninger om IP, tidspunkt, tekniske oplysninger om enhed fx OS, browser version m.v. for at føre statistik over trafik på sitet. Data gemmes uden tidsbegrænsning i aggregeret form, der ikke kan føres tilbage til brugeren. 
+ 2.9 Chartbeat
+Websitet bruger Cheartbeat til at måle trafikken på siden.
+

@@ -1,0 +1,202 @@
+Essential cookies managed by The Economist Group (14) - Demand Side Platform (11) - Data Aggregator/Supplier (10) - Retargeter (12) - Social Media (5) - Ad Server (11) - Ad Exchange (12) - Analytics Provider (15) - Advertiser (3) - Ad Network (12) - Supply Side Platform (3) - Marketing Solutions (2) - Creative/Ad Format Technology (2) - Data Management Platform (4) - Research Provider (1) - Mobile (2) - Ad Verification (3) - Business Intelligence (1) - Agency (1) - Website Optimization (1) - Content Management/SaaS (2) - Online Privacy Platform (1)
+
+
+Essential cookies managed by The Economist Group
+
+--------TABLE--------
+ Adobe Analytics
+ Brightcove
+ Chartbeat
+ Crazyegg
+ Economist
+ Google Analytics
+ Google Inc.
+ Lytics
+ Pingdom
+ Snowplow
+ Tealium
+ Usabilla
+ Maxymiser
+ Piano
+---------------------
+
+
+Demand Side Platform
+--------TABLE--------
+ Acuity Ads
+ Adform
+ DataXu
+ FreakOut
+ Intimate Merger
+ RadiumOne
+ RUN
+ 
+ Tapad
+ The Trade Desk
+ Videology (formerly TidalTV)
+---------------------
+Data Aggregator/Supplier
+--------TABLE--------
+ ADARA Analytics
+ Adobe Experience Cloud (Audience Manager)
+ eXelate
+ Eyeota
+ LiveRamp
+ Neustar Marketing (Formerly PlatformOne)
+ Oracle Data Cloud
+ Salesforce DMP (Formerly Krux Digital)
+ Semasio
+ Twitter
+---------------------
+
+Retargeter
+--------TABLE--------
+ AddThis
+ Admatic
+ AdRoll Group
+ Amazon Associates
+ AOL Advertising
+ Dotomi
+ 
+ MediaMath
+ Perfect Audience
+ ShareThis
+ Taboola
+ Yieldr (formerly YD Group B.V.)
+---------------------
+
+Social Media
+--------TABLE--------
+ AddToAny (formerly Lockerz Share)
+ Facebook Business (formerly Facebook Custom Audience)
+ Facebook for Developers (formerly Facebook Connect)
+ Facebook Social Plugins
+ LinkedIn
+---------------------
+Ad Server
+--------TABLE--------
+ Adition Technologies AG
+ AdSpirit
+ Amobee
+ AppNexus
+ 
+ Delta Projects
+ Flashtalking
+ LiveIntent
+ SiteScout
+ Sizmek
+ Smart AdServer
+---------------------
+
+Ad Exchange
+--------TABLE--------
+ ADMIXER
+ AdStir
+ Beeswax
+ Index Exchange (Formerly Casale Media)
+ IPONWEB
+ Microsoft Advertising
+ Nativo
+ OpenX
+ PubMatic
+ Rubicon Project
+ Smaato
+ SpotXchange
+---------------------
+Analytics Provider
+--------TABLE--------
+ Adobe Experience Cloud (Analytics)
+ Akamai Technologies
+ Catchpoint Systems
+ ChartBeat
+ Crazy Egg
+ Drawbridge
+ Google Analytics
+ HubSpot
+ Lytics Inc.
+ Marin Software
+ Matomo (Formerly PiWiK Analytics)
+ Quantcast
+ Snowplow
+ Tealium
+ TripleLift
+---------------------
+
+Advertiser
+--------TABLE--------
+ Amazon
+ Piano (Previously Tinypass)
+ RythmOne
+---------------------
+Ad Network
+--------TABLE--------
+ Atlas
+ CJ Affiliate by Conversant (formerly Commission Junction)
+ DAC (D.A.Consortium)
+ Google Inc.
+ i-mobile
+ LinkedIn Marketing Solutions
+ MicroAd
+ Netmining
+ Platform161
+ PowerLinks
+ sovrn (formerly Lijit Networks)
+ Yahoo!
+---------------------
+Supply Side Platform
+--------TABLE--------
+ Between Digital
+ Improve Digital
+ Teads
+---------------------
+
+Marketing Solutions
+--------TABLE--------
+ Bombora
+ Eloqua (Oracle Marketing Cloud)
+---------------------
+Creative/Ad Format Technology
+--------TABLE--------
+ Brightcove
+ Celtra
+---------------------
+Data Management Platform
+--------TABLE--------
+ Cedexis
+ Lotame
+ Sailthru
+ Zemanta
+---------------------
+Research Provider
+Conversant
+
+Mobile
+--------TABLE--------
+ Crimtan
+ Tag Commander
+---------------------
+
+
+Ad Verification
+--------TABLE--------
+ DoubleVerify
+ Integral Ad Science (formerly AdSafe)
+ Moat
+---------------------
+Business Intelligence
+Full Circle Studies
+
+Agency
+Impression Desk
+
+Website Optimization
+Maxymiser
+
+Content Management/SaaS 
+--------TABLE--------
+ Oracle Corporation
+ Pingdom
+---------------------
+
+Online Privacy Platform
+TrustArc

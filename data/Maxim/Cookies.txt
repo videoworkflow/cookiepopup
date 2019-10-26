@@ -1,0 +1,21 @@
+Cookie Vendors (18) 
+--------TABLE--------
+ 33Across
+ Adobe Advertising Cloud
+ AppNexus Inc.
+ Clicksco Digital Limited
+" comScore, Inc."
+ Criteo SA
+" Index Exchange, Inc."
+ Nielsen Marketing Cloud
+ Oath (EMEA) Limited
+ OpenX
+" PubMatic, Inc."
+" Revcontent, LLC"
+" RhythmOne, LLC"
+ Skimbit Ltd
+ Sovrn Holdings Inc
+ SpotX
+ Teads
+" The Rubicon Project, Inc."
+---------------------

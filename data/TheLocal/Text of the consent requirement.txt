@@ -1,0 +1,56 @@
+Thanks for visiting
+In order to run a successful website, we and certain third parties are setting cookies and accessing and storing information on your device for various purposes. Various third parties are also collecting data to show you personalized content and ads. Some third parties require your consent to collect data to serve you personalized content and ads.
+
+By continuing to use this site, including pressing the GOT IT, THANKS! button or closing this window, you consent to the use of collected data (including cookies) on this site and other sites that work with our third party partners. If you wish to learn more about your consent or decline, please click on the MANAGE YOUR CHOICES button below.
+ 
+Manage your choices Got it, thanks!
+ 
+ 
+Information storage and access
+Active 
+Allow storing or accessing information on a user’s device.
+Show full vendor list
+ 
+ 
+ 
+Personalisation
+Active 
+Allow processing of a user’s data to provide and inform personalised advertising (including delivery, measurement, and reporting) based on a user’s preferences or interests known or inferred from data collected across multiple sites, apps, or devices; and/or accessing or storing information on devices for that purpose. Will include following Features:
+Matching Data to Offline Sources - combining data from offline sources that were initially collected in other contexts.
+Linking Devices - allow processing of a user’s data to connect such user across multiple devices.
+Precise Geographic Location data - allow processing of a user’s precise geographic location data in support of a purpose for which that certain third party has consent.
+Show full vendor list
+ 
+ 
+Ad selection, delivery, reporting
+Active 
+Allow processing of a user’s data to deliver content or advertisements and measure the delivery of such content or advertisements, extract insights and generate reports to understand service usage; and/or accessing or storing information on devices for that purpose. Will include following Features:
+Matching Data to Offline Sources - combining data from offline sources that were initially collected in other contexts.
+Linking Devices - allow processing of a user’s data to connect such user across multiple devices.
+Precise Geographic Location data - allow processing of a user’s precise geographic location data in support of a purpose for which that certain third party has consent.
+Show full vendor list
+ 
+ 
+ 
+ 
+Content selection, delivery, reporting
+Active 
+Allow processing of a user’s data to provide and inform personalised content (including delivery, measurement, and reporting) based on a user’s preferences or interests known or inferred from data collected across multiple sites, apps, or devices; and/or accessing or storing information on devices for that purpose. Will include following Features:
+Matching Data to Offline Sources - combining data from offline sources that were initially collected in other contexts.
+Linking Devices - allow processing of a user’s data to connect such user across multiple devices.
+Precise Geographic Location data - allow processing of a user’s precise geographic location data in support of a purpose for which that certain third party has consent.
+Show full vendor list
+ 
+ 
+Measurement
+Active 
+The collection of information about user use of content, and combination with previously collected information, used to measure, understand, and report on user usage of content.
+Show full vendor list
+ 
+ 
+ 
+Google Personalisation
+Active 
+Allow Google and their technology partners to collect data and use cookies for ad personalisation and measurement. Google and their technology partners may not be registered as official vendors of the IAB framework. The following technology providers are enabled on this site:
+ 
+

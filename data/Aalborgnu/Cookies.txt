@@ -1,0 +1,68 @@
+Nødvendige (1) - Funktionelle (1) - Statistiske (12) - Marketing (24) - Uklassificerede (3)
+
+
+Nødvendige 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb
+ CookieInformationConsent, , Understøtter websitets tekniske funktioner., et år
+---------------------
+
+Funktionelle 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb
+ __cfduid, .solocpm.com, Påkrævet for at websitet kan fungere., et år
+---------------------
+
+Statistiske 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb
+ mc, .quantserve.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ _gat, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et minut
+ cX_P, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ gckp, .cxense.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ i00, .tns-gallup.dk," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", 10 år
+ d, .quantserve.com, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 3 måneder
+ _ga_aalborgnu_gid, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., en dag
+ cX_S, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., Session
+ cX_G, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., et år
+ cX_T, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., en dag
+ srp, ," Samler information om brugerne, som bruges til markedsanalyser og rapporteringsformål.", Session
+ _ga_aalborgnu, .aalborgnu.dk, Indsamler oplysninger om brugerne og deres aktivitet på websitet til analyse og rapporteringsformål., 2 år
+---------------------
+
+Marketing 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb
+ wfivefivec, .w55c.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ opt, .ctnsnet.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ everest_g_v2, .everesttech.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ uuid, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ mt_mop, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., en måned
+ test, .m6r.eu, Understøtter integrationen af ​​en tredjeparts platform på websitet., en time
+ guid, .de17a.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ uid, .simpli.fi, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ uid, .turn.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", 6 måneder
+ , , Støtter online markedsføring ved at indsamle oplysninger om brugerne til at promovere produkter gennem partnere og andre platforme., Session
+ IDE, .doubleclick.net, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ __gads, .aalborgnu.dk, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 2 år
+ id, .m6r.eu, Understøtter integrationen af ​​en tredjeparts platform på websitet., 3 måneder
+ fr, .facebook.com," Facebooks primære annonceringscookie, som bruges til at levere, måle og forbedre relevansen af annoncer.", 3 måneder
+ audience, .spotxchange.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., 14 dage
+ matchgoogle, .w55c.net," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", en måned
+ uid, .adform.net, Understøtter integrationen af ​​en tredjeparts platform på websitet for at levere målrettet annoncering., 2 måneder
+ cid_xxx, .ctnsnet.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ dsp_id, .netmng.com, Samler information om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at spore og analysere brugeradfærd og levere målrettet annoncering., 6 måneder
+ uuidc, .mathtag.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ cc, .de17a.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ b, .blismedia.com," Samler information om brugerne og deres aktivitet på websitet. Informationen bruges til at spore og analysere brugeradfærd, for at imødekomme de enkelte brugers behov og for at levere målrettet annoncering.", et år
+ __cfduid, .betterbannerscloud.com, Bruges til online marketing ved at indsamle oplysninger om brugerne og deres aktivitet på websitet. Oplysningerne bruges til at målrette annoncering til brugeren på tværs af forskellige kanaler og enheder., et år
+ _fbp, .aalborgnu.dk, Identificerer browsere med det formål at levere reklamer og website statistik., 3 måneder
+---------------------
+
+Uklassificerede 
+--------TABLE--------
+ Navn, Udbyder, Formål, Udløb
+ jubii_dfp_cx, , Afventer, Session
+ SRVID, , Afventer, Session
+ cstp, .aalborgnu.dk, Afventer, Session
+---------------------

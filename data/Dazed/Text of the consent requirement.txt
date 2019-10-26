@@ -1,0 +1,85 @@
+Cookie policy
+
+See below for Dazed's cookie policy
+24May 2018
+Text
+Cookie policy
+ 
+Please read this carefully
+This page describes our cookie policy for dazeddigital.com (the Website). If you do not accept this Cookie Policy please do not use this site.
+ 
+What are cookies?
+For almost any modern website to work properly, it needs to collect certain basic information on its users. To do this, a site will create files known as cookies – which are small text files – on its users’ computers. These cookies are designed to allow the website to recognise its users on subsequent visits, or to authorise other designated websites to recognise these users for a particular purpose.
+ 
+Cookies do a lot of different jobs which make your experience of the Internet much smoother and more interactive. For instance, they are used to remember your preferences on sites you visit often, to remember your user ID and the contents of your shopping baskets, and to help you navigate between pages more efficiently. They also help ensure that the advertisements that you see online are more relevant to you and your interests. Much, though not all, of the data that they collect is anonymous, though some of it is designed to detect browsing patterns and approximate geographical location to improve user experience.
+ 
+Some websites may also contain images called ‘web beacons’ (also known as ‘clear gifs’). Web beacons only collect limited information, including a cookie number, a timestamp, and a record of the page on which they are placed. Websites may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign (for example by counting the number of visitors).
+Information collected by cookies and web beacons is not personally identifiable.
+ 
+How do we use cookies?
+We collect a number of cookies from our users for various reasons, not least to track our own performance – but also to let us serve you content tailored to your own specifications, hopefully improving your overall experience of the site. Amongst other things, the cookies we use allow users to register to make comments, allow us to calculate how many visitors we have - anonymously, of course - and how long they stay on our site.
+ 
+We do our utmost to respect users’ privacy. We use cookies to monitor and improve our services, but they are also a tool to help us to sell advertising space, which helps keeps us free to our readers. We sometimes include links on our site to goods and services offered by third parties and we may be paid some commission if you subsequently decide to make a purchase. Cookies may be used to track your visits to third party sites to help ensure that we are paid the correct amounts. Please note that these commercial arrangements do not influence our editorial content in any way, and no personal information is attached to the data we receive.
+We believe that your experience of the site would be adversely affected if you opted out of the cookies we use.
+ 
+What types of cookie are there and which ones do we use?
+There are two types of cookie which we use on our website:
+Persistent cookies remain on a user’s device for a set period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
+Session cookies are temporary. They allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Once you close the browser, all session cookies are deleted.
+ 
+Generally speaking there are four different functions which cookies have;
+‘Strictly necessary’ cookies
+‘Performance’ cookies
+‘Functionality’ cookies
+‘Targeting’ or ‘Advertising’ cookies.
+ 
+Performance cookies collect anonymous data on how visitors use our website, they don’t contain any personally identifiable information, and help us to improve your user experience on our website.  
+Some examples of how we use performance cookies include the following:
+Collecting data about visits to our Website, including how many visitors and individual visits, how long users spend on the site, how many pages users clicked on or where users have come from;
+Information supplied by performance cookies helps us to understand how you use the Website; for example, whether or not you have visited before, what you looked at or clicked on and how you found us. We can then use this data to help improve our services.  We generally use independent analytics companies to perform these services for us and when this is the case, these cookies may be set by a third party company (third party cookies).
+ 
+Functionality cookies allow users to customise how a website looks for them: they can remember usernames as well as certain preferences such as language and regions.
+Some examples of how we may use functionality cookies include:
+Restricting the number of times you're shown a particular advertisement (which is sometimes called ‘frequency capping').
+Remembering if you've been to the site before so that messages intended for first-time users are not displayed to you.
+ 
+Advertising and targeting cookies are used to deliver advertisements which are more relevant to you, but can also limit the amount of times you see the same advertisement. They also allow for assessment of performance by tracking users’ clicks.
+They are usually placed by third-party advertising networks with a website operator’s permission, but they can also be placed by the operator themselves. They can remember certain information like whether you have visited a website previously, and this information can be shared with other organisations, including other advertisers. We cannot determine who you are though, as the data collected is anonymous.
+ 
+The two most common ways we use advertising and targeting cookies are:
+Interest-based advertising, sometimes known as online behavioural advertising, is where cookies are placed on your device by our third party service providers. They can remember information such as your web browsing activity and can target you with advertisements based on your interests.  Your previous web browsing activity can also be used to deduce certain information about you, such as your demographics (including age, gender and location) which may also be used to make the advertising on other websites more relevant to you.
+‘Retargeting’ is a type of interest-based advertising which allows our advertising partners to show users advertisements based on their online activity on our website.  This allows companies to advertise to users who previously visited our website. These cookies are normally placed on your device by third-party advertising networks, we have listed the main third party networks we work with below.
+ 
+Without this type of cookie, online advertisements you see would be less relevant to you and your interests. For more information about this type of online advertising, including how to opt out, please visit
+ 
+How do I control my cookies?
+Users should be aware that any preferences will be lost if you remove cookies and many websites will not work as well, and you could lose some functionality. We do not recommend turning cookies off when using our Website for this reason.
+ 
+Most browsers commonly accept cookies automatically, however you can change the settings of your specific web browser to remove cookies or prevent automatic acceptance if desired. You are normally able to see which cookies are installed and remove them individually, as well as blocking third party cookies or those from particular websites. You can also accept all cookies, be notified when a specific cookie is issued, or automatically block all cookies. To find out more check the following links for more browser-specific information.
+
+
+
+Cookie settings in Safari
+ 
+Managing performance cookies
+You are able to opt out of having your anonymous browsing activity within websites recorded by performance cookies.
+ 
+dazeddigital.com uses the following companies, you can choose to opt out of their cookies by clicking on the relevant links. This will take you to the relevant third party's website and generate a ‘no thanks' cookie, which will stop any further cookies being set by those third parties.
+ 
+By not allowing performance cookies, this stops us from being able to assess performance of the website, and learn what does and doesn’t work for users on our Website helping us to make a better user experience.
+
+
+ 
+Managing advertising cookies
+If you would like to opt out of receiving targeted advertising, this does not necessarily mean that you will receive less advertising when you use our Website. It does however mean that the adverts you see will not be as customised to your interests.
+ 
+Users who want to switch off third-party advertising cookies, can do this by visiting the Internet Advertising Bureau’s consumer advice site, Youronlinechoices.com  There you will find a list of all cookies that are set on your device and how to individually opt out of them. This list will contain more networks than just found on dazeddigital.com Ensure that all third party advertising networks and advertisers who set cookies on our Website are signed up to this website.
+ 
+You can find links below to some of the specific partners we work with who set cookies on our websites, and on your computer, you will find instructions on how to opt out of their cookies.
+
+For more information on cookies,
+ 
+User agreement
+By continuing to use our site, you agree to the placement of cookies on your device. If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be.
+ 
+

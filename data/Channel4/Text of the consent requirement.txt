@@ -1,0 +1,106 @@
+Channel 4 Cookie Policy
+This policy applies on and from 25 May 2018.
+Whenever you use our Channel 4 websites, the 4sales.com site, any related programme microsites, mobile sites, mobile applications or applications on any other devices such as your games console or Smart TV (our “Services”), information may be collected through the use of cookies and similar technologies.
+By using our Services, you agree to our use of cookies and other similar technologies as described in this Cookie Policy.
+ 
+What are 'cookies'?
+Cookies are small text files which are downloaded to your computer or mobile device when you visit a website or application. Your web browser (such as Internet Explorer, Mozilla Firefox or Google Chrome) then sends these cookies back to the website or application on each subsequent visit so that they can recognise you and remember things like personalised details or user preferences.
+Cookies are very useful and do lots of different jobs which help to make your experience on websites as smooth as possible. For example, they let you move between web pages efficiently, remembering your preferences, and generally improving your experience (see below for more examples). They can also help to ensure that adverts you see online are more relevant to you and your interests.
+They are referred to as session or persistent cookies, depending on how long they are used:
+Session cookies only last for your online session and disappear from your computer or device when you close your browser. 
+Persistent cookies stay on your computer or device after the browser has been closed and last for the period of time specified in the cookie. These persistent cookies are activated each time you visit the site where the cookie was generated.
+ 
+What do we mean by 'similar technologies'?
+We also use something called "local storage", which is a technology that is similar to cookies and performs very similar functions, such as caching data to enable us to improve our websites/apps, allowing you to register as an All 4 user, tracking activity to enable us and our advertisers to advertise to you in accordance with this policy and counting the number of people who view programmes/adverts on our platforms. Like cookies, local storage will either be for a session or persistent.
+Local storage is often used as an alternative to cookies on devices which you use to access and use our Services. The devices that we use local storage on are:
+Amazon Fire devices, Android devices, Apple iOS devices, Chromecast, Freeview Play, Now TV, Playstation 3, Playstation 4, Roku, Samsung, Windows 8 & 10, Xbox 360, Xbox One, Yourview.
+Where we refer to “cookies” in this policy, we mean cookies or similar technologies.
+ 
+Which cookies does Channel 4 use, and why?
+When you use one of our Services such as All 4, either on a web browser or a device, the following 4 categories of cookies may be set:
+ 
+1. ‘Strictly necessary' cookies
+These cookies are essential in helping you to move around our website and app and to use their features, such as accessing secure areas of the website. Without these cookies, services you have asked for, such as setting up PIN protection on All 4, cannot be provided. These cookies do not gather information about you that could be used for marketing or remembering where you've been on the internet.
+Some examples of these essential cookies include:
+Identifying you as being signed in to All 4 or other services and keeping you logged in throughout your visit so that you don't need to sign in each and every time you visit.
+Remembering security settings, such as parental PIN control, which restrict access to certain content.
+Remembering settings across different devices (e.g. synching preferences you set on All 4 with your Xbox 360, if you use All 4 on your Xbox 360). 
+Establishing links between your account and your device, for example if you link your All 4 registered account to an Apple device, a file containing information establishing this link will be stored. 
+Tracking what content has been viewed so that we can count the number of views and pay the owners of the rights in that content accordingly. 
+ 
+2. Functional cookies
+These cookies allow websites and applications to remember choices you make and provide enhanced, more personal features. They can also help us to display our advertisements and control how often an advertisement is shown to you, how long it is shown for and how often it will appear (these are commonly known as "ad-serving" or "ad delivery" cookies). Whilst these cookies don't collect things like your name or email address, they do collect a unique user identifier code. This enables us to identify your device so that we can improve your experience and make sure your settings are remembered correctly.
+Some examples of how we do this include:
+Remembering your preferences and settings such as our “my list” setting, or your preferred volume setting.
+Remembering your place in a video if you leave any of the viewing services before you've finished watching a programme, so that you can pick up where you left off the next time. 
+Remembering if we've already asked you if you want to fill in a survey or if you've completed a survey, so you're not asked to do it again.
+Remembering if you've been to the site before so that messages intended for first-time users are not displayed to you. 
+Restricting the number of times you're shown a particular advertisement. This is sometimes called ‘frequency capping'. 
+Working out when to show you advertisements on any of the viewing services so that you don't get shown too many.
+Making sure you get shown advertisements that are part of a sequence in the correct order.
+ 
+3. Analytics cookies
+In order to keep our Services relevant, easy to use and up-to-date, we use web analytics services to help us understand how people use them. For example, we can see which parts of All 4 are most popular, identify which programmes have been watched online, identify when errors occur, and test different versions of a page or feature to see which one works best. Web analytics services use cookies to recognise your browser or device and, for example, identify whether you have visited All 4 before and what you have previously viewed or clicked on. This allows us to track information, such as how many individual users we have and how often they visit All 4. It also helps us to analyse patterns of user activity and to develop a better user experience. For example, we might see that many people who viewed Programme A also viewed Programme B and we can then recommend Programme B to everyone else who viewed Programme A.
+Again, these cookies do not identify you directly as they do not collect information such as your name or email address. However, the information collected by these cookies will be linked to a unique user identifier code. This is a random sequence of numbers and letters which we can use to link information collected by the cookies back to you without the cookies collecting your name or email address. This allows us to use the information collected by the cookies to understand more about your viewing habits and your interests so that we can make our advertising and marketing more relevant to you.
+For example, one of these cookies might tell us that you have previously watched a programme about food and this may be used to decide to show you advertisements for other programmes about food, or a later series of the same programme. You can find out more about our advertising and marketing in our Privacy Policy.
+The Broadcasters Audience Research Board (BARB), which is an independent body which provides the TV industry with viewing data, has worked with broadcasters including Channel 4 to add a bit of code to All 4. This code counts all of the All 4 programmes and adverts that people watch via their internet connection, across TVs, laptops, PCs, tablets and mobile phones. The code does not collect any data which enables individual viewers to be identified. This anonymous All 4 viewing data is passed from Channel 4 to a research agency called Kantar (acting on behalf of BARB) and includes what programme or advert has been watched, at what time, for how long and on what type of device. These figures do not contain any information on who is watching or any other personally identifiable information, and do not relate to any other activities apart from All 4 viewing. It is solely used by BARB to calculate the total amount of people who watched a programme or advert. You can opt out of this collection of non-personal data for programme and advertisement measurement purposes by requesting that the Kantar cookie (the small bit of code) is not captured.
+ 
+4. Third party cookies
+All the cookies described so far in this policy are "first party cookies", which means they are set and controlled by Channel 4. Occasionally, third parties may set cookies on our Services which Channel 4 does not control. These are called "third party cookies". This may happen in the following circumstances:
+Advertisement impressions: We work with advertisers to help them make sure that their advertisements are served to people who will find them relevant and interesting. For example, if an advertiser wants to advertise a car, we use information we hold about you and your viewing habits (including the information collected by analytics cookies as detailed above) to decide if you are likely to be interested in an advertisement for a car and, if so, to serve that advertisement for you. More information about this is set out in our Privacy Policy. We do not allow our advertisers to set their own cookies for the purposes of tracking you or advertising to you directly. However, our advertisers will set a cookie which counts the number of times their advertisements have been viewed, to make sure that their advertisements are reaching enough people. This is so they can verify that the view count that we give them is correct.
+Embedded content: On some pages of our websites (for example sites that are specific to one of our programmes, like f1.channel4.com) we may include embedded content, for example from YouTube. When you visit a page with embedded content, the service provider (for example, YouTube) may set its own cookies on your web browser to track the success of their application or to customise their application to you.
+Channel 4 does not control the use of these cookies and cannot access them, as cookies can only be accessed by the party who originally set them. You should check the third party websites for more information about these cookies.
+ 
+How to control your cookies
+There are various ways that you can control and manage your cookies which are discussed in a bit more detail below. Please remember that any settings you change will not just affect Channel 4 cookies. These changes will apply to all websites that you visit (unless you choose to block cookies from particular sites). The settings you change will also only apply to the device on which you change them and will not apply across all your devices. If you want to opt out of cookies on all your devices, you will need to change the settings on all your devices individually.
+ 
+Managing cookies in your browser
+Most modern browsers will allow you to:
+See what cookies you've got and delete them on an individual basis.
+Block third party cookies.
+Block all cookies from being set.
+Delete all cookies when you close your browser.
+You should be aware that any preferences will be lost if you delete all cookies. Ironically, this includes where you have opted out from cookies, as this requires an opt-out cookie to be set. This means that if you opt out from cookies and then delete all cookies, your opt out will not be saved and you will need to opt out again (which will store a strictly necessary cookie so that your device can remember that you have opted out). 
+If you block cookies completely, many websites will not work properly and some functionality on these websites will not work at all. We do not recommend turning cookies off when using our Services for these reasons.
+The links below take you to the ‘Help' sections for each of the major browsers so that you can find out more about how to manage your cookies.
+Google Chrome: http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647 (opens in a new window)
+Firefox:  
+Safari:https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+Safari iOS:  
+Android: http://support.google.com/chrome/answer/2392971?hl=en-GB (opens in a new window)
+Internet Explorer:https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookie
+We have set out links below to some of our specific functional cookies with information about what they can do and how you can opt out of them being set:
+ 
+Freewheel 
+We use Freewheel cookies to help us with some of the advertisement delivery functionalities described in the "Functional Cookies" section above, for example frequency capping and displaying our advertisements.
+http://www.freewheel.tv/privacy/ (opens in a new window)
+Please note that whilst this will opt you out of the Freewheel cookies, we still use Freewheel to serve you personalised advertisements on All 4 in accordance with our Privacy Policy. To opt out of these personalised advertisements, you will need to change your advertising preferences in your Account Settings.) 
+ 
+Innovid
+Innovid cookies help us to make our advertisements interactive and also make sure that advertisements that are part of a sequence are shown in the correct order. We also use Innovid to count the number of views an advertisement has had. 
+http://www.innovid.com/privacy/ (opens in a new window)
+You can find out more about ad-serving cookies that are set on your device, and opt out of them, by visiting http://optout.aboutads.info.
+ 
+Managing analytics cookies
+It is possible to opt out of having your browsing activity recorded by analytics cookies. Channel 4 uses the following analytics providers and you can opt out of their cookies by clicking on the following links. Please note that this will take you to the relevant third party's website and generate a ‘no thanks' cookie, which will stop any further cookies being set by those third parties.
+Don't forget that by not allowing analytics cookies, this stops us from being able to learn what people like or don't like about All 4 and our other Services, so that we can make them better.
+Adobe: http://webstat.channel4.com/optout.html
+Google Analytics: http://tools.google.com/dlpage/gaoptout (opens in a new window)
+Optimizely: https://www.optimizely.com/legal/opt-out/ (opens in a new window)
+Kantar Media:  Follow this link to opt out of having your anonymised activity collected for the purposes of measuring viewing data (see Analytics Cookies section above for more details). The link currently works only for desktop. 
+ 
+Managing cookies and similar technologies on devices
+Please note that the local storage used on devices is essential to the operation of our Services on those devices and you cannot opt out of local storage being used on those devices.
+ 
+Managing third party cookies
+As detailed under the section headed "Third party cookies" above, we do not allow our advertising partners to set cookies through All 4 which enable them to track your activity themselves or to advertise to you directly. However, as noted above in the Third Party Cookies section, our advertisers do use impression tracking cookies to count the number of views each of their advertisements have had. We have set out links below to some of the impression tracking cookies that are used with instructions on how to opt out of their cookies. 
+Videology:  
+Doubleclick: https://policies.google.com/technologies/ads (opens in a new window)
+Flashtalking: http://www.flashtalking.com/privacypolicy/ (opens in a new window)
+Sizmek: https://www.sizmek.com/privacy-policy/optedout/#options (opens in a new window)
+ 
+More information
+If you would like more information about our use of cookies, please contact us using the Contact Form on our website, which can be found here: www.channel4.com/contact
+Last Updated 25 May 2018
+ 
+

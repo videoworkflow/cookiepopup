@@ -1,0 +1,36 @@
+Essential (?) - Performance (2) - Functionality (?) - Advertising (18) 
+
+
+
+Essential
+
+Performance
+
+--------TABLE--------
+ Comscore, Performance cookie
+ Google Analytics, Performance cookie
+---------------------
+
+Functionality 
+
+Advertising
+--------TABLE--------
+ AppNexus, Advertising cookie
+ Facebook pixel, Advertising cookie
+ Google Adwords, Advertising cookie
+ Google Adx, Advertising cookie
+ Google DoubleClick, Advertising cookie
+ Improve Digital, Advertising cookie
+ Index Exchange, Advertising cookie
+ Salesforce DMP (formerly Krux), Advertising cookie
+ Lotame, Advertising cookie
+ Microsoft Bing, Advertising cookie
+ Nielsen, Advertising cookie
+ OpenX, Advertising cookie
+ Outbrain, Advertising cookie
+ Ozone, Advertising cookie
+ Sonobi, Advertising cookie
+ Twitter, Advertising cookie
+ Skimlinks Optimisation, Advertising cookie
+ Unruly, Advertising cookie
+---------------------

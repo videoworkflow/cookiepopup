@@ -1,0 +1,73 @@
+Technical cookies (10) - Digital Identity Management cookies (2) 
+
+
+Cookies placed by third parties 
+Cookies related to the collection of audience statistics (20) - Cookies related to social networks (92) - Advertising cookies and user knowledge (60)  
+
+
+
+Technical cookies
+
+--------TABLE--------
+ Placer, Name of the cookie
+ France Médias Monde - Incapsula, incap_ses_* visid_incap_*
+ France Médias Monde - Ensighten, _gid _ga _gat
+ France Médias Monde - Pingdom, _cfduid
+ France Médias Monde - Akamai mPulse, RT
+ France Médias Monde, cookies_consent
+ Netino, lan computer_id
+---------------------
+
+Digital Identity Management cookies
+--------TABLE--------
+ Placer, Name of the cookie
+ France Médias Monde, TS* SSESS
+---------------------
+Cookies related to the collection of audience statistics
+--------TABLE--------
+ Placer, Name of the cookie
+ AT Internet, atuserid idrxvr atsession atreman xtan* xtvrn
+ Parsely, _parsely_session _parsely_visitor parsely_network_uuid
+ Cxense, _hstc _zlcmid _ga _plantrack _vwo_uuid_v2 cX_G cX_P gckp hubspotutk locale visitor_type
+---------------------
+Cookies related to social networks
+
+--------TABLE--------
+ Placer, Name of the cookie
+ Facebook, act c_user fr m_pixel_ratio pl wd xs
+ Twitter, _gid _ga _ncuid _twitter_sess _utma _utmc _utmz ct0 daa eu_cn external_referer kdt lang mbox tfw_exp
+ Google / Youtube, GPS NID PREF VISITOR_INFO1_LIVE YSC SAPISID CONSENT HSID SSID APISID SID LOGIN_INFO
+ Dailymotion, v1st dmvk ts damd client_token clsu
+ Vimeo, vuid
+ Vkontakte, remixlang remixlhk remixsid
+ , p
+ Instagram, crsftoken rur urlgen
+ LinkedIn, IN_HASH lidc
+ Reddit, edgebucket initref session_tracker
+ Pinterest, _pinterest_cm
+ Deezer, IDE NID _utma _utmb _utmc _utmt _utmz deezer_test_cookie dzr_uniq_id sid
+ Soundcloud, UID sc_anonymous_id
+ Disqus, G_ENABLED_IDPS NID _utma _utmb _utmc _utmz disqus_unique __jid
+ Balatarin, OX_plg _balat_session_new geo _gid _ga _gat NID ad-id ad-privacy coop_session
+ AddThis, _ga _gid Bku Loc Mus Na_id Na_tc ups
+---------------------
+
+
+
+Advertising cookies and user knowledge
+
+--------TABLE--------
+ Teads, CMDD CMID CMPRO CMPS CMRUM3 CMSC CMST CMSUM GLOBALID adtheorent[cuid] bt-es-* tt_bluekai tt_emetriq tt_exelate tt_in_i_* tt_viewer yocToken
+ Kiwe, ticvn-* ti_rfc ti_lt ti_utk ti_stk
+ Facebook Pixel, fr
+ Captify, cpSess
+ Digiteka, e UID prerollindex STICKY PHPSESSID GED_PLAYLIST_ACTIVITY NID AFFICHE_W
+ Outbrain, obuid ttd cdws apnxs rcktfl _*cap_*
+ Taboola, trc_cookie_storage
+ CrowdyNews, OX_plg TS* __cfduid azk
+ Quantcast, __qca mc d
+ Zoontera, ZTCRSVID _IL rstg x1daid x1guid x1ha x1site
+---------------------
+
+
+

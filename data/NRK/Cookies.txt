@@ -1,0 +1,57 @@
+Cookies (36)
+--------TABLE--------
+ Informasjonskapsel, Beskrivelse, Leverandør
+ _lp4_u, , LinkPulse
+ _gid, , Google Analytics
+ _chartbeat4, , Chartbeat
+ _cb_svref, , Chartbeat
+ _cb_ls, , Chartbeat
+ _cb, , Chartbeat
+ _nrkbucket1, Benyttes for å segmentere brukere i grupper som brukes ved A/B-testing., 
+ _nrkhorisonttest1done, Brukes for å segmentere brukere som har vært innom en gitt test., 
+ nrkno-sub, Brukes for å gjenkjenne innlogget bruker for sporing, 
+ nrkno-token, Lagrer informasjon om innlogget bruker, 
+---------------------
+
+
+--------TABLE--------
+ Informasjonskapsel, Beskrivelse
+ BIGipServerPolopoly_pool, Lastbalanserer.
+ BIGipServerpanorama_varnish_pool, Lastbalanserer.
+ BIGipServerwin_klippapi, Lastbalanserer.
+---------------------
+
+--------TABLE--------
+ AkamaiAnalyticsDO_bitRateBucketsCsv
+ AkamaiAnalyticsDO_visitMetricsCsv
+ AkamaiAnalyticsDO_visitStartTime
+ AkamaiAnalytics_BrowserSessionId
+ AkamaiAnalytics_VisitCookie
+ AkamaiAnalytics_VisitIsPlaying
+ AkamaiAnalytics_VisitLastCloseTime
+ AkamaiAnalytics_VisitUnqueTitles
+---------------------
+
+
+--------TABLE--------
+ __unam, Skiller brukere og brukersesjoner (NRK Super).
+ __utma, Skiller brukere og brukersesjoner. Interoperabilitet med urchin.js.
+ __utmb, Bestemmer ny brukersesjon/besøk. Interoperabilitet med urchin.js.
+ __utmc, Interoperabilitet med urchin.js sammen med __utmb.
+ __utmt, Benyttes til å vurdere forespørselrate (NRK Super).
+ __utmz, Lagrer trafikkilden eller kampanjen som forklarer hvordan brukeren nådde siden.
+ __utmv, Benyttes for å lagre data på besøks-nivå. Lages når tjenesten benytter _setCustomVar-metoden.
+ __ga, Benyttes til å skille mellom brukere (NRK Super).
+ __gat, Benyttes til å vurdere forespørselrate (NRK Super).
+---------------------
+
+
+--------TABLE--------
+ i00
+ srp
+ dx_msr
+ UID
+ UIDR
+---------------------
+
+_chartbeat2

@@ -1,0 +1,20 @@
+Cookies (16)
+
+--------TABLE--------
+ _cX_segmentinfo
+ cX_G
+ cX_P
+ cX_S
+ _gat
+ _ga
+ _gd (följt av en nummerserie)
+ _gid
+ bm_daily_unique
+ bm_last_load_status
+ bm_monthly_unique
+ bm_sample_frequency
+ _couid
+ cookie_accept_long
+ cookie_accept
+ T_ID
+---------------------

@@ -1,0 +1,167 @@
+Privacy and Cookies Policy
+ANADOLU AGENCY TURKISH ANONYMOUS COMPANY
+WEBSITE PRIVACY AND COOKIE POLICY
+ 
+PURPOSE and SCOPE
+ 
+1.1.  Anadolu Agency Turkish Anonymous Company Website Privacy and Cookie Policy (“Privacy and Cookie Policy”) is prepared to inform you in the framework of the Law No. 6698 on Protection of Personal Data (PPD Law) and relevant legislation about processing, security, privacy of Personal Data that are obtained from contractual or somehow related Subscribers and Visitors or third parties through www.aa.com.tr, (…) websites owned and managed by Anadolu Agency Turkish Anonymous Company (“Anadolu Agency”), and your rights in this regard.
+ 
+ 
+1.2. Anadolu Agency care about the privacy of Subscribers and Visitors, and takes all necessary measures in accordance with Article 12 of the PPD Law and other relevant legislation to provide privacy and security of the data under its responsibility. 
+ 
+1.3. Anadolu Agency can update or amend this Policy provisions at any time by publishing on websites stated above. Updates and amendments made by Anadolu Agency will be effective from the date of publication on the website.
+ 
+1.4. Please view “ANADOLU AGENCY TURKISH ANONYMOUS COMPANY ENLIGHTENMENT TEXT” for detailed information and enlightenment about procedures and principles of Personal Data processing that is subject to this Policy.
+ 
+1.5. In this Privacy and Cookie Policy, all Subscribers and Users will be referred to hereafter as Visitors separately or together.
+ 
+DEFINITIONS and ABBREVIATIONS
+Following are definitions and abbreviations used in this Privacy Policy;
+Subscriber                  : Any natural and legal person who benefit from Anadolu Agency’s services privately through subscription system,
+ 
+Anadolu Agency     	:  Anadolu Agency Turkish Anonymous Company resident at Eti Mah. GMK Bulvarı No:132 Çankaya/Ankara Turkey address,
+ 
+Subscription System   : Online system which Anadolu Agency brings its services into Subscribers’ use,
+ 
+Cookie                        : Small text files which visited websites store in your device or network server via browsers,
+ 
+Privacy and Cookie Policy: This Anadolu Agency Turkish Anonymous Company Privacy and Cookie Policy,
+ 
+Website                       : and (...) websites owned and managed by Anadolu Agency,
+ 
+Personal Data         	: Any information relating to an identified or identifiable natural person,
+ 
+Processing of the Personal Data: Any processing performed on data such as obtaining, saving, storing, conserving, changing, re-arranging, explaining, transferring, acquiring, making them obtainable, classifying or preventing its usage by means of fully or partially automatic methods or non-automatic methods on condition of being a part of any data saving system,
+ 
+Personal Data Owner : Natural person whose personal data is processed,
+ 
+User                            : Visitors and Subscribers who use websites by forming user name and password to access Anadolu Agency’s websites,
+ 
+PPD Law                    : The Law No. 6698 on Protection of Personal Data, which entered into force when it was published in the Official Gazette on 7 April 2016,
+ 
+Data Processor       	: Any natural or legal person who processes Personal Data based on the authority granted by and on behalf of the data controller,
+ 
+Data Controller      	: Any natural or legal person who determines the purposes and means of the processing of Personal Data, and who is responsible for the establishment and management of the data saving system,
+ 
+Visitor                        : Persons who use Anadolu Agency’s websites, (…) online for any kind of aim.
+ 
+ 
+PROCESSED PERSONAL DATA and PURPOSES of PROCESSING
+ 
+3.1. Regarding Visitors
+ 
+3.1.1.  	Anadolu Agency processes Personal Data such as credit card information, identity information, including but not limited to name-surname, phone, e-mail addresses that are given by Visitors as a requirement of the relation, and that can identify the Visitors.
+ 
+3.1.2.  	Anadolu Agency will process Personal Data stated above for the purpose of fulfilling the requirements of its contract with Visitors, to fulfill legal obligations, to send publications and newsletters or to notify Subscribers and Users, to give information about the new services, to do direct marketing by Subscriber System or by the persons that it is directly in cooperation, to contact the user when needed, to make various statistical evaluations without releasing the User’s identity, to form data base and to make market research.
+ 
+3.1.3.  	Anadolu Agency will share its publications, Personal Data that are inside these publications with the relevant authorities in cases where the publications have evidential value and a request in accordance with the procedure is done by the court and other administrative and official authorities.
+ 
+3.1.4.  	Anadolu Agency identifies and uses the IP address of Visitors in order to identify problems related to the Subscription System and resolve any problems immediately that may arise on the websites of the platforms within the Subscription System. IP addresses can also be used to identify Visitors in a general way and to collect comprehensive demographic information.
+ 
+3.2. Regarding Cookies
+ 
+3.2.1.  	Anadolu Agency can obtain information about Visitors by using Cookie. Thanks to Cookies Anadolu Agency keeps track of how Visitors spend their time on the Internet and gets statistical results of how they spend their time on websites. These cookies may contain information that can be used to identify a person who enters the website, such as the user's name, e-mail address, profile photo, age, gender, IP code and it is possible to form a data base by using these Personal Data. By using the website, Visitors show consent to the processing of the information.
+ 
+3.2.2.  	These Cookies help to obtain statistical results such as the number of people who use websites of Anadolu Agency, a person visits these websites for what purpose, how many times and how long he/she stayed there, and to produce dynamic ads and content from user pages specially designed for the Visitors. The technical communication file is not designed to receive data or any other personal information from the main memory or e-mail. Most of the browsers are designed to accept the technical communication file in the first place, but Visitors can change the settings so that the technical communication file will not be installed or a notification will be sent when the technical communication file is installed.
+ 
+3.2.3.  	Cookies used by Anadolu Agency are as follows:
+--------TABLE--------
+ Technical Cookies," Technical cookies let website to work, detect pages and areas that are not working on the website."
+ Authentication Cookies," If Visitors enter the website using their passwords, such cookies will prevent the user from re-entering the password on every page by determining that the Visitor is the site user on each page visited on the website."
+ Flash Cookies, This type of cookies are used to activate visual or audio content on the website.
+ Customization Cookies," These cookies are used to remember Users' preferences on different pages of different websites. For example, remembering your language preference."
+ Analytical Cookies," Analytical cookies enable the production of analytical results such as the number of visitors to the website, the pages that are displayed on the website, the visit times of the website, and the movements such as sliding pages of the website."
+ Third Party Cookies," Platform cookies and third party cookies are used depending on the party that place the cookie. While platform cookies are created by Anadolu Agency, third party cookies are managed by different firms that are in cooperation with Anadolu Agency."
+--------------------- 
+GENERAL PRINCIPLES ON PROCESSING OF PERSONAL DATA, TERMS OF PROCESSING PERSONAL DATA
+4.1. Your Personal Data are processed in accordance with the general principles set forth in Article 4 of the PPD Law:
+ 
+· Being in conformity with the law and good faith,
+· Being accurate and, if necessary, up to date,
+· Being processed for specified, explicit, and legitimate purposes,
+· Being relevant, limited and proportionate to the purposes for which data are processed,
+· Being stored only for the time designated by relevant legislation or necessitated by the purpose for which data are collected.
+ 
+4.2. Personal Data cannot be processed without explicit consent of the Personal Data Owner according to Article 5 of the PPD Law. But according to the same article provision, it is possible to process Personal Data without explicit consent of the Data Owner in case of existence of one of the below conditions:
+ 
+· If it is expressly permitted by any law,
+· If it is necessary in order to protect the life or physical integrity of the data subject or another person where the data subject is physically or legally incapable of giving consent,
+· If it is necessary to process the Personal Data of parties of a contract, provided that the processing is directly related to the execution or performance of the contract,
+· If it is necessary for compliance with a legal obligation which the Data Controller is subject to,
+· If the relevant information is revealed to the public by the data subject herself/himself,
+· If it is necessary for the institution, usage, or protection of a right,
+· If it is necessary for the legitimate interests of the Data Controller, provided that the fundamental rights and freedoms of the Personal Data Owner are not harmed.
+ 
+METHODS of PERSONAL DATA COLLECTION and its LEGAL REASONS
+ 
+5.1. Your Personal Data can be collected, processed and transferred by Anadolu Agency with purposes specified in this Enlightenment Text through following means;
+· Subscription forms,
+· Websites contact forms,
+· Websites visits,
+· E-newsletter registration forms,
+· Membership forms,
+· Signed contracts,
+and based on different legal reasons in accordance with the basic principles provided by the PPD Law, within the scope of Personal Data processing conditions set forth in Articles 5 and 6 of the PPD Law.
+5.2. Personal Data subject to this Privacy and Cookie Policy are generally processed based on legal reasons such as being directly related to conclusion of a contract or its execution, being necessary for compliance with a legal obligation which the Data Controller is subject to, being necessary for establishment, usage or protection of a right, being necessary for the legitimate interests of the Data Controller and may change according to the type of data and the purpose of processing this data.
+ 
+TRANSFERRING PERSONAL DATA
+ 
+6.1. Anadolu Agency can share Personal Data subject to this Privacy and Cookie Policy and new data that it will obtain by using these Personal Data, firstly to perform the requirements of the relation/contract with the Personal Data Owner, to enhance user experience (including improving and personalizing), to provide safety of Personal Data Owner, to detect and prevent fraud, to improve the services offered, to make operational evaluation research, to correct the errors, to verify the User identities, to improve system performance for being able to realize any of the purposes listed above in the processing purposes section and in the cases set forth in this Policy’s Article 4.2; with third natural and/or legal persons including foreign resource service providers, courier companies, law offices, research companies, call centers, software companies on complaint management and safety providing, agencies, consulting firms, companies in printing sector, banks, social media channels and with institutions, organizations, authorities, executive and judicial bodies that are authorized in the scope of legal obligations.
+ 
+6.2. Anadolu Agency may transfer the Personal Data to third parties in the country as well as abroad within the categories and purposes stated above and as limited and proportionate with these purposes.
+ 
+RETENTION PERIOD OF PERSONAL DATA
+ 
+7.1. In case the reasons to process are eliminated despite having been processed in line with the provisions of the the PDD Law and other relevant laws, Personal Data are deleted, destructed or anonymized by Anadolu Agency.
+ 
+7.2. Anadolu Agency can retain Personal Data in accordance with the the PPD Law for the duration of the statute of limitations determined by the relevant legislation to be used in case of occurrence of any possible conflict. In this case, the Personal Data retained are not accessed for any other purpose but accessed when it is necessary to use it in the relevant legal dispute.
+ 
+7.3. Retention periods of Personal Data subject to this Privacy and Cookie Policy by Anadolu Agency are as follows:
+ 
+7.3.1.  	Regarding Subscribers and Users:
+ 
+--------TABLE--------
+   NATURE OF DATA,   RETENTION PERIODS THAT START FROM THE END OF RELATION,   PERIODICAL DESTRUCTION PERIODS
+   Personal Date processed in relations based on contract,   10 years,   Within 6 months after the completion of 10 years separately for each data
+   Tax-related records,   5 years,   Within 6 months after the completion of 5 years separately for each data
+   Personal Data of Visitors,   6 months,   Within 6 months after the completion of 6 months separately for each data
+--------------------- 
+ 
+7.3.2.  	Regarding cookies:
+--------TABLE--------
+ Technical Cookies,  
+ Authentication Cookies,  
+ Flash Cookies,  
+ Customization Cookies,  
+ Analytical Cookies,  
+ Third Party Cookies,  
+--------------------- 
+ 
+RIGHTS OF PERSONAL DATA OWNER
+ 
+8.1. Personal Data Owners in the scope of the PPD Law and relevant legislation have right;
+· To learn whether the Personal Data has been processed,
+· To request information about Personal Data if it has been processed,
+· To learn the purpose of processing Personal Data and whether they are used appropriately for their purpose,
+· To know the third parties to whom Personal Data are transferred domestically or abroad,
+· To request the correction of Personal Data in case of incomplete or incorrect processing and to request third persons to whom Personal Data is transferred to be notified about the processing made within this scope,
+· To request the deletion or destruction of Personal Data in case the reasons to process this data are eliminated despite having been processed in line with the provisions of the Law No. 6698 and other relevant laws and to request third persons to whom Personal Data is transferred to be notified about the processing made within this scope,
+· To object to the emergence of an adverse outcome through the analysis of processed data exclusively through automatic systems,
+· To demand the recovery of the losses in the event of sustaining a loss due to the unlawful processing of Personal Data,
+ 
+ 
+8.2.  As the Personal Data owner, you can deliver your application including your requests in a clear and comprehensible way and by attaching documents that determine your identity and address information; by hand in writing and original signed, by mail or through a notary public to “Eti Mah. GMK Bulvarı No: 132 Çankaya/Ankara” address of Anadolu Agency, which is the Data Controller, or you can e-mail it to (…).
+ 
+8.3. As well as having right to verify your identity before Anadolu Agency responds, existence of;
+· Your name, surname and signature if the application is in writing,
+· T.R. identity number for the citizens of the Republic of Turkey, passport number or identity number, if you have one, for the foreign nationalities,
+· Notice address of place of residence or business,
+· Notice electronic mail address, phone and fax number,
+· The subject of your request,
+is compulsory, and information and documents related to the topic, if any, should to be attached to the application.
+ 
+8.4. Accuracy and completion of Personal Data that are processed by Anadolu Agency is the responsibility of Personal Data Owner. In the event of giving false, misleading or incomplete information, Anadolu Agency will have no liability; if Anadolu Agency suffers any damages due to false, misleading or incomplete information, Personal Data Owner who causes it is liable to compensate the damages. Anadolu Agency will always keep Personal Data accurate and up-to-date with the support of the Personal Data Owner. In cases where these Personal Data have to be deleted, changed or updated, Personal Data Owner must contact Anadolu Agency via ".." e-mail address.
+ 
+8.5. In case you deliver your requests to Anadolu Agency in the way stated above, Anadolu Agency will conclude the request free-of-charge within the shortest period of time depending on the nature of the request and in thirty days at the latest. The response will not be charged up to ten pages. For each page above ten pages, a transaction fee of 1 Turkish Lira will be charged. If the response is given in a recording medium such as CD, flash memory, the fee that will be asked by Anadolu Agency will not exceed the cost of the recording medium.
+ 
+

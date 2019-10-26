@@ -1,0 +1,70 @@
+IMPORTANT NOTICE ABOUT COOKIES
+This notice is designed to provide you with more information about how we (Dancing Times Ltd) use cookies on this website.
+ 
+What are Cookies?
+‘Cookies’ are small files that contain information that a website sends to your browser while you are using the internet. Each cookie is unique to your web browser and will contain some anonymous information such as a unique identifier, the site name and some digits and numbers. This information cannot be used to identify you personally but is mainly used to improve services for you through, for example:
+enabling a service to recognise your device so you don’t have to give the same information several times during one visit.
+recognising that you may already have given a username and password so you don’t need to do it for every web page requested.
+measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast.
+ 
+How does Dancing Times Ltd use Cookies?
+We use the information we gather to improve our website and in turn deliver a better service to you. We use both ‘Session Cookies’, which expire once you have closed your browser and ‘Persistent’ or ‘Stored’ Cookies, which stay on your computer or mobile media device for a certain amount of time even after you have gone offline.
+ 
+Dancing Times Ltd will use different types of cookies at various different pages on your visit to our website, these types of cookies include:
+ 
+Strictly Necessary Cookies
+These cookies have an effect on the look and usability of our website, and allow you to move around and use essential features such as secure areas and shopping baskets. These cookies do not gather any information about you that could be used for marketing or remembering where you have been on the internet. Cookies defined, as ‘Strictly Necessary’ will not be used to target you with adverts or remember your preference or username beyond your current visit.
+ 
+Functionality Cookies
+These are essential to the running of our website. They include ‘Session’ cookies, which enable you to carry out essential functions such as maintaining details for a transaction. For example, if you put an item in your shopping basket, ‘Session’ cookies mean that when you navigate to a different page, like the checkout, the item stays in your basket.
+ 
+‘Session’ cookies are not stored permanently on your computer, and expire after a set period, usually after you close your browser. The information these cookies collect is anonymous and cannot track your browsing activity on other websites. Cookies defined, as ‘Functionality’ will not be used to target you with adverts on other websites.
+ 
+Performance/Analytic Cookies
+These cookies collect and store information about how you use our website, such as how many pages you visit, and which pages you visit. These cookies do not collect any information that could identify you personally, because all the information collected is anonymous and is only used to help us improve our website, understand what our customers interests are, and monitor the effectiveness of our advertising. Cookies defined as ‘Performance’ will not be used to target you with adverts on our or other websites, or remember your preference beyond your current visit.
+ 
+Form Cookies
+If you fill in a form on our website (for example if you sign up to our newsletter) we receive an email of your submission, and our site database also stores the information. This helps us keep track of who has visited our site and the information they are interested in.
+ 
+Third Party Cookies
+We use a selection of third party tools for performance monitoring, e-commerce, added functionality (for example viewing YouTube videos within a news post) and social media sharing. Dancing Times Ltd can’t be held responsible for how third party sites use Cookies or data.
+Below is more information about how these tools use cookies and links to the relevant sites. If you require further information about how these sites use Cookies we suggest you visit the links given or contact the companies directly.
+ 
+Google Analytics (Performance/Analytic cookies) –https://analytics.google.com/
+Google Analytics uses cookies to track how many individual unique users we have and how often they visit the website, which pages they view and how long they stay.
+ 
+WooCommerce (Shopping basket/session cookies) –https://woocommerce.com/
+Woocommerce uses cookies that contain information about a customer’s virtual shopping basket and helps Woocommerce know when the basket data changes. They also contain a unique code for each customer so that it knows where to find the shopping basket data in the database for each customer. No personal information is stored within these cookies.
+ 
+Youtube (Session/Persistent Cookies) –
+Youtube uses cookies to know whether you are logged in to a Youtube (or Google) account, whether you have watched a video before, to see at which point you stopped watching a video you previously viewed, to set language, volume and definition preferences, to suggest other similar videos you might like, to track video views and to target advertising.
+
+Vimeo (Session/Persistent Cookies) –
+Like Youtube, Vimeo uses cookies to know whether you have watched a video before, to see at which point you stopped watching a video you previously viewed, to set language, volume and definition preferences, to suggest other similar videos you might like, to track video views and to target advertising.
+
+Twitter –
+Twitter uses cookies to know whether you are logged in to Twitter, tracks which content you are interested in and tailors content or twitter feeds accordingly, to track views, and to target advertising. 
+ 
+What to do if you want to control the use of Cookies
+You have the ability to accept or decline cookies using your web browser, but please be aware that for some parts of our websites to work you will need to accept some cookies.
+
+Most of the Cookies we use, including ‘Persistent’ Cookies expire after a set time. However Cookies that don’t, or Cookies that collect data about you can also be removed or declined by changing your web browser settings. The following links may be helpful:
+
+
+
+
+Cookie setting in Chrome
+
+
+For more information about cookies and their use, please visit .
+
+Please be aware that the above links are Third party websites and as such Dancing Times Ltd accept no liability for the instructions given on these sites.
+
+If you have any questions about our policy, please contact privacy@dancing-times.co.uk or for further legal information or to have your data removed.
+
+For more information about privacy issues you may find the links below useful:
+
+The Information Commissioner’s Office Data Protection Act 1998
+Updated 15 May 2018
+ 
+

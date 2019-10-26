@@ -1,0 +1,42 @@
+Personuppgiftspolicy
+Om du vill läsa hela Flammans personuppgiftspolicy i lättläst variant kan du göra det här.
+ 
+Flamman lagrar personuppgifter i enlighet med Europeiska unionens dataskyddsförordning (General Data Protection Regulation,). Dataskyddsförordningen ersätter den 25 maj 2018 personuppgiftslagen (PUL), eftersom EU:s förordningar är direkt tillämpliga i EU:s medlemsstater och alltså i Sverige likställs med en lag. I Sverige kommer det dock även att antas en ny dataskyddslag som ska komplettera förordningen.
+ 
+Dataskyddsförordningen innebär i korthet starkare integritetsskydd för privatpersoner, och större ansvar för den som lagrar personuppgifter. Ansvaret går till exempel ut på att man måste ha en rättslig grund och ett tydligt ändamål för de personuppgifter som lagras och behandlas.
+Denna policy gäller de personuppgifter som behandlas och lagras i vårt prenumerationsregister. Personuppgifter
+som behandlas inom ramen för det journalistiska arbetet omfattas alltså inte.
+Vad är en personuppgift?
+En personuppgift är all information som kan kopplas till en identifierad eller identifierbar person. De personuppgifter Flamman bearbetar är i första hand namn och adress, men i vissa fall även ålder, kön, telefonnummer och e-postadress.
+ 
+Rättslig grund
+Varje personuppgift som lagras måste ha en rättslig grund för lagringen, det vill säga att minst ett villkor i artikel 6 av dataskyddsförordningen måste vara uppfyllt.
+Den huvudsakliga rättsliga grunden för Flammans behandling av personuppgifter är avtalsförpliktelse. När någon tecknar en prenumeration på Flamman så ingår den ett avtal om att få tidningen mot betalning. För att kunna fullgöra det avtalet behöver Flamman lagra personuppgifter dels för att kunna skicka tidningen, och dels för att kunna ta betalt för tidningen. För att skicka tidningen behöver vi ha antingen en fysisk adress eller en e-postadress (för PDF-prenumeranter), och för att kunna ta betalt för tidningen behöver vi en fakturaadress. För betalning med autogiro behövs mer uppgifter än för fakturabetalning, och för det skrivs ett särskilt avtal under (autogiromedgivande).
+ 
+När någon tecknar en prenumeration på Flamman har vi alltså rätt att lagra den personens uppgifter fram till dess att avtalet är fullgjort. Har du avslutat din prenumeration kan det hända att vi behöver spara uppgifter under en begränsad period om den inte är betalad än. I vissa fall behöver vi kompletterande uppgifter så som födelseår för att kunna identifiera prenumeranter, i synnerhet de som har vanligt förekommande namn. Om en prenumerant flyttar utan att meddela det, eller av annan anledning inte kan nås på den postadress som angetts, kan vi behöva inhämta offentliga uppgifter om folkbokföring eller telefonnummer för att kunna fullgöra avtalet.
+ 
+Alla personuppgifter som inte är nödvändiga för att fullgöra ett avtal måste vi inhämta ett samtycke för att få registrera och bearbeta. Samtycke för lagring av sådana uppgifter ska vara frivilligt och tydligt; tydligt för den som lämnar samtycket om vad man samtycker till, och tydligt om vi behöver bevisa att samtycke finns vid eventuell granskning (se under Klagomål). Vidare måste det vara separata samtycken för olika ändamål, till exempel ett för marknadsföring och ett för statistik. Om Flamman vill använda e-postadresser och telefonnummer för marknadsföring, måste personen som ska kontaktas ha samtyckt till att vi använder uppgifterna på det sättet. Om Flamman vill sammanställa statistik om våra prenumeranters kön och ålder, måste samtliga personer som ingår i det underlaget ha samtyckt till att vi bearbetar och registrerar sådana uppgifter om dem så länge de kan kopplas till en identifierbar person; anonym information får användas för statistiska ändamål även utan samtycke.
+ 
+Den registrerades rättigheter
+Privatpersoner har rätt att veta om vi lagrar deras personuppgifter, och vilka uppgifter som lagras. Om någon uppgift är felaktig har den registrerade rätt att begära att den rättas. Privatpersoner har även rätt att begära att deras personuppgifter raderas, så länge vi inte behöver ha kvar uppgifterna för att fullfölja ett avtal (se Rättslig grund). Om du har en pågående prenumeration och inte är skyldig oss pengar, har du rätt att bli raderad ut vårt register. Om du begär att bli raderad innebär det att prenumerationen avslutas, eftersom vi inte kan fullfölja ett prenumerationsavtal utan personuppgifter för prenumeranten.
+ 
+Nytt med dataskyddsförordningen är den registrerades rätt till dataportabilitet, det vill säga rätten att få sina personuppgifter flyttade. Om en prenumerant till exempel vill prenumerera på en annan tidning, så har den rätt att begära att vi flyttar över personuppgifterna eller lämnar ut dem i en form som kan användas på annat håll.
+Om någon har gett ett samtycke till att personuppgifter används för marknadsföring och/eller statistik (se under Rättslig grund), så har samma person alltid rätt att dra tillbaka samtycket. Vill man inte få direkt marknadsföring har man alltså rätt att slippa det.
+ 
+En begäran enligt ovan ska tillmötesgås inom en månad, men vår ambition är att svar ska ges inom en vecka. Om det är en väldigt komplicerad begäran får det ta upp till två månader, men då ska den som gjort begäran alltid informeras om fördröjningen innan en månad har gått.
+ 
+Hantering av personuppgifter
+Personuppgifterna i vårt prenumerationsregister hanteras primärt av prenumerationsansvarig på Flamman. Uppgifterna finns i ett låst register till vilket enbart ett fåtal personer har tillgång. Registret ligger på en server som ägs av tredje part, med vilka vi har ett avtal om personuppgiftsbiträde. För varje nummer av Flamman skickas adressuppgifter till vårt tryckeri, och även med dem har vi ett avtal om personuppgiftsbiträde.
+Personuppgifterna i registret rättas och gallras kontinuerligt. Rättelse sker på begäran av prenumerant direkt eller via tredje part (till exempel adressändring), eller med hjälp av folkbokföringsuppgifter vid uppenbara felaktigheter. Gallring sker inom ett år från det att avtalsförhållande med en prenumerant upphört, varvid personuppgifterna raderas ur registret och från backuper. Flamman kan komma att behålla uppgifter för statistiska ändamål efter det, men dessa uppgifter är då anonymiserade och således ej personuppgifter.
+ 
+Ansvar för personuppgifter
+Personuppgiftsansvarig enligt dataskyddsförordningen är tidningsföreningen Norrskensflamman upa och dess styrelse. Styrelsen kan delegera ansvaret till Flammans chefredaktör.
+Alla personuppgifter ska behandlas och lagras på ett regelrätt och säkert sätt. Om tredje part behandlar personuppgifter för Flammans räkning ska detta vara tydligt reglerat i avtal, och får aldrig ske på ett sätt som strider mot dataskyddsförordningen. Om tredje part behandlar personuppgifter för Flammans räkning, är det fortfarande tidningsföreningen Norrskensflamman upa som har det yttersta ansvaret för att detta sker på ett korrekt sätt.
+ 
+Kakor
+Vi använder kakor (cookies) för att användarna ska få en bättre användarupplevelse på sidan. En kaka är en textfil som sparas på din dator. Den används för att vi ska kunna samla statistik om våra besökare, se till så att besökarna inte behöver få upp för många annonser och för att vi ska kunna marknadsföra tidningen mot de som besökt sidan. Alla kakor är anonymiserade och vi har ingen möjlighet att koppla spårningsinformationen till en specifik person. Om du inte vill att vi ska spara kakor på din dator kan du ställa in det i din webbläsare. Du kan också rensa gamla kakor.
+ 
+Klagomål
+Om man anser att Flamman behandlar personuppgifter på ett felaktigt sätt så ska man vända sig till Datainspektionen. Deras telefonväxel kan nås på 08-657 61 00, eller så kan man mejla till datainspektionen@datainspektionen.se (kom ihåg att Datainspektionen är en myndighet och att allt som skickas till dem blir offentliga handlingar).
+ 
+

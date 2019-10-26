@@ -1,0 +1,6 @@
+aID
+
+Type of data: First and last name, phone number, email, date of birth. 
+Approximate time to create a profile: 2 minutes.
+
+Easy to turn of cookies on aID. 

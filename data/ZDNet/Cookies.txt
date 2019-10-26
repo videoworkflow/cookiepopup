@@ -1,0 +1,59 @@
+Data Aggregator/Supplier (5) - Marketing Solutions (1) - Social Media (2) - Business Intelligence (1) - Analytics Provider (8) - Ad Network (4) - Ad Exchange (2) - Ad Server (1) - Data Management Platform (1) - Retargeter (2) - Ad Verification (1) - Optimizer (1) - Demand Side Platform (1) 
+
+
+Data Aggregator/Supplier
+Oracle Data Cloud
+Neustar Marketing (Formerly PlatformOne)
+Eyeota
+eXelate
+Adobe Experience Cloud (Audience Manager)
+
+Marketing Solutions
+Bombora
+
+Social Media
+Facebook Social Graph
+Facebook for Developers (formerly Facebook Connect)
+
+Business Intelligence
+Full Circle Studies
+
+Analytics Provider
+trueAnthem
+Tealium
+Tapad
+Qualtrics
+PageFair (formerly BlockMetrics)
+New Relic
+Neustar AdAdvisor
+Google Analytics
+
+Ad Network
+Yahoo!
+VigLink
+Sharethrough
+Google Inc.
+
+Ad Exchange
+Rubicon Project
+Index Exchange (Formerly Casale Media)
+
+Ad Server
+LiveIntent
+
+Data Management Platform
+Lotame
+
+Retargeter
+MediaMath
+Taboola
+
+Ad Verification 
+Moat
+
+Optimizer
+Perfect Market
+
+Demand Side Platform
+The Trade Desk
+
